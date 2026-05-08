@@ -34,9 +34,12 @@ log = logging.getLogger("job_radar")
 
 
 def _is_target_hour() -> bool:
+    """Allow target ±1 hour to absorb GH Actions cron delay (often 30–90 min late).
+    The once-per-day dedup in state.already_sent_today() prevents double-sends."""
     if FORCED:
         return True
-    return datetime.now(ZoneInfo("America/New_York")).hour == TARGET_HOUR_ET
+    h = datetime.now(ZoneInfo("America/New_York")).hour
+    return abs(h - TARGET_HOUR_ET) <= 1
 
 
 def _load_profile() -> dict:
