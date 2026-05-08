@@ -117,7 +117,7 @@ def run() -> int:
     email_sender.send(shown, THRESHOLD, total_scanned=len(jobs), profile_name=PROFILE_NAME, total_matches=len(matches))
     state.save_seen(seen)
     state.mark_sent_today()
-    log.info("[%s] done — emailed %d matches", PROFILE_NAME, len(matches))
+    log.info("[%s] done — emailed %d of %d matches", PROFILE_NAME, len(shown), len(matches))
     return 0
 
 
