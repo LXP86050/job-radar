@@ -55,6 +55,15 @@ jobs:
           STATE_DIR: state/it
         run: python -m src.main
 
+      - name: High-Pay IT radar
+        if: always()
+        env:
+          PROFILE_PATH: data/it_high_pay_profile.json
+          PROFILE_NAME: 'High-Pay IT Radar'
+          STATE_DIR: state/it_high_pay
+          ATS_THRESHOLD: '50'
+        run: python -m src.main
+
       - name: Commit updated state
         if: always()
         run: |

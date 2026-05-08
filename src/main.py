@@ -105,10 +105,16 @@ def run() -> int:
         matches.append({"job": j, "score_data": sd})
         seen[j["id"]] = today
 
-    matches.sort(key=lambda m: m["score_data"]["score"], reverse=True)
-    log.info("matches at threshold %d: %d", THRESHOLD, len(matches))
+    sort_by = profile.get("sort_by", "score")
+    if sort_by == "salary":
+        matches.sort(key=lambda m: (m["job"].get("_max_salary") or 0, m["score_data"]["score"]), reverse=True)
+    else:
+        matches.sort(key=lambda m: m["score_data"]["score"], reverse=True)
+    log.info("matches at threshold %d: %d (sorted by %s)", THRESHOLD, len(matches), sort_by)
 
-    email_sender.send(matches, THRESHOLD, total_scanned=len(jobs), profile_name=PROFILE_NAME)
+    cap = profile.get("max_email_rows")
+    shown = matches[:cap] if cap else matches
+    email_sender.send(shown, THRESHOLD, total_scanned=len(jobs), profile_name=PROFILE_NAME, total_matches=len(matches))
     state.save_seen(seen)
     state.mark_sent_today()
     log.info("[%s] done — emailed %d matches", PROFILE_NAME, len(matches))
