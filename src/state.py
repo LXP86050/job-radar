@@ -6,7 +6,7 @@ import os
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-STATE_DIR = Path(os.environ.get("JOB_RADAR_STATE", "state"))
+STATE_DIR = Path(os.environ.get("STATE_DIR", "state"))
 
 
 def _load(name: str, default):

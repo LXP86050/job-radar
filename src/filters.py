@@ -1,7 +1,8 @@
-"""Role/title, sponsorship, location, and salary filters applied before scoring."""
+"""Role/title, sponsorship, location, salary, and freshness filters applied before scoring."""
 from __future__ import annotations
 
 import re
+from datetime import datetime, timezone
 from html import unescape
 
 _TAG_RE = re.compile(r"<[^>]+>")
@@ -104,6 +105,39 @@ def _normalize_amount(raw: str, full_match: str = "") -> int | None:
     return int(n)
 
 
+def _parse_ts(raw) -> datetime | None:
+    """Best-effort parse of source timestamps. Returns timezone-aware UTC datetime or None."""
+    if raw is None or raw == "":
+        return None
+    # Lever: epoch milliseconds (int or numeric str).
+    if isinstance(raw, (int, float)):
+        try:
+            return datetime.fromtimestamp(raw / 1000.0, tz=timezone.utc)
+        except (OverflowError, OSError, ValueError):
+            return None
+    s = str(raw).strip()
+    if s.isdigit():
+        try:
+            n = int(s)
+            return datetime.fromtimestamp(n / 1000.0 if n > 10**11 else n, tz=timezone.utc)
+        except (OverflowError, OSError, ValueError):
+            return None
+    # ISO 8601 — handle the 'Z' suffix that fromisoformat doesn't accept on older stdlib.
+    try:
+        dt = datetime.fromisoformat(s.replace("Z", "+00:00"))
+    except ValueError:
+        return None
+    return dt.astimezone(timezone.utc) if dt.tzinfo else dt.replace(tzinfo=timezone.utc)
+
+
+def is_recent(job: dict, max_age_days: int) -> bool:
+    dt = _parse_ts(job.get("updated_at"))
+    if dt is None:
+        return True  # benefit of the doubt; some boards omit timestamps
+    age_days = (datetime.now(timezone.utc) - dt).days
+    return age_days <= max_age_days
+
+
 def passes_pre_filters(job: dict, profile: dict) -> tuple[bool, str]:
     """Returns (ok, reason_if_rejected)."""
     title = job.get("title", "")
@@ -111,6 +145,9 @@ def passes_pre_filters(job: dict, profile: dict) -> tuple[bool, str]:
         return False, "title"
     if not is_us_or_remote(job.get("location", "")):
         return False, "location"
+    max_age = profile.get("max_age_days")
+    if max_age and not is_recent(job, max_age):
+        return False, f"age>{max_age}d"
     jd_text = strip_html(job.get("description_html", ""))
     job["_jd_text"] = jd_text  # cache for scoring
     if not sponsors_h1b(jd_text, profile):

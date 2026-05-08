@@ -5,6 +5,7 @@
   "years_experience": 6,
   "location": "Redmond, WA",
   "min_total_comp": 140000,
+  "max_age_days": 10,
   "preferred_titles": [
     "software engineer",
     "software engineer ii",

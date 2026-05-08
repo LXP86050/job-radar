@@ -23,6 +23,12 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
+    env:
+      SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
+      SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+      RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+      ATS_THRESHOLD: '85'
+      FORCE_RUN: ${{ github.event.inputs.force == 'true' && '1' || '0' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -34,16 +40,23 @@ jobs:
       - name: Install deps
         run: pip install -r requirements.txt
 
-      - name: Run job radar
+      - name: AI / SWE radar
         env:
-          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
-          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
-          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
-          ATS_THRESHOLD: '85'
-          FORCE_RUN: ${{ github.event.inputs.force == 'true' && '1' || '0' }}
+          PROFILE_PATH: data/resume_profile.json
+          PROFILE_NAME: 'Job Radar'
+          STATE_DIR: state/ai_swe
+        run: python -m src.main
+
+      - name: IT radar
+        if: always()   # run even if the SWE radar email failed
+        env:
+          PROFILE_PATH: data/it_profile.json
+          PROFILE_NAME: 'IT Radar'
+          STATE_DIR: state/it
         run: python -m src.main
 
       - name: Commit updated state
+        if: always()
         run: |
           if [[ -n "$(git status --porcelain state/)" ]]; then
             git config user.name "github-actions[bot]"

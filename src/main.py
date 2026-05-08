@@ -26,7 +26,8 @@ from src.sources import ashby, greenhouse, lever
 
 THRESHOLD = int(os.environ.get("ATS_THRESHOLD", "85"))
 TARGET_HOUR_ET = 7
-PROFILE_PATH = Path(os.environ.get("RESUME_PROFILE", "data/resume_profile.json"))
+PROFILE_PATH = Path(os.environ.get("PROFILE_PATH", "data/resume_profile.json"))
+PROFILE_NAME = os.environ.get("PROFILE_NAME", "Job Radar")
 FORCED = os.environ.get("FORCE_RUN") == "1"
 
 log = logging.getLogger("job_radar")
@@ -78,7 +79,7 @@ def run() -> int:
         return 0
 
     profile = _load_profile()
-    log.info("threshold=%d, fetching jobs…", THRESHOLD)
+    log.info("[%s] threshold=%d, fetching jobs…", PROFILE_NAME, THRESHOLD)
     jobs = _fetch_all()
     log.info("total fetched: %d", len(jobs))
 
@@ -107,10 +108,10 @@ def run() -> int:
     matches.sort(key=lambda m: m["score_data"]["score"], reverse=True)
     log.info("matches at threshold %d: %d", THRESHOLD, len(matches))
 
-    email_sender.send(matches, THRESHOLD, total_scanned=len(jobs))
+    email_sender.send(matches, THRESHOLD, total_scanned=len(jobs), profile_name=PROFILE_NAME)
     state.save_seen(seen)
     state.mark_sent_today()
-    log.info("done — emailed %d matches", len(matches))
+    log.info("[%s] done — emailed %d matches", PROFILE_NAME, len(matches))
     return 0
 
 

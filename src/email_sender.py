@@ -40,7 +40,7 @@ def _row(m: dict) -> str:
     """
 
 
-def build_html(matches: list[dict], threshold: int, total_scanned: int) -> str:
+def build_html(matches: list[dict], threshold: int, total_scanned: int, profile_name: str) -> str:
     et_now = datetime.now(ZoneInfo("America/New_York")).strftime("%a %b %d, %Y")
     if not matches:
         body_inner = (
@@ -53,7 +53,7 @@ def build_html(matches: list[dict], threshold: int, total_scanned: int) -> str:
     return f"""<!doctype html>
 <html><body style="margin:0;padding:0;background:#f6f8fa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;">
   <div style="max-width:760px;margin:0 auto;padding:24px;">
-    <h2 style="margin:0 0 4px 0;font-size:20px;color:#111;">Job Radar — {et_now}</h2>
+    <h2 style="margin:0 0 4px 0;font-size:20px;color:#111;">{profile_name} — {et_now}</h2>
     <div style="color:#666;font-size:13px;margin-bottom:16px;">
       {len(matches)} new match{'es' if len(matches) != 1 else ''} (score ≥ {threshold}) out of {total_scanned} postings scanned.
     </div>
@@ -75,7 +75,7 @@ def build_html(matches: list[dict], threshold: int, total_scanned: int) -> str:
 </body></html>"""
 
 
-def send(matches: list[dict], threshold: int, total_scanned: int) -> None:
+def send(matches: list[dict], threshold: int, total_scanned: int, profile_name: str) -> None:
     api_key = os.environ.get("SENDGRID_API_KEY")
     sender = os.environ.get("SENDER_EMAIL")
     recipient = os.environ.get("RECIPIENT_EMAIL")
@@ -83,12 +83,12 @@ def send(matches: list[dict], threshold: int, total_scanned: int) -> None:
         raise RuntimeError("Missing SENDGRID_API_KEY / SENDER_EMAIL / RECIPIENT_EMAIL env vars")
 
     et_now = datetime.now(ZoneInfo("America/New_York")).strftime("%b %d")
-    subject = f"Job Radar: {len(matches)} new match{'es' if len(matches) != 1 else ''} ({et_now})"
+    subject = f"{profile_name}: {len(matches)} new match{'es' if len(matches) != 1 else ''} ({et_now})"
     msg = Mail(
         from_email=sender,
         to_emails=recipient,
         subject=subject,
-        html_content=build_html(matches, threshold, total_scanned),
+        html_content=build_html(matches, threshold, total_scanned, profile_name),
     )
     client = SendGridAPIClient(api_key)
     resp = client.send(msg)
