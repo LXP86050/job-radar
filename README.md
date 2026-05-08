@@ -2,6 +2,8 @@
 
 Daily-emailed list of new job postings that match my resume, scored 0–100. Fetches public ATS feeds (Greenhouse / Lever / Ashby) for ~100 H1B-sponsoring companies, filters by role / location / sponsorship / salary, scores each posting against my resume profile, and emails matches scoring 85+ at 7:00 AM ET.
 
+> **For deep-dive on the architecture, where to add companies / roles / sources, scoring, and how the daily cron handles DST: [`docs/INTERNALS.md`](docs/INTERNALS.md).**
+
 ```
 GH Actions cron (11/12 UTC) ──► fetch sources ──► pre-filter ──► ATS score ──► dedup ──► SendGrid email
 ```
