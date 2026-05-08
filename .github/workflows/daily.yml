@@ -1,0 +1,56 @@
+name: Daily Job Radar
+
+on:
+  schedule:
+    # Two crons cover DST: 11:00 UTC = 7am EDT (summer), 12:00 UTC = 7am EST (winter).
+    # The script's hour check ensures only the correct one actually sends.
+    - cron: '0 11 * * *'
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Bypass the 7am-ET hour check and the once-per-day guard'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write   # to commit state/ back to the repo
+
+concurrency:
+  group: job-radar-daily
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run job radar
+        env:
+          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+          ATS_THRESHOLD: '85'
+          FORCE_RUN: ${{ github.event.inputs.force == 'true' && '1' || '0' }}
+        run: python -m src.main
+
+      - name: Commit updated state
+        run: |
+          if [[ -n "$(git status --porcelain state/)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add state/
+            git commit -m "state: update seen/last-run [skip ci]"
+            git push
+          else
+            echo "no state changes"
+          fi

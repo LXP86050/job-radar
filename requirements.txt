@@ -1,0 +1,4 @@
+requests>=2.31
+sendgrid>=6.11
+pypdf>=4.0
+python-dateutil>=2.8
