@@ -1,5 +1,6 @@
 {
   "ashby:baseten:1532aa00-5a93-4967-bb24-6561495d9605": "2026-05-09",
+  "ashby:crusoe:1a25cff3-cc55-4494-900a-a10e49352d6d": "2026-05-16",
   "ashby:crusoe:8f9b0b42-9b9a-414f-93e5-fc03b358ddbf": "2026-05-08",
   "ashby:cursor:94ae671e-345a-48de-9b7a-2aad693351e1": "2026-05-10",
   "ashby:mistral:10ceecf8-6e1f-46aa-ac3b-18d52a2cc27d": "2026-05-08",
@@ -64,6 +65,7 @@
   "greenhouse:contentful:7847831": "2026-05-08",
   "greenhouse:cribl:5725448004": "2026-05-08",
   "greenhouse:cribl:5990961004": "2026-05-14",
+  "greenhouse:cribl:5996839004": "2026-05-16",
   "greenhouse:databricks:6841734002": "2026-05-14",
   "greenhouse:databricks:8002207002": "2026-05-08",
   "greenhouse:databricks:8136954002": "2026-05-08",
@@ -93,6 +95,7 @@
   "greenhouse:databricks:8540464002": "2026-05-08",
   "greenhouse:databricks:8540465002": "2026-05-08",
   "greenhouse:databricks:8540466002": "2026-05-08",
+  "greenhouse:databricks:8549046002": "2026-05-16",
   "greenhouse:databricks:8550331002": "2026-05-15",
   "greenhouse:datadog:7446392": "2026-05-08",
   "greenhouse:datadog:7605887": "2026-05-08",
