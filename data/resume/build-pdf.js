@@ -61,9 +61,10 @@ const html = `<!doctype html>
   @page { size: Letter; margin: 0.5in 0.6in; }
   * { box-sizing: border-box; }
   body { font-family: 'Calibri', 'Arial', sans-serif; font-size: 10.5pt; color: #000; line-height: 1.32; margin: 0; }
-  h1 { font-size: 22pt; text-align: center; margin: 0 0 4px; font-weight: 700; letter-spacing: 0.5px; }
+  h1 { font-size: 22pt; text-align: center; margin: 0 0 4px; font-weight: 700; letter-spacing: 0.5px; color: #1F4E79; }
   .contact { text-align: center; font-size: 10pt; color: #333; margin-bottom: 10px; }
-  h2 { font-size: 11.5pt; text-transform: uppercase; letter-spacing: 1px; margin: 12px 0 4px; padding-bottom: 2px; border-bottom: 1px solid #000; font-weight: 700; }
+  .contact a { color: #0563C1; text-decoration: underline; }
+  h2 { font-size: 11.5pt; text-transform: uppercase; letter-spacing: 1px; margin: 12px 0 4px; padding-bottom: 2px; border-bottom: 1px solid #1F4E79; font-weight: 700; color: #1F4E79; }
   p, ul { margin: 3px 0; }
   ul { padding-left: 18px; }
   li { margin-bottom: 2px; }
@@ -82,10 +83,10 @@ const html = `<!doctype html>
   <h1>${esc(data.name)}</h1>
   <p class="contact">
     ${esc(data.contact.phone)} &nbsp;|&nbsp;
-    ${esc(data.contact.email)} &nbsp;|&nbsp;
-    ${esc(data.contact.linkedin)} &nbsp;|&nbsp;
-    ${esc(data.contact.portfolio)} &nbsp;|&nbsp;
-    ${esc(data.contact.github)}
+    <a href="mailto:${esc(data.contact.email)}">${esc(data.contact.email)}</a> &nbsp;|&nbsp;
+    <a href="https://${esc(data.contact.linkedin)}">${esc(data.contact.linkedin)}</a> &nbsp;|&nbsp;
+    <a href="https://${esc(data.contact.portfolio)}">${esc(data.contact.portfolio)}</a> &nbsp;|&nbsp;
+    <a href="https://${esc(data.contact.github)}">${esc(data.contact.github)}</a>
   </p>
 
   <h2>Summary</h2>

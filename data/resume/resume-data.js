@@ -12,7 +12,7 @@ module.exports = {
     phone: '(913) 742-9950',
     email: 'lokesh.pulivarthi@hotmail.com',
     linkedin: 'linkedin.com/in/lokesh-pulivarthi',
-    portfolio: 'lokesh.dev',
+    portfolio: 'lokeshpulivarthi.com',
     github: 'github.com/LXP86050',
   },
 

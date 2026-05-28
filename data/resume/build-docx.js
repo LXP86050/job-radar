@@ -22,6 +22,8 @@ const PAGE = {
 
 const black = '000000';
 const gray = '333333';
+const navy = '1F4E79';   // section headers + name
+const linkBlue = '0563C1'; // contact hyperlinks
 
 function p(opts) {
   return new Paragraph({ spacing: { after: 60 }, ...opts });
@@ -38,10 +40,10 @@ function bullet(text) {
 function section(title) {
   return new Paragraph({
     spacing: { before: 200, after: 60 },
-    border: { bottom: { style: BorderStyle.SINGLE, size: 6, color: black, space: 1 } },
+    border: { bottom: { style: BorderStyle.SINGLE, size: 6, color: navy, space: 1 } },
     children: [new TextRun({
       text: title.toUpperCase(),
-      bold: true, font: 'Calibri', size: 23,
+      bold: true, font: 'Calibri', size: 23, color: navy,
       characterSpacing: 20,
     })],
   });
@@ -61,7 +63,7 @@ children.push(new Paragraph({
   alignment: AlignmentType.CENTER,
   spacing: { after: 60 },
   children: [new TextRun({
-    text: data.name, bold: true, font: 'Calibri', size: 44,
+    text: data.name, bold: true, font: 'Calibri', size: 44, color: navy,
   })],
 }));
 
@@ -69,10 +71,16 @@ const c = data.contact;
 children.push(new Paragraph({
   alignment: AlignmentType.CENTER,
   spacing: { after: 120 },
-  children: [new TextRun({
-    text: `${c.phone}  |  ${c.email}  |  ${c.linkedin}  |  ${c.portfolio}  |  ${c.github}`,
-    font: 'Calibri', size: 20, color: gray,
-  })],
+  children: [
+    new TextRun({ text: `${c.phone}  |  `, font: 'Calibri', size: 20, color: gray }),
+    new TextRun({ text: c.email, font: 'Calibri', size: 20, color: linkBlue, underline: {} }),
+    new TextRun({ text: '  |  ', font: 'Calibri', size: 20, color: gray }),
+    new TextRun({ text: c.linkedin, font: 'Calibri', size: 20, color: linkBlue, underline: {} }),
+    new TextRun({ text: '  |  ', font: 'Calibri', size: 20, color: gray }),
+    new TextRun({ text: c.portfolio, font: 'Calibri', size: 20, color: linkBlue, underline: {} }),
+    new TextRun({ text: '  |  ', font: 'Calibri', size: 20, color: gray }),
+    new TextRun({ text: c.github, font: 'Calibri', size: 20, color: linkBlue, underline: {} }),
+  ],
 }));
 
 // Summary
