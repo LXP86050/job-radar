@@ -96,11 +96,11 @@
   ],
   "skills": {
     "languages": ["python", "c#", "csharp", ".net", "javascript", "typescript", "sql", "java"],
-    "backend": ["django", "fastapi", ".net core", "asp.net", "rest api", "rest apis", "microservices", "entity framework", "dapper", "graphql", "grpc"],
+    "backend": ["django", "fastapi", ".net core", "asp.net", "rest api", "rest apis", "microservices", "entity framework", "dapper", "graphql"],
     "frontend": ["react", "next.js", "nextjs", "fluent ui", "material ui", "html", "css", "tailwind", "redux"],
-    "databases": ["postgresql", "postgres", "sql server", "cosmos db", "mongodb", "redis", "snowflake", "azure ai search", "vector search", "elasticsearch", "pinecone", "weaviate"],
-    "cloud": ["azure", "aws", "gcp", "azure devops", "aks", "eks", "gke", "docker", "kubernetes", "k8s", "bicep", "terraform", "ci/cd", "infrastructure as code", "iac", "github actions"],
-    "ai_ml": ["openai", "azure openai", "langchain", "llamaindex", "rag", "retrieval augmented generation", "scikit-learn", "sklearn", "nltk", "tensorflow", "pytorch", "huggingface", "hugging face", "transformers", "vector search", "vector database", "embeddings", "llm", "llms", "fine-tuning", "prompt engineering", "agents", "agentic", "mcp"],
+    "databases": ["postgresql", "postgres", "sql server", "cosmos db", "mongodb", "redis", "azure ai search", "vector search"],
+    "cloud": ["azure", "aws", "gcp", "azure devops", "aks", "docker", "kubernetes", "k8s", "bicep", "terraform", "ci/cd", "infrastructure as code", "iac", "github actions"],
+    "ai_ml": ["openai", "azure openai", "langchain", "rag", "retrieval augmented generation", "scikit-learn", "sklearn", "nltk", "tensorflow", "vector search", "vector database", "embeddings", "llm", "llms", "fine-tuning", "prompt engineering", "agents", "agentic", "mcp"],
     "security": ["azure ad", "entra", "oauth", "oauth2", "jwt", "rbac", "saml", "sso", "okta"],
     "concepts": ["distributed systems", "system design", "scalability", "high availability", "performance optimization", "api integration", "authentication", "authorization", "full stack", "fullstack", "full-stack", "backend", "frontend", "production engineering", "agile", "scrum"]
   }
