@@ -17,7 +17,7 @@ module.exports = {
   },
 
   summary:
-    'Software Engineer (SDE II) with 7+ years building scalable distributed systems, agentic AI applications, and cloud-native platforms. ' +
+    'Software Engineer (SDE II) with around 7 years building scalable distributed systems, agentic AI applications, and cloud-native platforms. ' +
     'Hands-on experience designing Retrieval-Augmented Generation (RAG) pipelines with Large Language Models (LLMs), Kubernetes-based microservices on Azure, and high-throughput REST APIs. ' +
     'Track record of reducing latency, improving system reliability and high availability, and scaling production systems to handle thousands of concurrent requests with secure, observable, production-grade deployments. ' +
     'AWS and Google Cloud certified.',
