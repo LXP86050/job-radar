@@ -1,0 +1,36 @@
+Senior AI Engineer — Stripe
+San Francisco, CA (Hybrid, 3 days in-office)
+
+About the role:
+We're hiring a Senior AI Engineer to join Stripe's Foundation AI team. You'll build production
+agentic AI systems using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG),
+and modern prompt engineering techniques. The role spans backend API design, distributed
+systems, vector search infrastructure, and deploying ML services on AWS.
+
+What you'll do:
+- Architect RAG pipelines with LangChain, vector embeddings, and hybrid retrieval over Stripe's
+  internal knowledge base, serving thousands of weekly queries with low-latency REST APIs.
+- Build agentic workflows that orchestrate multiple LLMs (OpenAI GPT-4, Anthropic Claude) with
+  prompt engineering guardrails, fine-tuning, and Model Context Protocol (MCP) integration.
+- Design scalable microservices architecture in Python (FastAPI, Django) deployed on AWS
+  Kubernetes (EKS) with Docker, Terraform, and GitHub Actions CI/CD pipelines.
+- Own end-to-end system design: from frontend React + Next.js dashboards through backend
+  REST APIs, PostgreSQL / Redis databases, and observability (Prometheus, Grafana).
+- Ensure high availability, fault tolerance, and 99.95% SLO targets across distributed systems.
+- Implement OAuth 2.0, JWT, RBAC authentication and authorization with Okta SSO integration.
+
+Required:
+- 5+ years of software engineering experience, including 2+ years of hands-on AI/ML work.
+- Strong in Python, JavaScript, TypeScript, and at least one of Java or C#.
+- Production experience with LLMs (OpenAI, Anthropic) and RAG systems.
+- Deep knowledge of system design, distributed systems, microservices, and REST APIs.
+- Hands-on with AWS, Docker, Kubernetes, and Infrastructure-as-Code (Terraform or Bicep).
+- Experience with vector databases (Pinecone, Weaviate, or Azure AI Search).
+- Strong full-stack abilities — React, Next.js, Tailwind CSS, frontend performance optimization.
+
+Nice to have:
+- Open-source contributions to LangChain, LlamaIndex, or transformer libraries.
+- Experience with Snowflake or other data warehouses.
+- Prior work on prompt engineering at scale.
+
+Compensation: $185,000 – $260,000 base + equity. We sponsor H1B / green card.

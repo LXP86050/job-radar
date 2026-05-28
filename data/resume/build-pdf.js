@@ -1,13 +1,13 @@
 /**
- * Builds lokesh-pulivarthi-resume.pdf from resume-data.js
- * via puppeteer-core + system Chrome (no Chromium download).
+ * PDF builder. Exports buildPdf(data, outPath) for the tailorer;
+ * runs as CLI to build the master resume when invoked directly.
+ *
+ * Renders via puppeteer-core + system Chrome (no Chromium download).
  */
 const fs = require('fs');
 const path = require('path');
-const data = require('./resume-data');
 
 const CHROME = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';
-const OUT = path.join(__dirname, 'lokesh-pulivarthi-resume.pdf');
 
 function esc(s) {
   return String(s)
@@ -43,9 +43,7 @@ function projHtml(projects) {
 
 function eduHtml(edu) {
   return edu.map(e => `
-    <p class="edu-row">
-      <strong>${esc(e.degree)}</strong> — ${esc(e.school)}, ${esc(e.year)}
-    </p>
+    <p class="edu-row"><strong>${esc(e.degree)}</strong> — ${esc(e.school)}, ${esc(e.year)}</p>
   `).join('');
 }
 
@@ -55,7 +53,8 @@ function certsHtml(certs) {
   `).join('')}</ul>`;
 }
 
-const html = `<!doctype html>
+function renderHtml(data) {
+  return `<!doctype html>
 <html><head><meta charset="utf-8"><title>${esc(data.name)} – Resume</title>
 <style>
   @page { size: Letter; margin: 0.5in 0.6in; }
@@ -108,8 +107,17 @@ const html = `<!doctype html>
   <h2>Certifications</h2>
   ${certsHtml(data.certifications)}
 </body></html>`;
+}
 
-(async () => {
+/**
+ * @param {object} data    Resume data (defaults to ./resume-data.js)
+ * @param {string} outPath Output .pdf path
+ * @returns {Promise<string>} the written path
+ */
+async function buildPdf(data, outPath) {
+  if (!data) data = require('./resume-data');
+  if (!outPath) outPath = path.join(__dirname, 'lokesh-pulivarthi-resume.pdf');
+
   const puppeteer = await import('puppeteer-core');
   const browser = await puppeteer.launch({
     executablePath: CHROME,
@@ -117,13 +125,19 @@ const html = `<!doctype html>
     args: ['--no-sandbox'],
   });
   const page = await browser.newPage();
-  await page.setContent(html, { waitUntil: 'networkidle0' });
+  await page.setContent(renderHtml(data), { waitUntil: 'networkidle0' });
   await page.pdf({
-    path: OUT,
+    path: outPath,
     format: 'Letter',
     printBackground: true,
     margin: { top: '0.5in', bottom: '0.5in', left: '0.6in', right: '0.6in' },
   });
   await browser.close();
-  console.log(`PDF written: ${OUT}`);
-})();
+  return outPath;
+}
+
+module.exports = { buildPdf };
+
+if (require.main === module) {
+  buildPdf().then(p => console.log(`PDF written: ${p}`));
+}

@@ -1,0 +1,30 @@
+Senior Frontend Engineer — Datadog
+New York, NY (Must reside in NY metro area)
+
+We're hiring a Senior Frontend Engineer to build customer-facing observability dashboards
+used by 25,000+ companies. This role is based in our NYC office and requires NY-area residency.
+
+Responsibilities:
+- Ship React, Next.js, and TypeScript applications with GraphQL backed APIs.
+- Architect frontend state management with Redux and modern hooks patterns.
+- Style dashboards using Tailwind CSS and component libraries.
+- Optimize bundle size, rendering, and Core Web Vitals; ensure performance optimization.
+- Partner with backend on REST APIs and gRPC microservices.
+- Drive system design discussions across frontend / backend / observability stacks.
+
+Required:
+- 5+ years of frontend engineering with React (Next.js a strong plus).
+- TypeScript, JavaScript, HTML5, CSS3 deep knowledge.
+- Experience with GraphQL queries, mutations, and Apollo Client.
+- Redux + Tailwind CSS shipped in production.
+- Solid grasp of system design, distributed systems, and high availability.
+- Hands-on with CI/CD, GitHub Actions, Docker.
+
+Nice to have:
+- Cloud experience (AWS or Azure).
+- OAuth 2.0 / SSO authentication integrations.
+- Experience with full-stack work — Python (Django, FastAPI) or Node backend.
+
+NYC HQ — must reside in NY tri-state area.
+Compensation: $170k – $230k base + equity.
+H1B sponsorship available.
