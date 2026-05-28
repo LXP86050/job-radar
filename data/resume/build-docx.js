@@ -77,9 +77,9 @@ children.push(new Paragraph({
     new TextRun({ text: '  |  ', font: 'Calibri', size: 20, color: gray }),
     new TextRun({ text: c.linkedin, font: 'Calibri', size: 20, color: linkBlue, underline: {} }),
     new TextRun({ text: '  |  ', font: 'Calibri', size: 20, color: gray }),
-    new TextRun({ text: c.portfolio, font: 'Calibri', size: 20, color: linkBlue, underline: {} }),
-    new TextRun({ text: '  |  ', font: 'Calibri', size: 20, color: gray }),
     new TextRun({ text: c.github, font: 'Calibri', size: 20, color: linkBlue, underline: {} }),
+    new TextRun({ text: '  |  ', font: 'Calibri', size: 20, color: gray }),
+    new TextRun({ text: c.portfolio, font: 'Calibri', size: 20, color: linkBlue, underline: {}, bold: true }),
   ],
 }));
 

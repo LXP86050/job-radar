@@ -64,6 +64,7 @@ const html = `<!doctype html>
   h1 { font-size: 22pt; text-align: center; margin: 0 0 4px; font-weight: 700; letter-spacing: 0.5px; color: #1F4E79; }
   .contact { text-align: center; font-size: 10pt; color: #333; margin-bottom: 10px; }
   .contact a { color: #0563C1; text-decoration: underline; }
+  .contact a.portfolio-link { font-weight: 700; }
   h2 { font-size: 11.5pt; text-transform: uppercase; letter-spacing: 1px; margin: 12px 0 4px; padding-bottom: 2px; border-bottom: 1px solid #1F4E79; font-weight: 700; color: #1F4E79; }
   p, ul { margin: 3px 0; }
   ul { padding-left: 18px; }
@@ -85,8 +86,8 @@ const html = `<!doctype html>
     ${esc(data.contact.phone)} &nbsp;|&nbsp;
     <a href="mailto:${esc(data.contact.email)}">${esc(data.contact.email)}</a> &nbsp;|&nbsp;
     <a href="https://${esc(data.contact.linkedin)}">${esc(data.contact.linkedin)}</a> &nbsp;|&nbsp;
-    <a href="https://${esc(data.contact.portfolio)}">${esc(data.contact.portfolio)}</a> &nbsp;|&nbsp;
-    <a href="https://${esc(data.contact.github)}">${esc(data.contact.github)}</a>
+    <a href="https://${esc(data.contact.github)}">${esc(data.contact.github)}</a> &nbsp;|&nbsp;
+    <a href="https://${esc(data.contact.portfolio)}" class="portfolio-link">${esc(data.contact.portfolio)}</a>
   </p>
 
   <h2>Summary</h2>
