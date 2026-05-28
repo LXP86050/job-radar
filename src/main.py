@@ -22,7 +22,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from src import companies, email_sender, filters, scoring, state
-from src.sources import ashby, greenhouse, lever
+from src.sources import ashby, greenhouse, lever, smartrecruiters, workable, workday
 
 THRESHOLD = int(os.environ.get("ATS_THRESHOLD", "85"))
 TARGET_HOUR_ET = 7
@@ -48,7 +48,14 @@ def _load_profile() -> dict:
 
 def _fetch_all() -> list[dict]:
     grouped = companies.by_ats()
-    fetchers = {"greenhouse": greenhouse.fetch, "lever": lever.fetch, "ashby": ashby.fetch}
+    fetchers = {
+        "greenhouse": greenhouse.fetch,
+        "lever": lever.fetch,
+        "ashby": ashby.fetch,
+        "workday": workday.fetch,
+        "smartrecruiters": smartrecruiters.fetch,
+        "workable": workable.fetch,
+    }
     tasks: list[tuple[str, str]] = []
     for ats, slugs in grouped.items():
         if ats not in fetchers:
@@ -95,6 +102,16 @@ def run() -> int:
         else:
             rejection_reasons[reason] = rejection_reasons.get(reason, 0) + 1
     log.info("post pre-filter: %d  (rejections: %s)", len(pre_kept), rejection_reasons)
+
+    # Lazy enrichment: Workday list endpoint doesn't include JD body, so for
+    # jobs that survived the title/location pre-filter, fetch description bodies
+    # in parallel so scoring has the full text to work with.
+    workday_survivors = [j for j in pre_kept if j.get("source") == "workday"]
+    if workday_survivors:
+        with ThreadPoolExecutor(max_workers=16) as pool:
+            for j, _ in zip(workday_survivors, pool.map(workday.enrich_description, workday_survivors)):
+                pass  # mutated in place
+        log.info("workday descriptions enriched for %d survivors", len(workday_survivors))
 
     seen = state.load_seen()
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")

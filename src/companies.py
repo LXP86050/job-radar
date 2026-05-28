@@ -124,6 +124,50 @@ COMPANIES: list[tuple[str, str]] = [
     ("gleananswers", "ashby"),
     ("writer", "ashby"),
     ("rampnetwork", "ashby"),
+
+    # ---- Workday (slug = "tenant/site"; adapter probes wd1/wd2/wd3/wd5)
+    # NOTE: Microsoft uses a custom backend (jobs.careers.microsoft.com), NOT Workday.
+    ("salesforce/External_Career_Site", "workday"),
+    ("nvidia/NVIDIAExternalCareerSite", "workday"),
+    ("adobe/external_experienced", "workday"),
+    ("intuit/External", "workday"),
+    ("capitalone/Capital_One", "workday"),
+    ("tmobile/External", "workday"),
+    ("autodesk/Ext", "workday"),
+    ("servicenow/ServiceNow", "workday"),
+    ("workday/Workday", "workday"),
+    ("cisco/External_Career_Site", "workday"),
+    ("walmart/WalmartExternal", "workday"),
+    ("paypal/jobs", "workday"),
+    ("hp/ExternalCareerSite", "workday"),
+    ("hpe/Jobsathpe", "workday"),
+    ("vmware/VMware", "workday"),
+    ("oracle/Oracle", "workday"),
+    ("uber/UberCareers", "workday"),
+    ("ge/GE_External_Career_Site", "workday"),
+    ("att/External", "workday"),
+    ("verizon/External", "workday"),
+    ("comcast/Comcast_Careers", "workday"),
+    ("citi/2", "workday"),
+    ("jpmc/External_search", "workday"),
+    ("bmo/External", "workday"),
+    ("ibm/External_Career", "workday"),
+    ("dell/External_Career_Site", "workday"),
+    ("amd/External_Career_Site", "workday"),
+    ("micron/External", "workday"),
+    ("appliedmaterials/External", "workday"),
+
+    # ---- SmartRecruiters ----
+    ("Visa", "smartrecruiters"),
+    ("Bosch", "smartrecruiters"),
+    ("Square", "smartrecruiters"),
+    ("PublicisGroupe", "smartrecruiters"),
+    ("McAfee", "smartrecruiters"),
+
+    # ---- Workable (smaller startups; over-inclusion is fine — slug 404s skip) ----
+    ("pleo", "workable"),
+    ("checkly", "workable"),
+    ("nccgroupplc", "workable"),
 ]
 
 
