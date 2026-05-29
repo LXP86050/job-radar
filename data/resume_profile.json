@@ -75,14 +75,8 @@
     "mobile engineer",
     "game engineer"
   ],
+  "_exclude_jd_terms_note": "Sponsorship terms removed — we now apply to no-sponsor JDs and answer 'no, I don't require sponsorship'. Citizenship + clearance terms KEPT — those are legal hard requirements (I-9 / federal / ITAR) that cannot be bypassed.",
   "exclude_jd_terms": [
-    "no sponsorship",
-    "not provide sponsorship",
-    "not able to sponsor",
-    "unable to sponsor",
-    "do not sponsor",
-    "are not sponsoring",
-    "without sponsorship",
     "must be a us citizen",
     "us citizen only",
     "us citizens only",
