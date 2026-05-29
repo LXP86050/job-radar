@@ -7,3 +7,9 @@ venv/
 .idea/
 .vscode/
 *.log
+
+# Phase 3 — applier
+state/screenshots/
+state/applied.jsonl
+data/resume/output/
+data/resume/test-jds/

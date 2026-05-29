@@ -1,0 +1,48 @@
+{
+  "_note": "Defaults the auto-applier uses to fill ATS forms. Password is in .env (PORTAL_PASSWORD) — never tracked in git.",
+
+  "first_name": "Lokesh",
+  "last_name": "Pulivarthi",
+  "preferred_name": "Lokesh",
+  "email": "lokesh.pulivarthi@hotmail.com",
+  "phone_country_code": "+1",
+  "phone": "9137429950",
+  "phone_formatted": "(913) 742-9950",
+
+  "linkedin": "https://linkedin.com/in/lokesh-pulivarthi",
+  "github": "https://github.com/LXP86050",
+  "portfolio": "https://lokeshpulivarthi.com",
+
+  "default_state": "WA",
+  "current_company": "Infosys",
+  "current_title": "Software Engineer II",
+  "years_experience": 7,
+
+  "work_authorized": true,
+  "require_sponsorship": true,
+  "us_citizen": false,
+  "willing_to_relocate": true,
+  "willing_to_travel": true,
+
+  "veteran_status": "I am not a protected veteran",
+  "disability_status": "I don't wish to answer",
+  "race_ethnicity": "Asian",
+  "gender": "Male",
+  "hispanic_or_latino": false,
+
+  "salary": {
+    "strategy": "jd_upper_third",
+    "floor": 160000,
+    "currency": "USD"
+  },
+
+  "cover_letter_template": "I'm excited about the opportunity at {company}. My 7 years building scalable distributed systems and agentic AI applications (RAG pipelines with LLMs on Azure OpenAI, Kubernetes-based microservices, high-throughput REST APIs) align directly with what {company} is hiring for. Happy to share more — resume attached.",
+
+  "how_did_you_hear": "LinkedIn",
+
+  "account_credentials": {
+    "_note": "When the portal requires account creation, use this email + the PORTAL_PASSWORD env var.",
+    "email": "lokesh.pulivarthi@hotmail.com",
+    "password_env_var": "PORTAL_PASSWORD"
+  }
+}
