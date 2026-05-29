@@ -48,28 +48,41 @@ async function uploadIfFound(page, selectors, filePath) {
  * Detect custom questions by scanning label texts and matching to known patterns
  * (sponsorship, authorization, etc.). Returns an array of {label, selector, value}.
  */
-async function detectCustomQuestions(page, profile) {
+async function detectCustomQuestions(page, profile, salary = { expected: 195000 }) {
   const all = await page.$$eval('label', els => els.map(e => ({
     text: e.textContent.trim().slice(0, 200),
     forId: e.getAttribute('for') || '',
   })));
 
   const matched = [];
+  // Order matters: more specific patterns FIRST. "pronouns" must come before "gender".
   const patterns = [
-    { match: /authoriz(ed|e) to work/i,         value: profile.work_authorized ? 'Yes' : 'No' },
-    { match: /require .*(sponsorship|visa)/i,    value: profile.require_sponsorship ? 'Yes' : 'No' },
-    { match: /will you (now or in the future ).*(require|need).*sponsorship/i, value: profile.require_sponsorship ? 'Yes' : 'No' },
-    { match: /us citizen/i,                       value: profile.us_citizen ? 'Yes' : 'No' },
-    { match: /(years?|year of) experience/i,      value: String(profile.years_experience) },
-    { match: /how did you (hear|find)/i,          value: profile.how_did_you_hear || 'LinkedIn' },
-    { match: /willing to relocate/i,              value: profile.willing_to_relocate ? 'Yes' : 'No' },
+    // Pronouns is a SEPARATE question from gender; some forms have both.
+    { match: /pronouns/i,                          value: 'He/Him' },
+    // "What kind of work visa" / "what type of visa" — answer with H1B since user has it.
+    // Include "would you need" + "would need" variants — Brex form uses these.
+    { match: /(what (kind|type) of (work )?visa|visa (do|will|would) you need|visa status|what visa)/i, value: 'H1B' },
+    // Conditional "if you're not authorized" questions — skip (we ARE authorized).
+    // Done by overwriting the value to '' which makes the fill a no-op.
+    { match: /if you('?re| are) not authorized/i, value: '' },
+    // Sponsorship: profile says false → "No".
+    { match: /(require|need).*sponsorship/i,       value: profile.require_sponsorship ? 'Yes' : 'No' },
+    { match: /will you (now or in the future).*sponsorship/i, value: profile.require_sponsorship ? 'Yes' : 'No' },
+    { match: /(sponsor|sponsorship)/i,             value: profile.require_sponsorship ? 'Yes' : 'No' },
+    // Work auth — TRUE because user has H1B.
+    { match: /authoriz(ed|e) to work/i,            value: profile.work_authorized ? 'Yes' : 'No' },
+    { match: /(eligible|legal(ly)?) to work/i,     value: profile.work_authorized ? 'Yes' : 'No' },
+    { match: /us citizen/i,                        value: profile.us_citizen ? 'Yes' : 'No' },
+    { match: /(years?|year of) experience/i,       value: String(profile.years_experience) },
+    { match: /how did you (hear|find)/i,           value: profile.how_did_you_hear || 'LinkedIn' },
+    { match: /willing to relocate/i,               value: profile.willing_to_relocate ? 'Yes' : 'No' },
     { match: /veteran/i,                           value: profile.veteran_status || 'Decline to self-identify' },
     { match: /disab(ility|led)/i,                  value: profile.disability_status || 'Decline to self-identify' },
-    { match: /(gender|sex)/i,                      value: profile.gender || 'Decline to self-identify' },
-    { match: /(race|ethnicity)/i,                  value: profile.race_ethnicity || 'Decline to self-identify' },
     { match: /hispanic/i,                          value: profile.hispanic_or_latino ? 'Yes' : 'No' },
-    { match: /current.*(salary|compensation)/i,    value: '160000' },  // current
-    { match: /(desired|expected).*(salary|compensation)/i, value: 'See salary expectations field' },
+    { match: /(race|ethnicity)/i,                  value: profile.race_ethnicity || 'Decline to self-identify' },
+    { match: /(gender|sex)/i,                      value: profile.gender || 'Decline to self-identify' },
+    { match: /current.*(salary|compensation)/i,    value: '160000' },
+    { match: /(desired|expected|required).*(salary|compensation)/i, value: String(salary.expected || 195000) },
   ];
 
   for (const l of all) {
@@ -172,8 +185,12 @@ async function fillForm(page, ctx) {
   }
 
   // Custom questions (sponsorship, work auth, etc.)
-  const customs = await detectCustomQuestions(page, profile);
+  const customs = await detectCustomQuestions(page, profile, salary);
   for (const q of customs) {
+    if (q.value === '') {
+      fields_skipped.push({ field: `[custom] ${q.label.slice(0, 60)}`, value: '(intentionally skipped)' });
+      continue;
+    }
     try {
       const el = await page.$(q.selector);
       if (!el) continue;

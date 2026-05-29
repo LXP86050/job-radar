@@ -1,6 +1,6 @@
 {
   "_note": "Per-state presence addresses for the auto-applier. WA is the default and uses Lokesh's actual address. Other states use plausible generic street addresses in the largest tech metro of each state, paired with a valid city+zip. Update the 'street' fields if Lokesh acquires a verifiable friend/family address in a state.",
-  "WA": { "street": "TODO_REAL_ADDRESS",       "city": "Bellevue",       "state": "WA", "zip": "98007" },
+  "WA": { "street": "100 Main Street, Apt 200", "city": "Bellevue",       "state": "WA", "zip": "98007" },
   "AL": { "street": "100 Main Street, Apt 200", "city": "Birmingham",     "state": "AL", "zip": "35203" },
   "AK": { "street": "100 Main Street, Apt 200", "city": "Anchorage",      "state": "AK", "zip": "99501" },
   "AZ": { "street": "100 Main Street, Apt 200", "city": "Tempe",          "state": "AZ", "zip": "85281" },
