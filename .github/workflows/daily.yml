@@ -12,6 +12,10 @@ on:
         description: 'Bypass the 7am-ET hour check and the once-per-day guard'
         required: false
         default: 'false'
+      dry_run:
+        description: 'Force auto-applier into DRY-RUN (logs without submitting)'
+        required: false
+        default: 'false'
 
 permissions:
   contents: write   # to commit state/ back to the repo
@@ -64,6 +68,43 @@ jobs:
           ATS_THRESHOLD: '50'
         run: python -m src.main
 
+      - name: Setup Node (for auto-applier)
+        if: always()
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install applier deps + Playwright Chromium
+        if: always()
+        working-directory: apply
+        run: |
+          npm install
+          npx playwright install --with-deps chromium
+
+      - name: Auto-apply to AI/SWE Greenhouse matches
+        if: always()
+        env:
+          PORTAL_PASSWORD: ${{ secrets.PORTAL_PASSWORD }}
+          AUTO_APPLY_PROFILE: job-radar
+          # Set AUTO_APPLY_DRY_RUN=1 via workflow_dispatch input to force dry-run
+          AUTO_APPLY_DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+          AUTO_APPLY_MAX: '30'
+        run: |
+          if [[ ! -f "state/matches/$(date +%Y-%m-%d)-job-radar.json" ]]; then
+            echo "No matches file for today — radar didn't write one. Skipping auto-apply."
+            exit 0
+          fi
+          node apply/run-daily.js
+
+      - name: Upload screenshots as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: applier-screenshots-${{ github.run_id }}
+          path: state/screenshots/
+          retention-days: 14
+          if-no-files-found: ignore
+
       - name: Commit updated state
         if: always()
         run: |
@@ -71,7 +112,7 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git add state/
-            git commit -m "state: update seen/last-run [skip ci]"
+            git commit -m "state: update seen/last-run/applied [skip ci]"
             git push
           else
             echo "no state changes"

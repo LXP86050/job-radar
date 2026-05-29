@@ -9,7 +9,9 @@ venv/
 *.log
 
 # Phase 3 — applier
+# state/applied.jsonl IS tracked — it's the audit log
+# state/matches/ IS tracked — applier needs to read what radar wrote
 state/screenshots/
-state/applied.jsonl
 data/resume/output/
 data/resume/test-jds/
+apply/test-job*.json

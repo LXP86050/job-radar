@@ -137,6 +137,20 @@ def run() -> int:
     email_sender.send(shown, THRESHOLD, total_scanned=len(jobs), profile_name=PROFILE_NAME, total_matches=len(matches))
     state.save_seen(seen)
     state.mark_sent_today()
+
+    # Persist matches to disk so the auto-applier can consume them.
+    # Strip the helper fields (_jd_text, _max_salary) since the applier doesn't need them
+    # and they bloat the file.
+    matches_dir = Path("state/matches")
+    matches_dir.mkdir(parents=True, exist_ok=True)
+    profile_slug = PROFILE_NAME.lower().replace(" ", "-")
+    matches_path = matches_dir / f"{today}-{profile_slug}.json"
+    payload = [
+        {**{k: v for k, v in m["job"].items() if not k.startswith("_")}, "score": m["score_data"]["score"]}
+        for m in shown
+    ]
+    matches_path.write_text(json.dumps(payload, indent=2))
+    log.info("matches written for applier: %s (%d jobs)", matches_path, len(payload))
     log.info("[%s] done — emailed %d of %d matches", PROFILE_NAME, len(shown), len(matches))
     return 0
 
