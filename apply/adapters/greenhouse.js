@@ -226,14 +226,38 @@ async function fillForm(page, ctx) {
     }
   }
 
-  return { fields_filled, fields_skipped };
+  // Return form context so submit() can find the right frame too.
+  return { fields_filled, fields_skipped, formCtx: page };
 }
 
-async function submit(page) {
-  const submitSel = 'button[type="submit"], input[type="submit"], #submit_app';
-  await page.click(submitSel);
-  // Wait for navigation or confirmation
-  await page.waitForLoadState('networkidle', { timeout: 30_000 }).catch(() => {});
+async function submit(page, plan) {
+  // Use the frame that fillForm resolved (iframe-aware). Fall back to main page.
+  const ctx = (plan && plan.formCtx) || page;
+  const submitSelectors = [
+    '#submit_app',
+    'button#submit_app',
+    'button[type="submit"]:has-text("Submit")',
+    'input[type="submit"][value*="Submit" i]',
+    'button[type="submit"]',
+    'input[type="submit"]',
+    'button:has-text("Submit Application")',
+    'button:has-text("Apply")',
+  ];
+  for (const sel of submitSelectors) {
+    const el = await ctx.$(sel);
+    if (el) {
+      await el.scrollIntoViewIfNeeded().catch(() => {});
+      await el.click({ timeout: 10_000 });
+      // Wait for navigation OR for a confirmation message
+      await Promise.race([
+        ctx.waitForLoadState ? ctx.waitForLoadState('networkidle', { timeout: 30_000 }).catch(() => {}) : Promise.resolve(),
+        page.waitForLoadState('networkidle', { timeout: 30_000 }).catch(() => {}),
+        page.waitForSelector('text=/thank you|application received|we.?ll be in touch|submitted/i', { timeout: 20_000 }).catch(() => {}),
+      ]);
+      return;
+    }
+  }
+  throw new Error('Submit button not found in form frame');
 }
 
 module.exports = { fillForm, submit };

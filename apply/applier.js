@@ -149,7 +149,7 @@ async function applyOne(job, opts) {
         resume_pdf: resume.pdf,
       });
     } else {
-      await adapter.submit(page);
+      await adapter.submit(page, plan);
       console.log(`✓ SUBMITTED`);
       state.append({
         job_id: job.id, company: job.company, role: job.title, source: adapterName,
