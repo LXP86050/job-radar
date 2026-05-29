@@ -69,15 +69,14 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install resume builder deps (docx + puppeteer)
+      - name: Install resume builder deps (docx + Playwright)
         if: always()
         working-directory: data/resume
         run: |
           npm install
-          # CI Ubuntu — install full puppeteer (bundled Chromium); macOS dev uses puppeteer-core + system Chrome
-          npm install puppeteer
-          # Smoke-test Chrome is available
-          node -e "import('puppeteer').then(p => p.launch({headless: true}).then(b => { console.log('chromium OK', b.process().spawnfile); b.close(); }))"
+          npm install playwright
+          # --with-deps installs the system libs (libnss3, libgbm1, etc.) Chromium needs
+          npx playwright install --with-deps chromium
 
       - name: Tailor resume per match (90-95% coverage)
         if: always()

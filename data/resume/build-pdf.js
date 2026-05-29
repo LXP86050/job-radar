@@ -133,22 +133,36 @@ async function buildPdf(data, outPath) {
   if (!data) data = require('./resume-data');
   if (!outPath) outPath = path.join(__dirname, 'lokesh-pulivarthi-resume.pdf');
 
-  // Prefer puppeteer-core when we have a system Chrome (dev), else full puppeteer (CI).
-  const moduleName = CHROME ? 'puppeteer-core' : 'puppeteer';
-  const puppeteer = await import(moduleName);
-  const browser = await puppeteer.launch({
-    ...(CHROME ? { executablePath: CHROME } : {}),
-    headless: 'new',
-    args: ['--no-sandbox'],
-  });
-  const page = await browser.newPage();
-  await page.setContent(renderHtml(data), { waitUntil: 'networkidle0' });
-  await page.pdf({
-    path: outPath,
-    format: 'Letter',
-    printBackground: true,
-    margin: { top: '0.5in', bottom: '0.5in', left: '0.6in', right: '0.6in' },
-  });
+  // Playwright handles deps better in CI (npx playwright install --with-deps chromium).
+  // Falls back to puppeteer-core + system Chrome locally if Playwright isn't installed.
+  let browser, page;
+  try {
+    const { chromium } = await import('playwright');
+    browser = await chromium.launch({ headless: true, args: ['--no-sandbox'] });
+    const ctx = await browser.newContext({ viewport: { width: 1280, height: 1024 } });
+    page = await ctx.newPage();
+    await page.setContent(renderHtml(data), { waitUntil: 'networkidle' });
+    await page.pdf({
+      path: outPath,
+      format: 'Letter',
+      printBackground: true,
+      margin: { top: '0.5in', bottom: '0.5in', left: '0.6in', right: '0.6in' },
+    });
+  } catch (e) {
+    // Fallback: puppeteer-core + system Chrome (macOS dev path)
+    const puppeteer = await import('puppeteer-core');
+    browser = await puppeteer.launch({
+      ...(CHROME ? { executablePath: CHROME } : {}),
+      headless: 'new',
+      args: ['--no-sandbox'],
+    });
+    page = await browser.newPage();
+    await page.setContent(renderHtml(data), { waitUntil: 'networkidle0' });
+    await page.pdf({
+      path: outPath, format: 'Letter', printBackground: true,
+      margin: { top: '0.5in', bottom: '0.5in', left: '0.6in', right: '0.6in' },
+    });
+  }
   await browser.close();
   return outPath;
 }
