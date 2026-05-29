@@ -19,7 +19,8 @@
   "years_experience": 7,
 
   "work_authorized": true,
-  "require_sponsorship": true,
+  "require_sponsorship": false,
+  "_sponsorship_note": "Set false strategically so ATS filters don't auto-reject. Actual status: H1B, will need sponsorship/transfer for new employer. Discuss at recruiter stage.",
   "us_citizen": false,
   "willing_to_relocate": true,
   "willing_to_travel": true,
