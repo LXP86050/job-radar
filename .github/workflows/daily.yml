@@ -83,7 +83,7 @@ jobs:
         if: always()
         env:
           TAILOR_PROFILE: job-radar
-          TAILOR_MAX: '50'
+          TAILOR_MAX: '200'
         run: |
           if [[ ! -f "state/matches/$(date +%Y-%m-%d)-job-radar.json" ]]; then
             echo "No matches file — radar didn't write one. Skipping tailoring."
@@ -91,11 +91,11 @@ jobs:
           fi
           node apply/tailor-matches.js
 
-      - name: Send digest email with top PDFs attached
+      - name: Send digest emails (50 PDFs per chunk)
         if: always()
         env:
           DIGEST_PROFILE: job-radar
-          DIGEST_MAX_ATTACHED: '10'
+          DIGEST_CHUNK_SIZE: '50'
         run: python -m src.send_digest
 
       - name: Upload tailored resumes as artifact

@@ -1,16 +1,20 @@
-"""Send the daily digest email with tailored PDF attachments.
+"""Chunked digest emails — every tailored PDF reaches your inbox.
 
-Runs AFTER apply/tailor-matches.js so the tailored PDFs exist.
-Reads state/matches/{date}-{profile}.json + state/tailored/{date}/index.json.
-Sends one email per profile (Job Radar / IT Radar / High-Pay IT Radar)
-with TOP 10 PDFs attached (highest score) — skip send if 0 matches.
+For N matches with tailored PDFs:
+  - Sort by score desc
+  - Chunk into batches of DIGEST_CHUNK_SIZE (default 50)
+  - Send one email per chunk; each email has all chunk's PDFs attached
+  - Subject indicates chunk N of M
 
-Env vars:
-  SENDGRID_API_KEY  required
-  SENDER_EMAIL      required (must be verified in SendGrid)
-  RECIPIENT_EMAIL   required
-  DIGEST_PROFILE    default 'job-radar'
-  DIGEST_MAX_ATTACHED  default 10  (top-N PDFs attached)
+Matches WITHOUT a tailored PDF (over TAILOR_MAX cap) are listed in the
+LAST chunk email as URL-only rows so nothing is lost.
+
+Skip everything if 0 matches.
+
+Env:
+  SENDGRID_API_KEY, SENDER_EMAIL, RECIPIENT_EMAIL  required
+  DIGEST_PROFILE       default 'job-radar'
+  DIGEST_CHUNK_SIZE    default 50  (PDFs per email; Gmail cap ~25MB)
 """
 from __future__ import annotations
 
@@ -36,59 +40,49 @@ PROFILE_LABEL = {
     "it-radar": "IT Radar",
     "high-pay-it-radar": "High-Pay IT Radar",
 }.get(PROFILE, PROFILE)
-MAX_ATTACHED = int(os.environ.get("DIGEST_MAX_ATTACHED", "10"))
+CHUNK_SIZE = int(os.environ.get("DIGEST_CHUNK_SIZE", "50"))
 
 ROOT = Path(".")
 TODAY = datetime.now(ZoneInfo("UTC")).strftime("%Y-%m-%d")
 MATCHES_PATH = ROOT / "state" / "matches" / f"{TODAY}-{PROFILE}.json"
-TAILORED_DIR = ROOT / "state" / "tailored" / TODAY
-INDEX_PATH = TAILORED_DIR / "index.json"
+INDEX_PATH = ROOT / "state" / "tailored" / TODAY / "index.json"
 
 
-def _row(match: dict, pdf_path: str | None) -> str:
+def _row(match: dict, pdf_filename: str | None, coverage: int | None) -> str:
     title = html.escape(match.get("title", ""))
     company = html.escape(match.get("company", ""))
     location = html.escape(match.get("location", "") or "—")
     url = html.escape(match.get("url", ""))
     score = match.get("score", "—")
-    coverage = match.get("coverage")
-    cov_str = f"<span style='color:#4ade80;font-size:10px;'>{coverage}% match</span>" if coverage else ""
-    pdf_str = f"<a href='{html.escape(pdf_path or '')}' style='color:#888;font-size:11px;text-decoration:none;'>📄 attached</a>" if pdf_path else "<span style='color:#999;font-size:11px;'>see artifact</span>"
-
+    cov_str = f"<span style='color:#22863a;font-size:10px;'>· {coverage}% match</span>" if coverage else ""
+    pdf_str = (
+        f"<span style='color:#0366d6;font-size:11px;'>📎 {html.escape(pdf_filename)}</span>"
+        if pdf_filename else "<span style='color:#999;font-size:11px;'>no PDF (volume cap)</span>"
+    )
     return f"""
     <tr style="border-bottom:1px solid #eaecef;">
       <td style="padding:10px 8px;vertical-align:top;">
-        <div style="font-size:14px;font-weight:600;color:#0366d6;">
+        <div style="font-size:14px;font-weight:600;">
           <a href="{url}" style="color:#0366d6;text-decoration:none;">{title}</a>
         </div>
         <div style="font-size:12px;color:#586069;margin-top:2px;">
-          {company} &middot; {location} &middot; {pdf_str}
+          {company} &middot; {location} &middot; {pdf_str} {cov_str}
         </div>
       </td>
       <td align="center" style="padding:10px 8px;vertical-align:middle;width:60px;">
         <div style="font-size:16px;font-weight:700;color:#22863a;">{score}</div>
-        {cov_str}
       </td>
     </tr>
     """
 
 
-def build_html(matches: list[dict], index_by_id: dict, attached_paths: list[str]) -> str:
-    et_now = datetime.now(ZoneInfo("America/New_York")).strftime("%a %b %d, %Y · %I:%M %p ET")
-    rows_html = []
-    for m in matches:
-        # Look up tailored PDF info (coverage %, etc.)
-        idx = index_by_id.get(m.get("id"))
-        if idx:
-            m_full = {**m, "coverage": idx.get("coverage")}
-            # Path used as a label (filename) — recipient will see the attachment in their mail client.
-            pdf_name = os.path.basename(idx.get("pdf") or "")
-            rows_html.append(_row(m_full, pdf_name))
-        else:
-            rows_html.append(_row(m, None))
-
-    summary = f"{len(matches)} new match{'es' if len(matches) != 1 else ''} · {len(attached_paths)} resume PDF(s) attached (top-{MAX_ATTACHED} by score)"
-
+def _build_html(rows_html: list[str], chunk_idx: int, total_chunks: int, total_matches: int, attached_count: int) -> str:
+    et_now = datetime.now(ZoneInfo("America/New_York")).strftime("%a %b %d %I:%M %p ET")
+    summary = (
+        f"Part {chunk_idx + 1} of {total_chunks} · "
+        f"{attached_count} PDFs attached this email · "
+        f"{total_matches} total new matches across all parts"
+    )
     return f"""<!doctype html>
 <html><body style="margin:0;padding:0;background:#f6f8fa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">
   <div style="max-width:760px;margin:0 auto;padding:24px;">
@@ -104,8 +98,9 @@ def build_html(matches: list[dict], index_by_id: dict, attached_paths: list[str]
       <tbody>{''.join(rows_html)}</tbody>
     </table>
     <p style="margin-top:16px;color:#888;font-size:11px;line-height:1.6;">
-      Top {MAX_ATTACHED} PDFs (by score) are attached. Lower-scored matches are tailored too —
-      grab them from <a href="https://github.com/LXP86050/job-radar/actions" style="color:#0366d6;">workflow artifacts</a> (run name: <code>tailored-resumes-{{run_id}}</code>).
+      Attachments named <code>{{company}}-{{role}}-{{score}}.pdf</code>. Match the row's "📎 {{filename}}"
+      to the attachment in your mail client. Anything not attached here exceeded the per-run tailor cap;
+      you can run <code>node apply/tailor-url.js URL</code> locally for those.
     </p>
   </div>
 </body></html>"""
@@ -121,6 +116,20 @@ def _make_attachment(path: Path) -> Attachment:
     return a
 
 
+def _send_one(api_key: str, sender: str, recipient: str, subject: str, html_body: str, attachments: list[Path]) -> bool:
+    msg = Mail(from_email=sender, to_emails=recipient, subject=subject, html_content=html_body)
+    for p in attachments:
+        msg.add_attachment(_make_attachment(p))
+    sg = sendgrid.SendGridAPIClient(api_key=api_key)
+    try:
+        resp = sg.send(msg)
+        log.info("SendGrid %s for '%s' (%d attachments)", resp.status_code, subject, len(attachments))
+        return 200 <= int(resp.status_code) < 300
+    except Exception as e:
+        log.error("send failed for '%s': %s", subject, e)
+        return False
+
+
 def main() -> int:
     api_key = os.environ.get("SENDGRID_API_KEY")
     sender = os.environ.get("SENDER_EMAIL")
@@ -130,17 +139,15 @@ def main() -> int:
         return 1
 
     if not MATCHES_PATH.exists():
-        log.info("No matches file %s — skipping digest", MATCHES_PATH)
+        log.info("No matches file %s — nothing to send.", MATCHES_PATH)
         return 0
     matches = json.loads(MATCHES_PATH.read_text())
     if not matches:
-        log.info("0 matches — skipping email entirely (no spam)")
+        log.info("0 matches — skipping email entirely.")
         return 0
 
-    # Sort by score descending (already sorted by main.py but be safe)
     matches.sort(key=lambda m: m.get("score", 0), reverse=True)
 
-    # Load tailored index for coverage % + PDF paths
     index = []
     if INDEX_PATH.exists():
         try:
@@ -149,32 +156,54 @@ def main() -> int:
             pass
     index_by_id = {e.get("job_id"): e for e in index}
 
-    # Pick top N matches that have a tailored PDF for attachment
-    attached_paths: list[Path] = []
+    # Partition matches into (with-PDF) and (without-PDF)
+    with_pdf: list[tuple[dict, Path, int]] = []
+    without_pdf: list[dict] = []
     for m in matches:
-        if len(attached_paths) >= MAX_ATTACHED:
-            break
         idx = index_by_id.get(m.get("id"))
-        if not idx or not idx.get("pdf"):
-            continue
-        p = ROOT / idx["pdf"]
-        if p.exists():
-            attached_paths.append(p)
+        if idx and idx.get("pdf"):
+            p = ROOT / idx["pdf"]
+            if p.exists():
+                with_pdf.append((m, p, idx.get("coverage", 0)))
+                continue
+        without_pdf.append(m)
 
-    html_body = build_html(matches, index_by_id, attached_paths)
-    et_now = datetime.now(ZoneInfo("America/New_York")).strftime("%a %b %d %I:%M%p ET")
-    msg = Mail(
-        from_email=sender,
-        to_emails=recipient,
-        subject=f"{PROFILE_LABEL} — {len(matches)} matches · {et_now}",
-        html_content=html_body,
+    # Chunk PDF matches into batches of CHUNK_SIZE
+    chunks = [with_pdf[i:i + CHUNK_SIZE] for i in range(0, len(with_pdf), CHUNK_SIZE)] or [[]]
+    # Append URL-only matches into the LAST chunk as overflow rows
+    last_overflow = [(m, None, None) for m in without_pdf]
+    if last_overflow:
+        chunks[-1] = chunks[-1] + last_overflow  # type: ignore
+
+    total_chunks = len(chunks)
+    et_now = datetime.now(ZoneInfo("America/New_York")).strftime("%I:%M%p ET")
+
+    for i, chunk in enumerate(chunks):
+        rows_html = []
+        attachments: list[Path] = []
+        for entry in chunk:
+            if len(entry) == 3 and entry[1] is not None:
+                m, pdf, cov = entry  # type: ignore
+                rows_html.append(_row(m, pdf.name, cov))
+                attachments.append(pdf)
+            else:
+                m = entry[0] if isinstance(entry, tuple) else entry
+                rows_html.append(_row(m, None, None))
+
+        attached_count = len(attachments)
+        body = _build_html(rows_html, i, total_chunks, len(matches), attached_count)
+        subject = (
+            f"{PROFILE_LABEL} — Part {i + 1}/{total_chunks} · "
+            f"{attached_count} resumes · {et_now}"
+        )
+        ok = _send_one(api_key, sender, recipient, subject, body, attachments)
+        if not ok:
+            log.warning("chunk %d/%d failed; continuing", i + 1, total_chunks)
+
+    log.info(
+        "sent %d email(s); %d matches with PDFs, %d URL-only",
+        total_chunks, len(with_pdf), len(without_pdf),
     )
-    for p in attached_paths:
-        msg.add_attachment(_make_attachment(p))
-
-    sg = sendgrid.SendGridAPIClient(api_key=api_key)
-    resp = sg.send(msg)
-    log.info("SendGrid %s; %d matches, %d PDFs attached", resp.status_code, len(matches), len(attached_paths))
     return 0
 
 
