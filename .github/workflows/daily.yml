@@ -81,6 +81,11 @@ jobs:
           npm install
           npx playwright install --with-deps chromium
 
+      - name: Install resume builder deps (docx + puppeteer)
+        if: always()
+        working-directory: data/resume
+        run: npm install
+
       - name: Auto-apply to AI/SWE Greenhouse matches
         if: always()
         env:
