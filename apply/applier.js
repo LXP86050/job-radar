@@ -139,25 +139,57 @@ async function applyOne(job, opts) {
     fs.mkdirSync(path.dirname(screenshotPath), { recursive: true });
     await page.screenshot({ path: screenshotPath, fullPage: true });
 
+    const requiredUnfilled = (plan.required_unfilled || []).length;
+
     if (dryRun) {
-      console.log(`✓ DRY RUN — would submit ${plan.fields_filled.length} fields. Screenshot: ${screenshotPath}`);
+      console.log(`✓ DRY RUN — filled ${plan.fields_filled.length}, ${requiredUnfilled} required UNFILLED. Screenshot: ${screenshotPath}`);
       state.append({
         job_id: job.id, company: job.company, role: job.title, source: adapterName,
         jd_url: job.url, status: 'form-filled',
         fields_filled: plan.fields_filled, fields_skipped: plan.fields_skipped,
+        required_unfilled: plan.required_unfilled || [],
         screenshot: screenshotPath, dry_run: true,
         resume_pdf: resume.pdf,
       });
-    } else {
-      await adapter.submit(page, plan);
-      console.log(`✓ SUBMITTED`);
+    } else if (requiredUnfilled > 0) {
+      // SAFETY: refuse to submit if any required field is unfilled.
+      console.log(`⊘ SKIPPED — ${requiredUnfilled} required field(s) unfilled, would silently fail submit:`);
+      for (const f of plan.required_unfilled) console.log(`    • ${f.field}`);
       state.append({
         job_id: job.id, company: job.company, role: job.title, source: adapterName,
-        jd_url: job.url, status: 'submitted',
-        fields_filled: plan.fields_filled,
-        screenshot: screenshotPath, dry_run: false,
-        resume_pdf: resume.pdf,
+        jd_url: job.url, status: 'skipped_required_unfilled',
+        fields_filled: plan.fields_filled, required_unfilled: plan.required_unfilled,
+        screenshot: screenshotPath, dry_run: false, resume_pdf: resume.pdf,
       });
+    } else {
+      const submitResult = await adapter.submit(page, plan);
+
+      // Take POST-submit screenshot for evidence
+      const postSubmitPath = path.join(__dirname, '..', 'state', 'screenshots',
+        `${companySlug}-${roleSlug}-POST-${Date.now()}.png`);
+      await page.screenshot({ path: postSubmitPath, fullPage: true });
+
+      if (submitResult.verified) {
+        console.log(`✓ SUBMITTED (verified via ${submitResult.verified.kind})`);
+        state.append({
+          job_id: job.id, company: job.company, role: job.title, source: adapterName,
+          jd_url: job.url, status: 'submitted',
+          fields_filled: plan.fields_filled,
+          screenshot: screenshotPath, post_submit_screenshot: postSubmitPath,
+          verified_via: submitResult.verified, clicked_selector: submitResult.clickedSelector,
+          clicked_text: submitResult.clickedText, dry_run: false, resume_pdf: resume.pdf,
+        });
+      } else {
+        console.log(`⚠ CLICKED but UNVERIFIED — clicked "${submitResult.clickedText}" (${submitResult.clickedSelector}). No confirmation in 30s.`);
+        state.append({
+          job_id: job.id, company: job.company, role: job.title, source: adapterName,
+          jd_url: job.url, status: 'submitted_unverified',
+          fields_filled: plan.fields_filled,
+          screenshot: screenshotPath, post_submit_screenshot: postSubmitPath,
+          clicked_selector: submitResult.clickedSelector, clicked_text: submitResult.clickedText,
+          dry_run: false, resume_pdf: resume.pdf,
+        });
+      }
     }
   } catch (err) {
     console.error(`✗ FAILED: ${err.message}`);

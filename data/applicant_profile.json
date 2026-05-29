@@ -18,6 +18,16 @@
   "current_title": "Software Engineer II",
   "years_experience": 7,
 
+  "education": {
+    "school": "University of Central Missouri",
+    "degree": "Master of Science",
+    "discipline": "Computer Science",
+    "end_year": "2022",
+    "start_year": "2021"
+  },
+  "location_city": "Bellevue, WA",
+  "country": "United States",
+
   "work_authorized": true,
   "require_sponsorship": false,
   "_sponsorship_note": "Set false strategically so ATS filters don't auto-reject. Actual status: H1B, will need sponsorship/transfer for new employer. Discuss at recruiter stage.",
