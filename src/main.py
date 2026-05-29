@@ -22,7 +22,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from src import companies, email_sender, filters, scoring, state
-from src.sources import ashby, greenhouse, lever, smartrecruiters, workable, workday
+from src.sources import ashby, greenhouse, hackernews, lever, smartrecruiters, workable, workday, ycombinator
 
 THRESHOLD = int(os.environ.get("ATS_THRESHOLD", "85"))
 TARGET_HOUR_ET = 7
@@ -74,6 +74,17 @@ def _fetch_all() -> list[dict]:
                 log.info("fetched %s/%s: %d jobs", ats, slug, len(jobs))
             except Exception as e:
                 log.warning("fetch failed for %s/%s: %s", ats, slug, e)
+
+    # ---- Aggregator sources (no per-company slug, one fetch each) ----
+    # YC's workatastartup.com API moved/needs auth — disabled until adapter rebuild.
+    for source_name, fetcher in (("hackernews", hackernews.fetch),):
+        try:
+            jobs = fetcher()
+            all_jobs.extend(jobs)
+            log.info("fetched %s: %d jobs", source_name, len(jobs))
+        except Exception as e:
+            log.warning("fetch failed for %s: %s", source_name, e)
+
     return all_jobs
 
 

@@ -125,6 +125,69 @@ COMPANIES: list[tuple[str, str]] = [
     ("writer", "ashby"),
     ("rampnetwork", "ashby"),
 
+    # ---- Mid-tier H1B sponsors (less-applied-to gems, added 2026-05-29) ----
+    # Companies that sponsor H1B, pay $150K+, but get far less applicant volume
+    # than FAANG. ATS slug is best-effort — 404s are logged and skipped so
+    # over-inclusion is fine.
+
+    # Fintech / payments
+    ("wealthfront", "greenhouse"), ("earnest", "greenhouse"),
+    ("publiccom", "greenhouse"),   ("step", "greenhouse"),
+    ("alpaca", "greenhouse"),      ("janestreet", "greenhouse"),
+
+    # B2B SaaS
+    ("pendoio", "greenhouse"),     ("outreach", "greenhouse"),
+    ("driftcom", "greenhouse"),    ("customerio", "greenhouse"),
+    ("front", "greenhouse"),       ("frontapp", "greenhouse"),
+    ("zapier", "greenhouse"),      ("loom", "greenhouse"),
+    ("dropboxsign", "greenhouse"),
+
+    # AI / ML startups
+    ("characterai", "ashby"),      ("character-ai", "lever"),
+    ("inflectionai", "ashby"),     ("xai", "ashby"),
+    ("suno", "ashby"),             ("elevenlabs", "ashby"),
+    ("pika", "ashby"),             ("decagon", "ashby"),
+    ("sierra-ai", "ashby"),        ("imbue", "ashby"),
+    ("h2oai", "greenhouse"),       ("clarifai", "greenhouse"),
+    ("hebbia", "ashby"),           ("crewai", "ashby"),
+
+    # Dev tools / infra
+    ("sourcegraph", "greenhouse"), ("circleci", "greenhouse"),
+    ("sentry", "greenhouse"),      ("launchdarkly", "greenhouse"),
+    ("flyio", "ashby"),            ("rendercom", "ashby"),
+    ("clerkdev", "ashby"),         ("planetscale", "greenhouse"),
+    ("turbopuffer", "ashby"),      ("convexdev", "ashby"),
+    ("anyscalehq", "lever"),
+
+    # Data / analytics
+    ("motherduck", "ashby"),       ("hextechnologies", "ashby"),
+    ("modeanalytics", "greenhouse"),("tinybird", "ashby"),
+    ("dagster", "ashby"),          ("airbyte", "ashby"),
+    ("presetio", "greenhouse"),
+
+    # Security
+    ("agilebits", "greenhouse"),   ("vantasoftware", "greenhouse"),
+    ("dopplerhq", "ashby"),
+
+    # Consumer / marketplace
+    ("whatnotinc", "greenhouse"),  ("fairewholesale", "greenhouse"),
+    ("verkada", "greenhouse"),
+
+    # Healthcare tech
+    ("oscar", "greenhouse"),       ("almahealth", "greenhouse"),
+
+    # Crypto / web3
+    ("krakencrypto", "lever"),     ("circlecom", "greenhouse"),
+    ("fireblocks", "greenhouse"),  ("chainalysis", "greenhouse"),
+
+    # Big GH/Lever H1B sponsors not yet covered
+    ("spotify", "greenhouse"),     ("flexport", "greenhouse"),
+    ("warbyparker", "greenhouse"),
+
+    # Forward-deployed / customer engineer (less competitive flows)
+    ("retool", "lever"),           ("appliedintuition", "ashby"),
+    ("applied-intuition", "ashby"),
+
     # ---- Workday (slug = "tenant/site"; adapter probes wd1/wd2/wd3/wd5)
     # NOTE: Microsoft uses a custom backend (jobs.careers.microsoft.com), NOT Workday.
     ("salesforce/External_Career_Site", "workday"),
