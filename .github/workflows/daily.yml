@@ -36,19 +36,21 @@ jobs:
       - name: Install deps
         run: pip install -r requirements.txt
 
-      - name: AI / SWE radar
+      - name: AI / SWE radar (no email — sent later with PDFs)
         env:
           PROFILE_PATH: data/resume_profile.json
           PROFILE_NAME: 'Job Radar'
           STATE_DIR: state/ai_swe
+          NO_EMAIL: '1'
         run: python -m src.main
 
       - name: IT radar
-        if: always()   # run even if the SWE radar email failed
+        if: always()
         env:
           PROFILE_PATH: data/it_profile.json
           PROFILE_NAME: 'IT Radar'
           STATE_DIR: state/it
+          NO_EMAIL: '1'
         run: python -m src.main
 
       - name: High-Pay IT radar
@@ -58,6 +60,7 @@ jobs:
           PROFILE_NAME: 'High-Pay IT Radar'
           STATE_DIR: state/it_high_pay
           ATS_THRESHOLD: '50'
+          NO_EMAIL: '1'
         run: python -m src.main
 
       - name: Setup Node (for resume tailorer)
@@ -87,6 +90,13 @@ jobs:
             exit 0
           fi
           node apply/tailor-matches.js
+
+      - name: Send digest email with top PDFs attached
+        if: always()
+        env:
+          DIGEST_PROFILE: job-radar
+          DIGEST_MAX_ATTACHED: '10'
+        run: python -m src.send_digest
 
       - name: Upload tailored resumes as artifact
         if: always()

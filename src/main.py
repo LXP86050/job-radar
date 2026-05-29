@@ -145,7 +145,16 @@ def run() -> int:
 
     cap = profile.get("max_email_rows")
     shown = matches[:cap] if cap else matches
-    email_sender.send(shown, THRESHOLD, total_scanned=len(jobs), profile_name=PROFILE_NAME, total_matches=len(matches))
+
+    # NO_EMAIL=1 means matches are written to disk but no email sent here.
+    # The send_digest.py step that runs AFTER tailoring will email with PDFs attached.
+    if os.environ.get("NO_EMAIL") == "1":
+        log.info("NO_EMAIL=1 — skipping email; matches will be sent by send_digest.py after tailoring")
+    elif not shown:
+        log.info("0 matches — skipping email (no spam)")
+    else:
+        email_sender.send(shown, THRESHOLD, total_scanned=len(jobs), profile_name=PROFILE_NAME, total_matches=len(matches))
+
     state.save_seen(seen)
     state.mark_sent_today()
 
