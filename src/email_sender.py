@@ -74,7 +74,9 @@ def build_html(matches: list[dict], threshold: int, total_scanned: int, profile_
     </table>
     <p style="margin-top:16px;color:#888;font-size:11px;line-height:1.6;">
       Matches are scored against your resume profile. Salary shown only when stated in the JD.
-      To tune the role/skill list or add companies, edit <code>data/resume_profile.json</code> or <code>src/companies.py</code> in your repo.
+      <strong>Tailored resumes</strong> (90-95% coverage per JD) are auto-generated each run.
+      Download the latest <code>tailored-resumes</code> artifact from the workflow run at
+      <a href="https://github.com/LXP86050/job-radar/actions">github.com/LXP86050/job-radar/actions</a>.
     </p>
   </div>
 </body></html>"""

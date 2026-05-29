@@ -2,20 +2,11 @@ name: Daily Job Radar
 
 on:
   schedule:
-    # Two crons cover DST: 11:00 UTC = 7am EDT (summer), 12:00 UTC = 7am EST (winter).
-    # The script's hour check ensures only the correct one actually sends.
-    - cron: '0 11 * * *'
-    - cron: '0 12 * * *'
-  workflow_dispatch:
-    inputs:
-      force:
-        description: 'Bypass the 7am-ET hour check and the once-per-day guard'
-        required: false
-        default: 'false'
-      dry_run:
-        description: 'Force auto-applier into DRY-RUN (logs without submitting)'
-        required: false
-        default: 'false'
+    # Every 2 hours during US waking hours (covers EDT + EST).
+    # 09,11,13,15,17,19,21,23,01 UTC = 5am, 7am, 9am, 11am, 1pm, 3pm, 5pm, 7pm, 9pm ET-ish
+    # main.py has a once-per-window guard; FORCE_RUN=1 bypasses it.
+    - cron: '0 9,11,13,15,17,19,21,23,1 * * *'
+  workflow_dispatch: {}   # manual trigger from the Actions UI
 
 permissions:
   contents: write   # to commit state/ back to the repo
@@ -31,8 +22,9 @@ jobs:
       SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
       SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
       RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
-      ATS_THRESHOLD: '85'
-      FORCE_RUN: ${{ github.event.inputs.force == 'true' && '1' || '0' }}
+      ATS_THRESHOLD: '50'
+      # 2-hour schedules bypass the once-per-day guard; treat each cron tick as forced.
+      FORCE_RUN: '1'
     steps:
       - uses: actions/checkout@v4
 
@@ -68,45 +60,40 @@ jobs:
           ATS_THRESHOLD: '50'
         run: python -m src.main
 
-      - name: Setup Node (for auto-applier)
+      - name: Setup Node (for resume tailorer)
         if: always()
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: Install applier deps + Playwright Chromium
-        if: always()
-        working-directory: apply
-        run: |
-          npm install
-          npx playwright install --with-deps chromium
-
       - name: Install resume builder deps (docx + puppeteer)
         if: always()
         working-directory: data/resume
-        run: npm install
+        run: |
+          npm install
+          # CI Ubuntu — install full puppeteer (bundled Chromium); macOS dev uses puppeteer-core + system Chrome
+          npm install puppeteer
+          # Smoke-test Chrome is available
+          node -e "import('puppeteer').then(p => p.launch({headless: true}).then(b => { console.log('chromium OK', b.process().spawnfile); b.close(); }))"
 
-      - name: Auto-apply to AI/SWE Greenhouse matches
+      - name: Tailor resume per match (90-95% coverage)
         if: always()
         env:
-          PORTAL_PASSWORD: ${{ secrets.PORTAL_PASSWORD }}
-          AUTO_APPLY_PROFILE: job-radar
-          # Set AUTO_APPLY_DRY_RUN=1 via workflow_dispatch input to force dry-run
-          AUTO_APPLY_DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
-          AUTO_APPLY_MAX: '30'
+          TAILOR_PROFILE: job-radar
+          TAILOR_MAX: '50'
         run: |
           if [[ ! -f "state/matches/$(date +%Y-%m-%d)-job-radar.json" ]]; then
-            echo "No matches file for today — radar didn't write one. Skipping auto-apply."
+            echo "No matches file — radar didn't write one. Skipping tailoring."
             exit 0
           fi
-          node apply/run-daily.js
+          node apply/tailor-matches.js
 
-      - name: Upload screenshots as artifact
+      - name: Upload tailored resumes as artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: applier-screenshots-${{ github.run_id }}
-          path: state/screenshots/
+          name: tailored-resumes-${{ github.run_id }}
+          path: state/tailored/
           retention-days: 14
           if-no-files-found: ignore
 

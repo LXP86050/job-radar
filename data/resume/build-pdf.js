@@ -7,7 +7,22 @@
 const fs = require('fs');
 const path = require('path');
 
-const CHROME = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';
+/**
+ * Cross-platform Chrome resolution:
+ *   - macOS dev: /Applications/Google Chrome.app
+ *   - Ubuntu CI: use puppeteer's bundled Chrome (install puppeteer not core)
+ *   - Override with env CHROME_PATH if set
+ */
+function resolveChrome() {
+  if (process.env.CHROME_PATH) return process.env.CHROME_PATH;
+  const mac = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';
+  if (require('fs').existsSync(mac)) return mac;
+  // Try common Linux paths
+  const linux = ['/usr/bin/google-chrome', '/usr/bin/chromium-browser', '/usr/bin/chromium'];
+  for (const p of linux) if (require('fs').existsSync(p)) return p;
+  return null; // Let puppeteer use its bundled Chromium
+}
+const CHROME = resolveChrome();
 
 function esc(s) {
   return String(s)
@@ -118,9 +133,11 @@ async function buildPdf(data, outPath) {
   if (!data) data = require('./resume-data');
   if (!outPath) outPath = path.join(__dirname, 'lokesh-pulivarthi-resume.pdf');
 
-  const puppeteer = await import('puppeteer-core');
+  // Prefer puppeteer-core when we have a system Chrome (dev), else full puppeteer (CI).
+  const moduleName = CHROME ? 'puppeteer-core' : 'puppeteer';
+  const puppeteer = await import(moduleName);
   const browser = await puppeteer.launch({
-    executablePath: CHROME,
+    ...(CHROME ? { executablePath: CHROME } : {}),
     headless: 'new',
     args: ['--no-sandbox'],
   });
