@@ -22,7 +22,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from src import companies, email_sender, filters, scoring, state
-from src.sources import ashby, greenhouse, hackernews, lever, smartrecruiters, workable, workday, ycombinator
+from src.sources import ashby, greenhouse, hackernews, lever, remoteok, smartrecruiters, weworkremotely, workable, workday, ycombinator
 
 THRESHOLD = int(os.environ.get("ATS_THRESHOLD", "85"))
 TARGET_HOUR_ET = 7
@@ -77,7 +77,12 @@ def _fetch_all() -> list[dict]:
 
     # ---- Aggregator sources (no per-company slug, one fetch each) ----
     # YC's workatastartup.com API moved/needs auth — disabled until adapter rebuild.
-    for source_name, fetcher in (("hackernews", hackernews.fetch),):
+    aggregators = (
+        ("hackernews", hackernews.fetch),
+        ("remoteok", remoteok.fetch),
+        ("weworkremotely", weworkremotely.fetch),
+    )
+    for source_name, fetcher in aggregators:
         try:
             jobs = fetcher()
             all_jobs.extend(jobs)

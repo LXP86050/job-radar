@@ -188,6 +188,90 @@ COMPANIES: list[tuple[str, str]] = [
     ("retool", "lever"),           ("appliedintuition", "ashby"),
     ("applied-intuition", "ashby"),
 
+    # ---- Wave 2: More H1B sponsors (added 2026-05-30) ----
+    # Focus: confirmed H1B sponsors paying $150K+, mid-applicant-volume.
+
+    # Trading / quant (heavy H1B, $200K+ usually)
+    ("twosigma", "greenhouse"),    ("citadel", "greenhouse"),
+    ("citadelsecurities", "greenhouse"),
+    ("drweng", "greenhouse"),      ("drw", "greenhouse"),
+    ("hrt", "greenhouse"),         ("hudsonrivertrading", "greenhouse"),
+    ("imc", "greenhouse"),         ("imctrading", "greenhouse"),
+    ("optiver", "greenhouse"),     ("akunamatata", "greenhouse"),
+    ("flowtraders", "greenhouse"),
+
+    # FAANG-adjacent / large tech (Greenhouse / Lever)
+    ("roblox", "greenhouse"),      ("robloxgames", "greenhouse"),
+    ("etsy", "greenhouse"),        ("wayfair", "greenhouse"),
+    ("atlassian", "greenhouse"),   ("yelp", "greenhouse"),
+    ("wish", "greenhouse"),        ("stubhub", "greenhouse"),
+    ("zillow", "greenhouse"),      ("opendoor", "greenhouse"),
+    ("uberinc", "greenhouse"),     ("rentthernway", "greenhouse"),
+    ("doordashinc", "greenhouse"),
+
+    # Social / consumer
+    ("snap", "greenhouse"),        ("snapinc", "greenhouse"),
+    ("bumble", "greenhouse"),      ("hingedating", "greenhouse"),
+    ("matchgroup", "greenhouse"),  ("nextdoor", "greenhouse"),
+    ("twitter", "greenhouse"),     ("xcorp", "greenhouse"),
+
+    # Streaming / media
+    ("disneystreaming", "greenhouse"),
+    ("hulu", "greenhouse"),        ("paramount", "greenhouse"),
+    ("spotifyads", "greenhouse"),  ("soundcloud", "greenhouse"),
+
+    # Cloud / infra (more)
+    ("akamai", "greenhouse"),      ("cloudera", "greenhouse"),
+    ("hashi", "greenhouse"),       ("rapid7", "greenhouse"),
+    ("zoominfo", "greenhouse"),    ("braze", "greenhouse"),
+    ("amplitude", "greenhouse"),   ("airtableinc", "greenhouse"),
+    ("zenefits", "greenhouse"),
+
+    # AI / ML extras
+    ("perplexityai", "ashby"),     ("scaleai", "ashby"),
+    ("midjourney", "ashby"),       ("runwayhq", "ashby"),
+    ("synthesia", "lever"),        ("descript", "ashby"),
+    ("glean", "ashby"),            ("gleanwork", "ashby"),
+    ("voltagepark", "ashby"),
+
+    # Fintech extras
+    ("blockchain", "greenhouse"),  ("paxos", "greenhouse"),
+    ("nuvei", "greenhouse"),       ("addepar", "greenhouse"),
+    ("plaidinc", "greenhouse"),    ("tripactions", "greenhouse"),
+    ("navan", "greenhouse"),
+
+    # Adtech / martech
+    ("thetradedesk", "greenhouse"),
+    ("contentstack", "greenhouse"), ("sailthru", "greenhouse"),
+    ("klaviyoadtech", "greenhouse"),
+
+    # Healthcare / biotech
+    ("doximity", "greenhouse"),    ("hims", "greenhouse"),
+    ("invitae", "greenhouse"),     ("benchlinginc", "greenhouse"),
+    ("temporal", "ashby"),         ("temporalio", "ashby"),
+
+    # Robotics / auto
+    ("waymo", "greenhouse"),       ("cruise", "greenhouse"),
+    ("zoox", "greenhouse"),        ("nuro", "greenhouse"),
+    ("rivianauto", "greenhouse"),  ("lucidmotors", "greenhouse"),
+
+    # Lever wave 2
+    ("squarespacecareers", "lever"),
+    ("wealthfrontteam", "lever"),  ("workrise", "lever"),
+    ("hims-careers", "lever"),     ("noom", "lever"),
+    ("squareincapps", "lever"),
+
+    # Ashby wave 2
+    ("braintrust", "ashby"),       ("braintrustdata", "ashby"),
+    ("baseten", "ashby"),          ("modal-labs", "ashby"),
+    ("fireworks-ai", "ashby"),     ("warp-dev", "ashby"),
+    ("cursor-ai", "ashby"),        ("anyscaleinc", "ashby"),
+    ("anysphere", "ashby"),
+
+    # Forward-deployed/customer engineer at AI cos
+    ("scale-ai", "lever"),         ("databricksinc", "greenhouse"),
+    ("anaconda", "greenhouse"),
+
     # ---- Workday (slug = "tenant/site"; adapter probes wd1/wd2/wd3/wd5)
     # NOTE: Microsoft uses a custom backend (jobs.careers.microsoft.com), NOT Workday.
     ("salesforce/External_Career_Site", "workday"),
