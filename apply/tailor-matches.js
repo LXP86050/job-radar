@@ -144,6 +144,30 @@ function slugify(s) {
   return String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 }
 
+/**
+ * Extract a short, file-safe suffix from the job ID that uniquely
+ * disambiguates jobs with the same {company, role, score}. Each ATS
+ * yields a unique id segment after the last ':':
+ *   greenhouse:plaid:123456     → 123456
+ *   lever:netflix:abc-uuid      → abcuuid (last 8 alnum)
+ *   workday:nvidia/External_X   → externalx (slugged)
+ *   hackernews:hn:38712445      → 38712445
+ *   remoteok:1023456            → 1023456
+ *   weworkremotely:foo-bar-baz  → foobarbaz
+ * Returns last 8 alphanumeric chars (lowercase). Empty IDs fall back
+ * to a hash of the URL so the filename can never collide.
+ */
+function jobIdSuffix(job) {
+  const idSegment = String(job.id || '').split(':').pop() || '';
+  const alnum = idSegment.replace(/[^a-z0-9]/gi, '').toLowerCase();
+  if (alnum) return alnum.slice(-8);
+  // Last-resort hash: 8 hex chars of djb2 over the URL
+  const s = String(job.url || job.title || Date.now());
+  let h = 5381;
+  for (let i = 0; i < s.length; i++) h = ((h << 5) + h + s.charCodeAt(i)) >>> 0;
+  return h.toString(16).slice(-8);
+}
+
 const indexPath = path.join(outDir, 'index.json');
 const existingIndex = fs.existsSync(indexPath) ? JSON.parse(fs.readFileSync(indexPath, 'utf8')) : [];
 const existingIds = new Set(existingIndex.map(e => e.job_id));
@@ -159,7 +183,13 @@ const newRows = [];
     const jdText = stripHtml(job.description_html || job.title);
     const companySlug = slugify(job.company);
     const roleSlug = slugify(job.title).slice(0, 60);
-    const baseName = `${companySlug}-${roleSlug}-${job.score || '00'}`.replace(/[^a-z0-9-]/gi, '-').toLowerCase();
+    // Filename pattern: {company}-{role}-{score}-{job_id_short}.pdf
+    // The job_id_short suffix prevents collisions when the same company posts
+    // multiple roles with identical titles (e.g. Sigma Computing has 3
+    // "Senior Software Engineer - Backend" listings).
+    const idSuffix = jobIdSuffix(job);
+    const baseName = `${companySlug}-${roleSlug}-${job.score || '00'}-${idSuffix}`
+      .replace(/[^a-z0-9-]/gi, '-').toLowerCase();
     const pdfPath = path.join(outDir, `${baseName}.pdf`);
     const docxPath = path.join(outDir, `${baseName}.docx`);
 
