@@ -208,5 +208,19 @@
     "matched_skills": 1,
     "pdf": "state/tailored/2026-05-30/instacart-senior-software-engineer-ii-ml-ai-platform-53.pdf",
     "docx": "state/tailored/2026-05-30/instacart-senior-software-engineer-ii-ml-ai-platform-53.docx"
+  },
+  {
+    "job_id": "greenhouse:robinhood:7684760",
+    "company": "robinhood",
+    "role": "Software Engineer, Trade PMR",
+    "location": "Menlo Park, CA, New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7684760?t=gh_src=&gh_jid=7684760",
+    "score": 77,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-05-30/robinhood-software-engineer-trade-pmr-77.pdf",
+    "docx": "state/tailored/2026-05-30/robinhood-software-engineer-trade-pmr-77.docx"
   }
 ]
