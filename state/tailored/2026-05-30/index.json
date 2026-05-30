@@ -222,5 +222,33 @@
     "matched_skills": 6,
     "pdf": "state/tailored/2026-05-30/robinhood-software-engineer-trade-pmr-77.pdf",
     "docx": "state/tailored/2026-05-30/robinhood-software-engineer-trade-pmr-77.docx"
+  },
+  {
+    "job_id": "workday:walmart/WalmartExternal:/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior--Data-Scientist--Machine-Learning-Engineer-_R-2468004",
+    "company": "walmart",
+    "role": "Senior, Data Scientist (Machine Learning Engineer)",
+    "location": "(USA) Crossman Respect Building CA SUNNYVALE Home Office",
+    "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior--Data-Scientist--Machine-Learning-Engineer-_R-2468004",
+    "score": 98,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-05-30/walmart-senior-data-scientist-machine-learning-engineer-98.pdf",
+    "docx": "state/tailored/2026-05-30/walmart-senior-data-scientist-machine-learning-engineer-98.docx"
+  },
+  {
+    "job_id": "workday:walmart/WalmartExternal:/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior--Software-Engineer_R-2465452",
+    "company": "walmart",
+    "role": "Senior, Software Engineer",
+    "location": "(USA) Crossman Respect Building CA SUNNYVALE Home Office",
+    "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior--Software-Engineer_R-2465452",
+    "score": 96,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-05-30/walmart-senior-software-engineer-96.pdf",
+    "docx": "state/tailored/2026-05-30/walmart-senior-software-engineer-96.docx"
   }
 ]
