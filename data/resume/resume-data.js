@@ -23,7 +23,7 @@ module.exports = {
     'AWS and Google Cloud certified.',
 
   skills: {
-    Languages: ['Python', 'JavaScript', 'TypeScript', 'C#', 'Java', 'SQL'],
+    Languages: ['Python', 'JavaScript', 'TypeScript', 'C#', 'SQL'],
     Backend: [
       'Django', 'FastAPI', '.NET', '.NET Core', 'ASP.NET Core',
       'RESTful APIs', 'Microservices Architecture',

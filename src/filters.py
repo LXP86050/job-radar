@@ -21,6 +21,23 @@ def strip_html(s: str) -> str:
     return _WS_RE.sub(" ", s).strip()
 
 
+_HW_JD_RE = re.compile(
+    r"\b(pcb|schematic|soldering|oscilloscope|verilog|vhdl|fpga|asic|rtl|"
+    r"analog circuit|signal integrity|board bring[- ]?up|logic synthesis|"
+    r"place and route|hardware description language|semiconductor|wafer|"
+    r"silicon validation)\b",
+    re.IGNORECASE,
+)
+
+
+def looks_like_hardware(jd_text: str) -> bool:
+    """Conservative hardware-domain detector: 2+ DISTINCT strong hardware signals
+    in the JD body. Title exclusion handles obvious cases (Robotics, Motion
+    Controls, Silicon, …); this catches innocuously-titled 'Software Engineer'
+    roles whose body is really hardware/silicon work."""
+    return len({m.lower() for m in _HW_JD_RE.findall(jd_text or "")}) >= 2
+
+
 def title_matches(title: str, profile: dict) -> bool:
     """Return True if title matches a preferred role and not an excluded one."""
     t = title.lower()
@@ -46,6 +63,11 @@ def is_us_or_remote(location: str) -> bool:
         "china", "uk", "u.k.", "emea", "apac", "latam", "india", "ireland",
         "germany", "france", "spain", "netherlands", "australia", "canada", "japan",
         "brazil", "argentina", "philippines", "indonesia", "thailand", "vietnam",
+        "korea", "south korea", "united kingdom", "scotland", "gurugram", "gurgaon",
+        "kolkata", "ahmedabad", "jaipur", "coimbatore", "romania", "bucharest",
+        "czech", "prague", "hungary", "budapest", "switzerland", "zurich", "italy",
+        "taiwan", "taipei", "malaysia", "kuala lumpur", "new zealand", "egypt",
+        "south africa", "nigeria", "lagos", "kenya", "nairobi", "istanbul", "portugal",
     ]
     if any(x in loc for x in non_us):
         # But "remote, US" or similar should still pass even if it mentions other regions
@@ -150,6 +172,8 @@ def passes_pre_filters(job: dict, profile: dict) -> tuple[bool, str]:
         return False, f"age>{max_age}d"
     jd_text = strip_html(job.get("description_html", ""))
     job["_jd_text"] = jd_text  # cache for scoring
+    if looks_like_hardware(jd_text):
+        return False, "hardware"
     if not sponsors_h1b(jd_text, profile):
         return False, "no-sponsorship"
     sal = extract_max_salary(jd_text + " " + (job.get("compensation_summary") or ""))

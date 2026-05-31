@@ -5,11 +5,12 @@
  *
  * For each match:
  *   1. Take the JD text already on the match object.
- *   2. Tailor to 90-95% coverage (caps at 95%, never 100%).
+ *   2. Tailor per job via lib/tailor.js (inject JD keywords, reorder skills,
+ *      specialize summary; ~95% coverage, honest — never fabricates skills).
  *   3. Write DOCX + PDF to state/tailored/{date}/{company}-{role}-{score}.{pdf,docx}.
  *   4. Build state/tailored/{date}/index.json with all matches + paths.
  *
- * Caps: MAX_TAILOR=50 per run to keep workflow under 60min.
+ * Caps: TAILOR_MAX per run to keep workflow under 60min.
  * Skips: anything already in state/tailored/{date}/ from a prior run.
  *
  * Env:
@@ -21,17 +22,12 @@ const path = require('path');
 
 const ROOT = path.join(__dirname, '..');
 const RESUME_DIR = path.join(ROOT, 'data', 'resume');
-const masterData = require(path.join(RESUME_DIR, 'resume-data'));
 const { buildDocx } = require(path.join(RESUME_DIR, 'build-docx'));
 const { buildPdf } = require(path.join(RESUME_DIR, 'build-pdf'));
-const { extractJdSkills, isPresent, properCase } =
-  require(path.join(RESUME_DIR, 'lib', 'jd-keywords'));
-const profile = require(path.join(RESUME_DIR, '..', 'resume_profile.json'));
+const { tailorToBand } = require(path.join(RESUME_DIR, 'lib', 'tailor'));
 
 const PROFILE = process.env.TAILOR_PROFILE || 'job-radar';
 const MAX_TAILOR = parseInt(process.env.TAILOR_MAX || '50', 10);
-const TARGET_MIN = 0.90;
-const TARGET_MAX = 0.95;
 
 const date = new Date().toISOString().slice(0, 10);
 const matchesPath = path.join(ROOT, 'state', 'matches', `${date}-${PROFILE}.json`);
@@ -45,91 +41,6 @@ fs.mkdirSync(outDir, { recursive: true });
 
 const matches = JSON.parse(fs.readFileSync(matchesPath, 'utf8'));
 console.log(`Found ${matches.length} matches. Cap: ${MAX_TAILOR}/run.\n`);
-
-const CATEGORY_MAP = {
-  languages: 'Languages', backend: 'Backend', frontend: 'Frontend',
-  databases: 'Databases', cloud: 'Cloud & DevOps', ai_ml: 'AI & ML',
-  security: 'Security', concepts: 'Concepts',
-};
-function categoryOf(skill) {
-  for (const [cat, list] of Object.entries(profile.skills)) {
-    if (list.includes(skill.toLowerCase())) return cat;
-  }
-  return null;
-}
-
-const CORE_KEEPERS = new Set([
-  'python', 'javascript', 'typescript', 'c#', 'java', 'sql',
-  'react', 'next.js', 'django', 'fastapi', '.net core',
-  'azure', 'aws', 'kubernetes', 'docker', 'terraform', 'github actions',
-  'rest api', 'rest apis', 'microservices architecture',
-  'large language models (llm, llms)', 'retrieval-augmented generation (rag)',
-  'agentic ai', 'ai agents', 'langchain', 'azure openai (gpt-4)',
-  'system design', 'distributed systems',
-].map(s => s.toLowerCase()));
-
-function flattenResume(d) {
-  return [
-    d.summary,
-    ...Object.values(d.skills).flat(),
-    ...d.experience.flatMap(j => [j.title, j.company, ...j.bullets]),
-    ...d.projects.flatMap(p => [p.name, p.stack, ...p.bullets]),
-    ...d.certifications.flatMap(c => [c.name, c.issuer]),
-  ].join(' \n ').toLowerCase();
-}
-
-function tailorToBand(jdText) {
-  const { all: jdSkills } = extractJdSkills(jdText);
-  const tailored = JSON.parse(JSON.stringify(masterData));
-
-  let haystack = flattenResume(tailored);
-  const stillMissing = jdSkills.filter(s => !isPresent(s.toLowerCase(), haystack));
-  for (const sk of stillMissing) {
-    const target = CATEGORY_MAP[categoryOf(sk)];
-    if (target && tailored.skills[target]) {
-      const formatted = properCase(sk);
-      if (!tailored.skills[target].includes(formatted)) {
-        tailored.skills[target].push(formatted);
-      }
-    }
-  }
-
-  haystack = flattenResume(tailored);
-  let matched = jdSkills.filter(s => isPresent(s.toLowerCase(), haystack));
-  let pct = jdSkills.length ? matched.length / jdSkills.length : 1;
-
-  if (pct > TARGET_MAX) {
-    const candidates = [];
-    for (const [cat, items] of Object.entries(tailored.skills)) {
-      for (const item of items) {
-        if (CORE_KEEPERS.has(item.toLowerCase())) continue;
-        for (const jdSk of matched) {
-          if (item.toLowerCase().includes(jdSk.toLowerCase()) ||
-              jdSk.toLowerCase().includes(item.toLowerCase())) {
-            candidates.push({ cat, item });
-            break;
-          }
-        }
-      }
-    }
-    candidates.sort(() => Math.random() - 0.5);
-    for (const { cat, item } of candidates) {
-      const idx = tailored.skills[cat].indexOf(item);
-      if (idx === -1) continue;
-      tailored.skills[cat].splice(idx, 1);
-      haystack = flattenResume(tailored);
-      matched = jdSkills.filter(s => isPresent(s.toLowerCase(), haystack));
-      const newPct = jdSkills.length ? matched.length / jdSkills.length : 1;
-      if (newPct < TARGET_MIN) {
-        tailored.skills[cat].splice(idx, 0, item);
-        continue;
-      }
-      pct = newPct;
-      if (pct <= TARGET_MAX) break;
-    }
-  }
-  return { tailored, jdSkillCount: jdSkills.length, matched: matched.length, coverage: pct };
-}
 
 function stripHtml(s) {
   return String(s || '')
@@ -162,7 +73,7 @@ function jobIdSuffix(job) {
   const alnum = idSegment.replace(/[^a-z0-9]/gi, '').toLowerCase();
   if (alnum) return alnum.slice(-8);
   // Last-resort hash: 8 hex chars of djb2 over the URL
-  const s = String(job.url || job.title || Date.now());
+  const s = String(job.url || job.title || 'x');
   let h = 5381;
   for (let i = 0; i < s.length; i++) h = ((h << 5) + h + s.charCodeAt(i)) >>> 0;
   return h.toString(16).slice(-8);
@@ -185,8 +96,7 @@ const newRows = [];
     const roleSlug = slugify(job.title).slice(0, 60);
     // Filename pattern: {company}-{role}-{score}-{job_id_short}.pdf
     // The job_id_short suffix prevents collisions when the same company posts
-    // multiple roles with identical titles (e.g. Sigma Computing has 3
-    // "Senior Software Engineer - Backend" listings).
+    // multiple roles with identical titles.
     const idSuffix = jobIdSuffix(job);
     const baseName = `${companySlug}-${roleSlug}-${job.score || '00'}-${idSuffix}`
       .replace(/[^a-z0-9-]/gi, '-').toLowerCase();

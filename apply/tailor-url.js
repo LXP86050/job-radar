@@ -104,7 +104,7 @@ function categoryOf(skill) {
 
 /* Skills considered "core" — we don't drop these even if coverage too high. */
 const CORE_KEEPERS = new Set([
-  'python', 'javascript', 'typescript', 'c#', 'java', 'sql',
+  'python', 'javascript', 'typescript', 'c#', 'sql',
   'react', 'next.js', 'django', 'fastapi', '.net core',
   'azure', 'aws', 'kubernetes', 'docker', 'terraform', 'github actions',
   'rest api', 'rest apis', 'microservices architecture',
