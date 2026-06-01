@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "job_id": "workday:hpe/Jobsathpe:/job/Spring-Texas-United-States-of-America/AI-Engineer---Developer-Productivity_1207653-1",
+    "company": "hpe",
+    "role": "AI Engineer - Developer Productivity",
+    "location": "2 Locations",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Engineer---Developer-Productivity_1207653-1",
+    "score": 68,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-06-01/hpe-ai-engineer-developer-productivity-68-12076531.pdf",
+    "docx": "state/tailored/2026-06-01/hpe-ai-engineer-developer-productivity-68-12076531.docx"
+  },
+  {
+    "job_id": "workday:hpe/Jobsathpe:/job/Spring-Texas-United-States-of-America/AI-Engineer---Developer-Productivity_1207650-2",
+    "company": "hpe",
+    "role": "AI Engineer - Developer Productivity",
+    "location": "2 Locations",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Engineer---Developer-Productivity_1207650-2",
+    "score": 68,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-06-01/hpe-ai-engineer-developer-productivity-68-12076502.pdf",
+    "docx": "state/tailored/2026-06-01/hpe-ai-engineer-developer-productivity-68-12076502.docx"
+  }
+]
