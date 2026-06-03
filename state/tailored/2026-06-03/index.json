@@ -1,0 +1,44 @@
+[
+  {
+    "job_id": "workday:walmart/WalmartExternal:/job/Bellevue-WA/Staff-Software-Engineer_R-2530951-1",
+    "company": "walmart",
+    "role": "Staff Software Engineer",
+    "location": "Bellevue, WA",
+    "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bellevue-WA/Staff-Software-Engineer_R-2530951-1",
+    "score": 96,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 14,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-06-03/walmart-staff-software-engineer-96-25309511.pdf",
+    "docx": "state/tailored/2026-06-03/walmart-staff-software-engineer-96-25309511.docx"
+  },
+  {
+    "job_id": "workday:walmart/WalmartExternal:/job/Bentonville-AR/Staff--Software-Engineer_R-2530997",
+    "company": "walmart",
+    "role": "Staff, Software Engineer",
+    "location": "Bentonville, AR",
+    "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Staff--Software-Engineer_R-2530997",
+    "score": 93,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 14,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-06-03/walmart-staff-software-engineer-93-r2530997.pdf",
+    "docx": "state/tailored/2026-06-03/walmart-staff-software-engineer-93-r2530997.docx"
+  },
+  {
+    "job_id": "workday:adobe/external_experienced:/job/San-Jose/Machine-Learning-Engineer_R169351",
+    "company": "adobe",
+    "role": "Machine Learning Engineer",
+    "location": "San Jose",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Machine-Learning-Engineer_R169351",
+    "score": 52,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 3,
+    "matched_skills": 3,
+    "pdf": "state/tailored/2026-06-03/adobe-machine-learning-engineer-52-rr169351.pdf",
+    "docx": "state/tailored/2026-06-03/adobe-machine-learning-engineer-52-rr169351.docx"
+  }
+]
