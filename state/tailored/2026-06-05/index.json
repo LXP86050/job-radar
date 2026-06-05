@@ -376,5 +376,33 @@
     "matched_skills": 2,
     "pdf": "state/tailored/2026-06-05/adobe-machine-learning-engineer-52-rr167407.pdf",
     "docx": "state/tailored/2026-06-05/adobe-machine-learning-engineer-52-rr167407.docx"
+  },
+  {
+    "job_id": "workday:adobe/external_experienced:/job/Bangalore/Machine-Learning-Engineer-4_R168142-1",
+    "company": "adobe",
+    "role": "Machine Learning Engineer 4",
+    "location": "2 Locations",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Machine-Learning-Engineer-4_R168142-1",
+    "score": 73,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 5,
+    "matched_skills": 5,
+    "pdf": "state/tailored/2026-06-05/adobe-machine-learning-engineer-4-73-r1681421.pdf",
+    "docx": "state/tailored/2026-06-05/adobe-machine-learning-engineer-4-73-r1681421.docx"
+  },
+  {
+    "job_id": "greenhouse:affirm:7724917003",
+    "company": "affirm",
+    "role": "Software Engineer I, Backend (Servicing Platforms)",
+    "location": "Remote Poland",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7724917003",
+    "score": 66,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-06-05/affirm-software-engineer-i-backend-servicing-platforms-66-24917003.pdf",
+    "docx": "state/tailored/2026-06-05/affirm-software-engineer-i-backend-servicing-platforms-66-24917003.docx"
   }
 ]
