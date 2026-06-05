@@ -424,6 +424,7 @@
   "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-AI-Infrastructure-Engineer---DGX-Cloud_JR2018820": "2026-06-05",
   "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-ASIC-Front-End-Infrastructure-Engineer_JR2018704-1": "2026-05-29",
   "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Applied-AI-and-AI-Infrastructure-Engineer---Chip-Design-and-DFX_JR2018256": "2026-06-03",
+  "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-ML-Platform-Engineer_JR2013616": "2026-06-05",
   "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer--GeForce-NOW_JR2018411": "2026-06-01",
   "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Solutions-Architect--AI-Cloud-Services_JR2018018": "2026-06-03",
   "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Solutions-Architect--AI-Cluster-Performance-and-Telemetry_JR2019329": "2026-06-04",
@@ -466,8 +467,11 @@
   "workday:workday/Workday:/job/USAVAReston/Principal-Cybersecurity-Engineer_JR-0106961": "2026-05-29",
   "workday:workday/Workday:/job/USAVAReston/Senior-Cybersecurity-Engineer_JR-0104087": "2026-05-29",
   "workday:workday/Workday:/job/USAVAReston/Senior-Principal-Technical-Program-Manager--US-Federal_JR-0106534": "2026-05-29",
+  "workday:workday/Workday:/job/USAVAReston/Senior-Site-Reliability-Engineer_JR-0104084": "2026-06-05",
   "workday:workday/Workday:/job/USAVAReston/Senior-Technical-Program-Manager--US-Federal-_JR-0106077": "2026-05-29",
   "workday:workday/Workday:/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0105390": "2026-05-29",
   "workday:workday/Workday:/job/USAVAReston/Sr-Cybersecurity-Engineer---US-Federal_JR-0107020": "2026-05-29",
-  "workday:workday/Workday:/job/USAVAReston/Sr-Cybersecurity-Engineer---US-Federal_JR-0107021": "2026-05-29"
+  "workday:workday/Workday:/job/USAVAReston/Sr-Cybersecurity-Engineer---US-Federal_JR-0107021": "2026-05-29",
+  "workday:workday/Workday:/job/USAVAReston/Sr-Site-Reliability-Engineer--Operations--US-Federal-_JR-0103681": "2026-06-05",
+  "workday:workday/Workday:/job/USAVAReston/Sr-Site-Reliability-Engineer--US-Federal-_JR-0103569": "2026-06-05"
 }

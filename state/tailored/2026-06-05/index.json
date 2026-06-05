@@ -950,5 +950,61 @@
     "matched_skills": 2,
     "pdf": "state/tailored/2026-06-05/pinterest-staff-software-engineer-big-data-storage-52-7437356.pdf",
     "docx": "state/tailored/2026-06-05/pinterest-staff-software-engineer-big-data-storage-52-7437356.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Indiana---Indianapolis/Sr-Salesforce-Developer--Pub-Sec_JR338155",
+    "company": "salesforce",
+    "role": "PubSec Sr. Salesforce Software Engineer (SMTS)",
+    "location": "3 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Indiana---Indianapolis/Sr-Salesforce-Developer--Pub-Sec_JR338155",
+    "score": 91,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-06-05/salesforce-pubsec-sr-salesforce-software-engineer-smts-91-jr338155.pdf",
+    "docx": "state/tailored/2026-06-05/salesforce-pubsec-sr-salesforce-software-engineer-smts-91-jr338155.docx"
+  },
+  {
+    "job_id": "workday:autodesk/Ext:/job/Montreal-QC-CAN/Senior-Software-Engineer-in-Test_26WD98725-1",
+    "company": "autodesk",
+    "role": "Senior Software Engineer in Test",
+    "location": "3 Locations",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Senior-Software-Engineer-in-Test_26WD98725-1",
+    "score": 90,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-06-05/autodesk-senior-software-engineer-in-test-90-wd987251.pdf",
+    "docx": "state/tailored/2026-06-05/autodesk-senior-software-engineer-in-test-90-wd987251.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-ML-Platform-Engineer_JR2013616",
+    "company": "nvidia",
+    "role": "Senior ML Platform Engineer",
+    "location": "6 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ML-Platform-Engineer_JR2013616",
+    "score": 89,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-06-05/nvidia-senior-ml-platform-engineer-89-r2013616.pdf",
+    "docx": "state/tailored/2026-06-05/nvidia-senior-ml-platform-engineer-89-r2013616.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-MA-Remote/Senior-Software-Engineer---Developer-Tools-for-Deep-Learning_JR2013176",
+    "company": "nvidia",
+    "role": "Senior Software Engineer - Developer Tools for Deep Learning",
+    "location": "US, MA, Remote",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Remote/Senior-Software-Engineer---Developer-Tools-for-Deep-Learning_JR2013176",
+    "score": 57,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-06-05/nvidia-senior-software-engineer-developer-tools-for-deep-learning-57-r2013176.pdf",
+    "docx": "state/tailored/2026-06-05/nvidia-senior-software-engineer-developer-tools-for-deep-learning-57-r2013176.docx"
   }
 ]
