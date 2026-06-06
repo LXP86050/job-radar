@@ -82,5 +82,19 @@
     "matched_skills": 2,
     "pdf": "state/tailored/2026-06-06/chime-software-engineer-mypay-51-99450002.pdf",
     "docx": "state/tailored/2026-06-06/chime-software-engineer-mypay-51-99450002.docx"
+  },
+  {
+    "job_id": "workday:citi/2:/job/Irving-Texas-United-States/Data-Engineer--AVP_26956803",
+    "company": "citi",
+    "role": "Senior Data Platform Engineer Assistant Vice President",
+    "location": "2 Locations",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Data-Engineer--AVP_26956803",
+    "score": 90,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-06-06/citi-senior-data-platform-engineer-assistant-vice-president-90-26956803.pdf",
+    "docx": "state/tailored/2026-06-06/citi-senior-data-platform-engineer-assistant-vice-president-90-26956803.docx"
   }
 ]
