@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "job_id": "greenhouse:cribl:5992317004",
+    "company": "cribl",
+    "role": "Staff Software Engineer, Cribl AI",
+    "location": "US - California",
+    "url": "https://cribl.io/job-detail/?gh_jid=5992317004",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-06-07/cribl-staff-software-engineer-cribl-ai-94-92317004.pdf",
+    "docx": "state/tailored/2026-06-07/cribl-staff-software-engineer-cribl-ai-94-92317004.docx"
+  }
+]
