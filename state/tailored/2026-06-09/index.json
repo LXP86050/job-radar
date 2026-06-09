@@ -208,5 +208,33 @@
     "matched_skills": 2,
     "pdf": "state/tailored/2026-06-09/nvidia-senior-software-engineer-gpu-networking-52-r2016780.pdf",
     "docx": "state/tailored/2026-06-09/nvidia-senior-software-engineer-gpu-networking-52-r2016780.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Senior-Machine-Learning-Engineer--AI-Foundations-_R243955-1",
+    "company": "capitalone",
+    "role": "Senior Machine Learning Engineer (AI Foundations)",
+    "location": "2 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Machine-Learning-Engineer--AI-Foundations-_R243955-1",
+    "score": 90,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-06-09/capitalone-senior-machine-learning-engineer-ai-foundations-90-r2439551.pdf",
+    "docx": "state/tailored/2026-06-09/capitalone-senior-machine-learning-engineer-ai-foundations-90-r2439551.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/India---Hyderabad/Software-Engineering-LMTS_JR338174",
+    "company": "salesforce",
+    "role": "Software Engineering LMTS",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-LMTS_JR338174",
+    "score": 86,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-06-09/salesforce-software-engineering-lmts-86-jr338174.pdf",
+    "docx": "state/tailored/2026-06-09/salesforce-software-engineering-lmts-86-jr338174.docx"
   }
 ]
