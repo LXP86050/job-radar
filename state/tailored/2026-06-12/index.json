@@ -1,0 +1,44 @@
+[
+  {
+    "job_id": "workday:paypal/jobs:/job/Austin-Texas-United-States-of-America/Sr-Machine-Learning-Engineer_R0136908",
+    "company": "paypal",
+    "role": "Sr Machine Learning Engineer",
+    "location": "Austin, Texas, United States of America",
+    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Machine-Learning-Engineer_R0136908",
+    "score": 90,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-06-12/paypal-sr-machine-learning-engineer-90-r0136908.pdf",
+    "docx": "state/tailored/2026-06-12/paypal-sr-machine-learning-engineer-90-r0136908.docx"
+  },
+  {
+    "job_id": "workday:paypal/jobs:/job/San-Jose-California-United-States-of-America/Software-Engineer_R0136907",
+    "company": "paypal",
+    "role": "Software Engineer",
+    "location": "San Jose, California, United States of America",
+    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0136907",
+    "score": 72,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-06-12/paypal-software-engineer-72-r0136907.pdf",
+    "docx": "state/tailored/2026-06-12/paypal-software-engineer-72-r0136907.docx"
+  },
+  {
+    "job_id": "ashby:crusoe:21ac9f73-82cc-4d16-a7d7-59095d2ea8d3",
+    "company": "crusoe",
+    "role": "Senior Staff Software Engineer, Billing Platform",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/crusoe/21ac9f73-82cc-4d16-a7d7-59095d2ea8d3",
+    "score": 61,
+    "source": "ashby",
+    "coverage": 100,
+    "jd_skills": 3,
+    "matched_skills": 3,
+    "pdf": "state/tailored/2026-06-12/crusoe-senior-staff-software-engineer-billing-platform-61-5d2ea8d3.pdf",
+    "docx": "state/tailored/2026-06-12/crusoe-senior-staff-software-engineer-billing-platform-61-5d2ea8d3.docx"
+  }
+]
