@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "job_id": "workday:workday/Workday:/job/Canada-ON-Toronto/Senior-Software-Engineer---Data-Platform-and-Agent-Trust_JR-0106848",
+    "company": "workday",
+    "role": "Software Engineer or Senior Software Engineer - Data Hub",
+    "location": "2 Locations",
+    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-ON-Toronto/Senior-Software-Engineer---Data-Platform-and-Agent-Trust_JR-0106848",
+    "score": 92,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-06-15/workday-software-engineer-or-senior-software-engineer-data-hub-92-r0106848.pdf",
+    "docx": "state/tailored/2026-06-15/workday-software-engineer-or-senior-software-engineer-data-hub-92-r0106848.docx"
+  },
+  {
+    "job_id": "greenhouse:lyft:8586322002",
+    "company": "lyft",
+    "role": "Senior Software Engineer, Growth Platforms",
+    "location": "New York Office, San Francisco Office",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8586322002?gh_jid=8586322002",
+    "score": 82,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-06-15/lyft-senior-software-engineer-growth-platforms-82-86322002.pdf",
+    "docx": "state/tailored/2026-06-15/lyft-senior-software-engineer-growth-platforms-82-86322002.docx"
+  },
+  {
+    "job_id": "greenhouse:lyft:8586469002",
+    "company": "lyft",
+    "role": "Senior Software Engineer, Growth Platforms",
+    "location": "New York Office, San Francisco Office",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8586469002?gh_jid=8586469002",
+    "score": 82,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-06-15/lyft-senior-software-engineer-growth-platforms-82-86469002.pdf",
+    "docx": "state/tailored/2026-06-15/lyft-senior-software-engineer-growth-platforms-82-86469002.docx"
+  },
+  {
+    "job_id": "workday:hpe/Jobsathpe:/job/Durham-North-Carolina-United-States-of-America/Senior-Systems-Software-Engineer_1207869-2",
+    "company": "hpe",
+    "role": "Senior Systems/Software Engineer",
+    "location": "4 Locations",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Durham-North-Carolina-United-States-of-America/Senior-Systems-Software-Engineer_1207869-2",
+    "score": 66,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 5,
+    "matched_skills": 5,
+    "pdf": "state/tailored/2026-06-15/hpe-senior-systems-software-engineer-66-12078692.pdf",
+    "docx": "state/tailored/2026-06-15/hpe-senior-systems-software-engineer-66-12078692.docx"
+  }
+]
