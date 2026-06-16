@@ -341,6 +341,7 @@
   "greenhouse:scaleai:4520320005": "2026-05-08",
   "greenhouse:scaleai:4599202005": "2026-05-08",
   "greenhouse:scaleai:4646888005": "2026-05-08",
+  "greenhouse:scaleai:4684073005": "2026-06-16",
   "greenhouse:scaleai:4689751005": "2026-05-08",
   "greenhouse:scaleai:4699806005": "2026-06-04",
   "greenhouse:scaleai:4703275005": "2026-06-04",
@@ -430,6 +431,7 @@
   "workday:adobe/external_experienced:/job/San-Jose/Senior-AI-Platform-Engineer_R165968-1": "2026-05-29",
   "workday:adobe/external_experienced:/job/San-Jose/Software-Development-Engineer---Data---Cloud-Engineering_R169309-1": "2026-06-11",
   "workday:adobe/external_experienced:/job/Seattle/Security-Engineer_R167438": "2026-06-12",
+  "workday:adobe/external_experienced:/job/Seattle/Security-Engineer_R167562": "2026-06-16",
   "workday:adobe/external_experienced:/job/Seattle/Senior-AI-Platform-Engineer_R169399": "2026-06-04",
   "workday:adobe/external_experienced:/job/Seattle/Sr-Product-Security-Engineer_R165755": "2026-06-04",
   "workday:autodesk/Ext:/job/AMER---Canada---Ontario---Toronto---University-Ave/Principal-Software-Engineer---Web-Platform-Engineering_26WD97218-1": "2026-05-29",
@@ -515,6 +517,7 @@
   "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Applied-AI-and-AI-Infrastructure-Engineer---Chip-Design-and-DFX_JR2018256": "2026-06-03",
   "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Cybersecurity-Engineer---Identity-Governance_JR2018882": "2026-06-08",
   "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-ML-Platform-Engineer_JR2013616": "2026-06-05",
+  "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Network-Solution-Architect---AI-Fabrics_JR2017098": "2026-06-16",
   "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---HPC_JR2013271": "2026-06-15",
   "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer--GeForce-NOW_JR2018411": "2026-06-01",
   "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer_JR2019474": "2026-06-10",
@@ -594,5 +597,6 @@
   "workday:workday/Workday:/job/USAVAReston/Sr-Cybersecurity-Engineer---US-Federal_JR-0107021": "2026-05-29",
   "workday:workday/Workday:/job/USAVAReston/Sr-Cybersecurity-Engineer_JR-0107488": "2026-06-09",
   "workday:workday/Workday:/job/USAVAReston/Sr-Site-Reliability-Engineer--Operations--US-Federal-_JR-0103681": "2026-06-05",
-  "workday:workday/Workday:/job/USAVAReston/Sr-Site-Reliability-Engineer--US-Federal-_JR-0103569": "2026-06-05"
+  "workday:workday/Workday:/job/USAVAReston/Sr-Site-Reliability-Engineer--US-Federal-_JR-0103569": "2026-06-05",
+  "workday:workday/Workday:/job/USAVAReston/XMLNAME--Sr--Site-Reliability-Engineer--US-Federal-_JR-0108251": "2026-06-16"
 }
