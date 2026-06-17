@@ -1,4 +1,5 @@
 {
+  "ashby:airbyte:702e1178-140c-45e3-bb19-25a86cc66925": "2026-06-17",
   "ashby:crusoe:0dc6317f-5dcb-4889-9844-5154bb667b11": "2026-06-09",
   "ashby:crusoe:1a25cff3-cc55-4494-900a-a10e49352d6d": "2026-05-16",
   "ashby:crusoe:2f962450-58bb-42aa-8f74-ce1796cc9566": "2026-05-29",
@@ -350,6 +351,8 @@
   "greenhouse:sigmacomputing:7729895003": "2026-05-14",
   "greenhouse:sigmacomputing:7729896003": "2026-05-14",
   "greenhouse:sigmacomputing:7747571003": "2026-05-29",
+  "greenhouse:sigmacomputing:7774460003": "2026-06-17",
+  "greenhouse:sigmacomputing:7774471003": "2026-06-17",
   "greenhouse:sofi:7565483003": "2026-06-01",
   "greenhouse:sofi:7661740003": "2026-05-29",
   "greenhouse:stripe:6932491": "2026-05-29",
@@ -441,6 +444,7 @@
   "workday:autodesk/Ext:/job/San-Francisco-CA-USA/Senior-Manager---Platform-Engineering-and-Operations_26WD98491-1": "2026-06-01",
   "workday:bmo/External:/job/Chicago-IL-USA/Principal-Azure-Cloud-Engineer_R260011399": "2026-06-02",
   "workday:bmo/External:/job/Chicago-IL-USA/Senior-Azure-Cloud-Platform-Engineer_R260011396": "2026-06-02",
+  "workday:bmo/External:/job/Chicago-IL-USA/Senior-Cloud-Engineer---Data--AI_R250031170": "2026-06-17",
   "workday:bmo/External:/job/REMOTETELETRAVAIL-ON-CAN/Senior-Cloud-Engineer_R260015831": "2026-06-02",
   "workday:bmo/External:/job/Toronto-ON-CAN/Senior-Cloud-Engineer_R250027870": "2026-06-10",
   "workday:capitalone/Capital_One:/job/Houston-TX/Lead-Platform-Engineer--pTAL--TAL--TACL--HPE-Nonstop--Enform--SQL----Global-Payment-Network_R244557-1": "2026-06-12",
