@@ -460,5 +460,19 @@
     "matched_skills": 2,
     "pdf": "state/tailored/2026-06-17/drweng-software-engineer-cumberland-ficco-tools-engineering-51-7392396.pdf",
     "docx": "state/tailored/2026-06-17/drweng-software-engineer-cumberland-ficco-tools-engineering-51-7392396.docx"
+  },
+  {
+    "job_id": "greenhouse:twilio:7993530",
+    "company": "twilio",
+    "role": "Senior Software Engineer",
+    "location": "Remote - Estonia",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7993530",
+    "score": 85,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-06-17/twilio-senior-software-engineer-85-7993530.pdf",
+    "docx": "state/tailored/2026-06-17/twilio-senior-software-engineer-85-7993530.docx"
   }
 ]
