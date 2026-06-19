@@ -124,5 +124,19 @@
     "matched_skills": 11,
     "pdf": "state/tailored/2026-06-19/salesforce-manager-sr-manager-software-engineering-91-jr324607.pdf",
     "docx": "state/tailored/2026-06-19/salesforce-manager-sr-manager-software-engineering-91-jr324607.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Washington---Bellevue/Software-Engineering-SMTS--Enterprise-IAM_JR338885",
+    "company": "salesforce",
+    "role": "Sr. Software Engineering, Enterprise IAM",
+    "location": "3 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-SMTS--Enterprise-IAM_JR338885",
+    "score": 80,
+    "source": "workday",
+    "coverage": 95,
+    "jd_skills": 22,
+    "matched_skills": 21,
+    "pdf": "state/tailored/2026-06-19/salesforce-sr-software-engineering-enterprise-iam-80-jr338885.pdf",
+    "docx": "state/tailored/2026-06-19/salesforce-sr-software-engineering-enterprise-iam-80-jr338885.docx"
   }
 ]
