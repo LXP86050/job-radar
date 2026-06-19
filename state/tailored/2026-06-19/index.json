@@ -82,5 +82,33 @@
     "matched_skills": 1,
     "pdf": "state/tailored/2026-06-19/nuro-senior-software-engineer-sensor-platform-50-8017590.pdf",
     "docx": "state/tailored/2026-06-19/nuro-senior-software-engineer-sensor-platform-50-8017590.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Germany---Munich/Forward-Deployed-Engineer_JR346359",
+    "company": "salesforce",
+    "role": "Forward Deployed Engineer",
+    "location": "5 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Germany---Munich/Forward-Deployed-Engineer_JR346359",
+    "score": 94,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-06-19/salesforce-forward-deployed-engineer-94-jr346359.pdf",
+    "docx": "state/tailored/2026-06-19/salesforce-forward-deployed-engineer-94-jr346359.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---San-Francisco/Mid-Senior-Lead-Backend-Software-Engineer_JR316560",
+    "company": "salesforce",
+    "role": "Senior Staff Engineer, API Platform (DET)",
+    "location": "5 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Mid-Senior-Lead-Backend-Software-Engineer_JR316560",
+    "score": 92,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-06-19/salesforce-senior-staff-engineer-api-platform-det-92-jr316560.pdf",
+    "docx": "state/tailored/2026-06-19/salesforce-senior-staff-engineer-api-platform-det-92-jr316560.docx"
   }
 ]
