@@ -138,5 +138,19 @@
     "matched_skills": 21,
     "pdf": "state/tailored/2026-06-19/salesforce-sr-software-engineering-enterprise-iam-80-jr338885.pdf",
     "docx": "state/tailored/2026-06-19/salesforce-sr-software-engineering-enterprise-iam-80-jr338885.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---San-Francisco/Software-Engineering-SMTS_JR347007",
+    "company": "salesforce",
+    "role": "Software Engineering SMTS",
+    "location": "California - San Francisco",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR347007",
+    "score": 82,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-06-19/salesforce-software-engineering-smts-82-jr347007.pdf",
+    "docx": "state/tailored/2026-06-19/salesforce-software-engineering-smts-82-jr347007.docx"
   }
 ]
