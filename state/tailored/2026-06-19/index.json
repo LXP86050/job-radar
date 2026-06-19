@@ -152,5 +152,19 @@
     "matched_skills": 8,
     "pdf": "state/tailored/2026-06-19/salesforce-software-engineering-smts-82-jr347007.pdf",
     "docx": "state/tailored/2026-06-19/salesforce-software-engineering-smts-82-jr347007.docx"
+  },
+  {
+    "job_id": "workday:adobe/external_experienced:/job/Seattle/Sr-Staff-Machine-Learning-Engineer--Adobe-Firefly-Services_R167971",
+    "company": "adobe",
+    "role": "Staff Machine Learning Engineer, Adobe Firefly Services",
+    "location": "Seattle",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/Sr-Staff-Machine-Learning-Engineer--Adobe-Firefly-Services_R167971",
+    "score": 68,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 5,
+    "matched_skills": 5,
+    "pdf": "state/tailored/2026-06-19/adobe-staff-machine-learning-engineer-adobe-firefly-services-68-sr167971.pdf",
+    "docx": "state/tailored/2026-06-19/adobe-staff-machine-learning-engineer-adobe-firefly-services-68-sr167971.docx"
   }
 ]
