@@ -348,5 +348,33 @@
     "matched_skills": 2,
     "pdf": "state/tailored/2026-06-23/waymo-senior-staff-machine-learning-engineer-llm-vlm-model-archite-51-8022298.pdf",
     "docx": "state/tailored/2026-06-23/waymo-senior-staff-machine-learning-engineer-llm-vlm-model-archite-51-8022298.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/AI-Platform-Engineer_JR2014718-1",
+    "company": "nvidia",
+    "role": "Senior Staff AI Platform Engineer",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Platform-Engineer_JR2014718-1",
+    "score": 92,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-06-23/nvidia-senior-staff-ai-platform-engineer-92-20147181.pdf",
+    "docx": "state/tailored/2026-06-23/nvidia-senior-staff-ai-platform-engineer-92-20147181.docx"
+  },
+  {
+    "job_id": "workday:tmobile/External:/job/Frisco-Texas/Software-Engineer_REQ356862-1",
+    "company": "tmobile",
+    "role": "Software Engineer",
+    "location": "Frisco, Texas",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Frisco-Texas/Software-Engineer_REQ356862-1",
+    "score": 65,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 5,
+    "matched_skills": 5,
+    "pdf": "state/tailored/2026-06-23/tmobile-software-engineer-65-q3568621.pdf",
+    "docx": "state/tailored/2026-06-23/tmobile-software-engineer-65-q3568621.docx"
   }
 ]
