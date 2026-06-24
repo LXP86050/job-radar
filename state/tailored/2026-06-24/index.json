@@ -12,5 +12,19 @@
     "matched_skills": 5,
     "pdf": "state/tailored/2026-06-24/adobe-ajo-platform-engineer-65-rr168315.pdf",
     "docx": "state/tailored/2026-06-24/adobe-ajo-platform-engineer-65-rr168315.docx"
+  },
+  {
+    "job_id": "ashby:posthog:4bef8fa2-9476-48e4-b7df-1099a571d41c",
+    "company": "posthog",
+    "role": "Backend Engineer - Europe/UK Timezone",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/posthog/4bef8fa2-9476-48e4-b7df-1099a571d41c",
+    "score": 84,
+    "source": "ashby",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-06-24/posthog-backend-engineer-europe-uk-timezone-84-a571d41c.pdf",
+    "docx": "state/tailored/2026-06-24/posthog-backend-engineer-europe-uk-timezone-84-a571d41c.docx"
   }
 ]
