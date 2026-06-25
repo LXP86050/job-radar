@@ -124,5 +124,19 @@
     "matched_skills": 3,
     "pdf": "state/tailored/2026-06-25/imc-machine-learning-engineer-63-70309101.pdf",
     "docx": "state/tailored/2026-06-25/imc-machine-learning-engineer-63-70309101.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/Germany-Remote/Senior-Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020234-1",
+    "company": "nvidia",
+    "role": "Senior Systems Software Engineer, Kubernetes Scale - DGX Cloud",
+    "location": "6 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Senior-Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020234-1",
+    "score": 90,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-06-25/nvidia-senior-systems-software-engineer-kubernetes-scale-dgx-cloud-90-20202341.pdf",
+    "docx": "state/tailored/2026-06-25/nvidia-senior-systems-software-engineer-kubernetes-scale-dgx-cloud-90-20202341.docx"
   }
 ]
