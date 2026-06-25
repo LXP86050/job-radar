@@ -68,5 +68,61 @@
     "matched_skills": 7,
     "pdf": "state/tailored/2026-06-25/gusto-staff-software-engineer-core-products-71-8008696.pdf",
     "docx": "state/tailored/2026-06-25/gusto-staff-software-engineer-core-products-71-8008696.docx"
+  },
+  {
+    "job_id": "greenhouse:scaleai:4654897005",
+    "company": "scaleai",
+    "role": "Senior Software Engineer - Agentic Tooling & Productivity",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4654897005",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 95,
+    "jd_skills": 20,
+    "matched_skills": 19,
+    "pdf": "state/tailored/2026-06-25/scaleai-senior-software-engineer-agentic-tooling-productivity-95-54897005.pdf",
+    "docx": "state/tailored/2026-06-25/scaleai-senior-software-engineer-agentic-tooling-productivity-95-54897005.docx"
+  },
+  {
+    "job_id": "greenhouse:vercel:6093255004",
+    "company": "vercel",
+    "role": "Security Software Engineer, IAM",
+    "location": "Office - San Francisco",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6093255004",
+    "score": 92,
+    "source": "greenhouse",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-06-25/vercel-security-software-engineer-iam-92-93255004.pdf",
+    "docx": "state/tailored/2026-06-25/vercel-security-software-engineer-iam-92-93255004.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/New-York-NY/Lead-Software-Engineer--Full-Stack_R245424-2",
+    "company": "capitalone",
+    "role": "Lead Software Engineer, Full Stack",
+    "location": "New York, NY",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Software-Engineer--Full-Stack_R245424-2",
+    "score": 84,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 17,
+    "matched_skills": 16,
+    "pdf": "state/tailored/2026-06-25/capitalone-lead-software-engineer-full-stack-84-r2454242.pdf",
+    "docx": "state/tailored/2026-06-25/capitalone-lead-software-engineer-full-stack-84-r2454242.docx"
+  },
+  {
+    "job_id": "greenhouse:imc:4570309101",
+    "company": "imc",
+    "role": "Machine Learning Engineer",
+    "location": "Chicago, New York",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4570309101",
+    "score": 63,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 3,
+    "matched_skills": 3,
+    "pdf": "state/tailored/2026-06-25/imc-machine-learning-engineer-63-70309101.pdf",
+    "docx": "state/tailored/2026-06-25/imc-machine-learning-engineer-63-70309101.docx"
   }
 ]
