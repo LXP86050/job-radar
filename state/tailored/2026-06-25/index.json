@@ -138,5 +138,47 @@
     "matched_skills": 9,
     "pdf": "state/tailored/2026-06-25/nvidia-senior-systems-software-engineer-kubernetes-scale-dgx-cloud-90-20202341.pdf",
     "docx": "state/tailored/2026-06-25/nvidia-senior-systems-software-engineer-kubernetes-scale-dgx-cloud-90-20202341.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Israel---Tel-Aviv/Software-Engineering-AMTS_JR348202-1",
+    "company": "salesforce",
+    "role": "Software Engineering AMTS",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Israel---Tel-Aviv/Software-Engineering-AMTS_JR348202-1",
+    "score": 85,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-06-25/salesforce-software-engineering-amts-85-r3482021.pdf",
+    "docx": "state/tailored/2026-06-25/salesforce-software-engineering-amts-85-r3482021.docx"
+  },
+  {
+    "job_id": "workday:citi/2:/job/Jersey-City-New-Jersey-United-States/Senior-Platform-Engineer--Applications-Development---Inventory-Management---SVP---Jersey-City_26946837-1",
+    "company": "citi",
+    "role": "Senior Platform Engineer, Java Full Stack Applications Development, SVP",
+    "location": "Jersey City New Jersey United States",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Senior-Platform-Engineer--Applications-Development---Inventory-Management---SVP---Jersey-City_26946837-1",
+    "score": 71,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-06-25/citi-senior-platform-engineer-java-full-stack-applications-develo-71-69468371.pdf",
+    "docx": "state/tailored/2026-06-25/citi-senior-platform-engineer-java-full-stack-applications-develo-71-69468371.docx"
+  },
+  {
+    "job_id": "workday:autodesk/Ext:/job/Krakw-POL/Software-Engineer_25WD93596-1",
+    "company": "autodesk",
+    "role": "Software Engineer",
+    "location": "Kraków, POL",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Krakw-POL/Software-Engineer_25WD93596-1",
+    "score": 67,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 5,
+    "matched_skills": 5,
+    "pdf": "state/tailored/2026-06-25/autodesk-software-engineer-67-wd935961.pdf",
+    "docx": "state/tailored/2026-06-25/autodesk-software-engineer-67-wd935961.docx"
   }
 ]
