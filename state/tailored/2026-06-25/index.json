@@ -1,0 +1,72 @@
+[
+  {
+    "job_id": "ashby:crusoe:d4287b1b-c78b-44fb-bd2b-d2cca26cdc2a",
+    "company": "crusoe",
+    "role": "Software Engineer II, Managed Platform Services",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/crusoe/d4287b1b-c78b-44fb-bd2b-d2cca26cdc2a",
+    "score": 92,
+    "source": "ashby",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-06-25/crusoe-software-engineer-ii-managed-platform-services-92-a26cdc2a.pdf",
+    "docx": "state/tailored/2026-06-25/crusoe-software-engineer-ii-managed-platform-services-92-a26cdc2a.docx"
+  },
+  {
+    "job_id": "workday:autodesk/Ext:/job/Portland-OR-USA/Senior-Machine-Learning-Engineer--MLOps_26WD96432-1",
+    "company": "autodesk",
+    "role": "Senior Machine Learning Engineer, MLOps  West Coast",
+    "location": "6 Locations",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Portland-OR-USA/Senior-Machine-Learning-Engineer--MLOps_26WD96432-1",
+    "score": 90,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-06-25/autodesk-senior-machine-learning-engineer-mlops-west-coast-90-wd964321.pdf",
+    "docx": "state/tailored/2026-06-25/autodesk-senior-machine-learning-engineer-mlops-west-coast-90-wd964321.docx"
+  },
+  {
+    "job_id": "greenhouse:fivetran:7778979003",
+    "company": "fivetran",
+    "role": "Software Engineer",
+    "location": "USA - Oakland",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7778979003",
+    "score": 88,
+    "source": "greenhouse",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-06-25/fivetran-software-engineer-88-78979003.pdf",
+    "docx": "state/tailored/2026-06-25/fivetran-software-engineer-88-78979003.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Washington---Bellevue/Software-Engineering-PMTS_JR348157-1",
+    "company": "salesforce",
+    "role": "Software Engineering PMTS",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-PMTS_JR348157-1",
+    "score": 87,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-06-25/salesforce-software-engineering-pmts-87-r3481571.pdf",
+    "docx": "state/tailored/2026-06-25/salesforce-software-engineering-pmts-87-r3481571.docx"
+  },
+  {
+    "job_id": "greenhouse:gusto:8008696",
+    "company": "gusto",
+    "role": "Staff Software Engineer, Core Products",
+    "location": "United States - New York, NY",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8008696",
+    "score": 71,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-06-25/gusto-staff-software-engineer-core-products-71-8008696.pdf",
+    "docx": "state/tailored/2026-06-25/gusto-staff-software-engineer-core-products-71-8008696.docx"
+  }
+]
