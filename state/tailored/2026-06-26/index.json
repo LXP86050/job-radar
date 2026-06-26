@@ -544,5 +544,61 @@
     "matched_skills": 3,
     "pdf": "state/tailored/2026-06-26/coinbase-software-engineer-salesforce-platform-eaa-51-7652048.pdf",
     "docx": "state/tailored/2026-06-26/coinbase-software-engineer-salesforce-platform-eaa-51-7652048.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Washington---Bellevue/Software-Engineering-PMTS_JR347863",
+    "company": "salesforce",
+    "role": "Software Engineering PMTS",
+    "location": "Washington - Bellevue",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-PMTS_JR347863",
+    "score": 89,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 15,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-06-26/salesforce-software-engineering-pmts-89-jr347863.pdf",
+    "docx": "state/tailored/2026-06-26/salesforce-software-engineering-pmts-89-jr347863.docx"
+  },
+  {
+    "job_id": "workday:hpe/Jobsathpe:/job/Heredia-Heredia-Costa-Rica/HPE-Aruba-Premium-Support-Engineer_1209207-2",
+    "company": "hpe",
+    "role": "HPE Networking Premium  Support Software Engineer",
+    "location": "Heredia, Heredia, Costa Rica",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Heredia-Heredia-Costa-Rica/HPE-Aruba-Premium-Support-Engineer_1209207-2",
+    "score": 75,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-06-26/hpe-hpe-networking-premium-support-software-engineer-75-12092072.pdf",
+    "docx": "state/tailored/2026-06-26/hpe-hpe-networking-premium-support-software-engineer-75-12092072.docx"
+  },
+  {
+    "job_id": "greenhouse:reddit:8029120",
+    "company": "reddit",
+    "role": "Machine Learning Engineer, Ads Optimization & Ads Marketplace Quality",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8029120",
+    "score": 64,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 3,
+    "matched_skills": 3,
+    "pdf": "state/tailored/2026-06-26/reddit-machine-learning-engineer-ads-optimization-ads-marketplace-q-64-8029120.pdf",
+    "docx": "state/tailored/2026-06-26/reddit-machine-learning-engineer-ads-optimization-ads-marketplace-q-64-8029120.docx"
+  },
+  {
+    "job_id": "greenhouse:attentive:4299850009",
+    "company": "attentive",
+    "role": "Staff Software Engineer, Cloud FinOps",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/attentive/jobs/4299850009",
+    "score": 62,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-06-26/attentive-staff-software-engineer-cloud-finops-62-99850009.pdf",
+    "docx": "state/tailored/2026-06-26/attentive-staff-software-engineer-cloud-finops-62-99850009.docx"
   }
 ]
