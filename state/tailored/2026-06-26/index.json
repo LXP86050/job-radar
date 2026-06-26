@@ -1,0 +1,72 @@
+[
+  {
+    "job_id": "workday:workday/Workday:/job/Canada-BC-Vancouver/Senior-Software-Engineer---Agent-Platform_JR-0106406",
+    "company": "workday",
+    "role": "Software Engineer / Senior Software Engineer - Agent Platform",
+    "location": "2 Locations",
+    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Vancouver/Senior-Software-Engineer---Agent-Platform_JR-0106406",
+    "score": 92,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-06-26/workday-software-engineer-senior-software-engineer-agent-platform-92-r0106406.pdf",
+    "docx": "state/tailored/2026-06-26/workday-software-engineer-senior-software-engineer-agent-platform-92-r0106406.docx"
+  },
+  {
+    "job_id": "ashby:perplexity:ac45b160-4ccc-417c-97f8-73d2d04cebfe",
+    "company": "perplexity",
+    "role": "Member of Technical Staff (AI Software Engineer, Agents)",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/perplexity/ac45b160-4ccc-417c-97f8-73d2d04cebfe",
+    "score": 80,
+    "source": "ashby",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-06-26/perplexity-member-of-technical-staff-ai-software-engineer-agents-80-d04cebfe.pdf",
+    "docx": "state/tailored/2026-06-26/perplexity-member-of-technical-staff-ai-software-engineer-agents-80-d04cebfe.docx"
+  },
+  {
+    "job_id": "greenhouse:reddit:8029641",
+    "company": "reddit",
+    "role": "Staff Software Engineer, Media Experiences",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8029641",
+    "score": 66,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-06-26/reddit-staff-software-engineer-media-experiences-66-8029641.pdf",
+    "docx": "state/tailored/2026-06-26/reddit-staff-software-engineer-media-experiences-66-8029641.docx"
+  },
+  {
+    "job_id": "greenhouse:chime:8580447002",
+    "company": "chime",
+    "role": "Senior Software Engineer, Lending",
+    "location": "New York Office, San Francisco Office",
+    "url": "https://boards.greenhouse.io/chime/jobs/8580447002?gh_jid=8580447002",
+    "score": 65,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-06-26/chime-senior-software-engineer-lending-65-80447002.pdf",
+    "docx": "state/tailored/2026-06-26/chime-senior-software-engineer-lending-65-80447002.docx"
+  },
+  {
+    "job_id": "greenhouse:figma:6100023004",
+    "company": "figma",
+    "role": "Software Engineer, iOS",
+    "location": "Canada, US",
+    "url": "https://boards.greenhouse.io/figma/jobs/6100023004?gh_jid=6100023004",
+    "score": 56,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 3,
+    "matched_skills": 3,
+    "pdf": "state/tailored/2026-06-26/figma-software-engineer-ios-56-00023004.pdf",
+    "docx": "state/tailored/2026-06-26/figma-software-engineer-ios-56-00023004.docx"
+  }
+]
