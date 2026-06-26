@@ -194,5 +194,47 @@
     "matched_skills": 2,
     "pdf": "state/tailored/2026-06-26/hpe-senior-cybersecurity-systems-software-engineer-54-12084002.pdf",
     "docx": "state/tailored/2026-06-26/hpe-senior-cybersecurity-systems-software-engineer-54-12084002.docx"
+  },
+  {
+    "job_id": "greenhouse:pinterest:7999050",
+    "company": "pinterest",
+    "role": "Sr. Software Engineer, Machine Learning, tvScientific",
+    "location": "San Francisco",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7999050",
+    "score": 85,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-06-26/pinterest-sr-software-engineer-machine-learning-tvscientific-85-7999050.pdf",
+    "docx": "state/tailored/2026-06-26/pinterest-sr-software-engineer-machine-learning-tvscientific-85-7999050.docx"
+  },
+  {
+    "job_id": "workday:adobe/external_experienced:/job/San-Jose/Staff-Machine-Learning-Engineer_R169998-1",
+    "company": "adobe",
+    "role": "Staff Machine Learning Engineer",
+    "location": "San Jose",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Staff-Machine-Learning-Engineer_R169998-1",
+    "score": 81,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-06-26/adobe-staff-machine-learning-engineer-81-r1699981.pdf",
+    "docx": "state/tailored/2026-06-26/adobe-staff-machine-learning-engineer-81-r1699981.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Software-Engineer---Autonomous-Driving_JR2019388",
+    "company": "nvidia",
+    "role": "Senior Software Engineer - Autonomous Driving",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Autonomous-Driving_JR2019388",
+    "score": 65,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-06-26/nvidia-senior-software-engineer-autonomous-driving-65-r2019388.pdf",
+    "docx": "state/tailored/2026-06-26/nvidia-senior-software-engineer-autonomous-driving-65-r2019388.docx"
   }
 ]
