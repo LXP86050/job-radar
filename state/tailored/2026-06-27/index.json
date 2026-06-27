@@ -1,0 +1,72 @@
+[
+  {
+    "job_id": "workday:adobe/external_experienced:/job/San-Francisco/Full-Stack-Software-Engineer_R169422",
+    "company": "adobe",
+    "role": "Full-Stack Software Engineer",
+    "location": "San Francisco",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Full-Stack-Software-Engineer_R169422",
+    "score": 86,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-06-27/adobe-full-stack-software-engineer-86-rr169422.pdf",
+    "docx": "state/tailored/2026-06-27/adobe-full-stack-software-engineer-86-rr169422.docx"
+  },
+  {
+    "job_id": "workday:adobe/external_experienced:/job/San-Francisco/Senior-Full-Stack-Software-Engineer_R169420",
+    "company": "adobe",
+    "role": "Senior Full-Stack Software Engineer",
+    "location": "San Francisco",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Senior-Full-Stack-Software-Engineer_R169420",
+    "score": 86,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-06-27/adobe-senior-full-stack-software-engineer-86-rr169420.pdf",
+    "docx": "state/tailored/2026-06-27/adobe-senior-full-stack-software-engineer-86-rr169420.docx"
+  },
+  {
+    "job_id": "greenhouse:reddit:8031491",
+    "company": "reddit",
+    "role": "Staff Software Engineer, Identity & Access Management",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8031491",
+    "score": 82,
+    "source": "greenhouse",
+    "coverage": 95,
+    "jd_skills": 19,
+    "matched_skills": 18,
+    "pdf": "state/tailored/2026-06-27/reddit-staff-software-engineer-identity-access-management-82-8031491.pdf",
+    "docx": "state/tailored/2026-06-27/reddit-staff-software-engineer-identity-access-management-82-8031491.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---San-Francisco/Forward-Deployed-Engineer--All-Levels-_JR349466",
+    "company": "salesforce",
+    "role": "Forward Deployed Engineer (All Levels)",
+    "location": "28 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Forward-Deployed-Engineer--All-Levels-_JR349466",
+    "score": 82,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-06-27/salesforce-forward-deployed-engineer-all-levels-82-jr349466.pdf",
+    "docx": "state/tailored/2026-06-27/salesforce-forward-deployed-engineer-all-levels-82-jr349466.docx"
+  },
+  {
+    "job_id": "greenhouse:coinbase:7997840",
+    "company": "coinbase",
+    "role": "Staff Software Engineer, Backend (Consumer - Prediction Markets)",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "url": "https://www.coinbase.com/careers/positions/7997840?gh_jid=7997840",
+    "score": 59,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 3,
+    "matched_skills": 3,
+    "pdf": "state/tailored/2026-06-27/coinbase-staff-software-engineer-backend-consumer-prediction-markets-59-7997840.pdf",
+    "docx": "state/tailored/2026-06-27/coinbase-staff-software-engineer-backend-consumer-prediction-markets-59-7997840.docx"
+  }
+]
