@@ -68,5 +68,19 @@
     "matched_skills": 3,
     "pdf": "state/tailored/2026-06-27/coinbase-staff-software-engineer-backend-consumer-prediction-markets-59-7997840.pdf",
     "docx": "state/tailored/2026-06-27/coinbase-staff-software-engineer-backend-consumer-prediction-markets-59-7997840.docx"
+  },
+  {
+    "job_id": "greenhouse:twitch:8610674002",
+    "company": "twitch",
+    "role": "Senior Software Engineer, Ads",
+    "location": "Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8610674002",
+    "score": 71,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-06-27/twitch-senior-software-engineer-ads-71-10674002.pdf",
+    "docx": "state/tailored/2026-06-27/twitch-senior-software-engineer-ads-71-10674002.docx"
   }
 ]
