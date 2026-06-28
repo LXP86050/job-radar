@@ -26,5 +26,19 @@
     "matched_skills": 3,
     "pdf": "state/tailored/2026-06-28/nvidia-senior-software-engineer-cuda-deep-learning-systems-60-r2017368.pdf",
     "docx": "state/tailored/2026-06-28/nvidia-senior-software-engineer-cuda-deep-learning-systems-60-r2017368.docx"
+  },
+  {
+    "job_id": "greenhouse:postman:7787954003",
+    "company": "postman",
+    "role": "Senior Fullstack Engineer, Postman Insights",
+    "location": "San Francisco, California",
+    "url": "https://job-boards.greenhouse.io/postman/jobs/7787954003",
+    "score": 61,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 5,
+    "matched_skills": 5,
+    "pdf": "state/tailored/2026-06-28/postman-senior-fullstack-engineer-postman-insights-61-87954003.pdf",
+    "docx": "state/tailored/2026-06-28/postman-senior-fullstack-engineer-postman-insights-61-87954003.docx"
   }
 ]
