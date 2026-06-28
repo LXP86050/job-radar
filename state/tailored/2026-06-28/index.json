@@ -40,5 +40,33 @@
     "matched_skills": 5,
     "pdf": "state/tailored/2026-06-28/postman-senior-fullstack-engineer-postman-insights-61-87954003.pdf",
     "docx": "state/tailored/2026-06-28/postman-senior-fullstack-engineer-postman-insights-61-87954003.docx"
+  },
+  {
+    "job_id": "greenhouse:cloudflare:8034796",
+    "company": "cloudflare",
+    "role": "Software Engineer, People Ops and AI Tools",
+    "location": "Austin, TX",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8034796?gh_jid=8034796",
+    "score": 87,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-06-28/cloudflare-software-engineer-people-ops-and-ai-tools-87-8034796.pdf",
+    "docx": "state/tailored/2026-06-28/cloudflare-software-engineer-people-ops-and-ai-tools-87-8034796.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/India-Bengaluru/Senior-Cloud-Software-Engineer_JR2020094",
+    "company": "nvidia",
+    "role": "Senior Cloud Software Engineer",
+    "location": "2 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Cloud-Software-Engineer_JR2020094",
+    "score": 77,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-06-28/nvidia-senior-cloud-software-engineer-77-r2020094.pdf",
+    "docx": "state/tailored/2026-06-28/nvidia-senior-cloud-software-engineer-77-r2020094.docx"
   }
 ]
