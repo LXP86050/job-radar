@@ -68,5 +68,19 @@
     "matched_skills": 12,
     "pdf": "state/tailored/2026-06-28/nvidia-senior-cloud-software-engineer-77-r2020094.pdf",
     "docx": "state/tailored/2026-06-28/nvidia-senior-cloud-software-engineer-77-r2020094.docx"
+  },
+  {
+    "job_id": "workday:comcast/Comcast_Careers:/job/IL---Chicago-350-N-Orleans-St-1300N/Sr-Software-Engineer_R435143",
+    "company": "comcast",
+    "role": "Sr. C++ Software Engineer 4 - (Hybrid - Chicago) FreeWheel",
+    "location": "2 Locations",
+    "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/IL---Chicago-350-N-Orleans-St-1300N/Sr-Software-Engineer_R435143",
+    "score": 80,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-06-28/comcast-sr-c-software-engineer-4-hybrid-chicago-freewheel-80-rr435143.pdf",
+    "docx": "state/tailored/2026-06-28/comcast-sr-c-software-engineer-4-hybrid-chicago-freewheel-80-rr435143.docx"
   }
 ]
