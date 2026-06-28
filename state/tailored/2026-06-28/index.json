@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Software-Engineer---Python-Numerical-Computing-Libraries_JR2016201",
+    "company": "nvidia",
+    "role": "Senior Software Engineer - Python Numerical Computing Libraries",
+    "location": "2 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Python-Numerical-Computing-Libraries_JR2016201",
+    "score": 64,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 5,
+    "matched_skills": 5,
+    "pdf": "state/tailored/2026-06-28/nvidia-senior-software-engineer-python-numerical-computing-librarie-64-r2016201.pdf",
+    "docx": "state/tailored/2026-06-28/nvidia-senior-software-engineer-python-numerical-computing-librarie-64-r2016201.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUDA-Deep-Learning-Systems_JR2017368",
+    "company": "nvidia",
+    "role": "Senior Software Engineer, CUDA Deep Learning Systems",
+    "location": "3 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUDA-Deep-Learning-Systems_JR2017368",
+    "score": 60,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 3,
+    "matched_skills": 3,
+    "pdf": "state/tailored/2026-06-28/nvidia-senior-software-engineer-cuda-deep-learning-systems-60-r2017368.pdf",
+    "docx": "state/tailored/2026-06-28/nvidia-senior-software-engineer-cuda-deep-learning-systems-60-r2017368.docx"
+  }
+]
