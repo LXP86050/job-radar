@@ -558,5 +558,61 @@
     "matched_skills": 1,
     "pdf": "state/tailored/2026-06-29/hpe-software-engineer-ii-50-12078522.pdf",
     "docx": "state/tailored/2026-06-29/hpe-software-engineer-ii-50-12078522.docx"
+  },
+  {
+    "job_id": "workday:tmobile/External:/job/Frisco-Texas/Sr-Software-Engineer_REQ341243-1",
+    "company": "tmobile",
+    "role": "Sr Software Engineer",
+    "location": "2 Locations",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Frisco-Texas/Sr-Software-Engineer_REQ341243-1",
+    "score": 97,
+    "source": "workday",
+    "coverage": 96,
+    "jd_skills": 23,
+    "matched_skills": 22,
+    "pdf": "state/tailored/2026-06-29/tmobile-sr-software-engineer-97-q3412431.pdf",
+    "docx": "state/tailored/2026-06-29/tmobile-sr-software-engineer-97-q3412431.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Sr-Mgr--Software-Engineering-FullStack--Enterprise-Platforms-Technology---People-Leader---OSPO-_R242883-1",
+    "company": "capitalone",
+    "role": "Sr. Mgr, Software Engineering FullStack (Enterprise Platforms Technology) (People Leader & OSPO)",
+    "location": "3 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Mgr--Software-Engineering-FullStack--Enterprise-Platforms-Technology---People-Leader---OSPO-_R242883-1",
+    "score": 92,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-06-29/capitalone-sr-mgr-software-engineering-fullstack-enterprise-platforms-t-92-r2428831.pdf",
+    "docx": "state/tailored/2026-06-29/capitalone-sr-mgr-software-engineering-fullstack-enterprise-platforms-t-92-r2428831.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack--Programming-Language-Excellence-Center---Enterprise-Platforms-Technology-_R241328-1",
+    "company": "capitalone",
+    "role": "Senior Lead Software Engineer, Full Stack (Programming Language Excellence Center) (Enterprise Platforms Technology)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack--Programming-Language-Excellence-Center---Enterprise-Platforms-Technology-_R241328-1",
+    "score": 92,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 18,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-06-29/capitalone-senior-lead-software-engineer-full-stack-programming-languag-92-r2413281.pdf",
+    "docx": "state/tailored/2026-06-29/capitalone-senior-lead-software-engineer-full-stack-programming-languag-92-r2413281.docx"
+  },
+  {
+    "job_id": "workday:tmobile/External:/job/Bellevue-Washington/Software-Engineer_REQ353711",
+    "company": "tmobile",
+    "role": "Software Engineer",
+    "location": "2 Locations",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Software-Engineer_REQ353711",
+    "score": 89,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 26,
+    "matched_skills": 24,
+    "pdf": "state/tailored/2026-06-29/tmobile-software-engineer-89-eq353711.pdf",
+    "docx": "state/tailored/2026-06-29/tmobile-software-engineer-89-eq353711.docx"
   }
 ]
