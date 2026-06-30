@@ -166,5 +166,33 @@
     "matched_skills": 5,
     "pdf": "state/tailored/2026-06-30/hpe-software-engineer-3-66-12086342.pdf",
     "docx": "state/tailored/2026-06-30/hpe-software-engineer-3-66-12086342.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/India---Bangalore/SMTS-LMTS---AI-ML-Engineers_JR340537",
+    "company": "salesforce",
+    "role": "Software Engineering Backend + AI  LMTS",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/SMTS-LMTS---AI-ML-Engineers_JR340537",
+    "score": 87,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-06-30/salesforce-software-engineering-backend-ai-lmts-87-jr340537.pdf",
+    "docx": "state/tailored/2026-06-30/salesforce-software-engineering-backend-ai-lmts-87-jr340537.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/India---Hyderabad/Software-Engineering-Architect_JR282676",
+    "company": "salesforce",
+    "role": "Software Engineering Architect",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-Architect_JR282676",
+    "score": 86,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 26,
+    "matched_skills": 24,
+    "pdf": "state/tailored/2026-06-30/salesforce-software-engineering-architect-86-jr282676.pdf",
+    "docx": "state/tailored/2026-06-30/salesforce-software-engineering-architect-86-jr282676.docx"
   }
 ]
