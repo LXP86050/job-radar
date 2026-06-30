@@ -502,5 +502,33 @@
     "matched_skills": 2,
     "pdf": "state/tailored/2026-06-30/pinterest-staff-software-engineer-edge-57-7990090.pdf",
     "docx": "state/tailored/2026-06-30/pinterest-staff-software-engineer-edge-57-7990090.docx"
+  },
+  {
+    "job_id": "greenhouse:stripe:8039800",
+    "company": "stripe",
+    "role": "Software Engineer, Product Security Data Platforms",
+    "location": "US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8039800",
+    "score": 87,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-06-30/stripe-software-engineer-product-security-data-platforms-87-8039800.pdf",
+    "docx": "state/tailored/2026-06-30/stripe-software-engineer-product-security-data-platforms-87-8039800.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---San-Francisco/Infrastructure-Service-Mesh-Software-Engineer_JR345252",
+    "company": "salesforce",
+    "role": "Infrastructure/Service Mesh Software Engineer",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Infrastructure-Service-Mesh-Software-Engineer_JR345252",
+    "score": 86,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 14,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-06-30/salesforce-infrastructure-service-mesh-software-engineer-86-jr345252.pdf",
+    "docx": "state/tailored/2026-06-30/salesforce-infrastructure-service-mesh-software-engineer-86-jr345252.docx"
   }
 ]
