@@ -514,6 +514,7 @@
   "greenhouse:databricks:8592942002": "2026-06-22",
   "greenhouse:databricks:8592951002": "2026-06-22",
   "greenhouse:databricks:8592952002": "2026-06-22",
+  "greenhouse:databricks:8614863002": "2026-07-01",
   "greenhouse:datadog:3851927": "2026-06-16",
   "greenhouse:datadog:3851935": "2026-06-04",
   "greenhouse:datadog:7107437": "2026-05-29",
@@ -823,6 +824,7 @@
   "greenhouse:launchdarkly:7761616003": "2026-06-02",
   "greenhouse:launchdarkly:7767264003": "2026-06-09",
   "greenhouse:lucidmotors:4620390007": "2026-05-30",
+  "greenhouse:lucidmotors:5137310007": "2026-07-01",
   "greenhouse:lyft:8399274002": "2026-05-29",
   "greenhouse:lyft:8402813002": "2026-05-29",
   "greenhouse:lyft:8403370002": "2026-05-29",
@@ -1886,6 +1888,7 @@
   "workday:capitalone/Capital_One:/job/New-York-NY/Lead-AI-Engineer--Vision-model-customization--VML-_R244410-1": "2026-06-11",
   "workday:capitalone/Capital_One:/job/New-York-NY/Lead-AI-Engineer_R238650-1": "2026-06-09",
   "workday:capitalone/Capital_One:/job/New-York-NY/Lead-AI-Engineer_R243348-1": "2026-05-29",
+  "workday:capitalone/Capital_One:/job/New-York-NY/Lead-Machine-Learning-Engineer_R240620-1": "2026-07-01",
   "workday:capitalone/Capital_One:/job/New-York-NY/Lead-Software-Engineer---Back-End_R243208-1": "2026-05-29",
   "workday:capitalone/Capital_One:/job/New-York-NY/Lead-Software-Engineer--Back-End--Python--Spark-_R245569-1": "2026-06-29",
   "workday:capitalone/Capital_One:/job/New-York-NY/Lead-Software-Engineer--Back-End--Scala-_R244938": "2026-06-18",
@@ -2229,6 +2232,7 @@
   "workday:nvidia/NVIDIAExternalCareerSite:/job/US-OR-Hillsboro/Senior-Data-Backend-Engineer_JR2020354": "2026-06-29",
   "workday:nvidia/NVIDIAExternalCareerSite:/job/US-SC-Remote/Senior-Software-Engineer--Infrastructure-Automation-and-Distributed-Systems_JR2014877": "2026-06-11",
   "workday:nvidia/NVIDIAExternalCareerSite:/job/US-WA-Redmond/Senior-Software-Engineer--Developer-Tools-for-Cloud_JR2011154": "2026-05-29",
+  "workday:nvidia/NVIDIAExternalCareerSite:/job/US-WA-Redmond/Senior-Software-Engineer--Quantum-Applied-Research_JR2020378-1": "2026-07-01",
   "workday:paypal/jobs:/job/Austin-Texas-United-States-of-America/Machine-Learning-Engineer_R0136877": "2026-06-05",
   "workday:paypal/jobs:/job/Austin-Texas-United-States-of-America/Software-Engineer-3_R0136872": "2026-06-05",
   "workday:paypal/jobs:/job/Austin-Texas-United-States-of-America/Software-Engineer_R0136838": "2026-06-02",
@@ -2481,5 +2485,6 @@
   "workday:workday/Workday:/job/USAVAReston/Software-Engineer---DevOps--US-Federal-_JR-0105502": "2026-06-05",
   "workday:workday/Workday:/job/USAVAReston/Software-Engineer---Developer-Platform--US-Federal-_JR-0105497": "2026-06-05",
   "workday:workday/Workday:/job/USAVAReston/Software-Engineer-Integration-Platform--US-Federal-_JR-0105501": "2026-06-08",
+  "workday:workday/Workday:/job/USAVAReston/Sr-Full-Stack-Software-Engineer----US-Federal-_JR-0105397": "2026-07-01",
   "workday:workday/Workday:/job/USAVAReston/Sr-Full-Stack-Software-Engineer--Air-Gapped----Federal-_JR-0105396": "2026-05-29"
 }

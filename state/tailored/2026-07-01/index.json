@@ -1,0 +1,72 @@
+[
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/New-York-NY/Lead-Machine-Learning-Engineer_R240620-1",
+    "company": "capitalone",
+    "role": "Lead Machine Learning Engineer",
+    "location": "2 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Machine-Learning-Engineer_R240620-1",
+    "score": 93,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-07-01/capitalone-lead-machine-learning-engineer-93-r2406201.pdf",
+    "docx": "state/tailored/2026-07-01/capitalone-lead-machine-learning-engineer-93-r2406201.docx"
+  },
+  {
+    "job_id": "workday:workday/Workday:/job/USAVAReston/Sr-Full-Stack-Software-Engineer----US-Federal-_JR-0105397",
+    "company": "workday",
+    "role": "Sr. Full Stack Software Engineer - (US Federal)",
+    "location": "USA.VA.Reston",
+    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Sr-Full-Stack-Software-Engineer----US-Federal-_JR-0105397",
+    "score": 91,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-07-01/workday-sr-full-stack-software-engineer-us-federal-91-r0105397.pdf",
+    "docx": "state/tailored/2026-07-01/workday-sr-full-stack-software-engineer-us-federal-91-r0105397.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-WA-Redmond/Senior-Software-Engineer--Quantum-Applied-Research_JR2020378-1",
+    "company": "nvidia",
+    "role": "Senior Software Engineer, Quantum Applied Research",
+    "location": "2 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-Software-Engineer--Quantum-Applied-Research_JR2020378-1",
+    "score": 79,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-07-01/nvidia-senior-software-engineer-quantum-applied-research-79-20203781.pdf",
+    "docx": "state/tailored/2026-07-01/nvidia-senior-software-engineer-quantum-applied-research-79-20203781.docx"
+  },
+  {
+    "job_id": "greenhouse:databricks:8614863002",
+    "company": "databricks",
+    "role": "Staff Software Engineer - AI/ML",
+    "location": "New York City, New York",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8614863002",
+    "score": 78,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 5,
+    "matched_skills": 5,
+    "pdf": "state/tailored/2026-07-01/databricks-staff-software-engineer-ai-ml-78-14863002.pdf",
+    "docx": "state/tailored/2026-07-01/databricks-staff-software-engineer-ai-ml-78-14863002.docx"
+  },
+  {
+    "job_id": "greenhouse:lucidmotors:5137310007",
+    "company": "lucidmotors",
+    "role": "Senior Software Engineer, Motion Planning, Parking",
+    "location": "Newark, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5137310007",
+    "score": 55,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 2,
+    "matched_skills": 2,
+    "pdf": "state/tailored/2026-07-01/lucidmotors-senior-software-engineer-motion-planning-parking-55-37310007.pdf",
+    "docx": "state/tailored/2026-07-01/lucidmotors-senior-software-engineer-motion-planning-parking-55-37310007.docx"
+  }
+]
