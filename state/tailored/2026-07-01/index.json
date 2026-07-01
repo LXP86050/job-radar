@@ -754,5 +754,47 @@
     "matched_skills": 2,
     "pdf": "state/tailored/2026-07-01/drweng-software-engineer-cumberland-ficco-tools-engineering-50-7713717.pdf",
     "docx": "state/tailored/2026-07-01/drweng-software-engineer-cumberland-ficco-tools-engineering-50-7713717.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Indiana---Indianapolis/Senior--Member-of-Technical-Staff_JR344301",
+    "company": "salesforce",
+    "role": "Software Engineering SMTS, Salesforce / Agentforce",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Indiana---Indianapolis/Senior--Member-of-Technical-Staff_JR344301",
+    "score": 88,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 29,
+    "matched_skills": 27,
+    "pdf": "state/tailored/2026-07-01/salesforce-software-engineering-smts-salesforce-agentforce-88-jr344301.pdf",
+    "docx": "state/tailored/2026-07-01/salesforce-software-engineering-smts-salesforce-agentforce-88-jr344301.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Lead-Software-Engineer---AML-Reporting_R245972-2",
+    "company": "capitalone",
+    "role": "Lead Software Engineer - AML Reporting",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer---AML-Reporting_R245972-2",
+    "score": 82,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 18,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-07-01/capitalone-lead-software-engineer-aml-reporting-82-r2459722.pdf",
+    "docx": "state/tailored/2026-07-01/capitalone-lead-software-engineer-aml-reporting-82-r2459722.docx"
+  },
+  {
+    "job_id": "ashby:suno:bed3b0f7-a5f0-495e-9b62-16503adbcf1a",
+    "company": "suno",
+    "role": "Software Engineer, Data Platform",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/suno/bed3b0f7-a5f0-495e-9b62-16503adbcf1a",
+    "score": 62,
+    "source": "ashby",
+    "coverage": 100,
+    "jd_skills": 5,
+    "matched_skills": 5,
+    "pdf": "state/tailored/2026-07-01/suno-software-engineer-data-platform-62-3adbcf1a.pdf",
+    "docx": "state/tailored/2026-07-01/suno-software-engineer-data-platform-62-3adbcf1a.docx"
   }
 ]
