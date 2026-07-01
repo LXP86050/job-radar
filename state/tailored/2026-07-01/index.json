@@ -68,5 +68,33 @@
     "matched_skills": 2,
     "pdf": "state/tailored/2026-07-01/lucidmotors-senior-software-engineer-motion-planning-parking-55-37310007.pdf",
     "docx": "state/tailored/2026-07-01/lucidmotors-senior-software-engineer-motion-planning-parking-55-37310007.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Illinois---Chicago/Senior-Software-Engineer--SMTS----Ultra-Messaging_JR340226",
+    "company": "salesforce",
+    "role": "Senior Software Engineer (SMTS) — Ultra Messaging",
+    "location": "Illinois - Chicago",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois---Chicago/Senior-Software-Engineer--SMTS----Ultra-Messaging_JR340226",
+    "score": 74,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-07-01/salesforce-senior-software-engineer-smts-ultra-messaging-74-jr340226.pdf",
+    "docx": "state/tailored/2026-07-01/salesforce-senior-software-engineer-smts-ultra-messaging-74-jr340226.docx"
+  },
+  {
+    "job_id": "workday:workday/Workday:/job/USA-GA-Atlanta/Software-Engineer-Software-Development-Engineer--P3-_JR-0108515-2",
+    "company": "workday",
+    "role": "Software Engineer/Software Development Engineer (P3)",
+    "location": "USA, GA, Atlanta",
+    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-GA-Atlanta/Software-Engineer-Software-Development-Engineer--P3-_JR-0108515-2",
+    "score": 60,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 5,
+    "matched_skills": 5,
+    "pdf": "state/tailored/2026-07-01/workday-software-engineer-software-development-engineer-p3-60-01085152.pdf",
+    "docx": "state/tailored/2026-07-01/workday-software-engineer-software-development-engineer-p3-60-01085152.docx"
   }
 ]
