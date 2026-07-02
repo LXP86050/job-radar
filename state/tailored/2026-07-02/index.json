@@ -166,5 +166,61 @@
     "matched_skills": 4,
     "pdf": "state/tailored/2026-07-02/citi-digital-software-engineer-lead-analyst-52-26973473.pdf",
     "docx": "state/tailored/2026-07-02/citi-digital-software-engineer-lead-analyst-52-26973473.docx"
+  },
+  {
+    "job_id": "greenhouse:cloudflare:8042034",
+    "company": "cloudflare",
+    "role": "Senior Machine Learning Engineer",
+    "location": "Austin, TX",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8042034?gh_jid=8042034",
+    "score": 99,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 34,
+    "matched_skills": 32,
+    "pdf": "state/tailored/2026-07-02/cloudflare-senior-machine-learning-engineer-99-8042034.pdf",
+    "docx": "state/tailored/2026-07-02/cloudflare-senior-machine-learning-engineer-99-8042034.docx"
+  },
+  {
+    "job_id": "workday:tmobile/External:/job/Frisco-Texas/Platform-Engineer_REQ361405-1",
+    "company": "tmobile",
+    "role": "Platform Engineer",
+    "location": "Frisco, Texas",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Frisco-Texas/Platform-Engineer_REQ361405-1",
+    "score": 87,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-07-02/tmobile-platform-engineer-87-q3614051.pdf",
+    "docx": "state/tailored/2026-07-02/tmobile-platform-engineer-87-q3614051.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/New-York-NY/Lead-Software-Engineer--Front-End_R245975-1",
+    "company": "capitalone",
+    "role": "Lead Software Engineer, Front End",
+    "location": "New York, NY",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Software-Engineer--Front-End_R245975-1",
+    "score": 84,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-07-02/capitalone-lead-software-engineer-front-end-84-r2459751.pdf",
+    "docx": "state/tailored/2026-07-02/capitalone-lead-software-engineer-front-end-84-r2459751.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/Richmond-VA/Lead-Software-Engineer---Python---PySpark_R241501-1",
+    "company": "capitalone",
+    "role": "Lead Software Engineer - Python + PySpark",
+    "location": "3 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Software-Engineer---Python---PySpark_R241501-1",
+    "score": 81,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 18,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-07-02/capitalone-lead-software-engineer-python-pyspark-81-r2415011.pdf",
+    "docx": "state/tailored/2026-07-02/capitalone-lead-software-engineer-python-pyspark-81-r2415011.docx"
   }
 ]
