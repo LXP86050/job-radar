@@ -166,5 +166,47 @@
     "matched_skills": 5,
     "pdf": "state/tailored/2026-07-03/nvidia-senior-systems-software-engineer-nv-cloud-functions-58-r2020486.pdf",
     "docx": "state/tailored/2026-07-03/nvidia-senior-systems-software-engineer-nv-cloud-functions-58-r2020486.docx"
+  },
+  {
+    "job_id": "greenhouse:stripe:8044460",
+    "company": "stripe",
+    "role": "AI Engineer",
+    "location": "US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8044460",
+    "score": 96,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-07-03/stripe-ai-engineer-96-8044460.pdf",
+    "docx": "state/tailored/2026-07-03/stripe-ai-engineer-96-8044460.docx"
+  },
+  {
+    "job_id": "remoteok:1134396",
+    "company": "Lemon.io",
+    "role": "Senior AI Engineer Architect",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-architect-lemon-io-1134396",
+    "score": 93,
+    "source": "remoteok",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-07-03/lemon-io-senior-ai-engineer-architect-93-1134396.pdf",
+    "docx": "state/tailored/2026-07-03/lemon-io-senior-ai-engineer-architect-93-1134396.docx"
+  },
+  {
+    "job_id": "greenhouse:fivetran:7792452003",
+    "company": "fivetran",
+    "role": "Senior Software Engineer",
+    "location": "SRB - Novi Sad",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7792452003",
+    "score": 78,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-07-03/fivetran-senior-software-engineer-78-92452003.pdf",
+    "docx": "state/tailored/2026-07-03/fivetran-senior-software-engineer-78-92452003.docx"
   }
 ]
