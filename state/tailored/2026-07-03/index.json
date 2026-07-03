@@ -68,5 +68,19 @@
     "matched_skills": 9,
     "pdf": "state/tailored/2026-07-03/gusto-senior-staff-engineer-tax-platform-engineering-84-8013480.pdf",
     "docx": "state/tailored/2026-07-03/gusto-senior-staff-engineer-tax-platform-engineering-84-8013480.docx"
+  },
+  {
+    "job_id": "workday:hpe/Jobsathpe:/job/Westford-Massachusetts-United-States-of-America/Senior-Software-Engineer-Datapath_1200972-2",
+    "company": "hpe",
+    "role": "Senior Software Engineer Datapath",
+    "location": "Westford, Massachusetts, United States of America",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Westford-Massachusetts-United-States-of-America/Senior-Software-Engineer-Datapath_1200972-2",
+    "score": 66,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 5,
+    "matched_skills": 5,
+    "pdf": "state/tailored/2026-07-03/hpe-senior-software-engineer-datapath-66-12009722.pdf",
+    "docx": "state/tailored/2026-07-03/hpe-senior-software-engineer-datapath-66-12009722.docx"
   }
 ]
