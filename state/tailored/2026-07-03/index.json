@@ -1,0 +1,72 @@
+[
+  {
+    "job_id": "greenhouse:thetradedesk:5179740007",
+    "company": "thetradedesk",
+    "role": "Sr Forward Deployed Engineer - AI Enablement",
+    "location": "Bellevue",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5179740007",
+    "score": 100,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-07-03/thetradedesk-sr-forward-deployed-engineer-ai-enablement-100-79740007.pdf",
+    "docx": "state/tailored/2026-07-03/thetradedesk-sr-forward-deployed-engineer-ai-enablement-100-79740007.docx"
+  },
+  {
+    "job_id": "greenhouse:reddit:8044767",
+    "company": "reddit",
+    "role": "Senior Backend Engineer, IAM",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8044767",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-07-03/reddit-senior-backend-engineer-iam-95-8044767.pdf",
+    "docx": "state/tailored/2026-07-03/reddit-senior-backend-engineer-iam-95-8044767.docx"
+  },
+  {
+    "job_id": "greenhouse:affirm:7793217003",
+    "company": "affirm",
+    "role": "Senior Software Engineer, Full Stack (Zero to One Labs)",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7793217003",
+    "score": 91,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-07-03/affirm-senior-software-engineer-full-stack-zero-to-one-labs-91-93217003.pdf",
+    "docx": "state/tailored/2026-07-03/affirm-senior-software-engineer-full-stack-zero-to-one-labs-91-93217003.docx"
+  },
+  {
+    "job_id": "greenhouse:cribl:6105922004",
+    "company": "cribl",
+    "role": "Staff Software Engineer, Infrastructure",
+    "location": "US - California",
+    "url": "https://cribl.io/job-detail/?gh_jid=6105922004",
+    "score": 84,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-07-03/cribl-staff-software-engineer-infrastructure-84-05922004.pdf",
+    "docx": "state/tailored/2026-07-03/cribl-staff-software-engineer-infrastructure-84-05922004.docx"
+  },
+  {
+    "job_id": "greenhouse:gusto:8013480",
+    "company": "gusto",
+    "role": "Senior Staff Engineer - Tax Platform Engineering",
+    "location": "United States - Chicago, IL - Remote, United States - Denver, CO, United States - New York, NY, United States - San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8013480",
+    "score": 84,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-07-03/gusto-senior-staff-engineer-tax-platform-engineering-84-8013480.pdf",
+    "docx": "state/tailored/2026-07-03/gusto-senior-staff-engineer-tax-platform-engineering-84-8013480.docx"
+  }
+]
