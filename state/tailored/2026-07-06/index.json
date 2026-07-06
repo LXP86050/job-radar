@@ -292,5 +292,47 @@
     "matched_skills": 3,
     "pdf": "state/tailored/2026-07-06/nvidia-senior-system-software-engineer-graphics-53-r2020712.pdf",
     "docx": "state/tailored/2026-07-06/nvidia-senior-system-software-engineer-graphics-53-r2020712.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Washington---Bellevue/Software-Engineer-SMTS--MTS_JR350647",
+    "company": "salesforce",
+    "role": "Software Engineer SMTS/ MTS",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineer-SMTS--MTS_JR350647",
+    "score": 80,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-07-06/salesforce-software-engineer-smts-mts-80-jr350647.pdf",
+    "docx": "state/tailored/2026-07-06/salesforce-software-engineer-smts-mts-80-jr350647.docx"
+  },
+  {
+    "job_id": "workday:citi/2:/job/Irving-Texas-United-States/Senior-Java-Software-Engineer--Vice-President_26947339",
+    "company": "citi",
+    "role": "Senior Java Software Engineer, Vice President",
+    "location": "Irving Texas United States",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Senior-Java-Software-Engineer--Vice-President_26947339",
+    "score": 79,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-07-06/citi-senior-java-software-engineer-vice-president-79-26947339.pdf",
+    "docx": "state/tailored/2026-07-06/citi-senior-java-software-engineer-vice-president-79-26947339.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/Israel-Raanana/Senior-Software-Engineer---SONiC-Design-Group_JR2008620",
+    "company": "nvidia",
+    "role": "Senior Software Engineer - SONiC Design Group",
+    "location": "Israel, Raanana",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Software-Engineer---SONiC-Design-Group_JR2008620",
+    "score": 51,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 2,
+    "matched_skills": 2,
+    "pdf": "state/tailored/2026-07-06/nvidia-senior-software-engineer-sonic-design-group-51-r2008620.pdf",
+    "docx": "state/tailored/2026-07-06/nvidia-senior-software-engineer-sonic-design-group-51-r2008620.docx"
   }
 ]
