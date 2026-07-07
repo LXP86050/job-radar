@@ -1,0 +1,44 @@
+[
+  {
+    "job_id": "workday:tmobile/External:/job/Bellevue-Washington/Sr-AI-Engineer_REQ337447",
+    "company": "tmobile",
+    "role": "Sr AI Engineer",
+    "location": "Bellevue, Washington",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Sr-AI-Engineer_REQ337447",
+    "score": 85,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-07-07/tmobile-sr-ai-engineer-85-eq337447.pdf",
+    "docx": "state/tailored/2026-07-07/tmobile-sr-ai-engineer-85-eq337447.docx"
+  },
+  {
+    "job_id": "greenhouse:gusto:7918214",
+    "company": "gusto",
+    "role": "Staff Software Engineer, Tax Experiences",
+    "location": "United States - San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7918214",
+    "score": 77,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-07-07/gusto-staff-software-engineer-tax-experiences-77-7918214.pdf",
+    "docx": "state/tailored/2026-07-07/gusto-staff-software-engineer-tax-experiences-77-7918214.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Software-Engineer---Cloud-and-Kubernetes_JR2014757",
+    "company": "nvidia",
+    "role": "Senior Software Engineer - Cloud and Kubernetes",
+    "location": "2 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Cloud-and-Kubernetes_JR2014757",
+    "score": 70,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 5,
+    "matched_skills": 5,
+    "pdf": "state/tailored/2026-07-07/nvidia-senior-software-engineer-cloud-and-kubernetes-70-r2014757.pdf",
+    "docx": "state/tailored/2026-07-07/nvidia-senior-software-engineer-cloud-and-kubernetes-70-r2014757.docx"
+  }
+]
