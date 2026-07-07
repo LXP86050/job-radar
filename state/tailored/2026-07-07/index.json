@@ -54,5 +54,33 @@
     "matched_skills": 11,
     "pdf": "state/tailored/2026-07-07/salesforce-lead-software-engineer-90-r3507112.pdf",
     "docx": "state/tailored/2026-07-07/salesforce-lead-software-engineer-90-r3507112.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Finland---Espoo/Forward-Deployed-Engineer_JR349985-1",
+    "company": "salesforce",
+    "role": "Forward Deployed Engineer",
+    "location": "Finland - Espoo",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Finland---Espoo/Forward-Deployed-Engineer_JR349985-1",
+    "score": 94,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-07-07/salesforce-forward-deployed-engineer-94-r3499851.pdf",
+    "docx": "state/tailored/2026-07-07/salesforce-forward-deployed-engineer-94-r3499851.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/Israel-Yokneam/Senior-Software-Engineer---Infrastructure-and-Tools_JR2017948",
+    "company": "nvidia",
+    "role": "Senior Software Engineer - Infrastructure and Tools",
+    "location": "3 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-Engineer---Infrastructure-and-Tools_JR2017948",
+    "score": 51,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 2,
+    "matched_skills": 2,
+    "pdf": "state/tailored/2026-07-07/nvidia-senior-software-engineer-infrastructure-and-tools-51-r2017948.pdf",
+    "docx": "state/tailored/2026-07-07/nvidia-senior-software-engineer-infrastructure-and-tools-51-r2017948.docx"
   }
 ]
