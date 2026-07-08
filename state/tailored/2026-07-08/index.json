@@ -1,0 +1,58 @@
+[
+  {
+    "job_id": "workday:paypal/jobs:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137062",
+    "company": "paypal",
+    "role": "Sr. Software Engineer",
+    "location": "San Jose, California, United States of America",
+    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137062",
+    "score": 93,
+    "source": "workday",
+    "coverage": 95,
+    "jd_skills": 19,
+    "matched_skills": 18,
+    "pdf": "state/tailored/2026-07-08/paypal-sr-software-engineer-93-r0137062.pdf",
+    "docx": "state/tailored/2026-07-08/paypal-sr-software-engineer-93-r0137062.docx"
+  },
+  {
+    "job_id": "workday:hpe/Jobsathpe:/job/San-Jose-California-United-States-of-America/SASE-Cloud-Software-Engineer---AI---Backend_1208148-3",
+    "company": "hpe",
+    "role": "SASE Cloud Software Engineer - AI & Backend",
+    "location": "San Jose, California, United States of America",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/SASE-Cloud-Software-Engineer---AI---Backend_1208148-3",
+    "score": 86,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 18,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-07-08/hpe-sase-cloud-software-engineer-ai-backend-86-12081483.pdf",
+    "docx": "state/tailored/2026-07-08/hpe-sase-cloud-software-engineer-ai-backend-86-12081483.docx"
+  },
+  {
+    "job_id": "workday:paypal/jobs:/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137065",
+    "company": "paypal",
+    "role": "Sr Software Engineer",
+    "location": "Austin, Texas, United States of America",
+    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137065",
+    "score": 70,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 5,
+    "matched_skills": 5,
+    "pdf": "state/tailored/2026-07-08/paypal-sr-software-engineer-70-r0137065.pdf",
+    "docx": "state/tailored/2026-07-08/paypal-sr-software-engineer-70-r0137065.docx"
+  },
+  {
+    "job_id": "workday:paypal/jobs:/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137061",
+    "company": "paypal",
+    "role": "Sr Software Engineer",
+    "location": "Austin, Texas, United States of America",
+    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137061",
+    "score": 51,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 1,
+    "matched_skills": 1,
+    "pdf": "state/tailored/2026-07-08/paypal-sr-software-engineer-51-r0137061.pdf",
+    "docx": "state/tailored/2026-07-08/paypal-sr-software-engineer-51-r0137061.docx"
+  }
+]
