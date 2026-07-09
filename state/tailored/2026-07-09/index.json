@@ -796,5 +796,61 @@
     "matched_skills": 3,
     "pdf": "state/tailored/2026-07-09/adobe-senior-software-engineer-63-rr170402.pdf",
     "docx": "state/tailored/2026-07-09/adobe-senior-software-engineer-63-rr170402.docx"
+  },
+  {
+    "job_id": "greenhouse:scaleai:4713608005",
+    "company": "scaleai",
+    "role": "Staff Software Engineer",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4713608005",
+    "score": 97,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-07-09/scaleai-staff-software-engineer-97-13608005.pdf",
+    "docx": "state/tailored/2026-07-09/scaleai-staff-software-engineer-97-13608005.docx"
+  },
+  {
+    "job_id": "greenhouse:cloudflare:8043974",
+    "company": "cloudflare",
+    "role": "Senior Machine Learning Engineer",
+    "location": "Austin, TX",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8043974?gh_jid=8043974",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-07-09/cloudflare-senior-machine-learning-engineer-95-8043974.pdf",
+    "docx": "state/tailored/2026-07-09/cloudflare-senior-machine-learning-engineer-95-8043974.docx"
+  },
+  {
+    "job_id": "greenhouse:zscaler:5130779007",
+    "company": "zscaler",
+    "role": "Sr. Staff Software Engineer - UI, React.js",
+    "location": "Office - San Jose, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5130779007",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-07-09/zscaler-sr-staff-software-engineer-ui-react-js-94-30779007.pdf",
+    "docx": "state/tailored/2026-07-09/zscaler-sr-staff-software-engineer-ui-react-js-94-30779007.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack---Shopping--Remote-Eligible-_R242748-1",
+    "company": "capitalone",
+    "role": "Senior Lead Software Engineer, Full Stack - Shopping (Remote Eligible)",
+    "location": "2 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack---Shopping--Remote-Eligible-_R242748-1",
+    "score": 93,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 18,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-07-09/capitalone-senior-lead-software-engineer-full-stack-shopping-remote-eli-93-r2427481.pdf",
+    "docx": "state/tailored/2026-07-09/capitalone-senior-lead-software-engineer-full-stack-shopping-remote-eli-93-r2427481.docx"
   }
 ]
