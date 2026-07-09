@@ -110,5 +110,33 @@
     "matched_skills": 3,
     "pdf": "state/tailored/2026-07-09/hpe-software-engineer-support-analyst-ii-53-12081561.pdf",
     "docx": "state/tailored/2026-07-09/hpe-software-engineer-support-analyst-ii-53-12081561.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/Vietnam-Ho-Chi-Minh-City/System-Software-Engineer--AI-Data-Platform_JR2020889",
+    "company": "nvidia",
+    "role": "System Software Engineer, AI Data Platform",
+    "location": "2 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Ho-Chi-Minh-City/System-Software-Engineer--AI-Data-Platform_JR2020889",
+    "score": 71,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-07-09/nvidia-system-software-engineer-ai-data-platform-71-r2020889.pdf",
+    "docx": "state/tailored/2026-07-09/nvidia-system-software-engineer-ai-data-platform-71-r2020889.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/Israel-Yokneam/System-Software-Engineer_JR2021135",
+    "company": "nvidia",
+    "role": "System Software Engineer",
+    "location": "Israel, Yokneam",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/System-Software-Engineer_JR2021135",
+    "score": 53,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-07-09/nvidia-system-software-engineer-53-r2021135.pdf",
+    "docx": "state/tailored/2026-07-09/nvidia-system-software-engineer-53-r2021135.docx"
   }
 ]
