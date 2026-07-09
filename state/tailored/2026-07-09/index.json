@@ -1,0 +1,44 @@
+[
+  {
+    "job_id": "greenhouse:toast:8039432",
+    "company": "toast",
+    "role": "Senior Software Engineer, Orders Pricing",
+    "location": "Boston, Massachusetts, USA",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8039432",
+    "score": 89,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-07-09/toast-senior-software-engineer-orders-pricing-89-8039432.pdf",
+    "docx": "state/tailored/2026-07-09/toast-senior-software-engineer-orders-pricing-89-8039432.docx"
+  },
+  {
+    "job_id": "greenhouse:toast:8039434",
+    "company": "toast",
+    "role": "Software Engineer, Orders API",
+    "location": "Boston, Massachusetts, USA",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8039434",
+    "score": 83,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-07-09/toast-software-engineer-orders-api-83-8039434.pdf",
+    "docx": "state/tailored/2026-07-09/toast-software-engineer-orders-api-83-8039434.docx"
+  },
+  {
+    "job_id": "greenhouse:roblox:8047817",
+    "company": "roblox",
+    "role": "Senior Software Engineer - Bot Defense",
+    "location": "San Mateo, CA",
+    "url": "https://careers.roblox.com/jobs/8047817?gh_jid=8047817",
+    "score": 62,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-07-09/roblox-senior-software-engineer-bot-defense-62-8047817.pdf",
+    "docx": "state/tailored/2026-07-09/roblox-senior-software-engineer-bot-defense-62-8047817.docx"
+  }
+]
