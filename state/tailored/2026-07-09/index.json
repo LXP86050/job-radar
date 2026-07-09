@@ -852,5 +852,61 @@
     "matched_skills": 17,
     "pdf": "state/tailored/2026-07-09/capitalone-senior-lead-software-engineer-full-stack-shopping-remote-eli-93-r2427481.pdf",
     "docx": "state/tailored/2026-07-09/capitalone-senior-lead-software-engineer-full-stack-shopping-remote-eli-93-r2427481.docx"
+  },
+  {
+    "job_id": "greenhouse:roblox:8011273",
+    "company": "roblox",
+    "role": "Senior Software Engineer, Data Insights",
+    "location": "San Mateo, CA",
+    "url": "https://careers.roblox.com/jobs/8011273?gh_jid=8011273",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-07-09/roblox-senior-software-engineer-data-insights-94-8011273.pdf",
+    "docx": "state/tailored/2026-07-09/roblox-senior-software-engineer-data-insights-94-8011273.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Virginia---Herndon/Missionforce---Senior-Lead-Forward-Deployed-Engineer--Salesforce-Technical-Architect---Public-Sector_JR351344",
+    "company": "salesforce",
+    "role": "Missionforce - Senior/Lead Forward Deployed Engineer (Salesforce Technical Architect), Public Sector",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Herndon/Missionforce---Senior-Lead-Forward-Deployed-Engineer--Salesforce-Technical-Architect---Public-Sector_JR351344",
+    "score": 91,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-07-09/salesforce-missionforce-senior-lead-forward-deployed-engineer-salesforc-91-jr351344.pdf",
+    "docx": "state/tailored/2026-07-09/salesforce-missionforce-senior-lead-forward-deployed-engineer-salesforc-91-jr351344.docx"
+  },
+  {
+    "job_id": "workday:tmobile/External:/job/New-York-New-York/Senior-Applied-Scientist_REQ356836-1",
+    "company": "tmobile",
+    "role": "Senior Applied Scientist",
+    "location": "New York, New York",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/New-York-New-York/Senior-Applied-Scientist_REQ356836-1",
+    "score": 83,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-07-09/tmobile-senior-applied-scientist-83-q3568361.pdf",
+    "docx": "state/tailored/2026-07-09/tmobile-senior-applied-scientist-83-q3568361.docx"
+  },
+  {
+    "job_id": "greenhouse:thetradedesk:5165087007",
+    "company": "thetradedesk",
+    "role": "Software Engineer, Commercial Intelligence and Analytics",
+    "location": "Los Angeles",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5165087007",
+    "score": 71,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-07-09/thetradedesk-software-engineer-commercial-intelligence-and-analytics-71-65087007.pdf",
+    "docx": "state/tailored/2026-07-09/thetradedesk-software-engineer-commercial-intelligence-and-analytics-71-65087007.docx"
   }
 ]
