@@ -208,5 +208,61 @@
     "matched_skills": 3,
     "pdf": "state/tailored/2026-07-10/nvidia-senior-software-engineer-cloud-platform-52-r2010936.pdf",
     "docx": "state/tailored/2026-07-10/nvidia-senior-software-engineer-cloud-platform-52-r2010936.docx"
+  },
+  {
+    "job_id": "greenhouse:airbnb:8055229",
+    "company": "airbnb",
+    "role": "Software Engineer, Dev Tools",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/8055229?gh_jid=8055229",
+    "score": 89,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-07-10/airbnb-software-engineer-dev-tools-89-8055229.pdf",
+    "docx": "state/tailored/2026-07-10/airbnb-software-engineer-dev-tools-89-8055229.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R246018-1",
+    "company": "capitalone",
+    "role": "Lead Software Engineer, Full Stack",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R246018-1",
+    "score": 82,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 18,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-07-10/capitalone-lead-software-engineer-full-stack-82-r2460181.pdf",
+    "docx": "state/tailored/2026-07-10/capitalone-lead-software-engineer-full-stack-82-r2460181.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/India---Bangalore/Forward-Deployed-Engineer--Salesforce-Experience-Must-_JR351000",
+    "company": "salesforce",
+    "role": "Forward Deployed Engineer (Salesforce Experience Must)",
+    "location": "3 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Forward-Deployed-Engineer--Salesforce-Experience-Must-_JR351000",
+    "score": 79,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-07-10/salesforce-forward-deployed-engineer-salesforce-experience-must-79-jr351000.pdf",
+    "docx": "state/tailored/2026-07-10/salesforce-forward-deployed-engineer-salesforce-experience-must-79-jr351000.docx"
+  },
+  {
+    "job_id": "greenhouse:cloudflare:6578726",
+    "company": "cloudflare",
+    "role": "Senior Software Engineer, Workers Runtime",
+    "location": "Austin, TX",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/6578726?gh_jid=6578726",
+    "score": 64,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 3,
+    "matched_skills": 3,
+    "pdf": "state/tailored/2026-07-10/cloudflare-senior-software-engineer-workers-runtime-64-6578726.pdf",
+    "docx": "state/tailored/2026-07-10/cloudflare-senior-software-engineer-workers-runtime-64-6578726.docx"
   }
 ]
