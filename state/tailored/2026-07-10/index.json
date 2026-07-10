@@ -124,5 +124,33 @@
     "matched_skills": 2,
     "pdf": "state/tailored/2026-07-10/nvidia-senior-debugger-software-engineer-51-r2021076.pdf",
     "docx": "state/tailored/2026-07-10/nvidia-senior-debugger-software-engineer-51-r2021076.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Senior-Lead-Software-Engineer_R240715-1",
+    "company": "capitalone",
+    "role": "Senior Lead Software Engineer",
+    "location": "2 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Lead-Software-Engineer_R240715-1",
+    "score": 92,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 17,
+    "matched_skills": 16,
+    "pdf": "state/tailored/2026-07-10/capitalone-senior-lead-software-engineer-92-r2407151.pdf",
+    "docx": "state/tailored/2026-07-10/capitalone-senior-lead-software-engineer-92-r2407151.docx"
+  },
+  {
+    "job_id": "workday:micron/External:/job/Fab-10A-Singapore/HBM-Customer-Systems-Validation-Engineer_JR96586",
+    "company": "micron",
+    "role": "Staff Engineer, HBM Customer Systems Validation",
+    "location": "2 Locations",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Fab-10A-Singapore/HBM-Customer-Systems-Validation-Engineer_JR96586",
+    "score": 50,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 2,
+    "matched_skills": 2,
+    "pdf": "state/tailored/2026-07-10/micron-staff-engineer-hbm-customer-systems-validation-50-rjr96586.pdf",
+    "docx": "state/tailored/2026-07-10/micron-staff-engineer-hbm-customer-systems-validation-50-rjr96586.docx"
   }
 ]
