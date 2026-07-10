@@ -558,5 +558,61 @@
     "matched_skills": 3,
     "pdf": "state/tailored/2026-07-10/stripe-staff-software-engineer-api-platform-55-8055701.pdf",
     "docx": "state/tailored/2026-07-10/stripe-staff-software-engineer-api-platform-55-8055701.docx"
+  },
+  {
+    "job_id": "workday:citi/2:/job/Irving-Texas-United-States/Lead-Data-Platform-Engineer-Vice-President_26975632",
+    "company": "citi",
+    "role": "Lead Data Platform Engineer Vice President",
+    "location": "Irving Texas United States",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Lead-Data-Platform-Engineer-Vice-President_26975632",
+    "score": 79,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-07-10/citi-lead-data-platform-engineer-vice-president-79-26975632.pdf",
+    "docx": "state/tailored/2026-07-10/citi-lead-data-platform-engineer-vice-president-79-26975632.docx"
+  },
+  {
+    "job_id": "ashby:temporal:371d93f7-566f-40c0-9fbf-9d959d2a4692",
+    "company": "temporal",
+    "role": "Staff Software Engineer, AI Foundations (Agent Optimization)",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/temporal/371d93f7-566f-40c0-9fbf-9d959d2a4692",
+    "score": 78,
+    "source": "ashby",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-07-10/temporal-staff-software-engineer-ai-foundations-agent-optimization-78-9d2a4692.pdf",
+    "docx": "state/tailored/2026-07-10/temporal-staff-software-engineer-ai-foundations-agent-optimization-78-9d2a4692.docx"
+  },
+  {
+    "job_id": "greenhouse:reddit:7922994",
+    "company": "reddit",
+    "role": "Backend Engineer, Moderation Enforcement",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7922994",
+    "score": 58,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 2,
+    "matched_skills": 2,
+    "pdf": "state/tailored/2026-07-10/reddit-backend-engineer-moderation-enforcement-58-7922994.pdf",
+    "docx": "state/tailored/2026-07-10/reddit-backend-engineer-moderation-enforcement-58-7922994.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Deep-Learning-Engineer---Perception--Autonomous-Driving_JR2021015",
+    "company": "nvidia",
+    "role": "Senior Machine Learning Engineer",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Engineer---Perception--Autonomous-Driving_JR2021015",
+    "score": 58,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 3,
+    "matched_skills": 3,
+    "pdf": "state/tailored/2026-07-10/nvidia-senior-machine-learning-engineer-58-r2021015.pdf",
+    "docx": "state/tailored/2026-07-10/nvidia-senior-machine-learning-engineer-58-r2021015.docx"
   }
 ]
