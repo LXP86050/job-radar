@@ -152,5 +152,61 @@
     "matched_skills": 2,
     "pdf": "state/tailored/2026-07-10/micron-staff-engineer-hbm-customer-systems-validation-50-rjr96586.pdf",
     "docx": "state/tailored/2026-07-10/micron-staff-engineer-hbm-customer-systems-validation-50-rjr96586.docx"
+  },
+  {
+    "job_id": "workday:autodesk/Ext:/job/Sheffield-GBP/Senior-Software-Engineer_26WD99426-1",
+    "company": "autodesk",
+    "role": "Senior Software Engineer",
+    "location": "Sheffield, GBP",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Sheffield-GBP/Senior-Software-Engineer_26WD99426-1",
+    "score": 90,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-07-10/autodesk-senior-software-engineer-90-wd994261.pdf",
+    "docx": "state/tailored/2026-07-10/autodesk-senior-software-engineer-90-wd994261.docx"
+  },
+  {
+    "job_id": "workday:autodesk/Ext:/job/Sheffield-GBP/Software-Engineer_26WD99424-1",
+    "company": "autodesk",
+    "role": "Software Engineer",
+    "location": "Sheffield, GBP",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Sheffield-GBP/Software-Engineer_26WD99424-1",
+    "score": 87,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-07-10/autodesk-software-engineer-87-wd994241.pdf",
+    "docx": "state/tailored/2026-07-10/autodesk-software-engineer-87-wd994241.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/India-Bengaluru/Senior-Software-Engineer--Fabric-Networking---GPU_JR2020447",
+    "company": "nvidia",
+    "role": "Senior Software Engineer, Fabric Networking - GPU",
+    "location": "4 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Software-Engineer--Fabric-Networking---GPU_JR2020447",
+    "score": 59,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 3,
+    "matched_skills": 3,
+    "pdf": "state/tailored/2026-07-10/nvidia-senior-software-engineer-fabric-networking-gpu-59-r2020447.pdf",
+    "docx": "state/tailored/2026-07-10/nvidia-senior-software-engineer-fabric-networking-gpu-59-r2020447.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/India-Bengaluru/Senior-Software-Engineer--Cloud-Platform_JR2010936",
+    "company": "nvidia",
+    "role": "Senior Software Engineer, Cloud Platform",
+    "location": "2 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Software-Engineer--Cloud-Platform_JR2010936",
+    "score": 52,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 3,
+    "matched_skills": 3,
+    "pdf": "state/tailored/2026-07-10/nvidia-senior-software-engineer-cloud-platform-52-r2010936.pdf",
+    "docx": "state/tailored/2026-07-10/nvidia-senior-software-engineer-cloud-platform-52-r2010936.docx"
   }
 ]
