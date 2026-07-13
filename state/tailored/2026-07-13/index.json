@@ -12,5 +12,61 @@
     "matched_skills": 12,
     "pdf": "state/tailored/2026-07-13/capitalone-senior-lead-ai-engineer-mlx-agentic-ai-gen-ai-platform-servi-96-sr246744.pdf",
     "docx": "state/tailored/2026-07-13/capitalone-senior-lead-ai-engineer-mlx-agentic-ai-gen-ai-platform-servi-96-sr246744.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-TX-Remote/Senior-System-Software-Engineer-for-Cloud---GeForce-NOW_JR2021248",
+    "company": "nvidia",
+    "role": "Senior System Software Engineer for Cloud – GeForce NOW",
+    "location": "US, TX, Remote",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Remote/Senior-System-Software-Engineer-for-Cloud---GeForce-NOW_JR2021248",
+    "score": 92,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 16,
+    "matched_skills": 16,
+    "pdf": "state/tailored/2026-07-13/nvidia-senior-system-software-engineer-for-cloud-geforce-now-92-r2021248.pdf",
+    "docx": "state/tailored/2026-07-13/nvidia-senior-system-software-engineer-for-cloud-geforce-now-92-r2021248.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/Vietnam-Hanoi/Senior-System-Software-Engineer---AI-Data-Platform---Inference-Factory-Optimization_JR2021063-1",
+    "company": "nvidia",
+    "role": "Senior System Software Engineer - AI Data Platform - Inference Factory Optimization",
+    "location": "2 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Hanoi/Senior-System-Software-Engineer---AI-Data-Platform---Inference-Factory-Optimization_JR2021063-1",
+    "score": 78,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-07-13/nvidia-senior-system-software-engineer-ai-data-platform-inference-f-78-20210631.pdf",
+    "docx": "state/tailored/2026-07-13/nvidia-senior-system-software-engineer-ai-data-platform-inference-f-78-20210631.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/Vietnam-Ho-Chi-Minh-City/Senior-Software-Engineer--Metropolis-Vision-AI_JR2021060",
+    "company": "nvidia",
+    "role": "Senior Software Engineer, Metropolis Vision AI",
+    "location": "2 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Ho-Chi-Minh-City/Senior-Software-Engineer--Metropolis-Vision-AI_JR2021060",
+    "score": 71,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 5,
+    "matched_skills": 5,
+    "pdf": "state/tailored/2026-07-13/nvidia-senior-software-engineer-metropolis-vision-ai-71-r2021060.pdf",
+    "docx": "state/tailored/2026-07-13/nvidia-senior-software-engineer-metropolis-vision-ai-71-r2021060.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/Vietnam-Ho-Chi-Minh-City/Software-Engineer--Metropolis-Vision-AI_JR2021059",
+    "company": "nvidia",
+    "role": "Software Engineer, Metropolis Vision AI",
+    "location": "2 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Ho-Chi-Minh-City/Software-Engineer--Metropolis-Vision-AI_JR2021059",
+    "score": 65,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 5,
+    "matched_skills": 5,
+    "pdf": "state/tailored/2026-07-13/nvidia-software-engineer-metropolis-vision-ai-65-r2021059.pdf",
+    "docx": "state/tailored/2026-07-13/nvidia-software-engineer-metropolis-vision-ai-65-r2021059.docx"
   }
 ]
