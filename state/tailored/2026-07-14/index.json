@@ -124,5 +124,61 @@
     "matched_skills": 15,
     "pdf": "state/tailored/2026-07-14/salesforce-software-engineer-mts-agentforce-optimization-agent-agent-st-88-r3499011.pdf",
     "docx": "state/tailored/2026-07-14/salesforce-software-engineer-mts-agentforce-optimization-agent-agent-st-88-r3499011.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/New-York-NY/Senior-Lead-AI-Engineer_R238348-1",
+    "company": "capitalone",
+    "role": "Senior Lead AI Engineer",
+    "location": "4 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Senior-Lead-AI-Engineer_R238348-1",
+    "score": 89,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-07-14/capitalone-senior-lead-ai-engineer-89-r2383481.pdf",
+    "docx": "state/tailored/2026-07-14/capitalone-senior-lead-ai-engineer-89-r2383481.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Lead-Software-Engineer--Full-Stack--Risk-Tech--Intelligent-Foundations---Experiences-_R246900-1",
+    "company": "capitalone",
+    "role": "Lead Software Engineer, Full Stack (Risk Tech, Intelligent Foundations & Experiences)",
+    "location": "2 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack--Risk-Tech--Intelligent-Foundations---Experiences-_R246900-1",
+    "score": 87,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-07-14/capitalone-lead-software-engineer-full-stack-risk-tech-intelligent-foun-87-r2469001.pdf",
+    "docx": "state/tailored/2026-07-14/capitalone-lead-software-engineer-full-stack-risk-tech-intelligent-foun-87-r2469001.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/Richmond-VA/Lead-Software-Engineer--Full-Stack-IC_R246908-1",
+    "company": "capitalone",
+    "role": "Lead Software Engineer, Full Stack-IC",
+    "location": "2 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Software-Engineer--Full-Stack-IC_R246908-1",
+    "score": 82,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-07-14/capitalone-lead-software-engineer-full-stack-ic-82-r2469081.pdf",
+    "docx": "state/tailored/2026-07-14/capitalone-lead-software-engineer-full-stack-ic-82-r2469081.docx"
+  },
+  {
+    "job_id": "workday:hp/ExternalCareerSite:/job/Spring-Texas-United-States-of-America/AI-ML-Platform-Engineer_3164949-1",
+    "company": "hp",
+    "role": "AI/ML Platform Engineer",
+    "location": "2 Locations",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/AI-ML-Platform-Engineer_3164949-1",
+    "score": 71,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-07-14/hp-ai-ml-platform-engineer-71-31649491.pdf",
+    "docx": "state/tailored/2026-07-14/hp-ai-ml-platform-engineer-71-31649491.docx"
   }
 ]
