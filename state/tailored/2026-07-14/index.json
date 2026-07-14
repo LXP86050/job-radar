@@ -110,5 +110,19 @@
     "matched_skills": 2,
     "pdf": "state/tailored/2026-07-14/adobe-machine-learning-engineer-52-rr169938.pdf",
     "docx": "state/tailored/2026-07-14/adobe-machine-learning-engineer-52-rr169938.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---San-Francisco/Software-Engineer--MTS---Agentforce-Optimization-Agent---Agent-Studio_JR349901-1",
+    "company": "salesforce",
+    "role": "Software Engineer, MTS - Agentforce Optimization Agent & Agent Studio",
+    "location": "California - San Francisco",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineer--MTS---Agentforce-Optimization-Agent---Agent-Studio_JR349901-1",
+    "score": 88,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-07-14/salesforce-software-engineer-mts-agentforce-optimization-agent-agent-st-88-r3499011.pdf",
+    "docx": "state/tailored/2026-07-14/salesforce-software-engineer-mts-agentforce-optimization-agent-agent-st-88-r3499011.docx"
   }
 ]
