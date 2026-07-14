@@ -796,5 +796,47 @@
     "matched_skills": 6,
     "pdf": "state/tailored/2026-07-14/nvidia-senior-software-engineer-dgx-cloud-production-engineering-71-r2021096.pdf",
     "docx": "state/tailored/2026-07-14/nvidia-senior-software-engineer-dgx-cloud-production-engineering-71-r2021096.docx"
+  },
+  {
+    "job_id": "greenhouse:scaleai:4302243005",
+    "company": "scaleai",
+    "role": "Software Engineer, Public Sector",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4302243005",
+    "score": 87,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-07-14/scaleai-software-engineer-public-sector-87-02243005.pdf",
+    "docx": "state/tailored/2026-07-14/scaleai-software-engineer-public-sector-87-02243005.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---Palo-Alto/Software-Engineering-LMTS_JR351529",
+    "company": "salesforce",
+    "role": "Software Engineering LMTS",
+    "location": "4 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Software-Engineering-LMTS_JR351529",
+    "score": 85,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-07-14/salesforce-software-engineering-lmts-85-jr351529.pdf",
+    "docx": "state/tailored/2026-07-14/salesforce-software-engineering-lmts-85-jr351529.docx"
+  },
+  {
+    "job_id": "greenhouse:twitch:8623578002",
+    "company": "twitch",
+    "role": "Software Engineer I, Discovery",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8623578002",
+    "score": 64,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-07-14/twitch-software-engineer-i-discovery-64-23578002.pdf",
+    "docx": "state/tailored/2026-07-14/twitch-software-engineer-i-discovery-64-23578002.docx"
   }
 ]
