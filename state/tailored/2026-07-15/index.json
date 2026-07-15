@@ -404,5 +404,61 @@
     "matched_skills": 6,
     "pdf": "state/tailored/2026-07-15/mercury-senior-software-engineer-frontend-developer-experience-70-16808004.pdf",
     "docx": "state/tailored/2026-07-15/mercury-senior-software-engineer-frontend-developer-experience-70-16808004.docx"
+  },
+  {
+    "job_id": "greenhouse:sofi:7593403003",
+    "company": "sofi",
+    "role": "Senior Staff AI Engineer",
+    "location": "WA - Seattle",
+    "url": "https://sofi.com/careers/job/7593403003?gh_jid=7593403003",
+    "score": 100,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-07-15/sofi-senior-staff-ai-engineer-100-93403003.pdf",
+    "docx": "state/tailored/2026-07-15/sofi-senior-staff-ai-engineer-100-93403003.docx"
+  },
+  {
+    "job_id": "greenhouse:sofi:7589427003",
+    "company": "sofi",
+    "role": "Senior Staff Software Engineer, AI Accelerated SDLC",
+    "location": "CA - San Francisco",
+    "url": "https://sofi.com/careers/job/7589427003?gh_jid=7589427003",
+    "score": 97,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-07-15/sofi-senior-staff-software-engineer-ai-accelerated-sdlc-97-89427003.pdf",
+    "docx": "state/tailored/2026-07-15/sofi-senior-staff-software-engineer-ai-accelerated-sdlc-97-89427003.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Senior-Lead-Machine-Learning-Engineer_R241992",
+    "company": "capitalone",
+    "role": "Senior Lead Machine Learning Engineer",
+    "location": "3 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Lead-Machine-Learning-Engineer_R241992",
+    "score": 93,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-07-15/capitalone-senior-lead-machine-learning-engineer-93-rr241992.pdf",
+    "docx": "state/tailored/2026-07-15/capitalone-senior-lead-machine-learning-engineer-93-rr241992.docx"
+  },
+  {
+    "job_id": "greenhouse:verkada:5187946007",
+    "company": "verkada",
+    "role": "Senior Backend Engineer - Access Control",
+    "location": "Bay-HQ office",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5187946007",
+    "score": 82,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-07-15/verkada-senior-backend-engineer-access-control-82-87946007.pdf",
+    "docx": "state/tailored/2026-07-15/verkada-senior-backend-engineer-access-control-82-87946007.docx"
   }
 ]
