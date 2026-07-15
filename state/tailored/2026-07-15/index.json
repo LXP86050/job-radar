@@ -96,5 +96,61 @@
     "matched_skills": 4,
     "pdf": "state/tailored/2026-07-15/nvidia-senior-systems-software-engineer-gpu-software-58-r2020271.pdf",
     "docx": "state/tailored/2026-07-15/nvidia-senior-systems-software-engineer-gpu-software-58-r2020271.docx"
+  },
+  {
+    "job_id": "greenhouse:boxinc:7580025",
+    "company": "boxinc",
+    "role": "Software Engineer III, Kubernetes",
+    "location": "Redwood City Office",
+    "url": "https://job-boards.greenhouse.io/boxinc/jobs/7580025",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-07-15/boxinc-software-engineer-iii-kubernetes-93-7580025.pdf",
+    "docx": "state/tailored/2026-07-15/boxinc-software-engineer-iii-kubernetes-93-7580025.docx"
+  },
+  {
+    "job_id": "greenhouse:amplitude:8634061002",
+    "company": "amplitude",
+    "role": "Senior Software Engineer; Middleware",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8634061002",
+    "score": 81,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-07-15/amplitude-senior-software-engineer-middleware-81-34061002.pdf",
+    "docx": "state/tailored/2026-07-15/amplitude-senior-software-engineer-middleware-81-34061002.docx"
+  },
+  {
+    "job_id": "greenhouse:affirm:7719651003",
+    "company": "affirm",
+    "role": "Machine Learning Engineer II (Servicing ML)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7719651003",
+    "score": 80,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-07-15/affirm-machine-learning-engineer-ii-servicing-ml-80-19651003.pdf",
+    "docx": "state/tailored/2026-07-15/affirm-machine-learning-engineer-ii-servicing-ml-80-19651003.docx"
+  },
+  {
+    "job_id": "greenhouse:affirm:7719653003",
+    "company": "affirm",
+    "role": "Machine Learning Engineer II (Servicing ML)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7719653003",
+    "score": 80,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-07-15/affirm-machine-learning-engineer-ii-servicing-ml-80-19653003.pdf",
+    "docx": "state/tailored/2026-07-15/affirm-machine-learning-engineer-ii-servicing-ml-80-19653003.docx"
   }
 ]
