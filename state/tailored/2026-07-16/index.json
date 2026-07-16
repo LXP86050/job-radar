@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "job_id": "greenhouse:attentive:4249485009",
+    "company": "attentive",
+    "role": "Senior Software Engineer, Data Centralization & Storage",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/attentive/jobs/4249485009",
+    "score": 91,
+    "source": "greenhouse",
+    "coverage": 95,
+    "jd_skills": 22,
+    "matched_skills": 21,
+    "pdf": "state/tailored/2026-07-16/attentive-senior-software-engineer-data-centralization-storage-91-49485009.pdf",
+    "docx": "state/tailored/2026-07-16/attentive-senior-software-engineer-data-centralization-storage-91-49485009.docx"
+  },
+  {
+    "job_id": "greenhouse:waymo:6815910",
+    "company": "waymo",
+    "role": "Staff Machine Learning Engineer, DUE",
+    "location": "Mountain View (US-MTV-EMF680)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=6815910",
+    "score": 78,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-07-16/waymo-staff-machine-learning-engineer-due-78-6815910.pdf",
+    "docx": "state/tailored/2026-07-16/waymo-staff-machine-learning-engineer-due-78-6815910.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Platform-Engineer--Network-Infrastructure---DGX-Cloud_JR2021436",
+    "company": "nvidia",
+    "role": "Senior Platform Engineer, Network Infrastructure - DGX Cloud",
+    "location": "6 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Platform-Engineer--Network-Infrastructure---DGX-Cloud_JR2021436",
+    "score": 71,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-07-16/nvidia-senior-platform-engineer-network-infrastructure-dgx-cloud-71-r2021436.pdf",
+    "docx": "state/tailored/2026-07-16/nvidia-senior-platform-engineer-network-infrastructure-dgx-cloud-71-r2021436.docx"
+  },
+  {
+    "job_id": "greenhouse:nuro:7904958",
+    "company": "nuro",
+    "role": "Senior Software Engineer, Map Platform",
+    "location": "California - HQ",
+    "url": "https://nuro.ai/careersitem?gh_jid=7904958",
+    "score": 52,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 2,
+    "matched_skills": 2,
+    "pdf": "state/tailored/2026-07-16/nuro-senior-software-engineer-map-platform-52-7904958.pdf",
+    "docx": "state/tailored/2026-07-16/nuro-senior-software-engineer-map-platform-52-7904958.docx"
+  }
+]
