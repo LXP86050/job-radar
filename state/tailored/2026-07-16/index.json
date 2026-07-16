@@ -124,5 +124,47 @@
     "matched_skills": 4,
     "pdf": "state/tailored/2026-07-16/comcast-lead-software-engineer-data-4555-58-5r440924.pdf",
     "docx": "state/tailored/2026-07-16/comcast-lead-software-engineer-data-4555-58-5r440924.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/Richmond-VA/Lead-Software-Engineer_R246825-1",
+    "company": "capitalone",
+    "role": "Lead Software Engineer",
+    "location": "Richmond, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Software-Engineer_R246825-1",
+    "score": 82,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-07-16/capitalone-lead-software-engineer-82-r2468251.pdf",
+    "docx": "state/tailored/2026-07-16/capitalone-lead-software-engineer-82-r2468251.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Texas---Dallas/Workday-Software-Engineer---MTS_JR344779",
+    "company": "salesforce",
+    "role": "Workday Software Engineer – MTS",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Texas---Dallas/Workday-Software-Engineer---MTS_JR344779",
+    "score": 78,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-07-16/salesforce-workday-software-engineer-mts-78-jr344779.pdf",
+    "docx": "state/tailored/2026-07-16/salesforce-workday-software-engineer-mts-78-jr344779.docx"
+  },
+  {
+    "job_id": "greenhouse:asana:8069471",
+    "company": "asana",
+    "role": "Senior Software Engineer, Security Development",
+    "location": "San Francisco",
+    "url": "https://www.asana.com/jobs/apply/8069471?gh_jid=8069471",
+    "score": 51,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 1,
+    "matched_skills": 1,
+    "pdf": "state/tailored/2026-07-16/asana-senior-software-engineer-security-development-51-8069471.pdf",
+    "docx": "state/tailored/2026-07-16/asana-senior-software-engineer-security-development-51-8069471.docx"
   }
 ]
