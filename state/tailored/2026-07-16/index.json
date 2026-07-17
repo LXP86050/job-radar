@@ -502,5 +502,33 @@
     "matched_skills": 4,
     "pdf": "state/tailored/2026-07-16/nvidia-senior-software-engineer-ai-inference-60-r2016392.pdf",
     "docx": "state/tailored/2026-07-16/nvidia-senior-software-engineer-ai-inference-60-r2016392.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Washington---Seattle/Software-Engineering-SMTS_JR346962",
+    "company": "salesforce",
+    "role": "Software Engineering SMTS",
+    "location": "3 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Seattle/Software-Engineering-SMTS_JR346962",
+    "score": 86,
+    "source": "workday",
+    "coverage": 95,
+    "jd_skills": 20,
+    "matched_skills": 19,
+    "pdf": "state/tailored/2026-07-16/salesforce-software-engineering-smts-86-jr346962.pdf",
+    "docx": "state/tailored/2026-07-16/salesforce-software-engineering-smts-86-jr346962.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Software-Engineer--Spatial-Intelligence-and-Foundation-Models_JR2021311-1",
+    "company": "nvidia",
+    "role": "Senior Software Engineer, Spatial Intelligence and Foundation Models",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Spatial-Intelligence-and-Foundation-Models_JR2021311-1",
+    "score": 66,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-07-16/nvidia-senior-software-engineer-spatial-intelligence-and-foundation-66-20213111.pdf",
+    "docx": "state/tailored/2026-07-16/nvidia-senior-software-engineer-spatial-intelligence-and-foundation-66-20213111.docx"
   }
 ]
