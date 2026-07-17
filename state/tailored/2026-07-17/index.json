@@ -68,5 +68,19 @@
     "matched_skills": 5,
     "pdf": "state/tailored/2026-07-17/salesforce-software-engineering-smts-lmts-66-jr310367.pdf",
     "docx": "state/tailored/2026-07-17/salesforce-software-engineering-smts-lmts-66-jr310367.docx"
+  },
+  {
+    "job_id": "greenhouse:mercury:6118243004",
+    "company": "mercury",
+    "role": "Senior Software Engineer - Banking Integration Platform",
+    "location": "Any Office or Remote",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6118243004",
+    "score": 55,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 2,
+    "matched_skills": 2,
+    "pdf": "state/tailored/2026-07-17/mercury-senior-software-engineer-banking-integration-platform-55-18243004.pdf",
+    "docx": "state/tailored/2026-07-17/mercury-senior-software-engineer-banking-integration-platform-55-18243004.docx"
   }
 ]
