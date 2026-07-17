@@ -12,5 +12,61 @@
     "matched_skills": 7,
     "pdf": "state/tailored/2026-07-17/databricks-staff-software-engineer-ai-research-infrastructure-78-52484002.pdf",
     "docx": "state/tailored/2026-07-17/databricks-staff-software-engineer-ai-research-infrastructure-78-52484002.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Australia---Sydney/Senior-Forward-Deployed-Engineer_JR352273",
+    "company": "salesforce",
+    "role": "Senior Forward Deployed Engineer",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Australia---Sydney/Senior-Forward-Deployed-Engineer_JR352273",
+    "score": 94,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-07-17/salesforce-senior-forward-deployed-engineer-94-jr352273.pdf",
+    "docx": "state/tailored/2026-07-17/salesforce-senior-forward-deployed-engineer-94-jr352273.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Australia---Sydney/Forward-Deployed-Engineer_JR350209",
+    "company": "salesforce",
+    "role": "Forward Deployed Engineer",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Australia---Sydney/Forward-Deployed-Engineer_JR350209",
+    "score": 94,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-07-17/salesforce-forward-deployed-engineer-94-jr350209.pdf",
+    "docx": "state/tailored/2026-07-17/salesforce-forward-deployed-engineer-94-jr350209.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/India-Bengaluru/Senior-Platform-Engineer--Network-Infrastructure_JR2021500",
+    "company": "nvidia",
+    "role": "Senior Platform Engineer, Network Infrastructure",
+    "location": "4 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Platform-Engineer--Network-Infrastructure_JR2021500",
+    "score": 71,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-07-17/nvidia-senior-platform-engineer-network-infrastructure-71-r2021500.pdf",
+    "docx": "state/tailored/2026-07-17/nvidia-senior-platform-engineer-network-infrastructure-71-r2021500.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/India---Hyderabad/Software-Engineering-SMTS-LMTS_JR310367",
+    "company": "salesforce",
+    "role": "Software Engineering SMTS/LMTS",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-SMTS-LMTS_JR310367",
+    "score": 66,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 5,
+    "matched_skills": 5,
+    "pdf": "state/tailored/2026-07-17/salesforce-software-engineering-smts-lmts-66-jr310367.pdf",
+    "docx": "state/tailored/2026-07-17/salesforce-software-engineering-smts-lmts-66-jr310367.docx"
   }
 ]
