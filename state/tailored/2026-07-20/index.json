@@ -82,5 +82,33 @@
     "matched_skills": 2,
     "pdf": "state/tailored/2026-07-20/elevenlabs-forward-deployed-engineer-software-engineer-52-93860c4c.pdf",
     "docx": "state/tailored/2026-07-20/elevenlabs-forward-deployed-engineer-software-engineer-52-93860c4c.docx"
+  },
+  {
+    "job_id": "greenhouse:imc:4932192101",
+    "company": "imc",
+    "role": "Graduate Software Engineer (Digital Assets)",
+    "location": "Zug",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4932192101",
+    "score": 71,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-07-20/imc-graduate-software-engineer-digital-assets-71-32192101.pdf",
+    "docx": "state/tailored/2026-07-20/imc-graduate-software-engineer-digital-assets-71-32192101.docx"
+  },
+  {
+    "job_id": "workday:citi/2:/job/1124-SHIVAJI-GARDENS-MOONLI/Digital-Software-Engineering-Analyst_26979862",
+    "company": "citi",
+    "role": "Digital Software Engineering Analyst",
+    "location": "1/124, SHIVAJI GARDENS, MOONLI",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1124-SHIVAJI-GARDENS-MOONLI/Digital-Software-Engineering-Analyst_26979862",
+    "score": 65,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-07-20/citi-digital-software-engineering-analyst-65-26979862.pdf",
+    "docx": "state/tailored/2026-07-20/citi-digital-software-engineering-analyst-65-26979862.docx"
   }
 ]
