@@ -474,5 +474,47 @@
     "matched_skills": 9,
     "pdf": "state/tailored/2026-07-20/carta-staff-software-engineer-80-56304003.pdf",
     "docx": "state/tailored/2026-07-20/carta-staff-software-engineer-80-56304003.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071",
+    "company": "nvidia",
+    "role": "Deep Learning Software Engineer, TensorRT Performance - New College Grad 2026",
+    "location": "2 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071",
+    "score": 73,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-07-20/nvidia-deep-learning-software-engineer-tensorrt-performance-new-col-73-r2015071.pdf",
+    "docx": "state/tailored/2026-07-20/nvidia-deep-learning-software-engineer-tensorrt-performance-new-col-73-r2015071.docx"
+  },
+  {
+    "job_id": "greenhouse:lyft:8639200002",
+    "company": "lyft",
+    "role": "ML Software Engineer, ETA",
+    "location": "San Francisco Office",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8639200002?gh_jid=8639200002",
+    "score": 57,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-07-20/lyft-ml-software-engineer-eta-57-39200002.pdf",
+    "docx": "state/tailored/2026-07-20/lyft-ml-software-engineer-eta-57-39200002.docx"
+  },
+  {
+    "job_id": "greenhouse:stripe:8075469",
+    "company": "stripe",
+    "role": "Software Engineer, Optimized Checkout & Link",
+    "location": "US-PERM",
+    "url": "https://stripe.com/jobs/search?gh_jid=8075469",
+    "score": 56,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 3,
+    "matched_skills": 3,
+    "pdf": "state/tailored/2026-07-20/stripe-software-engineer-optimized-checkout-link-56-8075469.pdf",
+    "docx": "state/tailored/2026-07-20/stripe-software-engineer-optimized-checkout-link-56-8075469.docx"
   }
 ]
