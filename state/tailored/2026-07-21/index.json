@@ -68,5 +68,33 @@
     "matched_skills": 3,
     "pdf": "state/tailored/2026-07-21/nvidia-senior-systems-software-engineer-fleet-debuggability-53-r2021461.pdf",
     "docx": "state/tailored/2026-07-21/nvidia-senior-systems-software-engineer-fleet-debuggability-53-r2021461.docx"
+  },
+  {
+    "job_id": "greenhouse:samsara:7491153",
+    "company": "samsara",
+    "role": "AI Engineer",
+    "location": "San Francisco - SF9",
+    "url": "https://www.samsara.com/company/careers/roles/7491153?gh_jid=7491153",
+    "score": 99,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-07-21/samsara-ai-engineer-99-7491153.pdf",
+    "docx": "state/tailored/2026-07-21/samsara-ai-engineer-99-7491153.docx"
+  },
+  {
+    "job_id": "greenhouse:cloudflare:7302931",
+    "company": "cloudflare",
+    "role": "Software Engineer: Resiliency - Deploy at Scale",
+    "location": "Austin, TX, Washington, DC",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7302931?gh_jid=7302931",
+    "score": 64,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-07-21/cloudflare-software-engineer-resiliency-deploy-at-scale-64-7302931.pdf",
+    "docx": "state/tailored/2026-07-21/cloudflare-software-engineer-resiliency-deploy-at-scale-64-7302931.docx"
   }
 ]
