@@ -1,0 +1,72 @@
+[
+  {
+    "job_id": "greenhouse:thetradedesk:5162288007",
+    "company": "thetradedesk",
+    "role": "Senior Full Stack Software Engineer-Agentic Applications GTM",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5162288007",
+    "score": 99,
+    "source": "greenhouse",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-07-21/thetradedesk-senior-full-stack-software-engineer-agentic-applications-gtm-99-62288007.pdf",
+    "docx": "state/tailored/2026-07-21/thetradedesk-senior-full-stack-software-engineer-agentic-applications-gtm-99-62288007.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Australia---Melbourne/Principal-Software-Engineer--PMTS_JR338911",
+    "company": "salesforce",
+    "role": "Lead Software Engineer, LMTS",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Australia---Melbourne/Principal-Software-Engineer--PMTS_JR338911",
+    "score": 86,
+    "source": "workday",
+    "coverage": 96,
+    "jd_skills": 23,
+    "matched_skills": 22,
+    "pdf": "state/tailored/2026-07-21/salesforce-lead-software-engineer-lmts-86-jr338911.pdf",
+    "docx": "state/tailored/2026-07-21/salesforce-lead-software-engineer-lmts-86-jr338911.docx"
+  },
+  {
+    "job_id": "workday:hpe/Jobsathpe:/job/Westford-Massachusetts-United-States-of-America/Software-Engineer--Systems_1208434-2",
+    "company": "hpe",
+    "role": "Software Engineer, Systems",
+    "location": "Westford, Massachusetts, United States of America",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Westford-Massachusetts-United-States-of-America/Software-Engineer--Systems_1208434-2",
+    "score": 66,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-07-21/hpe-software-engineer-systems-66-12084342.pdf",
+    "docx": "state/tailored/2026-07-21/hpe-software-engineer-systems-66-12084342.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Staff-Engineer---Enterprise-Messaging-and-Exchange_JR2021443",
+    "company": "nvidia",
+    "role": "Senior Staff Engineer - Enterprise Messaging and Exchange",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-Engineer---Enterprise-Messaging-and-Exchange_JR2021443",
+    "score": 61,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 5,
+    "matched_skills": 5,
+    "pdf": "state/tailored/2026-07-21/nvidia-senior-staff-engineer-enterprise-messaging-and-exchange-61-r2021443.pdf",
+    "docx": "state/tailored/2026-07-21/nvidia-senior-staff-engineer-enterprise-messaging-and-exchange-61-r2021443.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Fleet-Debuggability_JR2021461",
+    "company": "nvidia",
+    "role": "Senior Systems Software Engineer - Fleet Debuggability",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Fleet-Debuggability_JR2021461",
+    "score": 53,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 3,
+    "matched_skills": 3,
+    "pdf": "state/tailored/2026-07-21/nvidia-senior-systems-software-engineer-fleet-debuggability-53-r2021461.pdf",
+    "docx": "state/tailored/2026-07-21/nvidia-senior-systems-software-engineer-fleet-debuggability-53-r2021461.docx"
+  }
+]
