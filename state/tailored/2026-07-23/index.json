@@ -810,5 +810,47 @@
     "matched_skills": 2,
     "pdf": "state/tailored/2026-07-23/lucidmotors-senior-software-engineer-motion-planning-parking-55-63850007.pdf",
     "docx": "state/tailored/2026-07-23/lucidmotors-senior-software-engineer-motion-planning-parking-55-63850007.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Lead-Machine-Learning-Engineer_R247566-1",
+    "company": "capitalone",
+    "role": "Lead Machine Learning Engineer",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Machine-Learning-Engineer_R247566-1",
+    "score": 93,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-07-23/capitalone-lead-machine-learning-engineer-93-r2475661.pdf",
+    "docx": "state/tailored/2026-07-23/capitalone-lead-machine-learning-engineer-93-r2475661.docx"
+  },
+  {
+    "job_id": "greenhouse:coinbase:8064873",
+    "company": "coinbase",
+    "role": "Senior Software Engineer, Data Layer",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "url": "https://www.coinbase.com/careers/positions/8064873?gh_jid=8064873",
+    "score": 84,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-07-23/coinbase-senior-software-engineer-data-layer-84-8064873.pdf",
+    "docx": "state/tailored/2026-07-23/coinbase-senior-software-engineer-data-layer-84-8064873.docx"
+  },
+  {
+    "job_id": "workday:adobe/external_experienced:/job/San-Jose/Senior-Backend-Engineer---Cloud-Platform_R168509",
+    "company": "adobe",
+    "role": "Senior Backend Engineer – Cloud Platform",
+    "location": "San Jose",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Backend-Engineer---Cloud-Platform_R168509",
+    "score": 78,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-07-23/adobe-senior-backend-engineer-cloud-platform-78-mr168509.pdf",
+    "docx": "state/tailored/2026-07-23/adobe-senior-backend-engineer-cloud-platform-78-mr168509.docx"
   }
 ]
