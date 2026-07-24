@@ -264,5 +264,33 @@
     "matched_skills": 5,
     "pdf": "state/tailored/2026-07-24/midjourney-backend-engineer-product-58-316255df.pdf",
     "docx": "state/tailored/2026-07-24/midjourney-backend-engineer-product-58-316255df.docx"
+  },
+  {
+    "job_id": "greenhouse:klaviyo:7811667003",
+    "company": "klaviyo",
+    "role": "Software Engineer - Advanced Reporting",
+    "location": "Boston",
+    "url": "https://www.klaviyo.com/careers/jobs/7811667003?gh_jid=7811667003",
+    "score": 90,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-07-24/klaviyo-software-engineer-advanced-reporting-90-11667003.pdf",
+    "docx": "state/tailored/2026-07-24/klaviyo-software-engineer-advanced-reporting-90-11667003.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Sr-Lead-Machine-Learning-Engineer--IC-_R247522-1",
+    "company": "capitalone",
+    "role": "Sr. Lead Machine Learning Engineer (IC)",
+    "location": "3 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Lead-Machine-Learning-Engineer--IC-_R247522-1",
+    "score": 87,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-07-24/capitalone-sr-lead-machine-learning-engineer-ic-87-r2475221.pdf",
+    "docx": "state/tailored/2026-07-24/capitalone-sr-lead-machine-learning-engineer-ic-87-r2475221.docx"
   }
 ]
