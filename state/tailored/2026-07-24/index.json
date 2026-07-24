@@ -1,0 +1,44 @@
+[
+  {
+    "job_id": "ashby:perplexity:3c16733a-07d1-42d9-ac54-ff9065f702cf",
+    "company": "perplexity",
+    "role": "Member of Technical Staff (Software Engineer, Enterprise Adoption)",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/perplexity/3c16733a-07d1-42d9-ac54-ff9065f702cf",
+    "score": 89,
+    "source": "ashby",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-07-24/perplexity-member-of-technical-staff-software-engineer-enterprise-adopt-89-65f702cf.pdf",
+    "docx": "state/tailored/2026-07-24/perplexity-member-of-technical-staff-software-engineer-enterprise-adopt-89-65f702cf.docx"
+  },
+  {
+    "job_id": "greenhouse:carta:7814824003",
+    "company": "carta",
+    "role": "Staff Software Engineer",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7814824003",
+    "score": 78,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-07-24/carta-staff-software-engineer-78-14824003.pdf",
+    "docx": "state/tailored/2026-07-24/carta-staff-software-engineer-78-14824003.docx"
+  },
+  {
+    "job_id": "greenhouse:carta:7772786003",
+    "company": "carta",
+    "role": "Senior Software Engineer II",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7772786003",
+    "score": 76,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-07-24/carta-senior-software-engineer-ii-76-72786003.pdf",
+    "docx": "state/tailored/2026-07-24/carta-senior-software-engineer-ii-76-72786003.docx"
+  }
+]
