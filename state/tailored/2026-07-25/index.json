@@ -96,5 +96,61 @@
     "matched_skills": 5,
     "pdf": "state/tailored/2026-07-25/nvidia-senior-software-engineer-world-model-systems-engineering-aut-54-r2020021.pdf",
     "docx": "state/tailored/2026-07-25/nvidia-senior-software-engineer-world-model-systems-engineering-aut-54-r2020021.docx"
+  },
+  {
+    "job_id": "workday:workday/Workday:/job/USAVAReston/Analytics-Sr-Software-Engineer--US-Federal-_JR-0105494",
+    "company": "workday",
+    "role": "Analytics Sr Software Engineer (US Federal)",
+    "location": "USA.VA.Reston",
+    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Analytics-Sr-Software-Engineer--US-Federal-_JR-0105494",
+    "score": 91,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-07-25/workday-analytics-sr-software-engineer-us-federal-91-r0105494.pdf",
+    "docx": "state/tailored/2026-07-25/workday-analytics-sr-software-engineer-us-federal-91-r0105494.docx"
+  },
+  {
+    "job_id": "workday:workday/Workday:/job/USAVAReston/Analytics-Sr-Software-Engineer--US-Federal-_JR-0105493",
+    "company": "workday",
+    "role": "Analytics Sr Software Engineer (US Federal)",
+    "location": "USA.VA.Reston",
+    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Analytics-Sr-Software-Engineer--US-Federal-_JR-0105493",
+    "score": 91,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-07-25/workday-analytics-sr-software-engineer-us-federal-91-r0105493.pdf",
+    "docx": "state/tailored/2026-07-25/workday-analytics-sr-software-engineer-us-federal-91-r0105493.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Lead-Software-Engineer--Back-End_R247668-2",
+    "company": "capitalone",
+    "role": "Lead Software Engineer, Back End",
+    "location": "2 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Back-End_R247668-2",
+    "score": 82,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-07-25/capitalone-lead-software-engineer-back-end-82-r2476682.pdf",
+    "docx": "state/tailored/2026-07-25/capitalone-lead-software-engineer-back-end-82-r2476682.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Lead-Software-Engineer--Back-End_R247666-2",
+    "company": "capitalone",
+    "role": "Lead Software Engineer, Back End",
+    "location": "2 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Back-End_R247666-2",
+    "score": 82,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-07-25/capitalone-lead-software-engineer-back-end-82-r2476662.pdf",
+    "docx": "state/tailored/2026-07-25/capitalone-lead-software-engineer-back-end-82-r2476662.docx"
   }
 ]
