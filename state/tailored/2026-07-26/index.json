@@ -12,5 +12,19 @@
     "matched_skills": 13,
     "pdf": "state/tailored/2026-07-26/pinterest-staff-software-engineer-ai-tools-94-7305880.pdf",
     "docx": "state/tailored/2026-07-26/pinterest-staff-software-engineer-ai-tools-94-7305880.docx"
+  },
+  {
+    "job_id": "greenhouse:lyft:8649343002",
+    "company": "lyft",
+    "role": "Staff Applied Scientist",
+    "location": "San Francisco Office",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8649343002?gh_jid=8649343002",
+    "score": 51,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 1,
+    "matched_skills": 1,
+    "pdf": "state/tailored/2026-07-26/lyft-staff-applied-scientist-51-49343002.pdf",
+    "docx": "state/tailored/2026-07-26/lyft-staff-applied-scientist-51-49343002.docx"
   }
 ]
