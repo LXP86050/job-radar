@@ -390,5 +390,33 @@
     "matched_skills": 6,
     "pdf": "state/tailored/2026-07-27/verkada-senior-staff-software-engineer-business-systems-64-85595007.pdf",
     "docx": "state/tailored/2026-07-27/verkada-senior-staff-software-engineer-business-systems-64-85595007.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/Plano-TX/Lead-Software-Engineer--Full-Stack_R247856-1",
+    "company": "capitalone",
+    "role": "Lead Software Engineer, Full Stack",
+    "location": "Plano, TX",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Lead-Software-Engineer--Full-Stack_R247856-1",
+    "score": 82,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 18,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-07-27/capitalone-lead-software-engineer-full-stack-82-r2478561.pdf",
+    "docx": "state/tailored/2026-07-27/capitalone-lead-software-engineer-full-stack-82-r2478561.docx"
+  },
+  {
+    "job_id": "greenhouse:affirm:7812982003",
+    "company": "affirm",
+    "role": "Senior Software Engineer, Affirm Bank",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7812982003",
+    "score": 72,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-07-27/affirm-senior-software-engineer-affirm-bank-72-12982003.pdf",
+    "docx": "state/tailored/2026-07-27/affirm-senior-software-engineer-affirm-bank-72-12982003.docx"
   }
 ]
