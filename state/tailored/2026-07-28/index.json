@@ -362,5 +362,61 @@
     "matched_skills": 2,
     "pdf": "state/tailored/2026-07-28/adobe-senior-machine-learning-engineer-52-rr170802.pdf",
     "docx": "state/tailored/2026-07-28/adobe-senior-machine-learning-engineer-52-rr170802.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Lead-AI-Engineer--AI-Foundations-_R247957-1",
+    "company": "capitalone",
+    "role": "Lead AI Engineer (AI Foundations)",
+    "location": "4 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-AI-Engineer--AI-Foundations-_R247957-1",
+    "score": 89,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-07-28/capitalone-lead-ai-engineer-ai-foundations-89-r2479571.pdf",
+    "docx": "state/tailored/2026-07-28/capitalone-lead-ai-engineer-ai-foundations-89-r2479571.docx"
+  },
+  {
+    "job_id": "workday:paypal/jobs:/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer---Cloud-Infrastructure-and-Devops_R0136772-1",
+    "company": "paypal",
+    "role": "Sr Software Engineer - Cloud Infrastructure and Devops",
+    "location": "Austin, Texas, United States of America",
+    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer---Cloud-Infrastructure-and-Devops_R0136772-1",
+    "score": 80,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-07-28/paypal-sr-software-engineer-cloud-infrastructure-and-devops-80-01367721.pdf",
+    "docx": "state/tailored/2026-07-28/paypal-sr-software-engineer-cloud-infrastructure-and-devops-80-01367721.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Software-Engineer--Distributed-Systems-Engineer---DGX-Cloud_JR2021856-1",
+    "company": "nvidia",
+    "role": "Senior Software Engineer, Distributed Systems Engineer - DGX Cloud",
+    "location": "5 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Distributed-Systems-Engineer---DGX-Cloud_JR2021856-1",
+    "score": 59,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-07-28/nvidia-senior-software-engineer-distributed-systems-engineer-dgx-cl-59-20218561.pdf",
+    "docx": "state/tailored/2026-07-28/nvidia-senior-software-engineer-distributed-systems-engineer-dgx-cl-59-20218561.docx"
+  },
+  {
+    "job_id": "workday:hpe/Jobsathpe:/job/Sunnyvale-California-United-States-of-America/Senior-Software-Engineer---Packet-Forwarding-Software_1209427-1",
+    "company": "hpe",
+    "role": "Senior Software Engineer - Packet Forwarding Software",
+    "location": "Sunnyvale, California, United States of America",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Senior-Software-Engineer---Packet-Forwarding-Software_1209427-1",
+    "score": 58,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 2,
+    "matched_skills": 2,
+    "pdf": "state/tailored/2026-07-28/hpe-senior-software-engineer-packet-forwarding-software-58-12094271.pdf",
+    "docx": "state/tailored/2026-07-28/hpe-senior-software-engineer-packet-forwarding-software-58-12094271.docx"
   }
 ]
