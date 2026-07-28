@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "greenhouse:gusto:8035802",
+    "company": "gusto",
+    "role": "Staff Software Engineer, Business Money",
+    "location": "Canada - Ontario - Remote, Canada - Toronto, Ontario - Remote, United States - New York, NY, United States - Remote, United States - San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8035802",
+    "score": 78,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-07-28/gusto-staff-software-engineer-business-money-78-8035802.pdf",
+    "docx": "state/tailored/2026-07-28/gusto-staff-software-engineer-business-money-78-8035802.docx"
+  },
+  {
+    "job_id": "greenhouse:stripe:8090141",
+    "company": "stripe",
+    "role": "Staff Software Engineer, Service Infrastructure",
+    "location": "US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8090141",
+    "score": 55,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 3,
+    "matched_skills": 3,
+    "pdf": "state/tailored/2026-07-28/stripe-staff-software-engineer-service-infrastructure-55-8090141.pdf",
+    "docx": "state/tailored/2026-07-28/stripe-staff-software-engineer-service-infrastructure-55-8090141.docx"
+  }
+]
