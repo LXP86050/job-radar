@@ -194,5 +194,33 @@
     "matched_skills": 1,
     "pdf": "state/tailored/2026-07-28/datadog-senior-staff-genai-engineer-application-performance-monitori-52-6960503.pdf",
     "docx": "state/tailored/2026-07-28/datadog-senior-staff-genai-engineer-application-performance-monitori-52-6960503.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/New-York-NY/Senior-Lead-Software-Engineer--Full-Stack_R247906",
+    "company": "capitalone",
+    "role": "Senior Lead Software Engineer, Full Stack",
+    "location": "New York, NY",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Senior-Lead-Software-Engineer--Full-Stack_R247906",
+    "score": 95,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 18,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-07-28/capitalone-senior-lead-software-engineer-full-stack-95-kr247906.pdf",
+    "docx": "state/tailored/2026-07-28/capitalone-senior-lead-software-engineer-full-stack-95-kr247906.docx"
+  },
+  {
+    "job_id": "workday:autodesk/Ext:/job/Dublin-IRL/Senior-Platform-Support-Engineer_26WD95293-1",
+    "company": "autodesk",
+    "role": "Senior Platform Engineer",
+    "location": "2 Locations",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Dublin-IRL/Senior-Platform-Support-Engineer_26WD95293-1",
+    "score": 93,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 17,
+    "matched_skills": 16,
+    "pdf": "state/tailored/2026-07-28/autodesk-senior-platform-engineer-93-wd952931.pdf",
+    "docx": "state/tailored/2026-07-28/autodesk-senior-platform-engineer-93-wd952931.docx"
   }
 ]
