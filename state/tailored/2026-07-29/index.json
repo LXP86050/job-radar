@@ -1,0 +1,44 @@
+[
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Backend-Platform-Engineer---Profiling-Services_JR2022190",
+    "company": "nvidia",
+    "role": "Senior Backend Platform Engineer - Profiling Services",
+    "location": "2 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Backend-Platform-Engineer---Profiling-Services_JR2022190",
+    "score": 84,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-07-29/nvidia-senior-backend-platform-engineer-profiling-services-84-r2022190.pdf",
+    "docx": "state/tailored/2026-07-29/nvidia-senior-backend-platform-engineer-profiling-services-84-r2022190.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Software-Engineer--Identity-and-Security---Profiling-Services_JR2022191",
+    "company": "nvidia",
+    "role": "Senior Software Engineer, Identity and Security - Profiling Services",
+    "location": "2 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Identity-and-Security---Profiling-Services_JR2022191",
+    "score": 59,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-07-29/nvidia-senior-software-engineer-identity-and-security-profiling-ser-59-r2022191.pdf",
+    "docx": "state/tailored/2026-07-29/nvidia-senior-software-engineer-identity-and-security-profiling-ser-59-r2022191.docx"
+  },
+  {
+    "job_id": "greenhouse:verkada:5198020007",
+    "company": "verkada",
+    "role": "Staff Backend Engineer - Licensing & Revenue Platform",
+    "location": "Bay-HQ office",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5198020007",
+    "score": 58,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-07-29/verkada-staff-backend-engineer-licensing-revenue-platform-58-98020007.pdf",
+    "docx": "state/tailored/2026-07-29/verkada-staff-backend-engineer-licensing-revenue-platform-58-98020007.docx"
+  }
+]
