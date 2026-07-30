@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "greenhouse:discord:8545675002",
+    "company": "discord",
+    "role": "Senior Software Engineer, Safety Backend",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8545675002",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-07-30/discord-senior-software-engineer-safety-backend-95-45675002.pdf",
+    "docx": "state/tailored/2026-07-30/discord-senior-software-engineer-safety-backend-95-45675002.docx"
+  },
+  {
+    "job_id": "workday:hpe/Jobsathpe:/job/Spring-Texas-United-States-of-America/Senior-AI-Engineer-Developer_1209447-2",
+    "company": "hpe",
+    "role": "Senior AI Engineer Developer",
+    "location": "Spring, Texas, United States of America",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Senior-AI-Engineer-Developer_1209447-2",
+    "score": 72,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-07-30/hpe-senior-ai-engineer-developer-72-12094472.pdf",
+    "docx": "state/tailored/2026-07-30/hpe-senior-ai-engineer-developer-72-12094472.docx"
+  }
+]
