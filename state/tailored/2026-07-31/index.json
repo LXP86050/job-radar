@@ -26,5 +26,33 @@
     "matched_skills": 3,
     "pdf": "state/tailored/2026-07-31/nvidia-senior-software-engineer-networking-dgx-cloud-51-r2022482.pdf",
     "docx": "state/tailored/2026-07-31/nvidia-senior-software-engineer-networking-dgx-cloud-51-r2022482.docx"
+  },
+  {
+    "job_id": "greenhouse:cloudflare:8092731",
+    "company": "cloudflare",
+    "role": "Software Engineer, Registrar",
+    "location": "Austin, TX",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8092731?gh_jid=8092731",
+    "score": 77,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-07-31/cloudflare-software-engineer-registrar-77-8092731.pdf",
+    "docx": "state/tailored/2026-07-31/cloudflare-software-engineer-registrar-77-8092731.docx"
+  },
+  {
+    "job_id": "workday:hpe/Jobsathpe:/job/All-Massachusetts-United-States-of-America/Staff-Software-Engineer--Application-Services_1192059-2",
+    "company": "hpe",
+    "role": "Staff Software Engineer, Systems",
+    "location": "All, Massachusetts, United States of America",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/All-Massachusetts-United-States-of-America/Staff-Software-Engineer--Application-Services_1192059-2",
+    "score": 66,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 5,
+    "matched_skills": 5,
+    "pdf": "state/tailored/2026-07-31/hpe-staff-software-engineer-systems-66-11920592.pdf",
+    "docx": "state/tailored/2026-07-31/hpe-staff-software-engineer-systems-66-11920592.docx"
   }
 ]
