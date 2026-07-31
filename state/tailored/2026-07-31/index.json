@@ -54,5 +54,47 @@
     "matched_skills": 5,
     "pdf": "state/tailored/2026-07-31/hpe-staff-software-engineer-systems-66-11920592.pdf",
     "docx": "state/tailored/2026-07-31/hpe-staff-software-engineer-systems-66-11920592.docx"
+  },
+  {
+    "job_id": "greenhouse:grafanalabs:6130872004",
+    "company": "grafanalabs",
+    "role": "Senior FullStack Engineer - Grafana Cloud Observability| Canada | Remote",
+    "location": "Canada (Remote), USA (Remote)",
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6130872004",
+    "score": 97,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-07-31/grafanalabs-senior-fullstack-engineer-grafana-cloud-observability-canada-97-30872004.pdf",
+    "docx": "state/tailored/2026-07-31/grafanalabs-senior-fullstack-engineer-grafana-cloud-observability-canada-97-30872004.docx"
+  },
+  {
+    "job_id": "greenhouse:grafanalabs:6130907004",
+    "company": "grafanalabs",
+    "role": "Senior FullStack Engineer - Grafana Cloud Observability| US | Remote",
+    "location": "Canada (Remote), USA (Remote)",
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6130907004",
+    "score": 97,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-07-31/grafanalabs-senior-fullstack-engineer-grafana-cloud-observability-us-rem-97-30907004.pdf",
+    "docx": "state/tailored/2026-07-31/grafanalabs-senior-fullstack-engineer-grafana-cloud-observability-us-rem-97-30907004.docx"
+  },
+  {
+    "job_id": "greenhouse:twilio:7946610",
+    "company": "twilio",
+    "role": "Software Engineer (L2)",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7946610",
+    "score": 84,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-07-31/twilio-software-engineer-l2-84-7946610.pdf",
+    "docx": "state/tailored/2026-07-31/twilio-software-engineer-l2-84-7946610.docx"
   }
 ]
