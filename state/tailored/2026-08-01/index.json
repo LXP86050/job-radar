@@ -1,0 +1,72 @@
+[
+  {
+    "job_id": "greenhouse:customerio:7914033",
+    "company": "customerio",
+    "role": "Senior Software Engineer - Email Channel",
+    "location": "Americas Remote",
+    "url": "https://job-boards.greenhouse.io/customerio/jobs/7914033",
+    "score": 97,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-08-01/customerio-senior-software-engineer-email-channel-97-7914033.pdf",
+    "docx": "state/tailored/2026-08-01/customerio-senior-software-engineer-email-channel-97-7914033.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Software-Engineer--AIOps-and-Observability_JR2022104",
+    "company": "nvidia",
+    "role": "Senior Software Engineer, AIOps and Observability",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AIOps-and-Observability_JR2022104",
+    "score": 93,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-08-01/nvidia-senior-software-engineer-aiops-and-observability-93-r2022104.pdf",
+    "docx": "state/tailored/2026-08-01/nvidia-senior-software-engineer-aiops-and-observability-93-r2022104.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---Redwood-City/Senior-Platform-Engineer---Cloud-Infrastructure_JR347707",
+    "company": "salesforce",
+    "role": "Senior Platform Engineer — Cloud Infrastructure",
+    "location": "California - Redwood City",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Redwood-City/Senior-Platform-Engineer---Cloud-Infrastructure_JR347707",
+    "score": 92,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-01/salesforce-senior-platform-engineer-cloud-infrastructure-92-jr347707.pdf",
+    "docx": "state/tailored/2026-08-01/salesforce-senior-platform-engineer-cloud-infrastructure-92-jr347707.docx"
+  },
+  {
+    "job_id": "greenhouse:verkada:5148053007",
+    "company": "verkada",
+    "role": "Senior Software Engineer - Native Application",
+    "location": "Bay-HQ office",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5148053007",
+    "score": 63,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-08-01/verkada-senior-software-engineer-native-application-63-48053007.pdf",
+    "docx": "state/tailored/2026-08-01/verkada-senior-software-engineer-native-application-63-48053007.docx"
+  },
+  {
+    "job_id": "greenhouse:databricks:8663972002",
+    "company": "databricks",
+    "role": "Staff Software Engineer - Streaming",
+    "location": "Seattle, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8663972002",
+    "score": 53,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 2,
+    "matched_skills": 2,
+    "pdf": "state/tailored/2026-08-01/databricks-staff-software-engineer-streaming-53-63972002.pdf",
+    "docx": "state/tailored/2026-08-01/databricks-staff-software-engineer-streaming-53-63972002.docx"
+  }
+]
