@@ -166,5 +166,33 @@
     "matched_skills": 2,
     "pdf": "state/tailored/2026-08-01/twilio-software-engineer-l3-data-substrate-52-7954715.pdf",
     "docx": "state/tailored/2026-08-01/twilio-software-engineer-l3-data-substrate-52-7954715.docx"
+  },
+  {
+    "job_id": "remoteok:1135735",
+    "company": "Magic Compass Limited",
+    "role": "GenAI Engineer AI Builder AI Agent Associate Specialist",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-1135735",
+    "score": 98,
+    "source": "remoteok",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-08-01/magic-compass-limited-genai-engineer-ai-builder-ai-agent-associate-specialist-98-1135735.pdf",
+    "docx": "state/tailored/2026-08-01/magic-compass-limited-genai-engineer-ai-builder-ai-agent-associate-specialist-98-1135735.docx"
+  },
+  {
+    "job_id": "greenhouse:klaviyo:7711217003",
+    "company": "klaviyo",
+    "role": "Senior Software Engineer - Developer Infrastructure",
+    "location": "Boston",
+    "url": "https://www.klaviyo.com/careers/jobs/7711217003?gh_jid=7711217003",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-08-01/klaviyo-senior-software-engineer-developer-infrastructure-95-11217003.pdf",
+    "docx": "state/tailored/2026-08-01/klaviyo-senior-software-engineer-developer-infrastructure-95-11217003.docx"
   }
 ]
