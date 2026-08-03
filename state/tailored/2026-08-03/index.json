@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "workday:adobe/external_experienced:/job/San-Jose/Senior-Agentic-AI-Engineer_R170895",
+    "company": "adobe",
+    "role": "Senior Agentic AI Engineer",
+    "location": "San Jose",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Agentic-AI-Engineer_R170895",
+    "score": 93,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-08-03/adobe-senior-agentic-ai-engineer-93-rr170895.pdf",
+    "docx": "state/tailored/2026-08-03/adobe-senior-agentic-ai-engineer-93-rr170895.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-WA-Redmond/Senior-Software-Engineer--Agentic-AI_JR2022556",
+    "company": "nvidia",
+    "role": "Senior Software Engineer, Agentic AI",
+    "location": "2 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-Software-Engineer--Agentic-AI_JR2022556",
+    "score": 61,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-08-03/nvidia-senior-software-engineer-agentic-ai-61-r2022556.pdf",
+    "docx": "state/tailored/2026-08-03/nvidia-senior-software-engineer-agentic-ai-61-r2022556.docx"
+  }
+]
