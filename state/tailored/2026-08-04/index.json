@@ -376,5 +376,61 @@
     "matched_skills": 2,
     "pdf": "state/tailored/2026-08-04/pinterest-sr-software-engineer-big-data-tvscientific-54-7642272.pdf",
     "docx": "state/tailored/2026-08-04/pinterest-sr-software-engineer-big-data-tvscientific-54-7642272.docx"
+  },
+  {
+    "job_id": "workday:adobe/external_experienced:/job/San-Jose/Senior-Software-Engineer_R170582",
+    "company": "adobe",
+    "role": "Senior Software Engineer",
+    "location": "San Jose",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Software-Engineer_R170582",
+    "score": 86,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-08-04/adobe-senior-software-engineer-86-rr170582.pdf",
+    "docx": "state/tailored/2026-08-04/adobe-senior-software-engineer-86-rr170582.docx"
+  },
+  {
+    "job_id": "workday:citi/2:/job/1124-SHIVAJI-GARDENS-MOONLI/Senior-LLM---Agentic-AI-Engineer---Assistant-Vice-President_26954876",
+    "company": "citi",
+    "role": "Senior LLM & Agentic AI Engineer - Assistant Vice President",
+    "location": "1/124, SHIVAJI GARDENS, MOONLI",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1124-SHIVAJI-GARDENS-MOONLI/Senior-LLM---Agentic-AI-Engineer---Assistant-Vice-President_26954876",
+    "score": 82,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-08-04/citi-senior-llm-agentic-ai-engineer-assistant-vice-president-82-26954876.pdf",
+    "docx": "state/tailored/2026-08-04/citi-senior-llm-agentic-ai-engineer-assistant-vice-president-82-26954876.docx"
+  },
+  {
+    "job_id": "greenhouse:thetradedesk:5202717007",
+    "company": "thetradedesk",
+    "role": "Software Engineer II",
+    "location": "Bellevue",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5202717007",
+    "score": 74,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-08-04/thetradedesk-software-engineer-ii-74-02717007.pdf",
+    "docx": "state/tailored/2026-08-04/thetradedesk-software-engineer-ii-74-02717007.docx"
+  },
+  {
+    "job_id": "greenhouse:scaleai:4593571005",
+    "company": "scaleai",
+    "role": "Forward Deployed Engineer, GenAI",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4593571005",
+    "score": 65,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-08-04/scaleai-forward-deployed-engineer-genai-65-93571005.pdf",
+    "docx": "state/tailored/2026-08-04/scaleai-forward-deployed-engineer-genai-65-93571005.docx"
   }
 ]
