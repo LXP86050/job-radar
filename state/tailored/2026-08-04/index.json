@@ -1,0 +1,72 @@
+[
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/North-Carolina---Raleigh/Software-Engineering-MTS-SMTS--Salesforce-Core-Platform-_JR352953",
+    "company": "salesforce",
+    "role": "Software Engineering MTS/SMTS (Salesforce Core Platform)",
+    "location": "North Carolina - Raleigh",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/North-Carolina---Raleigh/Software-Engineering-MTS-SMTS--Salesforce-Core-Platform-_JR352953",
+    "score": 87,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-08-04/salesforce-software-engineering-mts-smts-salesforce-core-platform-87-jr352953.pdf",
+    "docx": "state/tailored/2026-08-04/salesforce-software-engineering-mts-smts-salesforce-core-platform-87-jr352953.docx"
+  },
+  {
+    "job_id": "greenhouse:gusto:8077301",
+    "company": "gusto",
+    "role": "Staff Software Engineer, Time and Scheduling",
+    "location": "Canada - Toronto, Ontario - Remote, United States - Atlanta, GA - Remote, United States - New York, NY",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8077301",
+    "score": 72,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-08-04/gusto-staff-software-engineer-time-and-scheduling-72-8077301.pdf",
+    "docx": "state/tailored/2026-08-04/gusto-staff-software-engineer-time-and-scheduling-72-8077301.docx"
+  },
+  {
+    "job_id": "greenhouse:verkada:5202382007",
+    "company": "verkada",
+    "role": "Senior Software Engineer, Business Systems - GTM",
+    "location": "Bay-HQ office",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5202382007",
+    "score": 69,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-08-04/verkada-senior-software-engineer-business-systems-gtm-69-02382007.pdf",
+    "docx": "state/tailored/2026-08-04/verkada-senior-software-engineer-business-systems-gtm-69-02382007.docx"
+  },
+  {
+    "job_id": "greenhouse:roblox:8089039",
+    "company": "roblox",
+    "role": "Senior Software Engineer - Consoles",
+    "location": "San Mateo, CA",
+    "url": "https://careers.roblox.com/jobs/8089039?gh_jid=8089039",
+    "score": 54,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 2,
+    "matched_skills": 2,
+    "pdf": "state/tailored/2026-08-04/roblox-senior-software-engineer-consoles-54-8089039.pdf",
+    "docx": "state/tailored/2026-08-04/roblox-senior-software-engineer-consoles-54-8089039.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
+    "company": "nvidia",
+    "role": "Systems Software Engineer - New College Grad 2026",
+    "location": "US, OR, Hillsboro",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
+    "score": 51,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 2,
+    "matched_skills": 2,
+    "pdf": "state/tailored/2026-08-04/nvidia-systems-software-engineer-new-college-grad-2026-51-r2017083.pdf",
+    "docx": "state/tailored/2026-08-04/nvidia-systems-software-engineer-new-college-grad-2026-51-r2017083.docx"
+  }
+]
