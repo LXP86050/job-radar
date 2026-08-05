@@ -1,0 +1,58 @@
+[
+  {
+    "job_id": "greenhouse:discord:8642087002",
+    "company": "discord",
+    "role": "Senior Software Engineer, Growth",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8642087002",
+    "score": 89,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-08-05/discord-senior-software-engineer-growth-89-42087002.pdf",
+    "docx": "state/tailored/2026-08-05/discord-senior-software-engineer-growth-89-42087002.docx"
+  },
+  {
+    "job_id": "weworkremotely:lmg-staffing-solutions-ai-assisted-software-engineer-web-applications",
+    "company": "LMG Staffing Solutions",
+    "role": "AI-Assisted Software Engineer, Web Applications",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications",
+    "score": 86,
+    "source": "weworkremotely",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-05/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications-86-ications.pdf",
+    "docx": "state/tailored/2026-08-05/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications-86-ications.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Systems-Software-Engineer---Infrastructure_JR2022783",
+    "company": "nvidia",
+    "role": "Systems Software Engineer - Infrastructure",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---Infrastructure_JR2022783",
+    "score": 66,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-08-05/nvidia-systems-software-engineer-infrastructure-66-r2022783.pdf",
+    "docx": "state/tailored/2026-08-05/nvidia-systems-software-engineer-infrastructure-66-r2022783.docx"
+  },
+  {
+    "job_id": "greenhouse:stripe:8107302",
+    "company": "stripe",
+    "role": "Software Engineer, Sending",
+    "location": "US-PERM",
+    "url": "https://stripe.com/jobs/search?gh_jid=8107302",
+    "score": 62,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-08-05/stripe-software-engineer-sending-62-8107302.pdf",
+    "docx": "state/tailored/2026-08-05/stripe-software-engineer-sending-62-8107302.docx"
+  }
+]
