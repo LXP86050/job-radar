@@ -1,0 +1,72 @@
+[
+  {
+    "job_id": "greenhouse:flexport:8110413",
+    "company": "flexport",
+    "role": "Forward Deployed Engineer - Supply Chain Solutions",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8110413",
+    "score": 98,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-06/flexport-forward-deployed-engineer-supply-chain-solutions-98-8110413.pdf",
+    "docx": "state/tailored/2026-08-06/flexport-forward-deployed-engineer-supply-chain-solutions-98-8110413.docx"
+  },
+  {
+    "job_id": "workday:citi/2:/job/Tampa-Florida-United-States/Forward-Deployed-Engineer--AI-Transformation---Senior-Vice-President_26985076",
+    "company": "citi",
+    "role": "Forward Deployed Engineer, AI Transformation - Senior Vice President",
+    "location": "Tampa Florida United States",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Forward-Deployed-Engineer--AI-Transformation---Senior-Vice-President_26985076",
+    "score": 81,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-08-06/citi-forward-deployed-engineer-ai-transformation-senior-vice-pres-81-26985076.pdf",
+    "docx": "state/tailored/2026-08-06/citi-forward-deployed-engineer-ai-transformation-senior-vice-pres-81-26985076.docx"
+  },
+  {
+    "job_id": "greenhouse:gitlab:8646544002",
+    "company": "gitlab",
+    "role": "Staff Backend Engineer, Architecture Engineering: Nonlinear Productivity",
+    "location": "Canada, United States of America",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8646544002",
+    "score": 80,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-08-06/gitlab-staff-backend-engineer-architecture-engineering-nonlinear-pr-80-46544002.pdf",
+    "docx": "state/tailored/2026-08-06/gitlab-staff-backend-engineer-architecture-engineering-nonlinear-pr-80-46544002.docx"
+  },
+  {
+    "job_id": "greenhouse:gitlab:8646556002",
+    "company": "gitlab",
+    "role": "Senior Backend Engineer, Architecture Engineering: Nonlinear Productivity",
+    "location": "Canada, United States of America",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8646556002",
+    "score": 72,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-08-06/gitlab-senior-backend-engineer-architecture-engineering-nonlinear-p-72-46556002.pdf",
+    "docx": "state/tailored/2026-08-06/gitlab-senior-backend-engineer-architecture-engineering-nonlinear-p-72-46556002.docx"
+  },
+  {
+    "job_id": "greenhouse:waymo:8107088",
+    "company": "waymo",
+    "role": "ML Engineer, Foundation Model Infrastructure",
+    "location": "Mountain View (US-MTV-EMF680)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8107088",
+    "score": 66,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-08-06/waymo-ml-engineer-foundation-model-infrastructure-66-8107088.pdf",
+    "docx": "state/tailored/2026-08-06/waymo-ml-engineer-foundation-model-infrastructure-66-8107088.docx"
+  }
+]
