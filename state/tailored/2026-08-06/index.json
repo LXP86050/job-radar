@@ -68,5 +68,61 @@
     "matched_skills": 4,
     "pdf": "state/tailored/2026-08-06/waymo-ml-engineer-foundation-model-infrastructure-66-8107088.pdf",
     "docx": "state/tailored/2026-08-06/waymo-ml-engineer-foundation-model-infrastructure-66-8107088.docx"
+  },
+  {
+    "job_id": "workday:citi/2:/job/Irving-Texas-United-States/XMLNAME-26983867-Forward-Deployed-Engineer--AI-Transformation--Senior-Vice-President_26985083",
+    "company": "citi",
+    "role": "26983867 Forward Deployed Engineer, AI Transformation -Senior Vice President",
+    "location": "Irving Texas United States",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/XMLNAME-26983867-Forward-Deployed-Engineer--AI-Transformation--Senior-Vice-President_26985083",
+    "score": 81,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-08-06/citi-26983867-forward-deployed-engineer-ai-transformation-senior--81-26985083.pdf",
+    "docx": "state/tailored/2026-08-06/citi-26983867-forward-deployed-engineer-ai-transformation-senior--81-26985083.docx"
+  },
+  {
+    "job_id": "ashby:ramp:2888b101-b1da-4e53-a02e-1bb9b1b5a951",
+    "company": "ramp",
+    "role": "Senior Applied Scientist, Credit Risk",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/ramp/2888b101-b1da-4e53-a02e-1bb9b1b5a951",
+    "score": 69,
+    "source": "ashby",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-08-06/ramp-senior-applied-scientist-credit-risk-69-b1b5a951.pdf",
+    "docx": "state/tailored/2026-08-06/ramp-senior-applied-scientist-credit-risk-69-b1b5a951.docx"
+  },
+  {
+    "job_id": "ashby:posthog:1803b1de-d33b-4542-8e38-b6c4954cb789",
+    "company": "posthog",
+    "role": "Backend Engineer",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/posthog/1803b1de-d33b-4542-8e38-b6c4954cb789",
+    "score": 65,
+    "source": "ashby",
+    "coverage": 100,
+    "jd_skills": 5,
+    "matched_skills": 5,
+    "pdf": "state/tailored/2026-08-06/posthog-backend-engineer-65-954cb789.pdf",
+    "docx": "state/tailored/2026-08-06/posthog-backend-engineer-65-954cb789.docx"
+  },
+  {
+    "job_id": "greenhouse:asana:7964335",
+    "company": "asana",
+    "role": "Senior Software Engineer, AI Developer Experience",
+    "location": "New York City",
+    "url": "https://www.asana.com/jobs/apply/7964335?gh_jid=7964335",
+    "score": 58,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 2,
+    "matched_skills": 2,
+    "pdf": "state/tailored/2026-08-06/asana-senior-software-engineer-ai-developer-experience-58-7964335.pdf",
+    "docx": "state/tailored/2026-08-06/asana-senior-software-engineer-ai-developer-experience-58-7964335.docx"
   }
 ]
