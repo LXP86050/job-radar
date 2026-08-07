@@ -642,5 +642,33 @@
     "matched_skills": 8,
     "pdf": "state/tailored/2026-08-07/nvidia-senior-software-engineer-security-67-r2018245.pdf",
     "docx": "state/tailored/2026-08-07/nvidia-senior-software-engineer-security-67-r2018245.docx"
+  },
+  {
+    "job_id": "workday:citi/2:/job/PLOT-NO-1-SNO-77/Full-Stack-Engineer---Vice-President_26984463",
+    "company": "citi",
+    "role": "Full Stack Engineer - Vice President",
+    "location": "PLOT NO-1, S.NO. 77",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/PLOT-NO-1-SNO-77/Full-Stack-Engineer---Vice-President_26984463",
+    "score": 88,
+    "source": "workday",
+    "coverage": 96,
+    "jd_skills": 24,
+    "matched_skills": 23,
+    "pdf": "state/tailored/2026-08-07/citi-full-stack-engineer-vice-president-88-26984463.pdf",
+    "docx": "state/tailored/2026-08-07/citi-full-stack-engineer-vice-president-88-26984463.docx"
+  },
+  {
+    "job_id": "workday:citi/2:/job/PLOT-NO-1-SNO-77/Full-Stack-Engineer---Assistant-Vice-President_26984465",
+    "company": "citi",
+    "role": "Full Stack Engineer - Assistant Vice President",
+    "location": "PLOT NO-1, S.NO. 77",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/PLOT-NO-1-SNO-77/Full-Stack-Engineer---Assistant-Vice-President_26984465",
+    "score": 86,
+    "source": "workday",
+    "coverage": 95,
+    "jd_skills": 20,
+    "matched_skills": 19,
+    "pdf": "state/tailored/2026-08-07/citi-full-stack-engineer-assistant-vice-president-86-26984465.pdf",
+    "docx": "state/tailored/2026-08-07/citi-full-stack-engineer-assistant-vice-president-86-26984465.docx"
   }
 ]
