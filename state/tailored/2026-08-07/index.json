@@ -908,5 +908,61 @@
     "matched_skills": 4,
     "pdf": "state/tailored/2026-08-07/databricks-staff-software-engineer-access-management-67-91490002.pdf",
     "docx": "state/tailored/2026-08-07/databricks-staff-software-engineer-access-management-67-91490002.docx"
+  },
+  {
+    "job_id": "greenhouse:amplitude:8444770002",
+    "company": "amplitude",
+    "role": "Staff Fullstack Engineer, Core Analytics",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8444770002",
+    "score": 96,
+    "source": "greenhouse",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-08-07/amplitude-staff-fullstack-engineer-core-analytics-96-44770002.pdf",
+    "docx": "state/tailored/2026-08-07/amplitude-staff-fullstack-engineer-core-analytics-96-44770002.docx"
+  },
+  {
+    "job_id": "workday:citi/2:/job/Irving-Texas-United-States/Lead-Generative-AI-Engineer--VP_26984208",
+    "company": "citi",
+    "role": "Lead Generative AI Engineer, VP",
+    "location": "2 Locations",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Lead-Generative-AI-Engineer--VP_26984208",
+    "score": 94,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-08-07/citi-lead-generative-ai-engineer-vp-94-26984208.pdf",
+    "docx": "state/tailored/2026-08-07/citi-lead-generative-ai-engineer-vp-94-26984208.docx"
+  },
+  {
+    "job_id": "greenhouse:nuro:8114754",
+    "company": "nuro",
+    "role": "Staff/Lead Machine Learning Engineer, Behavior & Planning",
+    "location": "California - HQ",
+    "url": "https://nuro.ai/careersitem?gh_jid=8114754",
+    "score": 63,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-08-07/nuro-staff-lead-machine-learning-engineer-behavior-planning-63-8114754.pdf",
+    "docx": "state/tailored/2026-08-07/nuro-staff-lead-machine-learning-engineer-behavior-planning-63-8114754.docx"
+  },
+  {
+    "job_id": "greenhouse:airbnb:8095436",
+    "company": "airbnb",
+    "role": "Staff Software Engineer, Marketing technology",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/8095436?gh_jid=8095436",
+    "score": 60,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-08-07/airbnb-staff-software-engineer-marketing-technology-60-8095436.pdf",
+    "docx": "state/tailored/2026-08-07/airbnb-staff-software-engineer-marketing-technology-60-8095436.docx"
   }
 ]
