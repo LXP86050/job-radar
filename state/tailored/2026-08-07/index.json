@@ -670,5 +670,19 @@
     "matched_skills": 19,
     "pdf": "state/tailored/2026-08-07/citi-full-stack-engineer-assistant-vice-president-86-26984465.pdf",
     "docx": "state/tailored/2026-08-07/citi-full-stack-engineer-assistant-vice-president-86-26984465.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/Israel-Yokneam/Senior-Software-Engineer---Kubernetes-AI-Foundations--Open-Source_JR2022743",
+    "company": "nvidia",
+    "role": "Senior Software Engineer – Kubernetes AI Foundations, Open Source",
+    "location": "4 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-Engineer---Kubernetes-AI-Foundations--Open-Source_JR2022743",
+    "score": 59,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 5,
+    "matched_skills": 5,
+    "pdf": "state/tailored/2026-08-07/nvidia-senior-software-engineer-kubernetes-ai-foundations-open-sour-59-r2022743.pdf",
+    "docx": "state/tailored/2026-08-07/nvidia-senior-software-engineer-kubernetes-ai-foundations-open-sour-59-r2022743.docx"
   }
 ]
