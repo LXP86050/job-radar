@@ -614,5 +614,33 @@
     "matched_skills": 2,
     "pdf": "state/tailored/2026-08-07/micron-hbm-sipi-staff-engineer-50-rjr98762.pdf",
     "docx": "state/tailored/2026-08-07/micron-hbm-sipi-staff-engineer-50-rjr98762.docx"
+  },
+  {
+    "job_id": "workday:hpe/Jobsathpe:/job/Sunnyvale-California-United-States-of-America/System-Software-Engineer_1210331-2",
+    "company": "hpe",
+    "role": "System Software Engineer",
+    "location": "Sunnyvale, California, United States of America",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/System-Software-Engineer_1210331-2",
+    "score": 86,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-08-07/hpe-system-software-engineer-86-12103312.pdf",
+    "docx": "state/tailored/2026-08-07/hpe-system-software-engineer-86-12103312.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Security-Architect_JR2018245",
+    "company": "nvidia",
+    "role": "Senior Software Engineer, Security",
+    "location": "2 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Security-Architect_JR2018245",
+    "score": 67,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-08-07/nvidia-senior-software-engineer-security-67-r2018245.pdf",
+    "docx": "state/tailored/2026-08-07/nvidia-senior-software-engineer-security-67-r2018245.docx"
   }
 ]
