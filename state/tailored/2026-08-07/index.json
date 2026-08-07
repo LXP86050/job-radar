@@ -796,5 +796,61 @@
     "matched_skills": 8,
     "pdf": "state/tailored/2026-08-07/instacart-staff-software-engineer-data-governance-foundations-70-7778693.pdf",
     "docx": "state/tailored/2026-08-07/instacart-staff-software-engineer-data-governance-foundations-70-7778693.docx"
+  },
+  {
+    "job_id": "workday:citi/2:/job/Jacksonville-Florida-United-States/Gen-AI-Software-Engineer---Vice-President_26948069",
+    "company": "citi",
+    "role": "Gen AI Software Engineer - Vice President",
+    "location": "Jacksonville Florida United States",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/Gen-AI-Software-Engineer---Vice-President_26948069",
+    "score": 81,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-08-07/citi-gen-ai-software-engineer-vice-president-81-26948069.pdf",
+    "docx": "state/tailored/2026-08-07/citi-gen-ai-software-engineer-vice-president-81-26948069.docx"
+  },
+  {
+    "job_id": "greenhouse:zscaler:5189377007",
+    "company": "zscaler",
+    "role": "Sr Staff Software Engineer (Quality & Automation)",
+    "location": "Office - San Jose, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5189377007",
+    "score": 68,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-08-07/zscaler-sr-staff-software-engineer-quality-automation-68-89377007.pdf",
+    "docx": "state/tailored/2026-08-07/zscaler-sr-staff-software-engineer-quality-automation-68-89377007.docx"
+  },
+  {
+    "job_id": "greenhouse:sofi:7835848003",
+    "company": "sofi",
+    "role": "Software Engineer, Account Linking",
+    "location": "CA - San Francisco",
+    "url": "https://sofi.com/careers/job/7835848003?gh_jid=7835848003",
+    "score": 65,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-08-07/sofi-software-engineer-account-linking-65-35848003.pdf",
+    "docx": "state/tailored/2026-08-07/sofi-software-engineer-account-linking-65-35848003.docx"
+  },
+  {
+    "job_id": "greenhouse:mongodb:7870876",
+    "company": "mongodb",
+    "role": "Staff Engineer, Query Optimization",
+    "location": "Remote New York",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7870876",
+    "score": 60,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-08-07/mongodb-staff-engineer-query-optimization-60-7870876.pdf",
+    "docx": "state/tailored/2026-08-07/mongodb-staff-engineer-query-optimization-60-7870876.docx"
   }
 ]
