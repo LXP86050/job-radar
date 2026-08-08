@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Washington---Bellevue/Software-Engineering-MTS_JR354808",
+    "company": "salesforce",
+    "role": "Software Engineering MTS",
+    "location": "Washington - Bellevue",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-MTS_JR354808",
+    "score": 91,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 26,
+    "matched_skills": 24,
+    "pdf": "state/tailored/2026-08-08/salesforce-software-engineering-mts-91-jr354808.pdf",
+    "docx": "state/tailored/2026-08-08/salesforce-software-engineering-mts-91-jr354808.docx"
+  },
+  {
+    "job_id": "greenhouse:gitlab:8646573002",
+    "company": "gitlab",
+    "role": "Staff Backend Engineer (Ruby), AI Engineering: DAP Repository Flows",
+    "location": "Canada, United States of America",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8646573002",
+    "score": 67,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-08-08/gitlab-staff-backend-engineer-ruby-ai-engineering-dap-repository-fl-67-46573002.pdf",
+    "docx": "state/tailored/2026-08-08/gitlab-staff-backend-engineer-ruby-ai-engineering-dap-repository-fl-67-46573002.docx"
+  }
+]
