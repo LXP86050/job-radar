@@ -124,5 +124,33 @@
     "matched_skills": 3,
     "pdf": "state/tailored/2026-08-08/nvidia-senior-system-software-engineer-platform-openbmc-52-r1999525.pdf",
     "docx": "state/tailored/2026-08-08/nvidia-senior-system-software-engineer-platform-openbmc-52-r1999525.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/New-York-NY/Lead-Software-Engineer--Full-Stack--Java--Scala--AWS-_R243740-1",
+    "company": "capitalone",
+    "role": "Lead Software Engineer, Full Stack (Java, Scala, AWS)",
+    "location": "2 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Software-Engineer--Full-Stack--Java--Scala--AWS-_R243740-1",
+    "score": 82,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-08-08/capitalone-lead-software-engineer-full-stack-java-scala-aws-82-r2437401.pdf",
+    "docx": "state/tailored/2026-08-08/capitalone-lead-software-engineer-full-stack-java-scala-aws-82-r2437401.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Lead-Software-Engineer--Full-Stack--Golang--Python--Java--AWS-_R248687-1",
+    "company": "capitalone",
+    "role": "Lead Software Engineer, Full Stack (Golang, Python, Java, AWS)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack--Golang--Python--Java--AWS-_R248687-1",
+    "score": 82,
+    "source": "workday",
+    "coverage": 95,
+    "jd_skills": 19,
+    "matched_skills": 18,
+    "pdf": "state/tailored/2026-08-08/capitalone-lead-software-engineer-full-stack-golang-python-java-aws-82-r2486871.pdf",
+    "docx": "state/tailored/2026-08-08/capitalone-lead-software-engineer-full-stack-golang-python-java-aws-82-r2486871.docx"
   }
 ]
