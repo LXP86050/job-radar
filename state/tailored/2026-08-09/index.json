@@ -278,5 +278,19 @@
     "matched_skills": 1,
     "pdf": "state/tailored/2026-08-09/waymo-staff-machine-learning-engineer-multi-modal-perception-50-7991190.pdf",
     "docx": "state/tailored/2026-08-09/waymo-staff-machine-learning-engineer-multi-modal-perception-50-7991190.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/Israel-Yokneam/Senior-QA-Software-Engineer--Networking_JR2016610",
+    "company": "nvidia",
+    "role": "Senior QA Software Engineer, Networking",
+    "location": "3 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-QA-Software-Engineer--Networking_JR2016610",
+    "score": 59,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 3,
+    "matched_skills": 3,
+    "pdf": "state/tailored/2026-08-09/nvidia-senior-qa-software-engineer-networking-59-r2016610.pdf",
+    "docx": "state/tailored/2026-08-09/nvidia-senior-qa-software-engineer-networking-59-r2016610.docx"
   }
 ]
