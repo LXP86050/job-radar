@@ -1,0 +1,44 @@
+[
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---San-Francisco/Full-Stack-Software-Engineer---MTS---SMTS_JR253369",
+    "company": "salesforce",
+    "role": "Full-Stack Software Engineer: Mid, Senior, and Lead",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Full-Stack-Software-Engineer---MTS---SMTS_JR253369",
+    "score": 92,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-08-10/salesforce-full-stack-software-engineer-mid-senior-and-lead-92-jr253369.pdf",
+    "docx": "state/tailored/2026-08-10/salesforce-full-stack-software-engineer-mid-senior-and-lead-92-jr253369.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGX-Cloud-Orchestration_JR2022827",
+    "company": "nvidia",
+    "role": "Senior Software Engineer, DGX Cloud Orchestration",
+    "location": "2 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGX-Cloud-Orchestration_JR2022827",
+    "score": 89,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-08-10/nvidia-senior-software-engineer-dgx-cloud-orchestration-89-r2022827.pdf",
+    "docx": "state/tailored/2026-08-10/nvidia-senior-software-engineer-dgx-cloud-orchestration-89-r2022827.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Software-Engineer---Scientific-Evaluation_JR2022919-1",
+    "company": "nvidia",
+    "role": "Senior Software Engineer - Scientific Evaluation",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Scientific-Evaluation_JR2022919-1",
+    "score": 75,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-08-10/nvidia-senior-software-engineer-scientific-evaluation-75-20229191.pdf",
+    "docx": "state/tailored/2026-08-10/nvidia-senior-software-engineer-scientific-evaluation-75-20229191.docx"
+  }
+]
