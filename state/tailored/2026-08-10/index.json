@@ -180,5 +180,47 @@
     "matched_skills": 11,
     "pdf": "state/tailored/2026-08-10/fivetran-senior-software-engineer-c-programmer-90-47762003.pdf",
     "docx": "state/tailored/2026-08-10/fivetran-senior-software-engineer-c-programmer-90-47762003.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Lead-Machine-Learning-Engineer--MLOps--KServe---building-Kubernetes-Clusters--PyTorch--TensorFlow-on-AWS-_R239877-1",
+    "company": "capitalone",
+    "role": "Lead Machine Learning Engineer (MLOps, KServe + building Kubernetes Clusters, PyTorch, TensorFlow on AWS)",
+    "location": "5 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Machine-Learning-Engineer--MLOps--KServe---building-Kubernetes-Clusters--PyTorch--TensorFlow-on-AWS-_R239877-1",
+    "score": 94,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-10/capitalone-lead-machine-learning-engineer-mlops-kserve-building-kuberne-94-r2398771.pdf",
+    "docx": "state/tailored/2026-08-10/capitalone-lead-machine-learning-engineer-mlops-kserve-building-kuberne-94-r2398771.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Sr-Lead-Software-Engineer---Shopping--Remote---Eligible-_R248808-1",
+    "company": "capitalone",
+    "role": "Sr Lead Software Engineer - Shopping (Remote - Eligible)",
+    "location": "2 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Lead-Software-Engineer---Shopping--Remote---Eligible-_R248808-1",
+    "score": 92,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 18,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-08-10/capitalone-sr-lead-software-engineer-shopping-remote-eligible-92-r2488081.pdf",
+    "docx": "state/tailored/2026-08-10/capitalone-sr-lead-software-engineer-shopping-remote-eligible-92-r2488081.docx"
+  },
+  {
+    "job_id": "workday:citi/2:/job/1124-SHIVAJI-GARDENS-MOONLI/Digital-Software-Engineer-Lead_26985170",
+    "company": "citi",
+    "role": "Digital Software Engineer Lead",
+    "location": "1/124, SHIVAJI GARDENS, MOONLI",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1124-SHIVAJI-GARDENS-MOONLI/Digital-Software-Engineer-Lead_26985170",
+    "score": 65,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-08-10/citi-digital-software-engineer-lead-65-26985170.pdf",
+    "docx": "state/tailored/2026-08-10/citi-digital-software-engineer-lead-65-26985170.docx"
   }
 ]
