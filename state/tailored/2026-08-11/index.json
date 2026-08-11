@@ -194,5 +194,19 @@
     "matched_skills": 2,
     "pdf": "state/tailored/2026-08-11/adobe-sr-cloud-platform-engineer-52-3r163693.pdf",
     "docx": "state/tailored/2026-08-11/adobe-sr-cloud-platform-engineer-52-3r163693.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Linux-Kernel-Systems-Software-Engineer---CSP-Engagements_JR2015287",
+    "company": "nvidia",
+    "role": "Senior Linux Kernel Systems Software Engineer – CSP Engagements",
+    "location": "4 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Linux-Kernel-Systems-Software-Engineer---CSP-Engagements_JR2015287",
+    "score": 58,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 4,
+    "matched_skills": 4,
+    "pdf": "state/tailored/2026-08-11/nvidia-senior-linux-kernel-systems-software-engineer-csp-engagement-58-r2015287.pdf",
+    "docx": "state/tailored/2026-08-11/nvidia-senior-linux-kernel-systems-software-engineer-csp-engagement-58-r2015287.docx"
   }
 ]
