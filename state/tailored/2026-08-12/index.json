@@ -782,5 +782,33 @@
     "matched_skills": 12,
     "pdf": "state/tailored/2026-08-12/salesforce-forward-deployed-engineer-94-jr349189.pdf",
     "docx": "state/tailored/2026-08-12/salesforce-forward-deployed-engineer-94-jr349189.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Lead-Machine-Learning-Engineer_R248905-1",
+    "company": "capitalone",
+    "role": "Lead Machine Learning Engineer",
+    "location": "2 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Machine-Learning-Engineer_R248905-1",
+    "score": 93,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-08-12/capitalone-lead-machine-learning-engineer-93-r2489051.pdf",
+    "docx": "state/tailored/2026-08-12/capitalone-lead-machine-learning-engineer-93-r2489051.docx"
+  },
+  {
+    "job_id": "greenhouse:cribl:6000054004",
+    "company": "cribl",
+    "role": "Sr Software Engineer, Edge",
+    "location": "US - California",
+    "url": "https://cribl.io/job-detail/?gh_jid=6000054004",
+    "score": 85,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-08-12/cribl-sr-software-engineer-edge-85-00054004.pdf",
+    "docx": "state/tailored/2026-08-12/cribl-sr-software-engineer-edge-85-00054004.docx"
   }
 ]
