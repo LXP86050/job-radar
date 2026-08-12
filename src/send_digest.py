@@ -178,6 +178,7 @@ def main() -> int:
     total_chunks = len(chunks)
     et_now = datetime.now(ZoneInfo("America/New_York")).strftime("%I:%M%p ET")
 
+    sent_ok = 0
     for i, chunk in enumerate(chunks):
         rows_html = []
         attachments: list[Path] = []
@@ -197,13 +198,20 @@ def main() -> int:
             f"{attached_count} resumes · {et_now}"
         )
         ok = _send_one(api_key, sender, recipient, subject, body, attachments)
-        if not ok:
+        if ok:
+            sent_ok += 1
+        else:
             log.warning("chunk %d/%d failed; continuing", i + 1, total_chunks)
 
     log.info(
-        "sent %d email(s); %d matches with PDFs, %d URL-only",
-        total_chunks, len(with_pdf), len(without_pdf),
+        "%d/%d email(s) delivered; %d matches with PDFs, %d URL-only",
+        sent_ok, total_chunks, len(with_pdf), len(without_pdf),
     )
+    # Fail the run if any chunk failed to send, so a bad/expired SendGrid key
+    # surfaces as a red workflow instead of a silent green with an empty inbox.
+    if sent_ok < total_chunks:
+        log.error("%d of %d email(s) FAILED to send", total_chunks - sent_ok, total_chunks)
+        return 1
     return 0
 
 
