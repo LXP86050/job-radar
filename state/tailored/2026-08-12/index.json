@@ -754,5 +754,33 @@
     "matched_skills": 14,
     "pdf": "state/tailored/2026-08-12/salesforce-software-engineering-mts-full-stack-agentic-ai-engineer-94-jr355789.pdf",
     "docx": "state/tailored/2026-08-12/salesforce-software-engineering-mts-full-stack-agentic-ai-engineer-94-jr355789.docx"
+  },
+  {
+    "job_id": "weworkremotely:toptal-senior-software-engineer-for-ai-powered-banking-platform",
+    "company": "Toptal",
+    "role": "Senior Software Engineer for AI-Powered Banking Platform",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform",
+    "score": 95,
+    "source": "weworkremotely",
+    "coverage": 94,
+    "jd_skills": 18,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-08-12/toptal-senior-software-engineer-for-ai-powered-banking-platform-95-platform.pdf",
+    "docx": "state/tailored/2026-08-12/toptal-senior-software-engineer-for-ai-powered-banking-platform-95-platform.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Finland---Espoo/Forward-Deployed-Engineer_JR349189",
+    "company": "salesforce",
+    "role": "Forward Deployed Engineer",
+    "location": "Finland - Espoo",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Finland---Espoo/Forward-Deployed-Engineer_JR349189",
+    "score": 94,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-12/salesforce-forward-deployed-engineer-94-jr349189.pdf",
+    "docx": "state/tailored/2026-08-12/salesforce-forward-deployed-engineer-94-jr349189.docx"
   }
 ]
