@@ -810,5 +810,47 @@
     "matched_skills": 8,
     "pdf": "state/tailored/2026-08-12/cribl-sr-software-engineer-edge-85-00054004.pdf",
     "docx": "state/tailored/2026-08-12/cribl-sr-software-engineer-edge-85-00054004.docx"
+  },
+  {
+    "job_id": "ashby:perplexity:6e328b72-9f57-49e0-a1a8-4428abf8ff81",
+    "company": "perplexity",
+    "role": "Member of Technical Staff (Software Engineer, Multimodal)",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/perplexity/6e328b72-9f57-49e0-a1a8-4428abf8ff81",
+    "score": 95,
+    "source": "ashby",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-08-12/perplexity-member-of-technical-staff-software-engineer-multimodal-95-abf8ff81.pdf",
+    "docx": "state/tailored/2026-08-12/perplexity-member-of-technical-staff-software-engineer-multimodal-95-abf8ff81.docx"
+  },
+  {
+    "job_id": "greenhouse:gusto:7369003",
+    "company": "gusto",
+    "role": "Enterprise Application AI Engineer",
+    "location": "San Francisco, CA - Hybrid",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7369003",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-08-12/gusto-enterprise-application-ai-engineer-94-7369003.pdf",
+    "docx": "state/tailored/2026-08-12/gusto-enterprise-application-ai-engineer-94-7369003.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Lead-Machine-Learning-Engineer_R248938-1",
+    "company": "capitalone",
+    "role": "Lead Machine Learning Engineer",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Machine-Learning-Engineer_R248938-1",
+    "score": 93,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-08-12/capitalone-lead-machine-learning-engineer-93-r2489381.pdf",
+    "docx": "state/tailored/2026-08-12/capitalone-lead-machine-learning-engineer-93-r2489381.docx"
   }
 ]
