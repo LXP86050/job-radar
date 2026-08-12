@@ -12,13 +12,12 @@ LAST chunk email as URL-only rows so nothing is lost.
 Skip everything if 0 matches.
 
 Env:
-  SENDGRID_API_KEY, SENDER_EMAIL, RECIPIENT_EMAIL  required
+  SMTP_PASS, SENDER_EMAIL, RECIPIENT_EMAIL  required (Gmail SMTP)
   DIGEST_PROFILE       default 'job-radar'
   DIGEST_CHUNK_SIZE    default 50  (PDFs per email; Gmail cap ~25MB)
 """
 from __future__ import annotations
 
-import base64
 import html
 import json
 import os
@@ -28,8 +27,7 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-import sendgrid
-from sendgrid.helpers.mail import Mail, Attachment, FileContent, FileName, FileType, Disposition
+from src.mailer import send_email
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger("digest")
@@ -106,36 +104,19 @@ def _build_html(rows_html: list[str], chunk_idx: int, total_chunks: int, total_m
 </body></html>"""
 
 
-def _make_attachment(path: Path) -> Attachment:
-    data = path.read_bytes()
-    a = Attachment()
-    a.file_content = FileContent(base64.b64encode(data).decode())
-    a.file_name = FileName(path.name)
-    a.file_type = FileType("application/pdf")
-    a.disposition = Disposition("attachment")
-    return a
-
-
-def _send_one(api_key: str, sender: str, recipient: str, subject: str, html_body: str, attachments: list[Path]) -> bool:
-    msg = Mail(from_email=sender, to_emails=recipient, subject=subject, html_content=html_body)
-    for p in attachments:
-        msg.add_attachment(_make_attachment(p))
-    sg = sendgrid.SendGridAPIClient(api_key=api_key)
+def _send_one(subject: str, html_body: str, attachments: list[Path]) -> bool:
     try:
-        resp = sg.send(msg)
-        log.info("SendGrid %s for '%s' (%d attachments)", resp.status_code, subject, len(attachments))
-        return 200 <= int(resp.status_code) < 300
+        send_email(subject, html_body, attachments)
+        return True
     except Exception as e:
         log.error("send failed for '%s': %s", subject, e)
         return False
 
 
 def main() -> int:
-    api_key = os.environ.get("SENDGRID_API_KEY")
-    sender = os.environ.get("SENDER_EMAIL")
-    recipient = os.environ.get("RECIPIENT_EMAIL")
-    if not (api_key and sender and recipient):
-        log.error("Missing SENDGRID_API_KEY / SENDER_EMAIL / RECIPIENT_EMAIL")
+    # mailer resolves/validates SMTP creds itself; fail fast with a clear message.
+    if not (os.environ.get("SMTP_PASS") or os.environ.get("GMAIL_APP_PASSWORD")):
+        log.error("Missing SMTP_PASS (Gmail App Password) / SENDER_EMAIL / RECIPIENT_EMAIL")
         return 1
 
     if not MATCHES_PATH.exists():
@@ -197,7 +178,7 @@ def main() -> int:
             f"{PROFILE_LABEL} — Part {i + 1}/{total_chunks} · "
             f"{attached_count} resumes · {et_now}"
         )
-        ok = _send_one(api_key, sender, recipient, subject, body, attachments)
+        ok = _send_one(subject, body, attachments)
         if ok:
             sent_ok += 1
         else:

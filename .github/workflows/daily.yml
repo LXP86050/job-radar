@@ -19,7 +19,7 @@ jobs:
   run:
     runs-on: ubuntu-latest
     env:
-      SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
+      SMTP_PASS: ${{ secrets.SMTP_PASS }}
       SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
       RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
       ATS_THRESHOLD: '50'

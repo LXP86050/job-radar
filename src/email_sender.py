@@ -1,13 +1,11 @@
-"""SendGrid email sender. Builds a daily HTML report from scored matches."""
+"""Gmail SMTP email sender. Builds a daily HTML report from scored matches."""
 from __future__ import annotations
 
 import html
-import os
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-from sendgrid import SendGridAPIClient
-from sendgrid.helpers.mail import Mail
+from src.mailer import send_email
 
 
 def _row(m: dict) -> str:
@@ -83,21 +81,8 @@ def build_html(matches: list[dict], threshold: int, total_scanned: int, profile_
 
 
 def send(matches: list[dict], threshold: int, total_scanned: int, profile_name: str, total_matches: int) -> None:
-    api_key = os.environ.get("SENDGRID_API_KEY")
-    sender = os.environ.get("SENDER_EMAIL")
-    recipient = os.environ.get("RECIPIENT_EMAIL")
-    if not (api_key and sender and recipient):
-        raise RuntimeError("Missing SENDGRID_API_KEY / SENDER_EMAIL / RECIPIENT_EMAIL env vars")
-
     et_now = datetime.now(ZoneInfo("America/New_York")).strftime("%b %d")
     subject = f"{profile_name}: {total_matches} new match{'es' if total_matches != 1 else ''} ({et_now})"
-    msg = Mail(
-        from_email=sender,
-        to_emails=recipient,
-        subject=subject,
-        html_content=build_html(matches, threshold, total_scanned, profile_name, total_matches),
-    )
-    client = SendGridAPIClient(api_key)
-    resp = client.send(msg)
-    if resp.status_code >= 300:
-        raise RuntimeError(f"SendGrid send failed: HTTP {resp.status_code} {resp.body}")
+    html_body = build_html(matches, threshold, total_scanned, profile_name, total_matches)
+    # mailer reads SMTP creds from env and raises on any failure.
+    send_email(subject, html_body)

@@ -5,7 +5,7 @@ Daily-emailed list of new job postings that match my resume, scored 0–100. Fet
 > **For deep-dive on the architecture, where to add companies / roles / sources, scoring, and how the daily cron handles DST: [`docs/INTERNALS.md`](docs/INTERNALS.md).**
 
 ```
-GH Actions cron (11/12 UTC) ──► fetch sources ──► pre-filter ──► ATS score ──► dedup ──► SendGrid email
+GH Actions cron (11/12 UTC) ──► fetch sources ──► pre-filter ──► ATS score ──► dedup ──► Gmail SMTP email
 ```
 
 ## Layout
@@ -17,7 +17,8 @@ GH Actions cron (11/12 UTC) ──► fetch sources ──► pre-filter ──�
 | `src/sources/` | Greenhouse / Lever / Ashby fetchers |
 | `src/filters.py` | title / location / sponsorship / salary pre-filters |
 | `src/scoring.py` | 0–100 ATS-style score |
-| `src/email_sender.py` | SendGrid HTML report |
+| `src/email_sender.py` | Gmail SMTP HTML report |
+| `src/mailer.py` | shared Gmail SMTP send helper |
 | `src/state.py` | dedup + once-per-day guard |
 | `data/resume_profile.json` | skill list, preferred titles, exclude terms |
 | `state/` | persisted seen-ids and last-run-date (committed back by the workflow) |
@@ -25,23 +26,23 @@ GH Actions cron (11/12 UTC) ──► fetch sources ──► pre-filter ──�
 
 ## One-time setup
 
-### 1. SendGrid (free 100 emails/day)
-1. Create a free account at <https://signup.sendgrid.com/>.
-2. **Verify a Single Sender:** Settings → Sender Authentication → Verify a Single Sender. Use the email you want the report to come from (e.g. `lokeshchow06@gmail.com`).
-3. **Create an API key:** Settings → API Keys → Create API Key → Restricted Access → enable only **Mail Send: Full Access**. Copy the key (starts with `SG.…`); you won't see it again.
+### 1. Gmail App Password (free, no daily API limits beyond Gmail's 500/day)
+1. Use a Gmail account for sending (e.g. `lokeshchow06@gmail.com`).
+2. **Enable 2-Step Verification:** Google Account → Security → 2-Step Verification (required before app passwords are available).
+3. **Create an App Password:** Google Account → Security → App passwords → generate one (name it `job-radar`). Copy the 16-character password; you won't see it again.
 
 ### 2. GitHub repo secrets
 Once the repo is pushed, add three secrets at *Settings → Secrets and variables → Actions*:
 
 | name | value |
 | --- | --- |
-| `SENDGRID_API_KEY` | the `SG.…` key from step 1 |
-| `SENDER_EMAIL` | the email you verified in SendGrid |
+| `SMTP_PASS` | the 16-char Gmail App Password from step 1 |
+| `SENDER_EMAIL` | the Gmail address that owns the App Password (also the From address) |
 | `RECIPIENT_EMAIL` | where the daily report should land (e.g. `lokeshchow06@gmail.com`) |
 
 Or via CLI:
 ```bash
-gh secret set SENDGRID_API_KEY
+gh secret set SMTP_PASS
 gh secret set SENDER_EMAIL --body "lokeshchow06@gmail.com"
 gh secret set RECIPIENT_EMAIL --body "lokeshchow06@gmail.com"
 ```
@@ -61,9 +62,9 @@ GitHub → Actions → **Daily Job Radar** → Run workflow → set `force` to `
 ```bash
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
-export SENDGRID_API_KEY=SG....
-export SENDER_EMAIL=you@example.com
-export RECIPIENT_EMAIL=you@example.com
+export SMTP_PASS="your-16-char-gmail-app-password"
+export SENDER_EMAIL=you@gmail.com
+export RECIPIENT_EMAIL=you@gmail.com
 export FORCE_RUN=1            # bypass the 7am-ET gate and the once-per-day guard
 python -m src.main
 ```
