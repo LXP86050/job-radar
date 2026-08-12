@@ -978,5 +978,33 @@
     "matched_skills": 14,
     "pdf": "state/tailored/2026-08-12/salesforce-software-engineering-mts-86-jr355414.pdf",
     "docx": "state/tailored/2026-08-12/salesforce-software-engineering-mts-86-jr355414.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---San-Francisco/Software-Engineering-SMTS_JR355670",
+    "company": "salesforce",
+    "role": "Senior AI Engineer, Agentforce Reasoning",
+    "location": "California - San Francisco",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR355670",
+    "score": 96,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-12/salesforce-senior-ai-engineer-agentforce-reasoning-96-jr355670.pdf",
+    "docx": "state/tailored/2026-08-12/salesforce-senior-ai-engineer-agentforce-reasoning-96-jr355670.docx"
+  },
+  {
+    "job_id": "greenhouse:alpaca:5628538004",
+    "company": "alpaca",
+    "role": "Senior Software Engineer - Market Data",
+    "location": "Remote - European Time Zones, Remote - Global - Eastern Time Zone",
+    "url": "https://job-boards.greenhouse.io/alpaca/jobs/5628538004",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-08-12/alpaca-senior-software-engineer-market-data-94-28538004.pdf",
+    "docx": "state/tailored/2026-08-12/alpaca-senior-software-engineer-market-data-94-28538004.docx"
   }
 ]
