@@ -1006,5 +1006,61 @@
     "matched_skills": 9,
     "pdf": "state/tailored/2026-08-12/alpaca-senior-software-engineer-market-data-94-28538004.pdf",
     "docx": "state/tailored/2026-08-12/alpaca-senior-software-engineer-market-data-94-28538004.docx"
+  },
+  {
+    "job_id": "workday:paypal/jobs:/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137230",
+    "company": "paypal",
+    "role": "Sr Software Engineer",
+    "location": "Austin, Texas, United States of America",
+    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137230",
+    "score": 95,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-08-12/paypal-sr-software-engineer-95-r0137230.pdf",
+    "docx": "state/tailored/2026-08-12/paypal-sr-software-engineer-95-r0137230.docx"
+  },
+  {
+    "job_id": "workday:micron/External:/job/Boise-ID---Main-Site/AI-ML-Engineer-Architect_JR108536",
+    "company": "micron",
+    "role": "AI/ML Engineer/Architect",
+    "location": "Boise, ID - Main Site",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/AI-ML-Engineer-Architect_JR108536",
+    "score": 94,
+    "source": "workday",
+    "coverage": 89,
+    "jd_skills": 9,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-08-12/micron-ai-ml-engineer-architect-94-jr108536.pdf",
+    "docx": "state/tailored/2026-08-12/micron-ai-ml-engineer-architect-94-jr108536.docx"
+  },
+  {
+    "job_id": "greenhouse:launchdarkly:7860487003",
+    "company": "launchdarkly",
+    "role": "Sr Backend Engineer, Identity & Access Management",
+    "location": "US - Oakland, CA (HQ)",
+    "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7860487003",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-08-12/launchdarkly-sr-backend-engineer-identity-access-management-93-60487003.pdf",
+    "docx": "state/tailored/2026-08-12/launchdarkly-sr-backend-engineer-identity-access-management-93-60487003.docx"
+  },
+  {
+    "job_id": "workday:paypal/jobs:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137236",
+    "company": "paypal",
+    "role": "Sr Software Engineer",
+    "location": "San Jose, California, United States of America",
+    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137236",
+    "score": 93,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-12/paypal-sr-software-engineer-93-r0137236.pdf",
+    "docx": "state/tailored/2026-08-12/paypal-sr-software-engineer-93-r0137236.docx"
   }
 ]
