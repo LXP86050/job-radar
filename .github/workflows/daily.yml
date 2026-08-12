@@ -22,7 +22,8 @@ jobs:
       SMTP_PASS: ${{ secrets.SMTP_PASS }}
       SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
       RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
-      ATS_THRESHOLD: '50'
+      # Default for AI/SWE + IT radars. High-Pay IT overrides to 50 in its step.
+      ATS_THRESHOLD: '85'
       # 2-hour schedules bypass the once-per-day guard; treat each cron tick as forced.
       FORCE_RUN: '1'
     steps:
