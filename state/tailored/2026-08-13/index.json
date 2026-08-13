@@ -138,5 +138,61 @@
     "matched_skills": 7,
     "pdf": "state/tailored/2026-08-13/cloudflare-senior-software-engineer-durable-objects-do-90-5390243.pdf",
     "docx": "state/tailored/2026-08-13/cloudflare-senior-software-engineer-durable-objects-do-90-5390243.docx"
+  },
+  {
+    "job_id": "greenhouse:reddit:6960831",
+    "company": "reddit",
+    "role": "Senior Machine Learning Engineer",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/6960831",
+    "score": 100,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-08-13/reddit-senior-machine-learning-engineer-100-6960831.pdf",
+    "docx": "state/tailored/2026-08-13/reddit-senior-machine-learning-engineer-100-6960831.docx"
+  },
+  {
+    "job_id": "greenhouse:reddit:6960833",
+    "company": "reddit",
+    "role": "Senior Machine Learning Engineer",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/6960833",
+    "score": 100,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-08-13/reddit-senior-machine-learning-engineer-100-6960833.pdf",
+    "docx": "state/tailored/2026-08-13/reddit-senior-machine-learning-engineer-100-6960833.docx"
+  },
+  {
+    "job_id": "greenhouse:thetradedesk:5211351007",
+    "company": "thetradedesk",
+    "role": "Senior Software Engineer, Backend - Infra/Platform, VenturaOS",
+    "location": "Bellevue",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5211351007",
+    "score": 96,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 18,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-08-13/thetradedesk-senior-software-engineer-backend-infra-platform-venturaos-96-11351007.pdf",
+    "docx": "state/tailored/2026-08-13/thetradedesk-senior-software-engineer-backend-infra-platform-venturaos-96-11351007.docx"
+  },
+  {
+    "job_id": "workday:micron/External:/job/Boise-ID---Main-Site/Full-Stack-AI-Engineer_JR108058",
+    "company": "micron",
+    "role": "Full Stack AI Engineer",
+    "location": "Boise, ID - Main Site",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Full-Stack-AI-Engineer_JR108058",
+    "score": 93,
+    "source": "workday",
+    "coverage": 95,
+    "jd_skills": 19,
+    "matched_skills": 18,
+    "pdf": "state/tailored/2026-08-13/micron-full-stack-ai-engineer-93-jr108058.pdf",
+    "docx": "state/tailored/2026-08-13/micron-full-stack-ai-engineer-93-jr108058.docx"
   }
 ]
