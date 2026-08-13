@@ -334,5 +334,33 @@
     "matched_skills": 13,
     "pdf": "state/tailored/2026-08-13/fivetran-staff-software-engineer-metadata-89-64668003.pdf",
     "docx": "state/tailored/2026-08-13/fivetran-staff-software-engineer-metadata-89-64668003.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---San-Francisco/Software-Engineering-SMTS_JR355283",
+    "company": "salesforce",
+    "role": "Software Engineering SMTS",
+    "location": "California - San Francisco",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR355283",
+    "score": 89,
+    "source": "workday",
+    "coverage": 95,
+    "jd_skills": 19,
+    "matched_skills": 18,
+    "pdf": "state/tailored/2026-08-13/salesforce-software-engineering-smts-89-jr355283.pdf",
+    "docx": "state/tailored/2026-08-13/salesforce-software-engineering-smts-89-jr355283.docx"
+  },
+  {
+    "job_id": "greenhouse:braze:8112110",
+    "company": "braze",
+    "role": "Platform Software Engineer II",
+    "location": "New York City",
+    "url": "https://boards.greenhouse.io/braze/jobs/8112110?gh_jid=8112110",
+    "score": 87,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-08-13/braze-platform-software-engineer-ii-87-8112110.pdf",
+    "docx": "state/tailored/2026-08-13/braze-platform-software-engineer-ii-87-8112110.docx"
   }
 ]
