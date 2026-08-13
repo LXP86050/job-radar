@@ -362,5 +362,61 @@
     "matched_skills": 8,
     "pdf": "state/tailored/2026-08-13/braze-platform-software-engineer-ii-87-8112110.pdf",
     "docx": "state/tailored/2026-08-13/braze-platform-software-engineer-ii-87-8112110.docx"
+  },
+  {
+    "job_id": "greenhouse:gusto:8039574",
+    "company": "gusto",
+    "role": "Legal & Compliance AI Engineer",
+    "location": "San Francisco, CA - Hybrid",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8039574",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-08-13/gusto-legal-compliance-ai-engineer-94-8039574.pdf",
+    "docx": "state/tailored/2026-08-13/gusto-legal-compliance-ai-engineer-94-8039574.docx"
+  },
+  {
+    "job_id": "greenhouse:amplitude:8709009002",
+    "company": "amplitude",
+    "role": "Staff Software Engineer- UI Foundations Team",
+    "location": "Remote-NAMER",
+    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8709009002",
+    "score": 88,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-08-13/amplitude-staff-software-engineer-ui-foundations-team-88-09009002.pdf",
+    "docx": "state/tailored/2026-08-13/amplitude-staff-software-engineer-ui-foundations-team-88-09009002.docx"
+  },
+  {
+    "job_id": "greenhouse:amplitude:8709027002",
+    "company": "amplitude",
+    "role": "Staff Software Engineer- UI Foundations Team",
+    "location": "Remote-NAMER",
+    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8709027002",
+    "score": 88,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-08-13/amplitude-staff-software-engineer-ui-foundations-team-88-09027002.pdf",
+    "docx": "state/tailored/2026-08-13/amplitude-staff-software-engineer-ui-foundations-team-88-09027002.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/Plano-TX/Lead-Software-Engineer--Java--Golang--AWS-_R249234-2",
+    "company": "capitalone",
+    "role": "Lead Software Engineer (Java, Golang, AWS)",
+    "location": "Plano, TX",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Lead-Software-Engineer--Java--Golang--AWS-_R249234-2",
+    "score": 86,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 18,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-08-13/capitalone-lead-software-engineer-java-golang-aws-86-r2492342.pdf",
+    "docx": "state/tailored/2026-08-13/capitalone-lead-software-engineer-java-golang-aws-86-r2492342.docx"
   }
 ]
