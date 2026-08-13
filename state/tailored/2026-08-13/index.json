@@ -124,5 +124,19 @@
     "matched_skills": 21,
     "pdf": "state/tailored/2026-08-13/citi-lead-java-backend-engineer-vice-president-87-26984220.pdf",
     "docx": "state/tailored/2026-08-13/citi-lead-java-backend-engineer-vice-president-87-26984220.docx"
+  },
+  {
+    "job_id": "greenhouse:cloudflare:5390243",
+    "company": "cloudflare",
+    "role": "Senior Software Engineer, Durable Objects (DO)",
+    "location": "Austin, TX",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/5390243?gh_jid=5390243",
+    "score": 90,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-08-13/cloudflare-senior-software-engineer-durable-objects-do-90-5390243.pdf",
+    "docx": "state/tailored/2026-08-13/cloudflare-senior-software-engineer-durable-objects-do-90-5390243.docx"
   }
 ]
