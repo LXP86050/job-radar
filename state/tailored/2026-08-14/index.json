@@ -152,5 +152,61 @@
     "matched_skills": 10,
     "pdf": "state/tailored/2026-08-14/nvidia-senior-software-engineer-full-stack-90-r2022263.pdf",
     "docx": "state/tailored/2026-08-14/nvidia-senior-software-engineer-full-stack-90-r2022263.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/New-York-NY/Senior-Lead-Software-Engineer--Full-Stack_R248571-1",
+    "company": "capitalone",
+    "role": "Senior Lead Software Engineer, Full Stack",
+    "location": "2 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Senior-Lead-Software-Engineer--Full-Stack_R248571-1",
+    "score": 93,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 18,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-08-14/capitalone-senior-lead-software-engineer-full-stack-93-r2485711.pdf",
+    "docx": "state/tailored/2026-08-14/capitalone-senior-lead-software-engineer-full-stack-93-r2485711.docx"
+  },
+  {
+    "job_id": "workday:hp/ExternalCareerSite:/job/Spring-Texas-United-States-of-America/Principal-Software-ML-Engineer--_3166826-1",
+    "company": "hp",
+    "role": "Senior Software ML Engineer",
+    "location": "2 Locations",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Principal-Software-ML-Engineer--_3166826-1",
+    "score": 92,
+    "source": "workday",
+    "coverage": 95,
+    "jd_skills": 21,
+    "matched_skills": 20,
+    "pdf": "state/tailored/2026-08-14/hp-senior-software-ml-engineer-92-31668261.pdf",
+    "docx": "state/tailored/2026-08-14/hp-senior-software-ml-engineer-92-31668261.docx"
+  },
+  {
+    "job_id": "greenhouse:verkada:5066093007",
+    "company": "verkada",
+    "role": "Senior Software Engineer – Storage Systems",
+    "location": "Bay-HQ office",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5066093007",
+    "score": 88,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-08-14/verkada-senior-software-engineer-storage-systems-88-66093007.pdf",
+    "docx": "state/tailored/2026-08-14/verkada-senior-software-engineer-storage-systems-88-66093007.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/India---Bangalore/Software-Engineering-LMTS_JR338174",
+    "company": "salesforce",
+    "role": "Software Engineering LMTS - Backend Distributed Systems",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Software-Engineering-LMTS_JR338174",
+    "score": 86,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-08-14/salesforce-software-engineering-lmts-backend-distributed-systems-86-jr338174.pdf",
+    "docx": "state/tailored/2026-08-14/salesforce-software-engineering-lmts-backend-distributed-systems-86-jr338174.docx"
   }
 ]
