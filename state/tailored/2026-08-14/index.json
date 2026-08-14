@@ -292,5 +292,19 @@
     "matched_skills": 14,
     "pdf": "state/tailored/2026-08-14/citi-full-stack-software-engineer-85-26986393.pdf",
     "docx": "state/tailored/2026-08-14/citi-full-stack-software-engineer-85-26986393.docx"
+  },
+  {
+    "job_id": "greenhouse:databricks:8657468002",
+    "company": "databricks",
+    "role": "Sr. Forward Deployed Engineer - Public Sector",
+    "location": "Remote - California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657468002",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-08-14/databricks-sr-forward-deployed-engineer-public-sector-95-57468002.pdf",
+    "docx": "state/tailored/2026-08-14/databricks-sr-forward-deployed-engineer-public-sector-95-57468002.docx"
   }
 ]
