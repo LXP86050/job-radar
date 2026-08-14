@@ -82,5 +82,19 @@
     "matched_skills": 14,
     "pdf": "state/tailored/2026-08-14/adobe-applied-scientist-92-tr171218.pdf",
     "docx": "state/tailored/2026-08-14/adobe-applied-scientist-92-tr171218.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---San-Francisco/Software-Engineering-MTS_JR353585",
+    "company": "salesforce",
+    "role": "Software Engineering MTS",
+    "location": "California - San Francisco",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR353585",
+    "score": 90,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-14/salesforce-software-engineering-mts-90-jr353585.pdf",
+    "docx": "state/tailored/2026-08-14/salesforce-software-engineering-mts-90-jr353585.docx"
   }
 ]
