@@ -116,6 +116,8 @@
   "greenhouse:affirm:7806681003": "2026-07-20",
   "greenhouse:affirm:7812982003": "2026-07-27",
   "greenhouse:affirm:7813107003": "2026-08-07",
+  "greenhouse:affirm:7819449003": "2026-08-14",
+  "greenhouse:affirm:7819451003": "2026-08-14",
   "greenhouse:affirm:7819654003": "2026-07-29",
   "greenhouse:affirm:7819656003": "2026-07-29",
   "greenhouse:affirm:7819704003": "2026-08-10",
@@ -1504,6 +1506,7 @@
   "workday:adobe/external_experienced:/job/San-Francisco/Senior-Software-Engineer--Test-Automation_R168193": "2026-07-29",
   "workday:adobe/external_experienced:/job/San-Francisco/Sr-Software-Engineer_R169112": "2026-08-08",
   "workday:adobe/external_experienced:/job/San-Jose/Applied-AI-Engineer_R168901": "2026-08-06",
+  "workday:adobe/external_experienced:/job/San-Jose/Applied-Scientist_R171218": "2026-08-14",
   "workday:adobe/external_experienced:/job/San-Jose/Forward-Deployed-AI-Engineer---Marketing-Analytics---Data-Science_R169366-1": "2026-08-05",
   "workday:adobe/external_experienced:/job/San-Jose/Full-Stack-Engineer_R171017": "2026-08-04",
   "workday:adobe/external_experienced:/job/San-Jose/Machine-Learning-Engineer-5_R169103": "2026-07-29",
@@ -2549,5 +2552,6 @@
   "workday:workday/Workday:/job/USAVAReston/Analytics-Sr-Software-Engineer--US-Federal-_JR-0108035": "2026-08-10",
   "workday:workday/Workday:/job/USAVAReston/Senior-Software-Engineer--DBaas--US-Federal-_JR-0108508": "2026-07-13",
   "workday:workday/Workday:/job/USAVAReston/Software-Development-Engineer--DevOps---Lifecycle-Platform--US-Federal-_JR-0097425": "2026-07-06",
-  "workday:workday/Workday:/job/USAVAReston/Sr-Full-Stack-Software-Engineer----US-Federal-_JR-0105397": "2026-07-01"
+  "workday:workday/Workday:/job/USAVAReston/Sr-Full-Stack-Software-Engineer----US-Federal-_JR-0105397": "2026-07-01",
+  "workday:workday/Workday:/job/VNMDa-Nang/Senior-AI-Engineer---Da-Nang--Paradox-_JR-0108727": "2026-08-14"
 }

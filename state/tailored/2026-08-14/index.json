@@ -26,5 +26,61 @@
     "matched_skills": 10,
     "pdf": "state/tailored/2026-08-14/salesforce-software-engineering-smts-87-jr354359.pdf",
     "docx": "state/tailored/2026-08-14/salesforce-software-engineering-smts-87-jr354359.docx"
+  },
+  {
+    "job_id": "greenhouse:affirm:7819451003",
+    "company": "affirm",
+    "role": "Staff CIAM Software Engineer",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7819451003",
+    "score": 96,
+    "source": "greenhouse",
+    "coverage": 95,
+    "jd_skills": 20,
+    "matched_skills": 19,
+    "pdf": "state/tailored/2026-08-14/affirm-staff-ciam-software-engineer-96-19451003.pdf",
+    "docx": "state/tailored/2026-08-14/affirm-staff-ciam-software-engineer-96-19451003.docx"
+  },
+  {
+    "job_id": "greenhouse:affirm:7819449003",
+    "company": "affirm",
+    "role": "Staff CIAM Software Engineer",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7819449003",
+    "score": 96,
+    "source": "greenhouse",
+    "coverage": 95,
+    "jd_skills": 20,
+    "matched_skills": 19,
+    "pdf": "state/tailored/2026-08-14/affirm-staff-ciam-software-engineer-96-19449003.pdf",
+    "docx": "state/tailored/2026-08-14/affirm-staff-ciam-software-engineer-96-19449003.docx"
+  },
+  {
+    "job_id": "workday:workday/Workday:/job/VNMDa-Nang/Senior-AI-Engineer---Da-Nang--Paradox-_JR-0108727",
+    "company": "workday",
+    "role": "Senior AI Engineer - Da Nang (Paradox)",
+    "location": "VNM.Da Nang",
+    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/VNMDa-Nang/Senior-AI-Engineer---Da-Nang--Paradox-_JR-0108727",
+    "score": 94,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-08-14/workday-senior-ai-engineer-da-nang-paradox-94-r0108727.pdf",
+    "docx": "state/tailored/2026-08-14/workday-senior-ai-engineer-da-nang-paradox-94-r0108727.docx"
+  },
+  {
+    "job_id": "workday:adobe/external_experienced:/job/San-Jose/Applied-Scientist_R171218",
+    "company": "adobe",
+    "role": "Applied Scientist",
+    "location": "San Jose",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Applied-Scientist_R171218",
+    "score": 92,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-08-14/adobe-applied-scientist-92-tr171218.pdf",
+    "docx": "state/tailored/2026-08-14/adobe-applied-scientist-92-tr171218.docx"
   }
 ]
