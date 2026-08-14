@@ -306,5 +306,61 @@
     "matched_skills": 8,
     "pdf": "state/tailored/2026-08-14/databricks-sr-forward-deployed-engineer-public-sector-95-57468002.pdf",
     "docx": "state/tailored/2026-08-14/databricks-sr-forward-deployed-engineer-public-sector-95-57468002.docx"
+  },
+  {
+    "job_id": "greenhouse:launchdarkly:7767264003",
+    "company": "launchdarkly",
+    "role": "Full Stack Engineer, Foundation",
+    "location": "US - Oakland, CA (HQ)",
+    "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7767264003",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-14/launchdarkly-full-stack-engineer-foundation-95-67264003.pdf",
+    "docx": "state/tailored/2026-08-14/launchdarkly-full-stack-engineer-foundation-95-67264003.docx"
+  },
+  {
+    "job_id": "greenhouse:airbnb:8130355",
+    "company": "airbnb",
+    "role": "Senior Machine Learning Engineer, Trust",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/8130355?gh_jid=8130355",
+    "score": 90,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-08-14/airbnb-senior-machine-learning-engineer-trust-90-8130355.pdf",
+    "docx": "state/tailored/2026-08-14/airbnb-senior-machine-learning-engineer-trust-90-8130355.docx"
+  },
+  {
+    "job_id": "greenhouse:launchdarkly:7741981003",
+    "company": "launchdarkly",
+    "role": "Full Stack Engineer, Experimentation",
+    "location": "US - Oakland, CA (HQ)",
+    "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7741981003",
+    "score": 87,
+    "source": "greenhouse",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-08-14/launchdarkly-full-stack-engineer-experimentation-87-41981003.pdf",
+    "docx": "state/tailored/2026-08-14/launchdarkly-full-stack-engineer-experimentation-87-41981003.docx"
+  },
+  {
+    "job_id": "greenhouse:launchdarkly:7750105003",
+    "company": "launchdarkly",
+    "role": "Full Stack Engineer, Observability",
+    "location": "US - Oakland, CA (HQ)",
+    "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7750105003",
+    "score": 87,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-14/launchdarkly-full-stack-engineer-observability-87-50105003.pdf",
+    "docx": "state/tailored/2026-08-14/launchdarkly-full-stack-engineer-observability-87-50105003.docx"
   }
 ]
