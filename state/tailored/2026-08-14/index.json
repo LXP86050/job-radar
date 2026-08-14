@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "greenhouse:reddit:8128860",
+    "company": "reddit",
+    "role": "Senior Backend Engineer, Compliance Engineering",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8128860",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-08-14/reddit-senior-backend-engineer-compliance-engineering-95-8128860.pdf",
+    "docx": "state/tailored/2026-08-14/reddit-senior-backend-engineer-compliance-engineering-95-8128860.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---San-Francisco/Software-Engineering-SMTS_JR354359",
+    "company": "salesforce",
+    "role": "Software Engineering SMTS",
+    "location": "California - San Francisco",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR354359",
+    "score": 87,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-08-14/salesforce-software-engineering-smts-87-jr354359.pdf",
+    "docx": "state/tailored/2026-08-14/salesforce-software-engineering-smts-87-jr354359.docx"
+  }
+]
