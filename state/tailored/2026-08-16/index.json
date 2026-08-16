@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "job_id": "greenhouse:twilio:7993959",
+    "company": "twilio",
+    "role": "Senior / Staff Applied Research Software Engineer - Emerging Tech",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7993959",
+    "score": 98,
+    "source": "greenhouse",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-08-16/twilio-senior-staff-applied-research-software-engineer-emerging-tec-98-7993959.pdf",
+    "docx": "state/tailored/2026-08-16/twilio-senior-staff-applied-research-software-engineer-emerging-tec-98-7993959.docx"
+  },
+  {
+    "job_id": "greenhouse:databricks:8488399002",
+    "company": "databricks",
+    "role": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
+    "location": "Remote - California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8488399002",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-08-16/databricks-sr-forward-deployed-engineer-fde-digital-native-business-94-88399002.pdf",
+    "docx": "state/tailored/2026-08-16/databricks-sr-forward-deployed-engineer-fde-digital-native-business-94-88399002.docx"
+  },
+  {
+    "job_id": "workday:workday/Workday:/job/USA-CA-Pleasanton/Machine-Learning-Engineer_JR-0106147",
+    "company": "workday",
+    "role": "Machine Learning Engineer III",
+    "location": "3 Locations",
+    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Machine-Learning-Engineer_JR-0106147",
+    "score": 94,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-08-16/workday-machine-learning-engineer-iii-94-r0106147.pdf",
+    "docx": "state/tailored/2026-08-16/workday-machine-learning-engineer-iii-94-r0106147.docx"
+  }
+]
