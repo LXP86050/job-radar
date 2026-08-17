@@ -54,5 +54,33 @@
     "matched_skills": 10,
     "pdf": "state/tailored/2026-08-17/toast-staff-software-engineer-voice-ai-platform-92-8131117.pdf",
     "docx": "state/tailored/2026-08-17/toast-staff-software-engineer-voice-ai-platform-92-8131117.docx"
+  },
+  {
+    "job_id": "weworkremotely:collaboration-ai-senior-ai-engineer-agentic-systems-data-pipelines",
+    "company": "Collaboration.Ai",
+    "role": "Senior AI Engineer - Agentic Systems & Data Pipelines",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-ai-engineer-agentic-systems-data-pipelines",
+    "score": 98,
+    "source": "weworkremotely",
+    "coverage": 95,
+    "jd_skills": 19,
+    "matched_skills": 18,
+    "pdf": "state/tailored/2026-08-17/collaboration-ai-senior-ai-engineer-agentic-systems-data-pipelines-98-ipelines.pdf",
+    "docx": "state/tailored/2026-08-17/collaboration-ai-senior-ai-engineer-agentic-systems-data-pipelines-98-ipelines.docx"
+  },
+  {
+    "job_id": "weworkremotely:collaboration-ai-senior-software-engineer",
+    "company": "Collaboration.Ai",
+    "role": "Senior Software Engineer",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer",
+    "score": 97,
+    "source": "weworkremotely",
+    "coverage": 94,
+    "jd_skills": 31,
+    "matched_skills": 29,
+    "pdf": "state/tailored/2026-08-17/collaboration-ai-senior-software-engineer-97-engineer.pdf",
+    "docx": "state/tailored/2026-08-17/collaboration-ai-senior-software-engineer-97-engineer.docx"
   }
 ]
