@@ -180,5 +180,19 @@
     "matched_skills": 10,
     "pdf": "state/tailored/2026-08-17/salesforce-lead-software-engineer-pki-cryptographic-trust-services-85-jr354749.pdf",
     "docx": "state/tailored/2026-08-17/salesforce-lead-software-engineer-pki-cryptographic-trust-services-85-jr354749.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/Germany-Remote/Senior-Software-Engineer--AI-Inference-Systems_JR2017366",
+    "company": "nvidia",
+    "role": "Senior Software Engineer, AI Inference Systems",
+    "location": "6 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Senior-Software-Engineer--AI-Inference-Systems_JR2017366",
+    "score": 90,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-08-17/nvidia-senior-software-engineer-ai-inference-systems-90-r2017366.pdf",
+    "docx": "state/tailored/2026-08-17/nvidia-senior-software-engineer-ai-inference-systems-90-r2017366.docx"
   }
 ]
