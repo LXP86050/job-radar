@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "job_id": "greenhouse:databricks:8220840002",
+    "company": "databricks",
+    "role": "Staff Fullstack Engineer, Agentic Applications",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8220840002",
+    "score": 99,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-08-17/databricks-staff-fullstack-engineer-agentic-applications-99-20840002.pdf",
+    "docx": "state/tailored/2026-08-17/databricks-staff-fullstack-engineer-agentic-applications-99-20840002.docx"
+  },
+  {
+    "job_id": "greenhouse:mongodb:7947560",
+    "company": "mongodb",
+    "role": "Senior Software Engineer, Storage Layer Services",
+    "location": "New York City",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7947560",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-08-17/mongodb-senior-software-engineer-storage-layer-services-95-7947560.pdf",
+    "docx": "state/tailored/2026-08-17/mongodb-senior-software-engineer-storage-layer-services-95-7947560.docx"
+  },
+  {
+    "job_id": "greenhouse:roblox:8011079",
+    "company": "roblox",
+    "role": "Senior Software Engineer, Ads Platform",
+    "location": "San Mateo, CA",
+    "url": "https://careers.roblox.com/jobs/8011079?gh_jid=8011079",
+    "score": 92,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-08-17/roblox-senior-software-engineer-ads-platform-92-8011079.pdf",
+    "docx": "state/tailored/2026-08-17/roblox-senior-software-engineer-ads-platform-92-8011079.docx"
+  },
+  {
+    "job_id": "greenhouse:toast:8131117",
+    "company": "toast",
+    "role": "Staff Software Engineer, Voice AI Platform",
+    "location": "Remote - USA",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8131117",
+    "score": 92,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-08-17/toast-staff-software-engineer-voice-ai-platform-92-8131117.pdf",
+    "docx": "state/tailored/2026-08-17/toast-staff-software-engineer-voice-ai-platform-92-8131117.docx"
+  }
+]
