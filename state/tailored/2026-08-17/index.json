@@ -82,5 +82,33 @@
     "matched_skills": 29,
     "pdf": "state/tailored/2026-08-17/collaboration-ai-senior-software-engineer-97-engineer.pdf",
     "docx": "state/tailored/2026-08-17/collaboration-ai-senior-software-engineer-97-engineer.docx"
+  },
+  {
+    "job_id": "weworkremotely:toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform",
+    "company": "Toptal",
+    "role": "AI/ML Engineer for an AI-Driven E-Commerce Platform",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform",
+    "score": 95,
+    "source": "weworkremotely",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-17/toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform-95-platform.pdf",
+    "docx": "state/tailored/2026-08-17/toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform-95-platform.docx"
+  },
+  {
+    "job_id": "weworkremotely:samsara-staff-software-engineer",
+    "company": "Samsara",
+    "role": "Staff Software Engineer",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
+    "score": 90,
+    "source": "weworkremotely",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-17/samsara-staff-software-engineer-90-engineer.pdf",
+    "docx": "state/tailored/2026-08-17/samsara-staff-software-engineer-90-engineer.docx"
   }
 ]
