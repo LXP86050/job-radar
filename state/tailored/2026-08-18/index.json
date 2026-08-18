@@ -82,5 +82,33 @@
     "matched_skills": 15,
     "pdf": "state/tailored/2026-08-18/twilio-staff-software-engineer-85-7944328.pdf",
     "docx": "state/tailored/2026-08-18/twilio-staff-software-engineer-85-7944328.docx"
+  },
+  {
+    "job_id": "workday:citi/2:/job/Pune-Maharashtra-India/Generative-AI-Engineering-Lead_26984345",
+    "company": "citi",
+    "role": "Generative AI Engineering Lead",
+    "location": "2 Locations",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Generative-AI-Engineering-Lead_26984345",
+    "score": 97,
+    "source": "workday",
+    "coverage": 95,
+    "jd_skills": 20,
+    "matched_skills": 19,
+    "pdf": "state/tailored/2026-08-18/citi-generative-ai-engineering-lead-97-26984345.pdf",
+    "docx": "state/tailored/2026-08-18/citi-generative-ai-engineering-lead-97-26984345.docx"
+  },
+  {
+    "job_id": "workday:citi/2:/job/Tampa-Florida-United-States/Full-Stack-Engineering-Team-Lead---Senior-Vice-President_26986212",
+    "company": "citi",
+    "role": "Full Stack Engineering Team Lead - Senior Vice President",
+    "location": "Tampa Florida United States",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Full-Stack-Engineering-Team-Lead---Senior-Vice-President_26986212",
+    "score": 90,
+    "source": "workday",
+    "coverage": 95,
+    "jd_skills": 19,
+    "matched_skills": 18,
+    "pdf": "state/tailored/2026-08-18/citi-full-stack-engineering-team-lead-senior-vice-president-90-26986212.pdf",
+    "docx": "state/tailored/2026-08-18/citi-full-stack-engineering-team-lead-senior-vice-president-90-26986212.docx"
   }
 ]
