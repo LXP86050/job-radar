@@ -236,5 +236,61 @@
     "matched_skills": 9,
     "pdf": "state/tailored/2026-08-19/sedona-digital-senior-platform-engineer-devops-87-erdevops.pdf",
     "docx": "state/tailored/2026-08-19/sedona-digital-senior-platform-engineer-devops-87-erdevops.docx"
+  },
+  {
+    "job_id": "greenhouse:flexport:7819181",
+    "company": "flexport",
+    "role": "Staff Software Engineer, Autonomous Freight Systems",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/7819181",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-08-19/flexport-staff-software-engineer-autonomous-freight-systems-95-7819181.pdf",
+    "docx": "state/tailored/2026-08-19/flexport-staff-software-engineer-autonomous-freight-systems-95-7819181.docx"
+  },
+  {
+    "job_id": "workday:paypal/jobs:/job/New-York-City-New-York-United-States-of-America/Staff-Software-Engineer_R0137245",
+    "company": "paypal",
+    "role": "Staff Software Engineer",
+    "location": "New York City, New York, United States of America",
+    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Staff-Software-Engineer_R0137245",
+    "score": 95,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 17,
+    "matched_skills": 16,
+    "pdf": "state/tailored/2026-08-19/paypal-staff-software-engineer-95-r0137245.pdf",
+    "docx": "state/tailored/2026-08-19/paypal-staff-software-engineer-95-r0137245.docx"
+  },
+  {
+    "job_id": "workday:paypal/jobs:/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137243",
+    "company": "paypal",
+    "role": "Sr Software Engineer",
+    "location": "Austin, Texas, United States of America",
+    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137243",
+    "score": 95,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-08-19/paypal-sr-software-engineer-95-r0137243.pdf",
+    "docx": "state/tailored/2026-08-19/paypal-sr-software-engineer-95-r0137243.docx"
+  },
+  {
+    "job_id": "ashby:crusoe:a6043dea-1b46-456c-8d2c-5b44e1660975",
+    "company": "crusoe",
+    "role": "Senior Software Engineer, Network Tooling",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/crusoe/a6043dea-1b46-456c-8d2c-5b44e1660975",
+    "score": 93,
+    "source": "ashby",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-08-19/crusoe-senior-software-engineer-network-tooling-93-e1660975.pdf",
+    "docx": "state/tailored/2026-08-19/crusoe-senior-software-engineer-network-tooling-93-e1660975.docx"
   }
 ]
