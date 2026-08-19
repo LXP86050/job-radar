@@ -152,5 +152,19 @@
     "matched_skills": 15,
     "pdf": "state/tailored/2026-08-19/coinbase-staff-software-engineer-eaa-cx-93-6784618.pdf",
     "docx": "state/tailored/2026-08-19/coinbase-staff-software-engineer-eaa-cx-93-6784618.docx"
+  },
+  {
+    "job_id": "greenhouse:vercel:5649459004",
+    "company": "vercel",
+    "role": "Software Engineer, Trust & Safety",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/5649459004",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-19/vercel-software-engineer-trust-safety-94-49459004.pdf",
+    "docx": "state/tailored/2026-08-19/vercel-software-engineer-trust-safety-94-49459004.docx"
   }
 ]
