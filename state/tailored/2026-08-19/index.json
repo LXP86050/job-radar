@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "job_id": "greenhouse:verkada:5215841007",
+    "company": "verkada",
+    "role": "Senior Backend Engineer",
+    "location": "Bay-HQ office",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5215841007",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-19/verkada-senior-backend-engineer-94-15841007.pdf",
+    "docx": "state/tailored/2026-08-19/verkada-senior-backend-engineer-94-15841007.docx"
+  },
+  {
+    "job_id": "greenhouse:verkada:5154370007",
+    "company": "verkada",
+    "role": "Staff Backend Engineer - Device Security",
+    "location": "Bay-HQ office",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5154370007",
+    "score": 89,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-19/verkada-staff-backend-engineer-device-security-89-54370007.pdf",
+    "docx": "state/tailored/2026-08-19/verkada-staff-backend-engineer-device-security-89-54370007.docx"
+  }
+]
