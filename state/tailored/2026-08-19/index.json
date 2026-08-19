@@ -138,5 +138,19 @@
     "matched_skills": 9,
     "pdf": "state/tailored/2026-08-19/thetradedesk-staff-software-engineer-93-16124007.pdf",
     "docx": "state/tailored/2026-08-19/thetradedesk-staff-software-engineer-93-16124007.docx"
+  },
+  {
+    "job_id": "greenhouse:coinbase:6784618",
+    "company": "coinbase",
+    "role": "Staff Software Engineer, EAA CX",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "url": "https://www.coinbase.com/careers/positions/6784618?gh_jid=6784618",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-08-19/coinbase-staff-software-engineer-eaa-cx-93-6784618.pdf",
+    "docx": "state/tailored/2026-08-19/coinbase-staff-software-engineer-eaa-cx-93-6784618.docx"
   }
 ]
