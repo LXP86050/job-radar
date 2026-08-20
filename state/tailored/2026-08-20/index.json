@@ -166,5 +166,61 @@
     "matched_skills": 19,
     "pdf": "state/tailored/2026-08-20/capitalone-lead-software-engineer-full-stack-risk-tech-intelligent-foun-88-r2497621.pdf",
     "docx": "state/tailored/2026-08-20/capitalone-lead-software-engineer-full-stack-risk-tech-intelligent-foun-88-r2497621.docx"
+  },
+  {
+    "job_id": "greenhouse:sofi:7871448003",
+    "company": "sofi",
+    "role": "Associate AI Engineer, Finance Transformation",
+    "location": "CA - San Francisco",
+    "url": "https://sofi.com/careers/job/7871448003?gh_jid=7871448003",
+    "score": 98,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-08-20/sofi-associate-ai-engineer-finance-transformation-98-71448003.pdf",
+    "docx": "state/tailored/2026-08-20/sofi-associate-ai-engineer-finance-transformation-98-71448003.docx"
+  },
+  {
+    "job_id": "greenhouse:scaleai:4725133005",
+    "company": "scaleai",
+    "role": "Senior Software Engineer, AI Operations, GPS",
+    "location": "Doha, Qatar",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4725133005",
+    "score": 97,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 13,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-08-20/scaleai-senior-software-engineer-ai-operations-gps-97-25133005.pdf",
+    "docx": "state/tailored/2026-08-20/scaleai-senior-software-engineer-ai-operations-gps-97-25133005.docx"
+  },
+  {
+    "job_id": "greenhouse:postman:7677743003",
+    "company": "postman",
+    "role": "Senior Software Engineer Manager - Ecosystems & Integration",
+    "location": "Cupertino, California, San Francisco, California",
+    "url": "https://job-boards.greenhouse.io/postman/jobs/7677743003",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-08-20/postman-senior-software-engineer-manager-ecosystems-integration-95-77743003.pdf",
+    "docx": "state/tailored/2026-08-20/postman-senior-software-engineer-manager-ecosystems-integration-95-77743003.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Massachusetts---Burlington/Senior-Software-Engineer_JR356123",
+    "company": "salesforce",
+    "role": "Senior Software Engineer",
+    "location": "Massachusetts - Burlington",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Massachusetts---Burlington/Senior-Software-Engineer_JR356123",
+    "score": 91,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 18,
+    "matched_skills": 18,
+    "pdf": "state/tailored/2026-08-20/salesforce-senior-software-engineer-91-jr356123.pdf",
+    "docx": "state/tailored/2026-08-20/salesforce-senior-software-engineer-91-jr356123.docx"
   }
 ]
