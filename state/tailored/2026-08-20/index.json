@@ -40,5 +40,61 @@
     "matched_skills": 12,
     "pdf": "state/tailored/2026-08-20/roblox-senior-software-engineer-marketplace-foundation-92-8142712.pdf",
     "docx": "state/tailored/2026-08-20/roblox-senior-software-engineer-marketplace-foundation-92-8142712.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Germany---Munich/Forward-Deployed-Engineer_JR356714",
+    "company": "salesforce",
+    "role": "Forward Deployed Engineer",
+    "location": "5 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Germany---Munich/Forward-Deployed-Engineer_JR356714",
+    "score": 94,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-20/salesforce-forward-deployed-engineer-94-jr356714.pdf",
+    "docx": "state/tailored/2026-08-20/salesforce-forward-deployed-engineer-94-jr356714.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack_R249292-1",
+    "company": "capitalone",
+    "role": "Senior Lead Software Engineer, Full Stack",
+    "location": "3 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack_R249292-1",
+    "score": 93,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 18,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-08-20/capitalone-senior-lead-software-engineer-full-stack-93-r2492921.pdf",
+    "docx": "state/tailored/2026-08-20/capitalone-senior-lead-software-engineer-full-stack-93-r2492921.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Senior-Lead-Software-Engineer_R249662-1",
+    "company": "capitalone",
+    "role": "Senior Lead Software Engineer",
+    "location": "2 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Lead-Software-Engineer_R249662-1",
+    "score": 93,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-08-20/capitalone-senior-lead-software-engineer-93-r2496621.pdf",
+    "docx": "state/tailored/2026-08-20/capitalone-senior-lead-software-engineer-93-r2496621.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/New-York-NY/Senior-Lead-AI-Engineer--GenAI-Platform-Services-_R249503-1",
+    "company": "capitalone",
+    "role": "Senior Lead AI Engineer (GenAI Platform Services)",
+    "location": "4 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Senior-Lead-AI-Engineer--GenAI-Platform-Services-_R249503-1",
+    "score": 89,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-08-20/capitalone-senior-lead-ai-engineer-genai-platform-services-89-r2495031.pdf",
+    "docx": "state/tailored/2026-08-20/capitalone-senior-lead-ai-engineer-genai-platform-services-89-r2495031.docx"
   }
 ]
