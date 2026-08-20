@@ -236,5 +236,19 @@
     "matched_skills": 14,
     "pdf": "state/tailored/2026-08-20/webflow-staff-software-engineer-infrastructure-90-8142831.pdf",
     "docx": "state/tailored/2026-08-20/webflow-staff-software-engineer-infrastructure-90-8142831.docx"
+  },
+  {
+    "job_id": "workday:tmobile/External:/job/Frisco-Texas/Associate-Software-Engineer_REQ364465-1",
+    "company": "tmobile",
+    "role": "Associate Software Engineer",
+    "location": "2 Locations",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Frisco-Texas/Associate-Software-Engineer_REQ364465-1",
+    "score": 87,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-08-20/tmobile-associate-software-engineer-87-q3644651.pdf",
+    "docx": "state/tailored/2026-08-20/tmobile-associate-software-engineer-87-q3644651.docx"
   }
 ]
