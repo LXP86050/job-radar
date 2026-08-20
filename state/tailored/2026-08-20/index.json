@@ -222,5 +222,19 @@
     "matched_skills": 18,
     "pdf": "state/tailored/2026-08-20/salesforce-senior-software-engineer-91-jr356123.pdf",
     "docx": "state/tailored/2026-08-20/salesforce-senior-software-engineer-91-jr356123.docx"
+  },
+  {
+    "job_id": "greenhouse:webflow:8142831",
+    "company": "webflow",
+    "role": "Staff Software Engineer, Infrastructure",
+    "location": "CA Remote (BC & ON only), International Remote, U.S. Remote",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/8142831",
+    "score": 90,
+    "source": "greenhouse",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-08-20/webflow-staff-software-engineer-infrastructure-90-8142831.pdf",
+    "docx": "state/tailored/2026-08-20/webflow-staff-software-engineer-infrastructure-90-8142831.docx"
   }
 ]
