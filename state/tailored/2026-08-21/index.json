@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Washington---Bellevue/Software-Engineering-SMTS_JR354753-1",
+    "company": "salesforce",
+    "role": "Senior, Software Engineer,  Cryptographic Asset Monitoring",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-SMTS_JR354753-1",
+    "score": 92,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-21/salesforce-senior-software-engineer-cryptographic-asset-monitoring-92-r3547531.pdf",
+    "docx": "state/tailored/2026-08-21/salesforce-senior-software-engineer-cryptographic-asset-monitoring-92-r3547531.docx"
+  },
+  {
+    "job_id": "greenhouse:zoominfo:8604686002",
+    "company": "zoominfo",
+    "role": "Senior Software Engineer - PA086",
+    "location": "Waltham",
+    "url": "https://www.zoominfo.com/careers?gh_jid=8604686002",
+    "score": 87,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-08-21/zoominfo-senior-software-engineer-pa086-87-04686002.pdf",
+    "docx": "state/tailored/2026-08-21/zoominfo-senior-software-engineer-pa086-87-04686002.docx"
+  }
+]
