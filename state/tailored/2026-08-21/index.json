@@ -222,5 +222,33 @@
     "matched_skills": 11,
     "pdf": "state/tailored/2026-08-21/salesforce-software-engineering-architect-mulesoft-85-jr356481.pdf",
     "docx": "state/tailored/2026-08-21/salesforce-software-engineering-architect-mulesoft-85-jr356481.docx"
+  },
+  {
+    "job_id": "workday:citi/2:/job/Tampa-Florida-United-States/Agentic-AI-Engineer--AVP-_26984351",
+    "company": "citi",
+    "role": "Agentic AI Engineer (AVP)",
+    "location": "2 Locations",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Agentic-AI-Engineer--AVP-_26984351",
+    "score": 97,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-21/citi-agentic-ai-engineer-avp-97-26984351.pdf",
+    "docx": "state/tailored/2026-08-21/citi-agentic-ai-engineer-avp-97-26984351.docx"
+  },
+  {
+    "job_id": "workday:citi/2:/job/Tampa-Florida-United-States/Senior-Agentic-AI-Engineer--VP-_26984350",
+    "company": "citi",
+    "role": "Senior Agentic AI Engineer (VP)",
+    "location": "2 Locations",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Senior-Agentic-AI-Engineer--VP-_26984350",
+    "score": 97,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 17,
+    "matched_skills": 16,
+    "pdf": "state/tailored/2026-08-21/citi-senior-agentic-ai-engineer-vp-97-26984350.pdf",
+    "docx": "state/tailored/2026-08-21/citi-senior-agentic-ai-engineer-vp-97-26984350.docx"
   }
 ]
