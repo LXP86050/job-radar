@@ -40,5 +40,19 @@
     "matched_skills": 9,
     "pdf": "state/tailored/2026-08-21/nvidia-nvidia-2027-new-college-graduate-software-engineering-china-89-r2024111.pdf",
     "docx": "state/tailored/2026-08-21/nvidia-nvidia-2027-new-college-graduate-software-engineering-china-89-r2024111.docx"
+  },
+  {
+    "job_id": "greenhouse:boxinc:8133215",
+    "company": "boxinc",
+    "role": "Machine Learning Engineer III, Metadata Extraction",
+    "location": "Wrocław Coworking Office",
+    "url": "https://job-boards.greenhouse.io/boxinc/jobs/8133215",
+    "score": 97,
+    "source": "greenhouse",
+    "coverage": 95,
+    "jd_skills": 20,
+    "matched_skills": 19,
+    "pdf": "state/tailored/2026-08-21/boxinc-machine-learning-engineer-iii-metadata-extraction-97-8133215.pdf",
+    "docx": "state/tailored/2026-08-21/boxinc-machine-learning-engineer-iii-metadata-extraction-97-8133215.docx"
   }
 ]
