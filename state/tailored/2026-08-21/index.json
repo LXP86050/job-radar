@@ -54,5 +54,61 @@
     "matched_skills": 19,
     "pdf": "state/tailored/2026-08-21/boxinc-machine-learning-engineer-iii-metadata-extraction-97-8133215.pdf",
     "docx": "state/tailored/2026-08-21/boxinc-machine-learning-engineer-iii-metadata-extraction-97-8133215.docx"
+  },
+  {
+    "job_id": "greenhouse:robinhood:8120101",
+    "company": "robinhood",
+    "role": "Senior Software Engineer, Enterprise Build",
+    "location": "Bellevue, WA, Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8120101?t=gh_src=&gh_jid=8120101",
+    "score": 99,
+    "source": "greenhouse",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-08-21/robinhood-senior-software-engineer-enterprise-build-99-8120101.pdf",
+    "docx": "state/tailored/2026-08-21/robinhood-senior-software-engineer-enterprise-build-99-8120101.docx"
+  },
+  {
+    "job_id": "greenhouse:mongodb:8140617",
+    "company": "mongodb",
+    "role": "Senior Software Engineer, Identity & Access Management",
+    "location": "New York City",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8140617",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 18,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-08-21/mongodb-senior-software-engineer-identity-access-management-95-8140617.pdf",
+    "docx": "state/tailored/2026-08-21/mongodb-senior-software-engineer-identity-access-management-95-8140617.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Senior-Lead-Software-Engineer--Front-End-Web--JavaScript--Angular--React--Node---Enterprise-Platforms-Technology-_R249558-1",
+    "company": "capitalone",
+    "role": "Senior Lead Software Engineer, Front End Web (JavaScript, Angular, React, Node) (Enterprise Platforms Technology)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Lead-Software-Engineer--Front-End-Web--JavaScript--Angular--React--Node---Enterprise-Platforms-Technology-_R249558-1",
+    "score": 94,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-08-21/capitalone-senior-lead-software-engineer-front-end-web-javascript-angul-94-r2495581.pdf",
+    "docx": "state/tailored/2026-08-21/capitalone-senior-lead-software-engineer-front-end-web-javascript-angul-94-r2495581.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/Plano-TX/Sr-Lead-Software-Engineer---Back-End--Java--Python--AWS-_R249595-1",
+    "company": "capitalone",
+    "role": "Sr. Lead Software Engineer - Back End (Java, Python, AWS)",
+    "location": "3 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Sr-Lead-Software-Engineer---Back-End--Java--Python--AWS-_R249595-1",
+    "score": 93,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-08-21/capitalone-sr-lead-software-engineer-back-end-java-python-aws-93-r2495951.pdf",
+    "docx": "state/tailored/2026-08-21/capitalone-sr-lead-software-engineer-back-end-java-python-aws-93-r2495951.docx"
   }
 ]
