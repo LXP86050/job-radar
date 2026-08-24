@@ -54,5 +54,47 @@
     "matched_skills": 16,
     "pdf": "state/tailored/2026-08-24/tmobile-software-engineer-billing-platform-88-eq361398.pdf",
     "docx": "state/tailored/2026-08-24/tmobile-software-engineer-billing-platform-88-eq361398.docx"
+  },
+  {
+    "job_id": "greenhouse:webflow:8148362",
+    "company": "webflow",
+    "role": "Senior Platform Engineer, Infrastructure",
+    "location": "U.S. Remote",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/8148362",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-08-24/webflow-senior-platform-engineer-infrastructure-95-8148362.pdf",
+    "docx": "state/tailored/2026-08-24/webflow-senior-platform-engineer-infrastructure-95-8148362.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/Chicago-IL/Lead-Machine-Learning-Engineer_R249943-2",
+    "company": "capitalone",
+    "role": "Lead Machine Learning Engineer",
+    "location": "Chicago, IL",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Lead-Machine-Learning-Engineer_R249943-2",
+    "score": 95,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-08-24/capitalone-lead-machine-learning-engineer-95-r2499432.pdf",
+    "docx": "state/tailored/2026-08-24/capitalone-lead-machine-learning-engineer-95-r2499432.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Belgium---Brussels/Forward-Deployed-Engineer_JR349983",
+    "company": "salesforce",
+    "role": "Senior Forward Deployed Engineer",
+    "location": "Belgium - Brussels",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Belgium---Brussels/Forward-Deployed-Engineer_JR349983",
+    "score": 94,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-24/salesforce-senior-forward-deployed-engineer-94-jr349983.pdf",
+    "docx": "state/tailored/2026-08-24/salesforce-senior-forward-deployed-engineer-94-jr349983.docx"
   }
 ]
