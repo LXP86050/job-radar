@@ -138,5 +138,33 @@
     "matched_skills": 10,
     "pdf": "state/tailored/2026-08-24/tailscale-backend-engineer-identity-87-07636005.pdf",
     "docx": "state/tailored/2026-08-24/tailscale-backend-engineer-identity-87-07636005.docx"
+  },
+  {
+    "job_id": "workday:adobe/external_experienced:/job/Seattle/Senior-AI-ML-Platform-Engineer_R171372",
+    "company": "adobe",
+    "role": "Senior AI/ML Platform Engineer",
+    "location": "3 Locations",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/Senior-AI-ML-Platform-Engineer_R171372",
+    "score": 94,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-24/adobe-senior-ai-ml-platform-engineer-94-rr171372.pdf",
+    "docx": "state/tailored/2026-08-24/adobe-senior-ai-ml-platform-engineer-94-rr171372.docx"
+  },
+  {
+    "job_id": "workday:paypal/jobs:/job/San-Jose-California-United-States-of-America/Software-Engineer-3_R0137262",
+    "company": "paypal",
+    "role": "Software Engineer 3",
+    "location": "San Jose, California, United States of America",
+    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-3_R0137262",
+    "score": 87,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-08-24/paypal-software-engineer-3-87-r0137262.pdf",
+    "docx": "state/tailored/2026-08-24/paypal-software-engineer-3-87-r0137262.docx"
   }
 ]
