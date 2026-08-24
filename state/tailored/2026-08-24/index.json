@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "job_id": "greenhouse:brex:8606885002",
+    "company": "brex",
+    "role": "AI Engineer, Ecosystem",
+    "location": "San Francisco, CA, Seattle, WA",
+    "url": "https://www.brex.com/careers/8606885002?gh_jid=8606885002",
+    "score": 90,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-08-24/brex-ai-engineer-ecosystem-90-06885002.pdf",
+    "docx": "state/tailored/2026-08-24/brex-ai-engineer-ecosystem-90-06885002.docx"
+  },
+  {
+    "job_id": "greenhouse:brex:8606890002",
+    "company": "brex",
+    "role": "AI Engineer, Ecosystem",
+    "location": "San Francisco, CA, Seattle, WA",
+    "url": "https://www.brex.com/careers/8606890002?gh_jid=8606890002",
+    "score": 90,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-08-24/brex-ai-engineer-ecosystem-90-06890002.pdf",
+    "docx": "state/tailored/2026-08-24/brex-ai-engineer-ecosystem-90-06890002.docx"
+  },
+  {
+    "job_id": "greenhouse:datadog:8003181",
+    "company": "datadog",
+    "role": "Datadog for Startups - Forward Deployed Engineering Lead",
+    "location": "New York, San Francisco",
+    "url": "https://careers.datadoghq.com/detail/8003181/?gh_jid=8003181",
+    "score": 90,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-08-24/datadog-datadog-for-startups-forward-deployed-engineering-lead-90-8003181.pdf",
+    "docx": "state/tailored/2026-08-24/datadog-datadog-for-startups-forward-deployed-engineering-lead-90-8003181.docx"
+  },
+  {
+    "job_id": "workday:tmobile/External:/job/Overland-Park-Kansas/Software-Engineer--Billing-Platform_REQ361398",
+    "company": "tmobile",
+    "role": "Software Engineer- Billing Platform",
+    "location": "4 Locations",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Software-Engineer--Billing-Platform_REQ361398",
+    "score": 88,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 17,
+    "matched_skills": 16,
+    "pdf": "state/tailored/2026-08-24/tmobile-software-engineer-billing-platform-88-eq361398.pdf",
+    "docx": "state/tailored/2026-08-24/tmobile-software-engineer-billing-platform-88-eq361398.docx"
+  }
+]
