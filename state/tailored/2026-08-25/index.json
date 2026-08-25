@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "workday:hpe/Jobsathpe:/job/Sunnyvale-California-United-States-of-America/Senior-UI---Full-Stack-Engineer_1212285-2",
+    "company": "hpe",
+    "role": "Senior UI / Full Stack Engineer",
+    "location": "Sunnyvale, California, United States of America",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Senior-UI---Full-Stack-Engineer_1212285-2",
+    "score": 96,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-25/hpe-senior-ui-full-stack-engineer-96-12122852.pdf",
+    "docx": "state/tailored/2026-08-25/hpe-senior-ui-full-stack-engineer-96-12122852.docx"
+  },
+  {
+    "job_id": "greenhouse:boxinc:8147786",
+    "company": "boxinc",
+    "role": "Senior Software Engineer, ISF",
+    "location": "Redwood City Office",
+    "url": "https://job-boards.greenhouse.io/boxinc/jobs/8147786",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-08-25/boxinc-senior-software-engineer-isf-94-8147786.pdf",
+    "docx": "state/tailored/2026-08-25/boxinc-senior-software-engineer-isf-94-8147786.docx"
+  }
+]
