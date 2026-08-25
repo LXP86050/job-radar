@@ -432,5 +432,61 @@
     "matched_skills": 9,
     "pdf": "state/tailored/2026-08-25/nvidia-senior-software-engineer-dgx-cloud-orchestration-89-r2022921.pdf",
     "docx": "state/tailored/2026-08-25/nvidia-senior-software-engineer-dgx-cloud-orchestration-89-r2022921.docx"
+  },
+  {
+    "job_id": "workday:paypal/jobs:/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137266",
+    "company": "paypal",
+    "role": "Sr Software Engineer",
+    "location": "Austin, Texas, United States of America",
+    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137266",
+    "score": 95,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-08-25/paypal-sr-software-engineer-95-r0137266.pdf",
+    "docx": "state/tailored/2026-08-25/paypal-sr-software-engineer-95-r0137266.docx"
+  },
+  {
+    "job_id": "greenhouse:figma:6158162004",
+    "company": "figma",
+    "role": "Forward Deployed Engineer",
+    "location": "Canada, US",
+    "url": "https://boards.greenhouse.io/figma/jobs/6158162004?gh_jid=6158162004",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-08-25/figma-forward-deployed-engineer-94-58162004.pdf",
+    "docx": "state/tailored/2026-08-25/figma-forward-deployed-engineer-94-58162004.docx"
+  },
+  {
+    "job_id": "workday:micron/External:/job/Boise-ID---Main-Site/AI-Engineer--People-Technology_JR109593",
+    "company": "micron",
+    "role": "AI Engineer, People Technology",
+    "location": "2 Locations",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/AI-Engineer--People-Technology_JR109593",
+    "score": 94,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-08-25/micron-ai-engineer-people-technology-94-jr109593.pdf",
+    "docx": "state/tailored/2026-08-25/micron-ai-engineer-people-technology-94-jr109593.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Washington---Bellevue/Software-Engineering-MTS_JR357449",
+    "company": "salesforce",
+    "role": "Software Engineering MTS",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-MTS_JR357449",
+    "score": 86,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-08-25/salesforce-software-engineering-mts-86-jr357449.pdf",
+    "docx": "state/tailored/2026-08-25/salesforce-software-engineering-mts-86-jr357449.docx"
   }
 ]
