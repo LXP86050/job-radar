@@ -138,5 +138,19 @@
     "matched_skills": 18,
     "pdf": "state/tailored/2026-08-25/collaboration-ai-senior-software-ai-engineer-98-engineer.pdf",
     "docx": "state/tailored/2026-08-25/collaboration-ai-senior-software-ai-engineer-98-engineer.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Switzerland---Lausanne/Lead-Forward-Deployed-Engineer_JR350958",
+    "company": "salesforce",
+    "role": "Lead Forward Deployed Engineer",
+    "location": "Switzerland - Lausanne",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Switzerland---Lausanne/Lead-Forward-Deployed-Engineer_JR350958",
+    "score": 94,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-25/salesforce-lead-forward-deployed-engineer-94-jr350958.pdf",
+    "docx": "state/tailored/2026-08-25/salesforce-lead-forward-deployed-engineer-94-jr350958.docx"
   }
 ]
