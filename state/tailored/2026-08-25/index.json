@@ -110,5 +110,19 @@
     "matched_skills": 12,
     "pdf": "state/tailored/2026-08-25/fivetran-software-engineer-88-78979003.pdf",
     "docx": "state/tailored/2026-08-25/fivetran-software-engineer-88-78979003.docx"
+  },
+  {
+    "job_id": "greenhouse:vercel:6161129004",
+    "company": "vercel",
+    "role": "Software Engineer, Data Platform",
+    "location": "Office - San Francisco",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6161129004",
+    "score": 92,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-08-25/vercel-software-engineer-data-platform-92-61129004.pdf",
+    "docx": "state/tailored/2026-08-25/vercel-software-engineer-data-platform-92-61129004.docx"
   }
 ]
