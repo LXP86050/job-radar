@@ -124,5 +124,19 @@
     "matched_skills": 9,
     "pdf": "state/tailored/2026-08-25/vercel-software-engineer-data-platform-92-61129004.pdf",
     "docx": "state/tailored/2026-08-25/vercel-software-engineer-data-platform-92-61129004.docx"
+  },
+  {
+    "job_id": "weworkremotely:collaboration-ai-senior-software-ai-engineer",
+    "company": "Collaboration.Ai",
+    "role": "Senior Software AI Engineer",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-ai-engineer",
+    "score": 98,
+    "source": "weworkremotely",
+    "coverage": 95,
+    "jd_skills": 19,
+    "matched_skills": 18,
+    "pdf": "state/tailored/2026-08-25/collaboration-ai-senior-software-ai-engineer-98-engineer.pdf",
+    "docx": "state/tailored/2026-08-25/collaboration-ai-senior-software-ai-engineer-98-engineer.docx"
   }
 ]
