@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "job_id": "greenhouse:klaviyo:7767542003",
+    "company": "klaviyo",
+    "role": "Senior Software Engineer, Composer AI Product",
+    "location": "Boston",
+    "url": "https://www.klaviyo.com/careers/jobs/7767542003?gh_jid=7767542003",
+    "score": 99,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-08-26/klaviyo-senior-software-engineer-composer-ai-product-99-67542003.pdf",
+    "docx": "state/tailored/2026-08-26/klaviyo-senior-software-engineer-composer-ai-product-99-67542003.docx"
+  },
+  {
+    "job_id": "greenhouse:klaviyo:7780009003",
+    "company": "klaviyo",
+    "role": "Senior Software Engineer, Customer Agent",
+    "location": "Boston",
+    "url": "https://www.klaviyo.com/careers/jobs/7780009003?gh_jid=7780009003",
+    "score": 99,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-26/klaviyo-senior-software-engineer-customer-agent-99-80009003.pdf",
+    "docx": "state/tailored/2026-08-26/klaviyo-senior-software-engineer-customer-agent-99-80009003.docx"
+  },
+  {
+    "job_id": "greenhouse:klaviyo:7777369003",
+    "company": "klaviyo",
+    "role": "Senior Software Engineer - Infrastructure Security",
+    "location": "Boston",
+    "url": "https://www.klaviyo.com/careers/jobs/7777369003?gh_jid=7777369003",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-08-26/klaviyo-senior-software-engineer-infrastructure-security-95-77369003.pdf",
+    "docx": "state/tailored/2026-08-26/klaviyo-senior-software-engineer-infrastructure-security-95-77369003.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/India-Bengaluru/Senior-AI-ML-Software-Engineer_JR2024127",
+    "company": "nvidia",
+    "role": "Senior AI/ML Software Engineer",
+    "location": "2 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-AI-ML-Software-Engineer_JR2024127",
+    "score": 94,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-08-26/nvidia-senior-ai-ml-software-engineer-94-r2024127.pdf",
+    "docx": "state/tailored/2026-08-26/nvidia-senior-ai-ml-software-engineer-94-r2024127.docx"
+  },
+  {
+    "job_id": "greenhouse:klaviyo:7783904003",
+    "company": "klaviyo",
+    "role": "Senior Software Engineer, Platform Engineering",
+    "location": "Boston",
+    "url": "https://www.klaviyo.com/careers/jobs/7783904003?gh_jid=7783904003",
+    "score": 89,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-08-26/klaviyo-senior-software-engineer-platform-engineering-89-83904003.pdf",
+    "docx": "state/tailored/2026-08-26/klaviyo-senior-software-engineer-platform-engineering-89-83904003.docx"
+  },
+  {
+    "job_id": "greenhouse:pinterest:7999050",
+    "company": "pinterest",
+    "role": "Sr. Machine Learning Engineer, tvScientific",
+    "location": "San Francisco",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7999050",
+    "score": 85,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-08-26/pinterest-sr-machine-learning-engineer-tvscientific-85-7999050.pdf",
+    "docx": "state/tailored/2026-08-26/pinterest-sr-machine-learning-engineer-tvscientific-85-7999050.docx"
+  }
+]
