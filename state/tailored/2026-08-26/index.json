@@ -208,5 +208,61 @@
     "matched_skills": 10,
     "pdf": "state/tailored/2026-08-26/capitalone-lead-ai-engineer-ai-foundations-vlm-customization-89-r9991921.pdf",
     "docx": "state/tailored/2026-08-26/capitalone-lead-ai-engineer-ai-foundations-vlm-customization-89-r9991921.docx"
+  },
+  {
+    "job_id": "greenhouse:sofi:7978419003",
+    "company": "sofi",
+    "role": "Senior Software Engineer",
+    "location": "CA - San Francisco",
+    "url": "https://sofi.com/careers/job/7978419003?gh_jid=7978419003",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-26/sofi-senior-software-engineer-93-78419003.pdf",
+    "docx": "state/tailored/2026-08-26/sofi-senior-software-engineer-93-78419003.docx"
+  },
+  {
+    "job_id": "greenhouse:sofi:7978400003",
+    "company": "sofi",
+    "role": "Senior Software Engineer",
+    "location": "CA - San Francisco",
+    "url": "https://sofi.com/careers/job/7978400003?gh_jid=7978400003",
+    "score": 92,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-26/sofi-senior-software-engineer-92-78400003.pdf",
+    "docx": "state/tailored/2026-08-26/sofi-senior-software-engineer-92-78400003.docx"
+  },
+  {
+    "job_id": "workday:hp/ExternalCareerSite:/job/San-Francisco-California-United-States-of-America/Senior-Software-Engineer--Cloud-Services_3164837-1",
+    "company": "hp",
+    "role": "Senior Software Engineer, Cloud Services",
+    "location": "San Francisco, California, United States of America",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Senior-Software-Engineer--Cloud-Services_3164837-1",
+    "score": 91,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-26/hp-senior-software-engineer-cloud-services-91-31648371.pdf",
+    "docx": "state/tailored/2026-08-26/hp-senior-software-engineer-cloud-services-91-31648371.docx"
+  },
+  {
+    "job_id": "greenhouse:zoominfo:8733673002",
+    "company": "zoominfo",
+    "role": "Software Engineer III",
+    "location": "Waltham",
+    "url": "https://www.zoominfo.com/careers?gh_jid=8733673002",
+    "score": 88,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-08-26/zoominfo-software-engineer-iii-88-33673002.pdf",
+    "docx": "state/tailored/2026-08-26/zoominfo-software-engineer-iii-88-33673002.docx"
   }
 ]
