@@ -82,5 +82,47 @@
     "matched_skills": 6,
     "pdf": "state/tailored/2026-08-26/pinterest-sr-machine-learning-engineer-tvscientific-85-7999050.pdf",
     "docx": "state/tailored/2026-08-26/pinterest-sr-machine-learning-engineer-tvscientific-85-7999050.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Switzerland---Lausanne/Forward-Deployed-Engineer_JR350960",
+    "company": "salesforce",
+    "role": "Lead Forward Deployed Engineer",
+    "location": "Switzerland - Lausanne",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Switzerland---Lausanne/Forward-Deployed-Engineer_JR350960",
+    "score": 94,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-26/salesforce-lead-forward-deployed-engineer-94-jr350960.pdf",
+    "docx": "state/tailored/2026-08-26/salesforce-lead-forward-deployed-engineer-94-jr350960.docx"
+  },
+  {
+    "job_id": "greenhouse:gitlab:8749946002",
+    "company": "gitlab",
+    "role": "Senior Backend Engineer",
+    "location": "Remote, Poland",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8749946002",
+    "score": 92,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-08-26/gitlab-senior-backend-engineer-92-49946002.pdf",
+    "docx": "state/tailored/2026-08-26/gitlab-senior-backend-engineer-92-49946002.docx"
+  },
+  {
+    "job_id": "greenhouse:gitlab:8749950002",
+    "company": "gitlab",
+    "role": "Senior Backend Engineer (Ruby), Plan: Spec-Driven Development",
+    "location": "Remote, Poland",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8749950002",
+    "score": 86,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-26/gitlab-senior-backend-engineer-ruby-plan-spec-driven-development-86-49950002.pdf",
+    "docx": "state/tailored/2026-08-26/gitlab-senior-backend-engineer-ruby-plan-spec-driven-development-86-49950002.docx"
   }
 ]
