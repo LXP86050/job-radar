@@ -22,7 +22,10 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from src import companies, email_sender, filters, scoring, state
-from src.sources import ashby, greenhouse, hackernews, lever, remoteok, smartrecruiters, weworkremotely, workable, workday, ycombinator
+from src.sources import (
+    amazon, apple, ashby, google_careers, greenhouse, hackernews, lever, microsoft,
+    remoteok, smartrecruiters, weworkremotely, workable, workday, ycombinator,
+)
 
 THRESHOLD = int(os.environ.get("ATS_THRESHOLD", "85"))
 TARGET_HOUR_ET = 7
@@ -81,6 +84,12 @@ def _fetch_all() -> list[dict]:
         ("hackernews", hackernews.fetch),
         ("remoteok", remoteok.fetch),
         ("weworkremotely", weworkremotely.fetch),
+        # Big-tech proprietary career sites — not on any generic ATS, so each
+        # gets its own bespoke fetcher (see src/sources/{microsoft,amazon,apple,google_careers}.py).
+        ("microsoft", microsoft.fetch),
+        ("amazon", amazon.fetch),
+        ("apple", apple.fetch),
+        ("google", google_careers.fetch),
     )
     for source_name, fetcher in aggregators:
         try:
@@ -119,15 +128,22 @@ def run() -> int:
             rejection_reasons[reason] = rejection_reasons.get(reason, 0) + 1
     log.info("post pre-filter: %d  (rejections: %s)", len(pre_kept), rejection_reasons)
 
-    # Lazy enrichment: Workday list endpoint doesn't include JD body, so for
-    # jobs that survived the title/location pre-filter, fetch description bodies
-    # in parallel so scoring has the full text to work with.
+    # Lazy enrichment: Workday and Microsoft list endpoints don't include JD
+    # body, so for jobs that survived the title/location pre-filter, fetch
+    # description bodies in parallel so scoring has the full text to work with.
     workday_survivors = [j for j in pre_kept if j.get("source") == "workday"]
     if workday_survivors:
         with ThreadPoolExecutor(max_workers=16) as pool:
             for j, _ in zip(workday_survivors, pool.map(workday.enrich_description, workday_survivors)):
                 pass  # mutated in place
         log.info("workday descriptions enriched for %d survivors", len(workday_survivors))
+
+    microsoft_survivors = [j for j in pre_kept if j.get("source") == "microsoft"]
+    if microsoft_survivors:
+        with ThreadPoolExecutor(max_workers=16) as pool:
+            for j, _ in zip(microsoft_survivors, pool.map(microsoft.enrich_description, microsoft_survivors)):
+                pass  # mutated in place
+        log.info("microsoft descriptions enriched for %d survivors", len(microsoft_survivors))
 
     seen = state.load_seen()
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")

@@ -131,10 +131,13 @@ def _parse_ts(raw) -> datetime | None:
     """Best-effort parse of source timestamps. Returns timezone-aware UTC datetime or None."""
     if raw is None or raw == "":
         return None
-    # Lever: epoch milliseconds (int or numeric str).
+    # Epoch int/float: most sources (Lever) give milliseconds, but some
+    # (Microsoft, Google) give plain seconds — disambiguate by magnitude,
+    # same threshold used below for numeric strings.
     if isinstance(raw, (int, float)):
         try:
-            return datetime.fromtimestamp(raw / 1000.0, tz=timezone.utc)
+            n = float(raw)
+            return datetime.fromtimestamp(n / 1000.0 if n > 10**11 else n, tz=timezone.utc)
         except (OverflowError, OSError, ValueError):
             return None
     s = str(raw).strip()
