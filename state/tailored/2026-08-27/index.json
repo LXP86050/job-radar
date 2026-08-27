@@ -852,5 +852,47 @@
     "matched_skills": 7,
     "pdf": "state/tailored/2026-08-27/capitalone-sr-staff-engineer-global-payment-network-remote-eligible-88-r2491441.pdf",
     "docx": "state/tailored/2026-08-27/capitalone-sr-staff-engineer-global-payment-network-remote-eligible-88-r2491441.docx"
+  },
+  {
+    "job_id": "greenhouse:grafanalabs:6007414004",
+    "company": "grafanalabs",
+    "role": "Staff Backend Engineer - Grafana Enterprise | US | Remote",
+    "location": "Canada (Remote), USA (Remote)",
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6007414004",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-27/grafanalabs-staff-backend-engineer-grafana-enterprise-us-remote-95-07414004.pdf",
+    "docx": "state/tailored/2026-08-27/grafanalabs-staff-backend-engineer-grafana-enterprise-us-remote-95-07414004.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/Houston-TX/Senior-Software-Engineer--Salesforce--Global-Payment-Network-_R999290-1",
+    "company": "capitalone",
+    "role": "Senior Software Engineer, Salesforce (Global Payment Network)",
+    "location": "2 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Houston-TX/Senior-Software-Engineer--Salesforce--Global-Payment-Network-_R999290-1",
+    "score": 93,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-08-27/capitalone-senior-software-engineer-salesforce-global-payment-network-93-r9992901.pdf",
+    "docx": "state/tailored/2026-08-27/capitalone-senior-software-engineer-salesforce-global-payment-network-93-r9992901.docx"
+  },
+  {
+    "job_id": "workday:adobe/external_experienced:/job/San-Jose/Sr-Software-Engineer_R169112",
+    "company": "adobe",
+    "role": "Sr. Software Engineer - 3D Workflows",
+    "location": "2 Locations",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Sr-Software-Engineer_R169112",
+    "score": 91,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 14,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-08-27/adobe-sr-software-engineer-3d-workflows-91-rr169112.pdf",
+    "docx": "state/tailored/2026-08-27/adobe-sr-software-engineer-3d-workflows-91-rr169112.docx"
   }
 ]
