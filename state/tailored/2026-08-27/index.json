@@ -824,5 +824,33 @@
     "matched_skills": 9,
     "pdf": "state/tailored/2026-08-27/microsoft-senior-software-engineer-85-56955710.pdf",
     "docx": "state/tailored/2026-08-27/microsoft-senior-software-engineer-85-56955710.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Sr-Distinguished-Machine-Learning-Engineer--Remote-Eligible-_R239837-1",
+    "company": "capitalone",
+    "role": "Sr. Staff Machine Learning Engineer (Remote-Eligible)",
+    "location": "2 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Distinguished-Machine-Learning-Engineer--Remote-Eligible-_R239837-1",
+    "score": 94,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-27/capitalone-sr-staff-machine-learning-engineer-remote-eligible-94-r2398371.pdf",
+    "docx": "state/tailored/2026-08-27/capitalone-sr-staff-machine-learning-engineer-remote-eligible-94-r2398371.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/Chicago-IL/Sr-Distinguished-Engineer---Global-Payment-Network--Remote-Eligible-_R249144-1",
+    "company": "capitalone",
+    "role": "Sr. Staff Engineer - Global Payment Network (Remote Eligible)",
+    "location": "6 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Sr-Distinguished-Engineer---Global-Payment-Network--Remote-Eligible-_R249144-1",
+    "score": 88,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-08-27/capitalone-sr-staff-engineer-global-payment-network-remote-eligible-88-r2491441.pdf",
+    "docx": "state/tailored/2026-08-27/capitalone-sr-staff-engineer-global-payment-network-remote-eligible-88-r2491441.docx"
   }
 ]
