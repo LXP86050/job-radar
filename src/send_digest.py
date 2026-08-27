@@ -1,9 +1,12 @@
-"""Chunked digest emails — every tailored PDF reaches your inbox.
+"""Chunked digest emails — every tailored PDF reaches your inbox as one ZIP.
 
 For N matches with tailored PDFs:
   - Sort by score desc
   - Chunk into batches of DIGEST_CHUNK_SIZE (default 50)
-  - Send one email per chunk; each email has all chunk's PDFs attached
+  - Send one email per chunk; each email has ONE zip attached containing
+    one folder per match — folder name = the tailored PDF's filename
+    (e.g. "{company}-{role}-{score}/"), and inside it the resume itself
+    renamed to Lokesh_Pulivarthi.pdf
   - Subject indicates chunk N of M
 
 Matches WITHOUT a tailored PDF (over TAILOR_MAX cap) are listed in the
@@ -14,7 +17,7 @@ Skip everything if 0 matches.
 Env:
   SMTP_PASS, SENDER_EMAIL, RECIPIENT_EMAIL  required (Gmail SMTP)
   DIGEST_PROFILE       default 'job-radar'
-  DIGEST_CHUNK_SIZE    default 50  (PDFs per email; Gmail cap ~25MB)
+  DIGEST_CHUNK_SIZE    default 50  (PDFs per zip; Gmail cap ~25MB per email)
 """
 from __future__ import annotations
 
@@ -23,11 +26,15 @@ import json
 import os
 import sys
 import logging
+import tempfile
+import zipfile
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from src.mailer import send_email
+
+RESUME_FILENAME = "Lokesh_Pulivarthi.pdf"
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger("digest")
@@ -46,7 +53,7 @@ MATCHES_PATH = ROOT / "state" / "matches" / f"{TODAY}-{PROFILE}.json"
 INDEX_PATH = ROOT / "state" / "tailored" / TODAY / "index.json"
 
 
-def _row(match: dict, pdf_filename: str | None, coverage: int | None) -> str:
+def _row(match: dict, folder_name: str | None, coverage: int | None) -> str:
     title = html.escape(match.get("title", ""))
     company = html.escape(match.get("company", ""))
     location = html.escape(match.get("location", "") or "—")
@@ -54,8 +61,8 @@ def _row(match: dict, pdf_filename: str | None, coverage: int | None) -> str:
     score = match.get("score", "—")
     cov_str = f"<span style='color:#22863a;font-size:10px;'>· {coverage}% match</span>" if coverage else ""
     pdf_str = (
-        f"<span style='color:#0366d6;font-size:11px;'>📎 {html.escape(pdf_filename)}</span>"
-        if pdf_filename else "<span style='color:#999;font-size:11px;'>no PDF (volume cap)</span>"
+        f"<span style='color:#0366d6;font-size:11px;'>📁 {html.escape(folder_name)}/</span>"
+        if folder_name else "<span style='color:#999;font-size:11px;'>no resume (volume cap)</span>"
     )
     return f"""
     <tr style="border-bottom:1px solid #eaecef;">
@@ -78,7 +85,7 @@ def _build_html(rows_html: list[str], chunk_idx: int, total_chunks: int, total_m
     et_now = datetime.now(ZoneInfo("America/New_York")).strftime("%a %b %d %I:%M %p ET")
     summary = (
         f"Part {chunk_idx + 1} of {total_chunks} · "
-        f"{attached_count} PDFs attached this email · "
+        f"{attached_count} resumes in the attached zip · "
         f"{total_matches} total new matches across all parts"
     )
     return f"""<!doctype html>
@@ -96,12 +103,22 @@ def _build_html(rows_html: list[str], chunk_idx: int, total_chunks: int, total_m
       <tbody>{''.join(rows_html)}</tbody>
     </table>
     <p style="margin-top:16px;color:#888;font-size:11px;line-height:1.6;">
-      Attachments named <code>{{company}}-{{role}}-{{score}}.pdf</code>. Match the row's "📎 {{filename}}"
-      to the attachment in your mail client. Anything not attached here exceeded the per-run tailor cap;
-      you can run <code>node apply/tailor-url.js URL</code> locally for those.
+      Unzip the attachment: one folder per match, named <code>{{company}}-{{role}}-{{score}}</code>,
+      each containing <code>{RESUME_FILENAME}</code>. Match the row's "📁 {{folder}}/" to find the right one.
+      Anything not included here exceeded the per-run tailor cap; you can run
+      <code>node apply/tailor-url.js URL</code> locally for those.
     </p>
   </div>
 </body></html>"""
+
+
+def _build_zip(entries: list[tuple[dict, Path, int]], zip_path: Path) -> None:
+    """One folder per match (named after the tailored PDF's filename), each
+    containing the resume renamed to Lokesh_Pulivarthi.pdf."""
+    with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zf:
+        for _m, pdf, _cov in entries:
+            folder = pdf.stem.replace("/", "-").replace("\\", "-")
+            zf.write(pdf, arcname=f"{folder}/{RESUME_FILENAME}")
 
 
 def _send_one(subject: str, html_body: str, attachments: list[Path]) -> bool:
@@ -160,29 +177,36 @@ def main() -> int:
     et_now = datetime.now(ZoneInfo("America/New_York")).strftime("%I:%M%p ET")
 
     sent_ok = 0
-    for i, chunk in enumerate(chunks):
-        rows_html = []
-        attachments: list[Path] = []
-        for entry in chunk:
-            if len(entry) == 3 and entry[1] is not None:
-                m, pdf, cov = entry  # type: ignore
-                rows_html.append(_row(m, pdf.name, cov))
-                attachments.append(pdf)
-            else:
-                m = entry[0] if isinstance(entry, tuple) else entry
-                rows_html.append(_row(m, None, None))
+    with tempfile.TemporaryDirectory() as tmp:
+        for i, chunk in enumerate(chunks):
+            rows_html = []
+            pdf_entries: list[tuple[dict, Path, int]] = []
+            for entry in chunk:
+                if len(entry) == 3 and entry[1] is not None:
+                    m, pdf, cov = entry  # type: ignore
+                    rows_html.append(_row(m, pdf.stem, cov))
+                    pdf_entries.append((m, pdf, cov))
+                else:
+                    m = entry[0] if isinstance(entry, tuple) else entry
+                    rows_html.append(_row(m, None, None))
 
-        attached_count = len(attachments)
-        body = _build_html(rows_html, i, total_chunks, len(matches), attached_count)
-        subject = (
-            f"{PROFILE_LABEL} — Part {i + 1}/{total_chunks} · "
-            f"{attached_count} resumes · {et_now}"
-        )
-        ok = _send_one(subject, body, attachments)
-        if ok:
-            sent_ok += 1
-        else:
-            log.warning("chunk %d/%d failed; continuing", i + 1, total_chunks)
+            attached_count = len(pdf_entries)
+            attachments: list[Path] = []
+            if pdf_entries:
+                zip_path = Path(tmp) / f"job-radar-{PROFILE}-{TODAY}-part{i + 1}.zip"
+                _build_zip(pdf_entries, zip_path)
+                attachments.append(zip_path)
+
+            body = _build_html(rows_html, i, total_chunks, len(matches), attached_count)
+            subject = (
+                f"{PROFILE_LABEL} — Part {i + 1}/{total_chunks} · "
+                f"{attached_count} resumes · {et_now}"
+            )
+            ok = _send_one(subject, body, attachments)
+            if ok:
+                sent_ok += 1
+            else:
+                log.warning("chunk %d/%d failed; continuing", i + 1, total_chunks)
 
     log.info(
         "%d/%d email(s) delivered; %d matches with PDFs, %d URL-only",

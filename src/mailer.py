@@ -16,6 +16,7 @@ Env (all read here so callers stay simple):
 from __future__ import annotations
 
 import logging
+import mimetypes
 import os
 import smtplib
 from email.message import EmailMessage
@@ -65,10 +66,12 @@ def send_email(subject: str, html_body: str, attachments: list[Path] | None = No
 
     for p in attachments:
         p = Path(p)
+        ctype, _ = mimetypes.guess_type(p.name)
+        maintype, _, subtype = (ctype or "application/octet-stream").partition("/")
         msg.add_attachment(
             p.read_bytes(),
-            maintype="application",
-            subtype="pdf",
+            maintype=maintype,
+            subtype=subtype,
             filename=p.name,
         )
 
