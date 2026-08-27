@@ -9,7 +9,6 @@ from __future__ import annotations
 
 import logging
 import re
-import time
 import requests
 
 log = logging.getLogger(__name__)
@@ -28,23 +27,17 @@ def enrich_description(job: dict, timeout: int = 15) -> dict:
     if job.get("source") != "microsoft" or job.get("description_html"):
         return job
     position_id = job["id"].split(":", 1)[-1]
-    data = {}
-    for attempt in range(3):
-        try:
-            r = requests.get(
-                DETAIL_URL,
-                params={"position_id": position_id, "domain": "microsoft.com", "hl": "en"},
-                headers=HEADERS,
-                timeout=timeout,
-            )
-            if r.status_code == 429:
-                time.sleep(2 * (attempt + 1))
-                continue
-            r.raise_for_status()
-            data = r.json().get("data") or {}
-            break
-        except (requests.RequestException, ValueError):
-            return job
+    try:
+        r = requests.get(
+            DETAIL_URL,
+            params={"position_id": position_id, "domain": "microsoft.com", "hl": "en"},
+            headers=HEADERS,
+            timeout=timeout,
+        )
+        r.raise_for_status()
+        data = r.json().get("data") or {}
+    except (requests.RequestException, ValueError):
+        return job
     body = data.get("jobDescription") or ""
     if body:
         stripped = re.sub(r"<[^>]+>", " ", body)
@@ -57,24 +50,17 @@ def fetch(query: str = "software engineer", timeout: int = 20) -> list[dict]:
     all_positions: list[dict] = []
     start = 0
     for _ in range(MAX_PAGES):
-        data = None
-        for attempt in range(3):
-            try:
-                r = requests.get(
-                    SEARCH_URL,
-                    params={"domain": "microsoft.com", "query": query, "location": "United States", "start": start},
-                    headers=HEADERS,
-                    timeout=timeout,
-                )
-                if r.status_code == 429:
-                    time.sleep(2 * (attempt + 1))
-                    continue
-                r.raise_for_status()
-                data = r.json()
-                break
-            except (requests.RequestException, ValueError) as e:
-                log.warning("microsoft: request failed at start=%d (attempt %d): %s", start, attempt + 1, e)
-        if data is None:
+        try:
+            r = requests.get(
+                SEARCH_URL,
+                params={"domain": "microsoft.com", "query": query, "location": "United States", "start": start},
+                headers=HEADERS,
+                timeout=timeout,
+            )
+            r.raise_for_status()
+            data = r.json()
+        except (requests.RequestException, ValueError) as e:
+            log.warning("microsoft: request failed at start=%d: %s", start, e)
             break
         positions = (data.get("data") or {}).get("positions") or []
         if not positions:
