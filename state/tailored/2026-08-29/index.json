@@ -40,5 +40,19 @@
     "matched_skills": 12,
     "pdf": "state/tailored/2026-08-29/airbyte-ai-platform-engineer-89-7f755942.pdf",
     "docx": "state/tailored/2026-08-29/airbyte-ai-platform-engineer-89-7f755942.docx"
+  },
+  {
+    "job_id": "greenhouse:gitlab:8524783002",
+    "company": "gitlab",
+    "role": "Forward Deployed Engineer - META",
+    "location": "United Arab Emirates",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8524783002",
+    "score": 91,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-08-29/gitlab-forward-deployed-engineer-meta-91-24783002.pdf",
+    "docx": "state/tailored/2026-08-29/gitlab-forward-deployed-engineer-meta-91-24783002.docx"
   }
 ]
