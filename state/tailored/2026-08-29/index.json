@@ -12,5 +12,33 @@
     "matched_skills": 17,
     "pdf": "state/tailored/2026-08-29/tmobile-associate-ai-engineer-85-eq354088.pdf",
     "docx": "state/tailored/2026-08-29/tmobile-associate-ai-engineer-85-eq354088.docx"
+  },
+  {
+    "job_id": "greenhouse:cloudflare:8035679",
+    "company": "cloudflare",
+    "role": "Senior Software Engineer, People Ops and AI Tools",
+    "location": "Austin, TX",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8035679?gh_jid=8035679",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-08-29/cloudflare-senior-software-engineer-people-ops-and-ai-tools-93-8035679.pdf",
+    "docx": "state/tailored/2026-08-29/cloudflare-senior-software-engineer-people-ops-and-ai-tools-93-8035679.docx"
+  },
+  {
+    "job_id": "ashby:airbyte:b59bbc91-fb77-4a08-9c47-0fca7f755942",
+    "company": "airbyte",
+    "role": "AI Platform Engineer",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/airbyte/b59bbc91-fb77-4a08-9c47-0fca7f755942",
+    "score": 89,
+    "source": "ashby",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-08-29/airbyte-ai-platform-engineer-89-7f755942.pdf",
+    "docx": "state/tailored/2026-08-29/airbyte-ai-platform-engineer-89-7f755942.docx"
   }
 ]
