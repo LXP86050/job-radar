@@ -54,5 +54,61 @@
     "matched_skills": 9,
     "pdf": "state/tailored/2026-09-02/salesforce-software-engineering-pmts-89-jr356125.pdf",
     "docx": "state/tailored/2026-09-02/salesforce-software-engineering-pmts-89-jr356125.docx"
+  },
+  {
+    "job_id": "greenhouse:stripe:8044460",
+    "company": "stripe",
+    "role": "AI Engineer",
+    "location": "US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8044460",
+    "score": 96,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-09-02/stripe-ai-engineer-96-8044460.pdf",
+    "docx": "state/tailored/2026-09-02/stripe-ai-engineer-96-8044460.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---San-Francisco/Lead-Backend-Software-Engineer_JR356282",
+    "company": "salesforce",
+    "role": "Lead Backend Software Engineer",
+    "location": "California - San Francisco",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Lead-Backend-Software-Engineer_JR356282",
+    "score": 88,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-09-02/salesforce-lead-backend-software-engineer-88-jr356282.pdf",
+    "docx": "state/tailored/2026-09-02/salesforce-lead-backend-software-engineer-88-jr356282.docx"
+  },
+  {
+    "job_id": "greenhouse:databricks:8614863002",
+    "company": "databricks",
+    "role": "Staff Machine Learning Engineer, CustomerLake (ML/LLM)",
+    "location": "New York City, New York",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8614863002",
+    "score": 86,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-09-02/databricks-staff-machine-learning-engineer-customerlake-ml-llm-86-14863002.pdf",
+    "docx": "state/tailored/2026-09-02/databricks-staff-machine-learning-engineer-customerlake-ml-llm-86-14863002.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---San-Francisco/Software-Engineering-PMTS_JR355963-1",
+    "company": "salesforce",
+    "role": "Software Engineering PMTS",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-PMTS_JR355963-1",
+    "score": 85,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 13,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-09-02/salesforce-software-engineering-pmts-85-r3559631.pdf",
+    "docx": "state/tailored/2026-09-02/salesforce-software-engineering-pmts-85-r3559631.docx"
   }
 ]
