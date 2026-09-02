@@ -1,0 +1,58 @@
+[
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/Richmond-VA/Distinguished-Engineer_R235046",
+    "company": "capitalone",
+    "role": "Staff Engineer - Marketing & Sales",
+    "location": "2 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Distinguished-Engineer_R235046",
+    "score": 94,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-09-02/capitalone-staff-engineer-marketing-sales-94-rr235046.pdf",
+    "docx": "state/tailored/2026-09-02/capitalone-staff-engineer-marketing-sales-94-rr235046.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Distinguished-Engineer_R241036-1",
+    "company": "capitalone",
+    "role": "Staff Engineer - Agentic AI (Remote-Eligible)",
+    "location": "3 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Distinguished-Engineer_R241036-1",
+    "score": 94,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-09-02/capitalone-staff-engineer-agentic-ai-remote-eligible-94-r2410361.pdf",
+    "docx": "state/tailored/2026-09-02/capitalone-staff-engineer-agentic-ai-remote-eligible-94-r2410361.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/Anytown-IL/Distinguished-Engineer---Technical-Lead--Remote-Eligible-_R247430",
+    "company": "capitalone",
+    "role": "Staff Engineer - Technical Lead (Remote-Eligible)",
+    "location": "2 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Anytown-IL/Distinguished-Engineer---Technical-Lead--Remote-Eligible-_R247430",
+    "score": 93,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-09-02/capitalone-staff-engineer-technical-lead-remote-eligible-93-er247430.pdf",
+    "docx": "state/tailored/2026-09-02/capitalone-staff-engineer-technical-lead-remote-eligible-93-er247430.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---San-Francisco/Software-Engineering-PMTS_JR356125",
+    "company": "salesforce",
+    "role": "Software Engineering PMTS",
+    "location": "California - San Francisco",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-PMTS_JR356125",
+    "score": 89,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-09-02/salesforce-software-engineering-pmts-89-jr356125.pdf",
+    "docx": "state/tailored/2026-09-02/salesforce-software-engineering-pmts-89-jr356125.docx"
+  }
+]
