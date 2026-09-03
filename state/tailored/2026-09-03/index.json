@@ -1,0 +1,44 @@
+[
+  {
+    "job_id": "workday:citi/2:/job/Jacksonville-Florida-United-States/Digital-Software-Engineer-Lead-Analyst---VP_26990821",
+    "company": "citi",
+    "role": "Digital Software Engineer Lead Analyst - VP",
+    "location": "Jacksonville Florida United States",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/Digital-Software-Engineer-Lead-Analyst---VP_26990821",
+    "score": 91,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 31,
+    "matched_skills": 29,
+    "pdf": "state/tailored/2026-09-03/citi-digital-software-engineer-lead-analyst-vp-91-26990821.pdf",
+    "docx": "state/tailored/2026-09-03/citi-digital-software-engineer-lead-analyst-vp-91-26990821.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Remote/Security-Software-Engineer--Vulnerability-Operations_JR2024620-1",
+    "company": "nvidia",
+    "role": "Security Software Engineer, Vulnerability Operations",
+    "location": "6 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Security-Software-Engineer--Vulnerability-Operations_JR2024620-1",
+    "score": 90,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 17,
+    "matched_skills": 16,
+    "pdf": "state/tailored/2026-09-03/nvidia-security-software-engineer-vulnerability-operations-90-20246201.pdf",
+    "docx": "state/tailored/2026-09-03/nvidia-security-software-engineer-vulnerability-operations-90-20246201.docx"
+  },
+  {
+    "job_id": "greenhouse:drweng:8171189",
+    "company": "drweng",
+    "role": "Senior Software Engineer, Finance (Clojure)",
+    "location": "Chicago",
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/8171189",
+    "score": 89,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-09-03/drweng-senior-software-engineer-finance-clojure-89-8171189.pdf",
+    "docx": "state/tailored/2026-09-03/drweng-senior-software-engineer-finance-clojure-89-8171189.docx"
+  }
+]
