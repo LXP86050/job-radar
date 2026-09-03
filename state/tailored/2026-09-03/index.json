@@ -54,5 +54,19 @@
     "matched_skills": 11,
     "pdf": "state/tailored/2026-09-03/capitalone-senior-lead-ai-engineer-gen-ai-platform-services-agentic-ai--96-r9998281.pdf",
     "docx": "state/tailored/2026-09-03/capitalone-senior-lead-ai-engineer-gen-ai-platform-services-agentic-ai--96-r9998281.docx"
+  },
+  {
+    "job_id": "greenhouse:fivetran:7983207003",
+    "company": "fivetran",
+    "role": "Senior Software Engineer",
+    "location": "SRB - Novi Sad",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7983207003",
+    "score": 87,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-09-03/fivetran-senior-software-engineer-87-83207003.pdf",
+    "docx": "state/tailored/2026-09-03/fivetran-senior-software-engineer-87-83207003.docx"
   }
 ]
