@@ -152,5 +152,19 @@
     "matched_skills": 10,
     "pdf": "state/tailored/2026-09-07/workday-senior-full-stack-software-engineer-agent-platform-85-01074511.pdf",
     "docx": "state/tailored/2026-09-07/workday-senior-full-stack-software-engineer-agent-platform-85-01074511.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack--Python--Angular-_R999988-1",
+    "company": "capitalone",
+    "role": "Senior Lead Software Engineer, Full Stack (Python, Angular)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack--Python--Angular-_R999988-1",
+    "score": 93,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 18,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-09-07/capitalone-senior-lead-software-engineer-full-stack-python-angular-93-r9999881.pdf",
+    "docx": "state/tailored/2026-09-07/capitalone-senior-lead-software-engineer-full-stack-python-angular-93-r9999881.docx"
   }
 ]
