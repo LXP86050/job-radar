@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "greenhouse:cribl:6109907004",
+    "company": "cribl",
+    "role": "Sr. Software Engineer - Systems Insights",
+    "location": "US - California",
+    "url": "https://cribl.io/job-detail/?gh_jid=6109907004",
+    "score": 91,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-09-09/cribl-sr-software-engineer-systems-insights-91-09907004.pdf",
+    "docx": "state/tailored/2026-09-09/cribl-sr-software-engineer-systems-insights-91-09907004.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Washington---Bellevue/Software-Engineering-MTS_JR357265",
+    "company": "salesforce",
+    "role": "Software Engineering MTS",
+    "location": "Washington - Bellevue",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-MTS_JR357265",
+    "score": 91,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 26,
+    "matched_skills": 24,
+    "pdf": "state/tailored/2026-09-09/salesforce-software-engineering-mts-91-jr357265.pdf",
+    "docx": "state/tailored/2026-09-09/salesforce-software-engineering-mts-91-jr357265.docx"
+  }
+]
