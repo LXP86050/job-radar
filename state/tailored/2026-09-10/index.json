@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "job_id": "greenhouse:scaleai:4732394005",
+    "company": "scaleai",
+    "role": "Senior Full-Stack Software Engineer, (Forward deployed), GPS",
+    "location": "Kingdom of Saudi Arabia",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4732394005",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 95,
+    "jd_skills": 21,
+    "matched_skills": 20,
+    "pdf": "state/tailored/2026-09-10/scaleai-senior-full-stack-software-engineer-forward-deployed-gps-93-32394005.pdf",
+    "docx": "state/tailored/2026-09-10/scaleai-senior-full-stack-software-engineer-forward-deployed-gps-93-32394005.docx"
+  },
+  {
+    "job_id": "greenhouse:scaleai:4513943005",
+    "company": "scaleai",
+    "role": "Software Engineer, Enterprise AI",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4513943005",
+    "score": 91,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 18,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-09-10/scaleai-software-engineer-enterprise-ai-91-13943005.pdf",
+    "docx": "state/tailored/2026-09-10/scaleai-software-engineer-enterprise-ai-91-13943005.docx"
+  }
+]
