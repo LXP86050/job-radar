@@ -82,5 +82,19 @@
     "matched_skills": 10,
     "pdf": "state/tailored/2026-09-11/capitalone-lead-ai-engineer-ai-foundations-89-r2398271.pdf",
     "docx": "state/tailored/2026-09-11/capitalone-lead-ai-engineer-ai-foundations-89-r2398271.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/San-Jose-CA/Lead-AI-Engineer--Gen-AI-Platform-Services-_R1000457-1",
+    "company": "capitalone",
+    "role": "Lead AI Engineer (Gen AI Platform Services)",
+    "location": "5 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Jose-CA/Lead-AI-Engineer--Gen-AI-Platform-Services-_R1000457-1",
+    "score": 89,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-09-11/capitalone-lead-ai-engineer-gen-ai-platform-services-89-10004571.pdf",
+    "docx": "state/tailored/2026-09-11/capitalone-lead-ai-engineer-gen-ai-platform-services-89-10004571.docx"
   }
 ]
