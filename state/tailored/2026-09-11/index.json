@@ -1,0 +1,72 @@
+[
+  {
+    "job_id": "greenhouse:scaleai:4732798005",
+    "company": "scaleai",
+    "role": "Senior Machine Learning Engineer, Public Sector",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4732798005",
+    "score": 97,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-09-11/scaleai-senior-machine-learning-engineer-public-sector-97-32798005.pdf",
+    "docx": "state/tailored/2026-09-11/scaleai-senior-machine-learning-engineer-public-sector-97-32798005.docx"
+  },
+  {
+    "job_id": "workday:adobe/external_experienced:/job/San-Jose/Staff-Machine-Learning-Engineer_R171768",
+    "company": "adobe",
+    "role": "Staff Machine Learning Engineer",
+    "location": "2 Locations",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Staff-Machine-Learning-Engineer_R171768",
+    "score": 94,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-09-11/adobe-staff-machine-learning-engineer-94-rr171768.pdf",
+    "docx": "state/tailored/2026-09-11/adobe-staff-machine-learning-engineer-94-rr171768.docx"
+  },
+  {
+    "job_id": "greenhouse:affirm:7984714003",
+    "company": "affirm",
+    "role": "Senior Software Engineer, Frontend (Auth Experiences)",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7984714003",
+    "score": 90,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-09-11/affirm-senior-software-engineer-frontend-auth-experiences-90-84714003.pdf",
+    "docx": "state/tailored/2026-09-11/affirm-senior-software-engineer-frontend-auth-experiences-90-84714003.docx"
+  },
+  {
+    "job_id": "greenhouse:stripe:8194328",
+    "company": "stripe",
+    "role": "Senior Software Engineer, Product Velocity",
+    "location": "US-PERM",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194328",
+    "score": 89,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 13,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-09-11/stripe-senior-software-engineer-product-velocity-89-8194328.pdf",
+    "docx": "state/tailored/2026-09-11/stripe-senior-software-engineer-product-velocity-89-8194328.docx"
+  },
+  {
+    "job_id": "greenhouse:scaleai:4631848005",
+    "company": "scaleai",
+    "role": "Machine Learning Engineer, Public Sector",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4631848005",
+    "score": 88,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-09-11/scaleai-machine-learning-engineer-public-sector-88-31848005.pdf",
+    "docx": "state/tailored/2026-09-11/scaleai-machine-learning-engineer-public-sector-88-31848005.docx"
+  }
+]
