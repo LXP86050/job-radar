@@ -68,5 +68,19 @@
     "matched_skills": 9,
     "pdf": "state/tailored/2026-09-11/scaleai-machine-learning-engineer-public-sector-88-31848005.pdf",
     "docx": "state/tailored/2026-09-11/scaleai-machine-learning-engineer-public-sector-88-31848005.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/Cambridge-MA/Lead-AI-Engineer--AI-Foundations-_R239827-1",
+    "company": "capitalone",
+    "role": "Lead AI Engineer (AI Foundations)",
+    "location": "4 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cambridge-MA/Lead-AI-Engineer--AI-Foundations-_R239827-1",
+    "score": 89,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-09-11/capitalone-lead-ai-engineer-ai-foundations-89-r2398271.pdf",
+    "docx": "state/tailored/2026-09-11/capitalone-lead-ai-engineer-ai-foundations-89-r2398271.docx"
   }
 ]
