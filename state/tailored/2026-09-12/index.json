@@ -1,0 +1,58 @@
+[
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Distinguished-Engineer_R999111-1",
+    "company": "capitalone",
+    "role": "Staff Engineer",
+    "location": "3 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Distinguished-Engineer_R999111-1",
+    "score": 94,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-09-12/capitalone-staff-engineer-94-r9991111.pdf",
+    "docx": "state/tailored/2026-09-12/capitalone-staff-engineer-94-r9991111.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/Plano-TX/Senior-Lead-Software-Engineer--Fullstack--Typescript-Nodejs-Python-_R245897-1",
+    "company": "capitalone",
+    "role": "Senior Lead Software Engineer, Fullstack (Typescript/Nodejs/Python)",
+    "location": "3 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Senior-Lead-Software-Engineer--Fullstack--Typescript-Nodejs-Python-_R245897-1",
+    "score": 93,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 18,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-09-12/capitalone-senior-lead-software-engineer-fullstack-typescript-nodejs-py-93-r2458971.pdf",
+    "docx": "state/tailored/2026-09-12/capitalone-senior-lead-software-engineer-fullstack-typescript-nodejs-py-93-r2458971.docx"
+  },
+  {
+    "job_id": "greenhouse:reddit:8198102",
+    "company": "reddit",
+    "role": "Front End Software Engineer, Media Player",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8198102",
+    "score": 89,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-09-12/reddit-front-end-software-engineer-media-player-89-8198102.pdf",
+    "docx": "state/tailored/2026-09-12/reddit-front-end-software-engineer-media-player-89-8198102.docx"
+  },
+  {
+    "job_id": "greenhouse:reddit:8192057",
+    "company": "reddit",
+    "role": "Senior Software Engineer, Community Builders",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8192057",
+    "score": 89,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-09-12/reddit-senior-software-engineer-community-builders-89-8192057.pdf",
+    "docx": "state/tailored/2026-09-12/reddit-senior-software-engineer-community-builders-89-8192057.docx"
+  }
+]
