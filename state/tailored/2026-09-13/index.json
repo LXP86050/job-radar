@@ -54,5 +54,19 @@
     "matched_skills": 10,
     "pdf": "state/tailored/2026-09-13/stripe-software-engineer-secrets-infrastructure-87-7396679.pdf",
     "docx": "state/tailored/2026-09-13/stripe-software-engineer-secrets-infrastructure-87-7396679.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---San-Francisco/Software-Engineer--Data---Observability-Platforms---MTS-SMTS_JR360029",
+    "company": "salesforce",
+    "role": "Software Engineer, Data & Observability Platforms — MTS/SMTS",
+    "location": "5 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineer--Data---Observability-Platforms---MTS-SMTS_JR360029",
+    "score": 89,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-09-13/salesforce-software-engineer-data-observability-platforms-mts-smts-89-jr360029.pdf",
+    "docx": "state/tailored/2026-09-13/salesforce-software-engineer-data-observability-platforms-mts-smts-89-jr360029.docx"
   }
 ]
