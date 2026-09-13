@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "job_id": "greenhouse:attentive:4244729009",
+    "company": "attentive",
+    "role": "Staff Software Engineer, Machine Learning",
+    "location": "New York, NY, San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/attentive/jobs/4244729009",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-09-13/attentive-staff-software-engineer-machine-learning-95-44729009.pdf",
+    "docx": "state/tailored/2026-09-13/attentive-staff-software-engineer-machine-learning-95-44729009.docx"
+  },
+  {
+    "job_id": "greenhouse:chime:8618419002",
+    "company": "chime",
+    "role": "Staff Full-Stack Software Engineer, AI & App Experience",
+    "location": "San Francisco Office",
+    "url": "https://boards.greenhouse.io/chime/jobs/8618419002?gh_jid=8618419002",
+    "score": 92,
+    "source": "greenhouse",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-09-13/chime-staff-full-stack-software-engineer-ai-app-experience-92-18419002.pdf",
+    "docx": "state/tailored/2026-09-13/chime-staff-full-stack-software-engineer-ai-app-experience-92-18419002.docx"
+  },
+  {
+    "job_id": "greenhouse:scaleai:4302243005",
+    "company": "scaleai",
+    "role": "Software Engineer, Public Sector",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4302243005",
+    "score": 87,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-09-13/scaleai-software-engineer-public-sector-87-02243005.pdf",
+    "docx": "state/tailored/2026-09-13/scaleai-software-engineer-public-sector-87-02243005.docx"
+  },
+  {
+    "job_id": "greenhouse:stripe:7396679",
+    "company": "stripe",
+    "role": "Software Engineer, Secrets Infrastructure",
+    "location": "US",
+    "url": "https://stripe.com/jobs/search?gh_jid=7396679",
+    "score": 87,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-09-13/stripe-software-engineer-secrets-infrastructure-87-7396679.pdf",
+    "docx": "state/tailored/2026-09-13/stripe-software-engineer-secrets-infrastructure-87-7396679.docx"
+  }
+]
