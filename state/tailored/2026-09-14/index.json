@@ -12,5 +12,47 @@
     "matched_skills": 9,
     "pdf": "state/tailored/2026-09-14/nvidia-senior-system-software-engineer-software-defined-networking-92-20253451.pdf",
     "docx": "state/tailored/2026-09-14/nvidia-senior-system-software-engineer-software-defined-networking-92-20253451.docx"
+  },
+  {
+    "job_id": "greenhouse:zoominfo:8604799002",
+    "company": "zoominfo",
+    "role": "Senior Software Engineer",
+    "location": "Bethesda",
+    "url": "https://www.zoominfo.com/careers?gh_jid=8604799002",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-09-14/zoominfo-senior-software-engineer-93-04799002.pdf",
+    "docx": "state/tailored/2026-09-14/zoominfo-senior-software-engineer-93-04799002.docx"
+  },
+  {
+    "job_id": "greenhouse:samsara:8036387",
+    "company": "samsara",
+    "role": "Software Engineer II",
+    "location": "Remote - SF Bay Area",
+    "url": "https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387",
+    "score": 92,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-09-14/samsara-software-engineer-ii-92-8036387.pdf",
+    "docx": "state/tailored/2026-09-14/samsara-software-engineer-ii-92-8036387.docx"
+  },
+  {
+    "job_id": "workday:workday/Workday:/job/USA-CA-Pleasanton/Sr-Software-Development-Engineer--Product-Engineering---API-Platform---Agentic-AI_JR-0108225",
+    "company": "workday",
+    "role": "Sr Software Engineer – API Platform, Product Engineering (Python/Typescript)",
+    "location": "USA, CA, Pleasanton",
+    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Sr-Software-Development-Engineer--Product-Engineering---API-Platform---Agentic-AI_JR-0108225",
+    "score": 92,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-09-14/workday-sr-software-engineer-api-platform-product-engineering-python-92-r0108225.pdf",
+    "docx": "state/tailored/2026-09-14/workday-sr-software-engineer-api-platform-product-engineering-python-92-r0108225.docx"
   }
 ]
