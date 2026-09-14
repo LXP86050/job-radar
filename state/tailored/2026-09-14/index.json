@@ -306,5 +306,61 @@
     "matched_skills": 11,
     "pdf": "state/tailored/2026-09-14/nextdoor-software-engineer-fullstack-90-8198165.pdf",
     "docx": "state/tailored/2026-09-14/nextdoor-software-engineer-fullstack-90-8198165.docx"
+  },
+  {
+    "job_id": "greenhouse:lyft:8806580002",
+    "company": "lyft",
+    "role": "Senior AI Software Engineer, Risk - Insurance Claims Management",
+    "location": "San Francisco Office, Seattle Office",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8806580002?gh_jid=8806580002",
+    "score": 99,
+    "source": "greenhouse",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-09-14/lyft-senior-ai-software-engineer-risk-insurance-claims-management-99-06580002.pdf",
+    "docx": "state/tailored/2026-09-14/lyft-senior-ai-software-engineer-risk-insurance-claims-management-99-06580002.docx"
+  },
+  {
+    "job_id": "greenhouse:lyft:8806969002",
+    "company": "lyft",
+    "role": "Senior AI Software Engineer, Risk - Insurance Claims Management",
+    "location": "San Francisco Office, Seattle Office",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8806969002?gh_jid=8806969002",
+    "score": 99,
+    "source": "greenhouse",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-09-14/lyft-senior-ai-software-engineer-risk-insurance-claims-management-99-06969002.pdf",
+    "docx": "state/tailored/2026-09-14/lyft-senior-ai-software-engineer-risk-insurance-claims-management-99-06969002.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Agentic-Kernel-Development_JR2025621",
+    "company": "nvidia",
+    "role": "Senior System Software Engineer, Agentic Kernel Development",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Agentic-Kernel-Development_JR2025621",
+    "score": 97,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-09-14/nvidia-senior-system-software-engineer-agentic-kernel-development-97-r2025621.pdf",
+    "docx": "state/tailored/2026-09-14/nvidia-senior-system-software-engineer-agentic-kernel-development-97-r2025621.docx"
+  },
+  {
+    "job_id": "greenhouse:reddit:6909091",
+    "company": "reddit",
+    "role": "Senior Software Engineer, Ads",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/6909091",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-09-14/reddit-senior-software-engineer-ads-95-6909091.pdf",
+    "docx": "state/tailored/2026-09-14/reddit-senior-software-engineer-ads-95-6909091.docx"
   }
 ]
