@@ -138,5 +138,47 @@
     "matched_skills": 17,
     "pdf": "state/tailored/2026-09-15/adobe-founding-full-stack-engineer-creator-services-88-sr171895.pdf",
     "docx": "state/tailored/2026-09-15/adobe-founding-full-stack-engineer-creator-services-88-sr171895.docx"
+  },
+  {
+    "job_id": "greenhouse:mongodb:8140620",
+    "company": "mongodb",
+    "role": "Senior Software Engineer, Identity & Access Management (FedRamp)",
+    "location": "New York City",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8140620",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 18,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-09-15/mongodb-senior-software-engineer-identity-access-management-fedramp-95-8140620.pdf",
+    "docx": "state/tailored/2026-09-15/mongodb-senior-software-engineer-identity-access-management-fedramp-95-8140620.docx"
+  },
+  {
+    "job_id": "greenhouse:discord:8811574002",
+    "company": "discord",
+    "role": "Senior Full-Stack Software Engineer, Developer Success",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8811574002",
+    "score": 89,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-09-15/discord-senior-full-stack-software-engineer-developer-success-89-11574002.pdf",
+    "docx": "state/tailored/2026-09-15/discord-senior-full-stack-software-engineer-developer-success-89-11574002.docx"
+  },
+  {
+    "job_id": "workday:paypal/jobs:/job/Austin-Texas-United-States-of-America/Software-Engineer_R0138151",
+    "company": "paypal",
+    "role": "Software Engineer",
+    "location": "Austin, Texas, United States of America",
+    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Software-Engineer_R0138151",
+    "score": 89,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-09-15/paypal-software-engineer-89-r0138151.pdf",
+    "docx": "state/tailored/2026-09-15/paypal-software-engineer-89-r0138151.docx"
   }
 ]
