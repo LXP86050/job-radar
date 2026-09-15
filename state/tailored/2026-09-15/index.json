@@ -82,5 +82,61 @@
     "matched_skills": 9,
     "pdf": "state/tailored/2026-09-15/gusto-staff-software-engineer-peo-benefits-90-7982781.pdf",
     "docx": "state/tailored/2026-09-15/gusto-staff-software-engineer-peo-benefits-90-7982781.docx"
+  },
+  {
+    "job_id": "weworkremotely:acculynx-senior-software-engineer",
+    "company": "AccuLynx",
+    "role": "Senior Software Engineer",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/acculynx-senior-software-engineer",
+    "score": 94,
+    "source": "weworkremotely",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-09-15/acculynx-senior-software-engineer-94-engineer.pdf",
+    "docx": "state/tailored/2026-09-15/acculynx-senior-software-engineer-94-engineer.docx"
+  },
+  {
+    "job_id": "greenhouse:airbnb:8202325",
+    "company": "airbnb",
+    "role": "Senior Software Engineer, Tech Foundations",
+    "location": "California, United States",
+    "url": "https://careers.airbnb.com/positions/8202325?gh_jid=8202325",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-09-15/airbnb-senior-software-engineer-tech-foundations-93-8202325.pdf",
+    "docx": "state/tailored/2026-09-15/airbnb-senior-software-engineer-tech-foundations-93-8202325.docx"
+  },
+  {
+    "job_id": "greenhouse:imc:4976923101",
+    "company": "imc",
+    "role": "Software Engineer – BP&A",
+    "location": "Chicago",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4976923101",
+    "score": 90,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-09-15/imc-software-engineer-bp-a-90-76923101.pdf",
+    "docx": "state/tailored/2026-09-15/imc-software-engineer-bp-a-90-76923101.docx"
+  },
+  {
+    "job_id": "workday:adobe/external_experienced:/job/San-Jose/Founding-Full-Stack-Engineer--Creator-Services_R171895",
+    "company": "adobe",
+    "role": "Founding Full Stack Engineer, Creator Services",
+    "location": "2 Locations",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Founding-Full-Stack-Engineer--Creator-Services_R171895",
+    "score": 88,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 17,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-09-15/adobe-founding-full-stack-engineer-creator-services-88-sr171895.pdf",
+    "docx": "state/tailored/2026-09-15/adobe-founding-full-stack-engineer-creator-services-88-sr171895.docx"
   }
 ]
