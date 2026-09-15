@@ -26,5 +26,61 @@
     "matched_skills": 6,
     "pdf": "state/tailored/2026-09-15/roblox-senior-software-engineer-full-stack-ads-user-experience-86-7844201.pdf",
     "docx": "state/tailored/2026-09-15/roblox-senior-software-engineer-full-stack-ads-user-experience-86-7844201.docx"
+  },
+  {
+    "job_id": "greenhouse:klaviyo:7502768003",
+    "company": "klaviyo",
+    "role": "Senior AI Engineer - Customer Agent",
+    "location": "Boston",
+    "url": "https://www.klaviyo.com/careers/jobs/7502768003?gh_jid=7502768003",
+    "score": 97,
+    "source": "greenhouse",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-09-15/klaviyo-senior-ai-engineer-customer-agent-97-02768003.pdf",
+    "docx": "state/tailored/2026-09-15/klaviyo-senior-ai-engineer-customer-agent-97-02768003.docx"
+  },
+  {
+    "job_id": "greenhouse:vercel:5633880004",
+    "company": "vercel",
+    "role": "Software Engineer, Agentic Infrastructure",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/5633880004",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 17,
+    "matched_skills": 16,
+    "pdf": "state/tailored/2026-09-15/vercel-software-engineer-agentic-infrastructure-93-33880004.pdf",
+    "docx": "state/tailored/2026-09-15/vercel-software-engineer-agentic-infrastructure-93-33880004.docx"
+  },
+  {
+    "job_id": "greenhouse:instacart:7963840",
+    "company": "instacart",
+    "role": "Senior Machine Learning Engineer, Ads Response Prediction",
+    "location": "Remote - United States",
+    "url": "https://instacart.careers/job/?gh_jid=7963840",
+    "score": 92,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-09-15/instacart-senior-machine-learning-engineer-ads-response-prediction-92-7963840.pdf",
+    "docx": "state/tailored/2026-09-15/instacart-senior-machine-learning-engineer-ads-response-prediction-92-7963840.docx"
+  },
+  {
+    "job_id": "greenhouse:gusto:7982781",
+    "company": "gusto",
+    "role": "Staff Software Engineer, PEO Benefits",
+    "location": "New York, NY - Hybrid",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7982781",
+    "score": 90,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-09-15/gusto-staff-software-engineer-peo-benefits-90-7982781.pdf",
+    "docx": "state/tailored/2026-09-15/gusto-staff-software-engineer-peo-benefits-90-7982781.docx"
   }
 ]
