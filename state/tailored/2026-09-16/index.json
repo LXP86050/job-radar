@@ -1,0 +1,44 @@
+[
+  {
+    "job_id": "workday:citi/2:/job/Tampa-Florida-United-States/Gen-AI-Engineer---Python---Vice-President_26991539-1",
+    "company": "citi",
+    "role": "Gen AI Engineer - Python - Vice President",
+    "location": "Tampa Florida United States",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Gen-AI-Engineer---Python---Vice-President_26991539-1",
+    "score": 96,
+    "source": "workday",
+    "coverage": 89,
+    "jd_skills": 9,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-09-16/citi-gen-ai-engineer-python-vice-president-96-69915391.pdf",
+    "docx": "state/tailored/2026-09-16/citi-gen-ai-engineer-python-vice-president-96-69915391.docx"
+  },
+  {
+    "job_id": "greenhouse:klaviyo:7986459003",
+    "company": "klaviyo",
+    "role": "Senior Software Engineer - Identity and Access Management",
+    "location": "Boston",
+    "url": "https://www.klaviyo.com/careers/jobs/7986459003?gh_jid=7986459003",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-09-16/klaviyo-senior-software-engineer-identity-and-access-management-95-86459003.pdf",
+    "docx": "state/tailored/2026-09-16/klaviyo-senior-software-engineer-identity-and-access-management-95-86459003.docx"
+  },
+  {
+    "job_id": "greenhouse:reddit:8205702",
+    "company": "reddit",
+    "role": "Staff Software Engineer, Consumer Engineering",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8205702",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-09-16/reddit-staff-software-engineer-consumer-engineering-95-8205702.pdf",
+    "docx": "state/tailored/2026-09-16/reddit-staff-software-engineer-consumer-engineering-95-8205702.docx"
+  }
+]
