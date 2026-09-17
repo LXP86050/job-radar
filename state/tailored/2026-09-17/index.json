@@ -82,5 +82,61 @@
     "matched_skills": 12,
     "pdf": "state/tailored/2026-09-17/hp-senior-software-engineer-cloud-services-91-31658591.pdf",
     "docx": "state/tailored/2026-09-17/hp-senior-software-engineer-cloud-services-91-31658591.docx"
+  },
+  {
+    "job_id": "workday:hpe/Jobsathpe:/job/San-Juan-Puerto-Rico-Puerto-Rico/AI-Engineer---Software-Development-Tools_1214811-6",
+    "company": "hpe",
+    "role": "AI Engineer – Software Development Tools",
+    "location": "San Juan, Puerto Rico, Puerto Rico",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/AI-Engineer---Software-Development-Tools_1214811-6",
+    "score": 97,
+    "source": "workday",
+    "coverage": 95,
+    "jd_skills": 19,
+    "matched_skills": 18,
+    "pdf": "state/tailored/2026-09-17/hpe-ai-engineer-software-development-tools-97-12148116.pdf",
+    "docx": "state/tailored/2026-09-17/hpe-ai-engineer-software-development-tools-97-12148116.docx"
+  },
+  {
+    "job_id": "workday:hpe/Jobsathpe:/job/San-Juan-Puerto-Rico-Puerto-Rico/AI-Engineer---Software-Development-Tools_1214810",
+    "company": "hpe",
+    "role": "AI Engineer – Software Development Tools",
+    "location": "San Juan, Puerto Rico, Puerto Rico",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/AI-Engineer---Software-Development-Tools_1214810",
+    "score": 97,
+    "source": "workday",
+    "coverage": 95,
+    "jd_skills": 19,
+    "matched_skills": 18,
+    "pdf": "state/tailored/2026-09-17/hpe-ai-engineer-software-development-tools-97-s1214810.pdf",
+    "docx": "state/tailored/2026-09-17/hpe-ai-engineer-software-development-tools-97-s1214810.docx"
+  },
+  {
+    "job_id": "workday:micron/External:/job/Taichung---AATT-Taiwan/SR-AI-Engineer--SMAI_JR111327",
+    "company": "micron",
+    "role": "SR. AI Engineer, SMAI",
+    "location": "2 Locations",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---AATT-Taiwan/SR-AI-Engineer--SMAI_JR111327",
+    "score": 94,
+    "source": "workday",
+    "coverage": 96,
+    "jd_skills": 23,
+    "matched_skills": 22,
+    "pdf": "state/tailored/2026-09-17/micron-sr-ai-engineer-smai-94-jr111327.pdf",
+    "docx": "state/tailored/2026-09-17/micron-sr-ai-engineer-smai-94-jr111327.docx"
+  },
+  {
+    "job_id": "greenhouse:zoominfo:8789321002",
+    "company": "zoominfo",
+    "role": "Senior Software Engineer",
+    "location": "Bethesda",
+    "url": "https://www.zoominfo.com/careers?gh_jid=8789321002",
+    "score": 92,
+    "source": "greenhouse",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-09-17/zoominfo-senior-software-engineer-92-89321002.pdf",
+    "docx": "state/tailored/2026-09-17/zoominfo-senior-software-engineer-92-89321002.docx"
   }
 ]
