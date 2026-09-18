@@ -40,5 +40,33 @@
     "matched_skills": 9,
     "pdf": "state/tailored/2026-09-18/coinbase-software-engineer-developer-infrastructure-90-7991839.pdf",
     "docx": "state/tailored/2026-09-18/coinbase-software-engineer-developer-infrastructure-90-7991839.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/India---Hyderabad/Software-Engineering-SMTS---MTS----Platform-Engineering--Backend--Kubernetes---Cloud-_JR347341",
+    "company": "salesforce",
+    "role": "Software Engineering SMTS (Backend - Distributed Systems)",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-SMTS---MTS----Platform-Engineering--Backend--Kubernetes---Cloud-_JR347341",
+    "score": 86,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-09-18/salesforce-software-engineering-smts-backend-distributed-systems-86-jr347341.pdf",
+    "docx": "state/tailored/2026-09-18/salesforce-software-engineering-smts-backend-distributed-systems-86-jr347341.docx"
+  },
+  {
+    "job_id": "workday:citi/2:/job/Irving-Texas-United-States/Java-Senior-Software-Engineer--Vice-President_26986136",
+    "company": "citi",
+    "role": "Java Senior Software Engineer —Vice President",
+    "location": "Irving Texas United States",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Java-Senior-Software-Engineer--Vice-President_26986136",
+    "score": 85,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-09-18/citi-java-senior-software-engineer-vice-president-85-26986136.pdf",
+    "docx": "state/tailored/2026-09-18/citi-java-senior-software-engineer-vice-president-85-26986136.docx"
   }
 ]
