@@ -1,0 +1,44 @@
+[
+  {
+    "job_id": "greenhouse:vercel:6199608004",
+    "company": "vercel",
+    "role": "Software Engineer, Agentic Infrastructure",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6199608004",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 17,
+    "matched_skills": 16,
+    "pdf": "state/tailored/2026-09-18/vercel-software-engineer-agentic-infrastructure-93-99608004.pdf",
+    "docx": "state/tailored/2026-09-18/vercel-software-engineer-agentic-infrastructure-93-99608004.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Washington---Bellevue/Software-Engineering-MTS_JR355208-1",
+    "company": "salesforce",
+    "role": "Software Engineering MTS",
+    "location": "Washington - Bellevue",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-MTS_JR355208-1",
+    "score": 92,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-09-18/salesforce-software-engineering-mts-92-r3552081.pdf",
+    "docx": "state/tailored/2026-09-18/salesforce-software-engineering-mts-92-r3552081.docx"
+  },
+  {
+    "job_id": "greenhouse:coinbase:7991839",
+    "company": "coinbase",
+    "role": "Software Engineer, Developer Infrastructure",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "url": "https://www.coinbase.com/careers/positions/7991839?gh_jid=7991839",
+    "score": 90,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-09-18/coinbase-software-engineer-developer-infrastructure-90-7991839.pdf",
+    "docx": "state/tailored/2026-09-18/coinbase-software-engineer-developer-infrastructure-90-7991839.docx"
+  }
+]
