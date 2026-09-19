@@ -1,0 +1,44 @@
+[
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/San-Jose-CA/AI-Engineer-5--FM-Hosting--LLM-Inference-_R1001235-1",
+    "company": "capitalone",
+    "role": "AI Engineer 5 (FM Hosting, LLM Inference)",
+    "location": "4 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Jose-CA/AI-Engineer-5--FM-Hosting--LLM-Inference-_R1001235-1",
+    "score": 97,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-09-19/capitalone-ai-engineer-5-fm-hosting-llm-inference-97-10012351.pdf",
+    "docx": "state/tailored/2026-09-19/capitalone-ai-engineer-5-fm-hosting-llm-inference-97-10012351.docx"
+  },
+  {
+    "job_id": "greenhouse:boxinc:8198219",
+    "company": "boxinc",
+    "role": "Senior Software Engineer, AI Experience",
+    "location": "Redwood City Office",
+    "url": "https://job-boards.greenhouse.io/boxinc/jobs/8198219",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-09-19/boxinc-senior-software-engineer-ai-experience-94-8198219.pdf",
+    "docx": "state/tailored/2026-09-19/boxinc-senior-software-engineer-ai-experience-94-8198219.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-OR-Hillsboro/Senior-Data-Backend-Engineer_JR2020354",
+    "company": "nvidia",
+    "role": "Senior Data Backend Engineer",
+    "location": "2 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Senior-Data-Backend-Engineer_JR2020354",
+    "score": 92,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-09-19/nvidia-senior-data-backend-engineer-92-r2020354.pdf",
+    "docx": "state/tailored/2026-09-19/nvidia-senior-data-backend-engineer-92-r2020354.docx"
+  }
+]
