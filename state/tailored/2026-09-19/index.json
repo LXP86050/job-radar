@@ -138,5 +138,19 @@
     "matched_skills": 8,
     "pdf": "state/tailored/2026-09-19/toast-senior-software-engineer-android-87-7550881.pdf",
     "docx": "state/tailored/2026-09-19/toast-senior-software-engineer-android-87-7550881.docx"
+  },
+  {
+    "job_id": "weworkremotely:circleci-software-engineer",
+    "company": "CircleCI",
+    "role": "Software Engineer",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/circleci-software-engineer",
+    "score": 89,
+    "source": "weworkremotely",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-09-19/circleci-software-engineer-89-engineer.pdf",
+    "docx": "state/tailored/2026-09-19/circleci-software-engineer-89-engineer.docx"
   }
 ]
