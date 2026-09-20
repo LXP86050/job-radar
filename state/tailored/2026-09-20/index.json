@@ -124,5 +124,19 @@
     "matched_skills": 10,
     "pdf": "state/tailored/2026-09-20/stripe-forward-deployed-engineer-privy-87-7230452.pdf",
     "docx": "state/tailored/2026-09-20/stripe-forward-deployed-engineer-privy-87-7230452.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Capital-One-Shopping-Tech--Staff-Full-Stack-Engineer--Technical-Chief-of-Staff--Remote---Eligible-_R1001157",
+    "company": "capitalone",
+    "role": "Capital One Shopping Tech, Staff Full Stack Engineer, Technical Chief of Staff (Remote - Eligible)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Capital-One-Shopping-Tech--Staff-Full-Stack-Engineer--Technical-Chief-of-Staff--Remote---Eligible-_R1001157",
+    "score": 93,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 14,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-09-20/capitalone-capital-one-shopping-tech-staff-full-stack-engineer-technica-93-r1001157.pdf",
+    "docx": "state/tailored/2026-09-20/capitalone-capital-one-shopping-tech-staff-full-stack-engineer-technica-93-r1001157.docx"
   }
 ]
