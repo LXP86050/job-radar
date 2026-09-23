@@ -1,0 +1,44 @@
+[
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Machine-Learning-Engineer-5--IC-_R1001516-1",
+    "company": "capitalone",
+    "role": "Machine Learning Engineer 5 (IC)",
+    "location": "5 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Machine-Learning-Engineer-5--IC-_R1001516-1",
+    "score": 93,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-09-23/capitalone-machine-learning-engineer-5-ic-93-10015161.pdf",
+    "docx": "state/tailored/2026-09-23/capitalone-machine-learning-engineer-5-ic-93-10015161.docx"
+  },
+  {
+    "job_id": "greenhouse:vercel:6137958004",
+    "company": "vercel",
+    "role": "Software Engineer - Next.js",
+    "location": "Office - New York City, Office - San Francisco",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6137958004",
+    "score": 89,
+    "source": "greenhouse",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-09-23/vercel-software-engineer-next-js-89-37958004.pdf",
+    "docx": "state/tailored/2026-09-23/vercel-software-engineer-next-js-89-37958004.docx"
+  },
+  {
+    "job_id": "greenhouse:vercel:6206023004",
+    "company": "vercel",
+    "role": "Software Engineer, Workflows",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6206023004",
+    "score": 87,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-09-23/vercel-software-engineer-workflows-87-06023004.pdf",
+    "docx": "state/tailored/2026-09-23/vercel-software-engineer-workflows-87-06023004.docx"
+  }
+]
