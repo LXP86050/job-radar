@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "workday:adobe/external_experienced:/job/San-Jose/AI-Engineer-4_R170716-1",
+    "company": "adobe",
+    "role": "AI Engineer 4",
+    "location": "San Jose",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/AI-Engineer-4_R170716-1",
+    "score": 94,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 16,
+    "matched_skills": 16,
+    "pdf": "state/tailored/2026-09-24/adobe-ai-engineer-4-94-r1707161.pdf",
+    "docx": "state/tailored/2026-09-24/adobe-ai-engineer-4-94-r1707161.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/San-Francisco--CA/Senior-Staff-AI-Engineer--Remote-Eligible-_R1001975-1",
+    "company": "capitalone",
+    "role": "Senior Staff AI Engineer (Remote Eligible)",
+    "location": "6 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Francisco--CA/Senior-Staff-AI-Engineer--Remote-Eligible-_R1001975-1",
+    "score": 92,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-09-24/capitalone-senior-staff-ai-engineer-remote-eligible-92-10019751.pdf",
+    "docx": "state/tailored/2026-09-24/capitalone-senior-staff-ai-engineer-remote-eligible-92-10019751.docx"
+  }
+]
