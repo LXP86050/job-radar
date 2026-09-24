@@ -700,6 +700,7 @@
   "greenhouse:samsara:7997916": "2026-08-28",
   "greenhouse:samsara:8021301": "2026-07-30",
   "greenhouse:samsara:8036387": "2026-09-14",
+  "greenhouse:samsara:8050373": "2026-09-24",
   "greenhouse:samsara:8052685": "2026-09-16",
   "greenhouse:samsara:8055217": "2026-09-23",
   "greenhouse:samsara:8055245": "2026-09-10",
@@ -1003,6 +1004,7 @@
   "greenhouse:zscaler:5082275007": "2026-09-16",
   "greenhouse:zscaler:5113112007": "2026-08-12",
   "greenhouse:zscaler:5114450007": "2026-09-07",
+  "greenhouse:zscaler:5177377007": "2026-09-24",
   "greenhouse:zscaler:5181723007": "2026-09-21",
   "greenhouse:zscaler:5189377007": "2026-08-07",
   "greenhouse:zscaler:5202464007": "2026-09-02",
@@ -1085,6 +1087,7 @@
   "workday:adobe/external_experienced:/job/San-Jose/Senior-Machine-Learning-Engineer--Applied-Science-Data-Frameworks_R171469": "2026-08-26",
   "workday:adobe/external_experienced:/job/San-Jose/Senior-Machine-Learning-Engineer_R170815": "2026-09-17",
   "workday:adobe/external_experienced:/job/San-Jose/Senior-Machine-Learning-Engineer_R171549-1": "2026-09-16",
+  "workday:adobe/external_experienced:/job/San-Jose/Senior-Machine-Learning-Engineer_R171670": "2026-09-24",
   "workday:adobe/external_experienced:/job/San-Jose/Senior-Software-Engineer_R170582": "2026-08-04",
   "workday:adobe/external_experienced:/job/San-Jose/Senior-Staff-Applied-Scientist---AI-ML_R160344": "2026-07-29",
   "workday:adobe/external_experienced:/job/San-Jose/Software-Engineer-4--Backend-Services_R171151": "2026-08-13",
@@ -1783,6 +1786,7 @@
   "workday:workday/Workday:/job/USA-GA-Atlanta/Full-Stack-Software-Engineer---Agent-Platform_JR-0107451-1": "2026-09-07",
   "workday:workday/Workday:/job/USA-GA-Atlanta/Senior-Full-Stack-Engineer---AI-Platform_JR-0110041": "2026-09-17",
   "workday:workday/Workday:/job/USA-GA-Atlanta/Sr-Software-Engineer--Distributed-Systems-_JR-0108061": "2026-08-12",
+  "workday:workday/Workday:/job/USAVAReston/Analytics-Sr-Software-Engineer--US-Federal-_JR-0105493": "2026-09-24",
   "workday:workday/Workday:/job/USAVAReston/Analytics-Sr-Software-Engineer--US-Federal-_JR-0108035": "2026-08-10",
   "workday:workday/Workday:/job/VNMDa-Nang/Senior-AI-Engineer---Da-Nang--Paradox-_JR-0108727": "2026-08-14"
 }

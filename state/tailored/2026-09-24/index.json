@@ -26,5 +26,61 @@
     "matched_skills": 12,
     "pdf": "state/tailored/2026-09-24/capitalone-senior-staff-ai-engineer-remote-eligible-92-10019751.pdf",
     "docx": "state/tailored/2026-09-24/capitalone-senior-staff-ai-engineer-remote-eligible-92-10019751.docx"
+  },
+  {
+    "job_id": "greenhouse:zscaler:5177377007",
+    "company": "zscaler",
+    "role": "Sr. Staff Backend Engineer",
+    "location": "Office - Ramat Gan, Israel",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5177377007",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-09-24/zscaler-sr-staff-backend-engineer-94-77377007.pdf",
+    "docx": "state/tailored/2026-09-24/zscaler-sr-staff-backend-engineer-94-77377007.docx"
+  },
+  {
+    "job_id": "workday:adobe/external_experienced:/job/San-Jose/Senior-Machine-Learning-Engineer_R171670",
+    "company": "adobe",
+    "role": "Senior Machine Learning Engineer",
+    "location": "San Jose",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Machine-Learning-Engineer_R171670",
+    "score": 93,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-09-24/adobe-senior-machine-learning-engineer-93-rr171670.pdf",
+    "docx": "state/tailored/2026-09-24/adobe-senior-machine-learning-engineer-93-rr171670.docx"
+  },
+  {
+    "job_id": "greenhouse:samsara:8050373",
+    "company": "samsara",
+    "role": "Sr. Software Engineer II, AI Platform",
+    "location": "Atlanta - ATL2, Remote - AR, Remote - Dallas",
+    "url": "https://www.samsara.com/company/careers/roles/8050373?gh_jid=8050373",
+    "score": 92,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-09-24/samsara-sr-software-engineer-ii-ai-platform-92-8050373.pdf",
+    "docx": "state/tailored/2026-09-24/samsara-sr-software-engineer-ii-ai-platform-92-8050373.docx"
+  },
+  {
+    "job_id": "workday:workday/Workday:/job/USAVAReston/Analytics-Sr-Software-Engineer--US-Federal-_JR-0105493",
+    "company": "workday",
+    "role": "Analytics Sr Software Engineer (US Federal)",
+    "location": "USA.VA.Reston",
+    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Analytics-Sr-Software-Engineer--US-Federal-_JR-0105493",
+    "score": 91,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-09-24/workday-analytics-sr-software-engineer-us-federal-91-r0105493.pdf",
+    "docx": "state/tailored/2026-09-24/workday-analytics-sr-software-engineer-us-federal-91-r0105493.docx"
   }
 ]
