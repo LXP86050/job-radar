@@ -26,5 +26,61 @@
     "matched_skills": 23,
     "pdf": "state/tailored/2026-09-25/capitalone-full-stack-engineer-4-people-tech-genai-agentic-systems-lang-86-r1001898.pdf",
     "docx": "state/tailored/2026-09-25/capitalone-full-stack-engineer-4-people-tech-genai-agentic-systems-lang-86-r1001898.docx"
+  },
+  {
+    "job_id": "workday:micron/External:/job/Boise-ID---Main-Site/Staff-AI-Engineering_JR112186",
+    "company": "micron",
+    "role": "Staff AI Engineering",
+    "location": "Boise, ID - Main Site",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Staff-AI-Engineering_JR112186",
+    "score": 93,
+    "source": "workday",
+    "coverage": 95,
+    "jd_skills": 19,
+    "matched_skills": 18,
+    "pdf": "state/tailored/2026-09-25/micron-staff-ai-engineering-93-jr112186.pdf",
+    "docx": "state/tailored/2026-09-25/micron-staff-ai-engineering-93-jr112186.docx"
+  },
+  {
+    "job_id": "workday:micron/External:/job/Boise-ID---Main-Site/Staff-AI-Engineering_JR112797",
+    "company": "micron",
+    "role": "Staff AI Engineering",
+    "location": "Boise, ID - Main Site",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Staff-AI-Engineering_JR112797",
+    "score": 93,
+    "source": "workday",
+    "coverage": 95,
+    "jd_skills": 19,
+    "matched_skills": 18,
+    "pdf": "state/tailored/2026-09-25/micron-staff-ai-engineering-93-jr112797.pdf",
+    "docx": "state/tailored/2026-09-25/micron-staff-ai-engineering-93-jr112797.docx"
+  },
+  {
+    "job_id": "greenhouse:verkada:5194598007",
+    "company": "verkada",
+    "role": "Backend Engineer - Connectivity",
+    "location": "Bay-HQ office",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5194598007",
+    "score": 88,
+    "source": "greenhouse",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-09-25/verkada-backend-engineer-connectivity-88-94598007.pdf",
+    "docx": "state/tailored/2026-09-25/verkada-backend-engineer-connectivity-88-94598007.docx"
+  },
+  {
+    "job_id": "greenhouse:robinhood:7263592",
+    "company": "robinhood",
+    "role": "Software Engineer, Backend",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592",
+    "score": 87,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-09-25/robinhood-software-engineer-backend-87-7263592.pdf",
+    "docx": "state/tailored/2026-09-25/robinhood-software-engineer-backend-87-7263592.docx"
   }
 ]
