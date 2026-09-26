@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "job_id": "weworkremotely:dremio-senior-software-engineer-platform",
+    "company": "Dremio",
+    "role": "Senior Software Engineer - Platform",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/dremio-senior-software-engineer-platform",
+    "score": 95,
+    "source": "weworkremotely",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-09-26/dremio-senior-software-engineer-platform-95-platform.pdf",
+    "docx": "state/tailored/2026-09-26/dremio-senior-software-engineer-platform-95-platform.docx"
+  },
+  {
+    "job_id": "greenhouse:squarespace:8019365",
+    "company": "squarespace",
+    "role": "Software Engineer, Frontend",
+    "location": "New York",
+    "url": "http://www.squarespace.com/about/careers?gh_jid=8019365",
+    "score": 88,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-09-26/squarespace-software-engineer-frontend-88-8019365.pdf",
+    "docx": "state/tailored/2026-09-26/squarespace-software-engineer-frontend-88-8019365.docx"
+  }
+]
