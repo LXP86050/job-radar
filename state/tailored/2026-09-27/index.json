@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "job_id": "workday:adobe/external_experienced:/job/San-Francisco/Machine-Learning-Engineer_R170754-1",
+    "company": "adobe",
+    "role": "Machine Learning Engineer",
+    "location": "San Francisco",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Machine-Learning-Engineer_R170754-1",
+    "score": 96,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-09-27/adobe-machine-learning-engineer-96-r1707541.pdf",
+    "docx": "state/tailored/2026-09-27/adobe-machine-learning-engineer-96-r1707541.docx"
+  },
+  {
+    "job_id": "greenhouse:roblox:8047829",
+    "company": "roblox",
+    "role": "Senior Software Engineer, Engineering Acceleration",
+    "location": "San Mateo, CA",
+    "url": "https://careers.roblox.com/jobs/8047829?gh_jid=8047829",
+    "score": 92,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-09-27/roblox-senior-software-engineer-engineering-acceleration-92-8047829.pdf",
+    "docx": "state/tailored/2026-09-27/roblox-senior-software-engineer-engineering-acceleration-92-8047829.docx"
+  }
+]
