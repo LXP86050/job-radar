@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/San-Francisco--CA/Staff-Software-Engineer---Card-Tech_R1001397-1",
+    "company": "capitalone",
+    "role": "Staff Software Engineer - Card Tech",
+    "location": "5 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Francisco--CA/Staff-Software-Engineer---Card-Tech_R1001397-1",
+    "score": 94,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-09-29/capitalone-staff-software-engineer-card-tech-94-10013971.pdf",
+    "docx": "state/tailored/2026-09-29/capitalone-staff-software-engineer-card-tech-94-10013971.docx"
+  },
+  {
+    "job_id": "workday:citi/2:/job/Irving-Texas-United-States/Full-Stack-Software-Engineer---Vice-President_26980668",
+    "company": "citi",
+    "role": "Full Stack Software Engineer - Vice President",
+    "location": "Irving Texas United States",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Full-Stack-Software-Engineer---Vice-President_26980668",
+    "score": 85,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-09-29/citi-full-stack-software-engineer-vice-president-85-26980668.pdf",
+    "docx": "state/tailored/2026-09-29/citi-full-stack-software-engineer-vice-president-85-26980668.docx"
+  }
+]
