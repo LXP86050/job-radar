@@ -1,0 +1,44 @@
+[
+  {
+    "job_id": "greenhouse:zscaler:5246776007",
+    "company": "zscaler",
+    "role": "Senior Machine Learning Engineer",
+    "location": "Remote - Tennessee, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5246776007",
+    "score": 99,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-09-30/zscaler-senior-machine-learning-engineer-99-46776007.pdf",
+    "docx": "state/tailored/2026-09-30/zscaler-senior-machine-learning-engineer-99-46776007.docx"
+  },
+  {
+    "job_id": "greenhouse:zscaler:5246774007",
+    "company": "zscaler",
+    "role": "Senior Staff Machine Learning Engineer",
+    "location": "Remote - Oregon, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5246774007",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-09-30/zscaler-senior-staff-machine-learning-engineer-94-46774007.pdf",
+    "docx": "state/tailored/2026-09-30/zscaler-senior-staff-machine-learning-engineer-94-46774007.docx"
+  },
+  {
+    "job_id": "greenhouse:coinbase:8241724",
+    "company": "coinbase",
+    "role": "Senior Software Engineer, Native Mobile",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "url": "https://www.coinbase.com/careers/positions/8241724?gh_jid=8241724",
+    "score": 86,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-09-30/coinbase-senior-software-engineer-native-mobile-86-8241724.pdf",
+    "docx": "state/tailored/2026-09-30/coinbase-senior-software-engineer-native-mobile-86-8241724.docx"
+  }
+]
