@@ -124,5 +124,33 @@
     "matched_skills": 10,
     "pdf": "state/tailored/2026-10-02/nuro-staff-software-engineer-routing-88-7280336.pdf",
     "docx": "state/tailored/2026-10-02/nuro-staff-software-engineer-routing-88-7280336.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---San-Francisco/AI-Native-Software-Engineer_JR359620-1",
+    "company": "salesforce",
+    "role": "AI Native - Full Stack Engineer",
+    "location": "21 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/AI-Native-Software-Engineer_JR359620-1",
+    "score": 87,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-10-02/salesforce-ai-native-full-stack-engineer-87-r3596201.pdf",
+    "docx": "state/tailored/2026-10-02/salesforce-ai-native-full-stack-engineer-87-r3596201.docx"
+  },
+  {
+    "job_id": "workday:workday/Workday:/job/USAVAReston/Software-Engineer---DevOps--US-Federal-_JR-0110541-1",
+    "company": "workday",
+    "role": "Software Engineer - DevOps (US Federal)",
+    "location": "USA.VA.Reston",
+    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Engineer---DevOps--US-Federal-_JR-0110541-1",
+    "score": 85,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-10-02/workday-software-engineer-devops-us-federal-85-01105411.pdf",
+    "docx": "state/tailored/2026-10-02/workday-software-engineer-devops-us-federal-85-01105411.docx"
   }
 ]
