@@ -26,5 +26,19 @@
     "matched_skills": 12,
     "pdf": "state/tailored/2026-10-03/nvidia-senior-system-software-engineer-agentic-retrieval-92-r2026513.pdf",
     "docx": "state/tailored/2026-10-03/nvidia-senior-system-software-engineer-agentic-retrieval-92-r2026513.docx"
+  },
+  {
+    "job_id": "greenhouse:gitlab:8644572002",
+    "company": "gitlab",
+    "role": "Senior Backend Engineer, Platform Readiness",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8644572002",
+    "score": 91,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-10-03/gitlab-senior-backend-engineer-platform-readiness-91-44572002.pdf",
+    "docx": "state/tailored/2026-10-03/gitlab-senior-backend-engineer-platform-readiness-91-44572002.docx"
   }
 ]
