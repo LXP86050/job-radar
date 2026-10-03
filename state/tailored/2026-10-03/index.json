@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "greenhouse:roblox:8036757",
+    "company": "roblox",
+    "role": "Senior Software Engineer (Full Stack), Global Actions",
+    "location": "San Mateo, CA",
+    "url": "https://careers.roblox.com/jobs/8036757?gh_jid=8036757",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-10-03/roblox-senior-software-engineer-full-stack-global-actions-93-8036757.pdf",
+    "docx": "state/tailored/2026-10-03/roblox-senior-software-engineer-full-stack-global-actions-93-8036757.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Agentic-Retrieval_JR2026513",
+    "company": "nvidia",
+    "role": "Senior System Software Engineer, Agentic Retrieval",
+    "location": "5 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Agentic-Retrieval_JR2026513",
+    "score": 92,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-10-03/nvidia-senior-system-software-engineer-agentic-retrieval-92-r2026513.pdf",
+    "docx": "state/tailored/2026-10-03/nvidia-senior-system-software-engineer-agentic-retrieval-92-r2026513.docx"
+  }
+]
