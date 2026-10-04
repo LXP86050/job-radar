@@ -12,5 +12,61 @@
     "matched_skills": 13,
     "pdf": "state/tailored/2026-10-04/capitalone-ai-engineer-5-mlx-agentic-ai-gen-ai-platform-services-97-10029491.pdf",
     "docx": "state/tailored/2026-10-04/capitalone-ai-engineer-5-mlx-agentic-ai-gen-ai-platform-services-97-10029491.docx"
+  },
+  {
+    "job_id": "greenhouse:twilio:8099162",
+    "company": "twilio",
+    "role": "Senior Software Engineer (L3)",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8099162",
+    "score": 100,
+    "source": "greenhouse",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-10-04/twilio-senior-software-engineer-l3-100-8099162.pdf",
+    "docx": "state/tailored/2026-10-04/twilio-senior-software-engineer-l3-100-8099162.docx"
+  },
+  {
+    "job_id": "greenhouse:scaleai:4676606005",
+    "company": "scaleai",
+    "role": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
+    "location": "Doha, Qatar",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4676606005",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 95,
+    "jd_skills": 21,
+    "matched_skills": 20,
+    "pdf": "state/tailored/2026-10-04/scaleai-senior-full-stack-software-engineer-forward-deployed-gps-93-76606005.pdf",
+    "docx": "state/tailored/2026-10-04/scaleai-senior-full-stack-software-engineer-forward-deployed-gps-93-76606005.docx"
+  },
+  {
+    "job_id": "greenhouse:zoominfo:8565628002",
+    "company": "zoominfo",
+    "role": "Senior Software Engineer - Platform Integrations",
+    "location": "Bethesda",
+    "url": "https://www.zoominfo.com/careers?gh_jid=8565628002",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-10-04/zoominfo-senior-software-engineer-platform-integrations-93-65628002.pdf",
+    "docx": "state/tailored/2026-10-04/zoominfo-senior-software-engineer-platform-integrations-93-65628002.docx"
+  },
+  {
+    "job_id": "workday:adobe/external_experienced:/job/San-Jose/Senior-Software-Engineer_R170582",
+    "company": "adobe",
+    "role": "Senior Software Engineer",
+    "location": "San Jose",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Software-Engineer_R170582",
+    "score": 86,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-10-04/adobe-senior-software-engineer-86-rr170582.pdf",
+    "docx": "state/tailored/2026-10-04/adobe-senior-software-engineer-86-rr170582.docx"
   }
 ]
