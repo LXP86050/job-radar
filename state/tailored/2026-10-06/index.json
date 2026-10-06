@@ -166,5 +166,19 @@
     "matched_skills": 23,
     "pdf": "state/tailored/2026-10-06/citi-full-stack-software-engineer-analyst-87-26999335.pdf",
     "docx": "state/tailored/2026-10-06/citi-full-stack-software-engineer-analyst-87-26999335.docx"
+  },
+  {
+    "job_id": "greenhouse:airbnb:8257909",
+    "company": "airbnb",
+    "role": "Staff Software Engineer, Cloud Infrastructure",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/8257909?gh_jid=8257909",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-10-06/airbnb-staff-software-engineer-cloud-infrastructure-93-8257909.pdf",
+    "docx": "state/tailored/2026-10-06/airbnb-staff-software-engineer-cloud-infrastructure-93-8257909.docx"
   }
 ]
