@@ -180,5 +180,61 @@
     "matched_skills": 9,
     "pdf": "state/tailored/2026-10-06/airbnb-staff-software-engineer-cloud-infrastructure-93-8257909.pdf",
     "docx": "state/tailored/2026-10-06/airbnb-staff-software-engineer-cloud-infrastructure-93-8257909.docx"
+  },
+  {
+    "job_id": "greenhouse:alpaca:6167239004",
+    "company": "alpaca",
+    "role": "Senior Data Platform Engineer",
+    "location": "Remote - Canada, Remote - North America , Remote - South America, Remote - United States",
+    "url": "https://job-boards.greenhouse.io/alpaca/jobs/6167239004",
+    "score": 97,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-10-06/alpaca-senior-data-platform-engineer-97-67239004.pdf",
+    "docx": "state/tailored/2026-10-06/alpaca-senior-data-platform-engineer-97-67239004.docx"
+  },
+  {
+    "job_id": "greenhouse:databricks:8784103002",
+    "company": "databricks",
+    "role": "Sr. Specialist Solutions Architect -AI&ML Engineer",
+    "location": "Israel",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8784103002",
+    "score": 97,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-10-06/databricks-sr-specialist-solutions-architect-ai-ml-engineer-97-84103002.pdf",
+    "docx": "state/tailored/2026-10-06/databricks-sr-specialist-solutions-architect-ai-ml-engineer-97-84103002.docx"
+  },
+  {
+    "job_id": "greenhouse:gitlab:8867725002",
+    "company": "gitlab",
+    "role": "Senior Backend Engineer (Ruby), Production Engineering:Tenant Controls",
+    "location": "Remote, Poland",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867725002",
+    "score": 92,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-10-06/gitlab-senior-backend-engineer-ruby-production-engineering-tenant-c-92-67725002.pdf",
+    "docx": "state/tailored/2026-10-06/gitlab-senior-backend-engineer-ruby-production-engineering-tenant-c-92-67725002.docx"
+  },
+  {
+    "job_id": "greenhouse:reddit:8180636",
+    "company": "reddit",
+    "role": "Staff Software Engineer, Developer Ecosystem",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8180636",
+    "score": 89,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-10-06/reddit-staff-software-engineer-developer-ecosystem-89-8180636.pdf",
+    "docx": "state/tailored/2026-10-06/reddit-staff-software-engineer-developer-ecosystem-89-8180636.docx"
   }
 ]
