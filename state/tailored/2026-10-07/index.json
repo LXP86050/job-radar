@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/San-Francisco--CA/AI-Engineer-4--Gen-AI-Platform-Services--Agentic-AI--Agent-Guardrails--Agent-Evaluation--Agent-Memory-_R1003193-1",
+    "company": "capitalone",
+    "role": "AI Engineer 4 (Gen AI Platform Services: Agentic AI, Agent Guardrails, Agent Evaluation, Agent Memory)",
+    "location": "5 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Francisco--CA/AI-Engineer-4--Gen-AI-Platform-Services--Agentic-AI--Agent-Guardrails--Agent-Evaluation--Agent-Memory-_R1003193-1",
+    "score": 92,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-10-07/capitalone-ai-engineer-4-gen-ai-platform-services-agentic-ai-agent-guar-92-10031931.pdf",
+    "docx": "state/tailored/2026-10-07/capitalone-ai-engineer-4-gen-ai-platform-services-agentic-ai-agent-guar-92-10031931.docx"
+  },
+  {
+    "job_id": "greenhouse:tripactions:8105722",
+    "company": "tripactions",
+    "role": "Senior Frontend Software Engineer, Flights",
+    "location": "New York City",
+    "url": "https://navan.com/careers/openings?gh_jid=8105722",
+    "score": 88,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-10-07/tripactions-senior-frontend-software-engineer-flights-88-8105722.pdf",
+    "docx": "state/tailored/2026-10-07/tripactions-senior-frontend-software-engineer-flights-88-8105722.docx"
+  }
+]
