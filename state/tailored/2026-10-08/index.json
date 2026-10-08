@@ -12,5 +12,61 @@
     "matched_skills": 14,
     "pdf": "state/tailored/2026-10-08/capitalone-staff-engineer-93-10032001.pdf",
     "docx": "state/tailored/2026-10-08/capitalone-staff-engineer-93-10032001.docx"
+  },
+  {
+    "job_id": "workday:citi/2:/job/Irving-Texas-United-States/Lead-Generative-AI-Engineer--VP_26984212",
+    "company": "citi",
+    "role": "Lead Generative AI Engineer, VP",
+    "location": "2 Locations",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Lead-Generative-AI-Engineer--VP_26984212",
+    "score": 94,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-10-08/citi-lead-generative-ai-engineer-vp-94-26984212.pdf",
+    "docx": "state/tailored/2026-10-08/citi-lead-generative-ai-engineer-vp-94-26984212.docx"
+  },
+  {
+    "job_id": "ashby:cursor:0a82f564-de1b-4c72-9ba4-10cf2b63c483",
+    "company": "cursor",
+    "role": "Forward Deployed Engineer - EMEA",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/cursor/0a82f564-de1b-4c72-9ba4-10cf2b63c483",
+    "score": 93,
+    "source": "ashby",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-10-08/cursor-forward-deployed-engineer-emea-93-2b63c483.pdf",
+    "docx": "state/tailored/2026-10-08/cursor-forward-deployed-engineer-emea-93-2b63c483.docx"
+  },
+  {
+    "job_id": "weworkremotely:vercel-security-software-engineer-iam",
+    "company": "Vercel",
+    "role": "Security Software Engineer, IAM",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/vercel-security-software-engineer-iam",
+    "score": 91,
+    "source": "weworkremotely",
+    "coverage": 94,
+    "jd_skills": 17,
+    "matched_skills": 16,
+    "pdf": "state/tailored/2026-10-08/vercel-security-software-engineer-iam-91-ineeriam.pdf",
+    "docx": "state/tailored/2026-10-08/vercel-security-software-engineer-iam-91-ineeriam.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Machine-Learning-Engineer-4_R1003244",
+    "company": "capitalone",
+    "role": "Machine Learning Engineer 4",
+    "location": "3 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Machine-Learning-Engineer-4_R1003244",
+    "score": 88,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-10-08/capitalone-machine-learning-engineer-4-88-r1003244.pdf",
+    "docx": "state/tailored/2026-10-08/capitalone-machine-learning-engineer-4-88-r1003244.docx"
   }
 ]
