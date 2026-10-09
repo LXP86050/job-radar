@@ -40,5 +40,47 @@
     "matched_skills": 8,
     "pdf": "state/tailored/2026-10-09/nvidia-senior-software-engineer-tools-automation-and-ai-86-r2026683.pdf",
     "docx": "state/tailored/2026-10-09/nvidia-senior-software-engineer-tools-automation-and-ai-86-r2026683.docx"
+  },
+  {
+    "job_id": "greenhouse:vercel:6208037004",
+    "company": "vercel",
+    "role": "Machine Learning Engineer, Trust & Safety",
+    "location": "Office - New York City, Office - San Francisco",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6208037004",
+    "score": 99,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-10-09/vercel-machine-learning-engineer-trust-safety-99-08037004.pdf",
+    "docx": "state/tailored/2026-10-09/vercel-machine-learning-engineer-trust-safety-99-08037004.docx"
+  },
+  {
+    "job_id": "greenhouse:vercel:6111332004",
+    "company": "vercel",
+    "role": "Security Software Engineer, Detection & Response",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6111332004",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-10-09/vercel-security-software-engineer-detection-response-93-11332004.pdf",
+    "docx": "state/tailored/2026-10-09/vercel-security-software-engineer-detection-response-93-11332004.docx"
+  },
+  {
+    "job_id": "workday:workday/Workday:/job/USA-CO-Boulder/Sr-Machine-Learning-Engineer_JR-0110287",
+    "company": "workday",
+    "role": "Sr. Machine Learning Engineer",
+    "location": "2 Locations",
+    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Sr-Machine-Learning-Engineer_JR-0110287",
+    "score": 92,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-10-09/workday-sr-machine-learning-engineer-92-r0110287.pdf",
+    "docx": "state/tailored/2026-10-09/workday-sr-machine-learning-engineer-92-r0110287.docx"
   }
 ]
