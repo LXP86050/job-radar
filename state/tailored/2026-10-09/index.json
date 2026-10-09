@@ -1,0 +1,44 @@
+[
+  {
+    "job_id": "greenhouse:coinbase:8174232",
+    "company": "coinbase",
+    "role": "Senior Software Engineer, Backend/Fullstack (Coinbase Advisor - Agentic Trading)",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "url": "https://www.coinbase.com/careers/positions/8174232?gh_jid=8174232",
+    "score": 97,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-10-09/coinbase-senior-software-engineer-backend-fullstack-coinbase-advisor--97-8174232.pdf",
+    "docx": "state/tailored/2026-10-09/coinbase-senior-software-engineer-backend-fullstack-coinbase-advisor--97-8174232.docx"
+  },
+  {
+    "job_id": "greenhouse:discord:8675185002",
+    "company": "discord",
+    "role": "Staff Software Engineer, Enterprise Platform",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8675185002",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-10-09/discord-staff-software-engineer-enterprise-platform-94-75185002.pdf",
+    "docx": "state/tailored/2026-10-09/discord-staff-software-engineer-enterprise-platform-94-75185002.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/Israel-Yokneam/Senior-Software-Engineer--Tools--Automation-and-AI_JR2026683",
+    "company": "nvidia",
+    "role": "Senior Software Engineer, Tools, Automation and AI",
+    "location": "3 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-Engineer--Tools--Automation-and-AI_JR2026683",
+    "score": 86,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-10-09/nvidia-senior-software-engineer-tools-automation-and-ai-86-r2026683.pdf",
+    "docx": "state/tailored/2026-10-09/nvidia-senior-software-engineer-tools-automation-and-ai-86-r2026683.docx"
+  }
+]
