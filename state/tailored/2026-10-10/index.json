@@ -1,0 +1,44 @@
+[
+  {
+    "job_id": "greenhouse:twitch:8879836002",
+    "company": "twitch",
+    "role": "Software Engineer II, Fintech",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8879836002",
+    "score": 97,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 17,
+    "matched_skills": 16,
+    "pdf": "state/tailored/2026-10-10/twitch-software-engineer-ii-fintech-97-79836002.pdf",
+    "docx": "state/tailored/2026-10-10/twitch-software-engineer-ii-fintech-97-79836002.docx"
+  },
+  {
+    "job_id": "greenhouse:gitlab:8693563002",
+    "company": "gitlab",
+    "role": "Staff Software Engineer, Security Factory: Static Analysis",
+    "location": "Canada, Israel, United Kingdom, United States of America",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8693563002",
+    "score": 86,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-10-10/gitlab-staff-software-engineer-security-factory-static-analysis-86-93563002.pdf",
+    "docx": "state/tailored/2026-10-10/gitlab-staff-software-engineer-security-factory-static-analysis-86-93563002.docx"
+  },
+  {
+    "job_id": "greenhouse:gitlab:8738179002",
+    "company": "gitlab",
+    "role": "Senior Software Engineer, Security Factory: Code Security",
+    "location": "Canada, United States of America",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8738179002",
+    "score": 85,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-10-10/gitlab-senior-software-engineer-security-factory-code-security-85-38179002.pdf",
+    "docx": "state/tailored/2026-10-10/gitlab-senior-software-engineer-security-factory-code-security-85-38179002.docx"
+  }
+]
