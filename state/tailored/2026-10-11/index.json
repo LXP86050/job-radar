@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "job_id": "weworkremotely:vercel-software-engineer-data-platform",
+    "company": "Vercel",
+    "role": "Software Engineer - Data Platform",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
+    "score": 91,
+    "source": "weworkremotely",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-10-11/vercel-software-engineer-data-platform-91-platform.pdf",
+    "docx": "state/tailored/2026-10-11/vercel-software-engineer-data-platform-91-platform.docx"
+  },
+  {
+    "job_id": "weworkremotely:vercel-software-engineer-backend",
+    "company": "Vercel",
+    "role": "Software Engineer, Backend",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend",
+    "score": 88,
+    "source": "weworkremotely",
+    "coverage": 95,
+    "jd_skills": 21,
+    "matched_skills": 20,
+    "pdf": "state/tailored/2026-10-11/vercel-software-engineer-backend-88-rbackend.pdf",
+    "docx": "state/tailored/2026-10-11/vercel-software-engineer-backend-88-rbackend.docx"
+  }
+]
