@@ -194,5 +194,19 @@
     "matched_skills": 8,
     "pdf": "state/tailored/2026-10-12/databricks-staff-software-engineer-ai-native-web-platform-91-60783002.pdf",
     "docx": "state/tailored/2026-10-12/databricks-staff-software-engineer-ai-native-web-platform-91-60783002.docx"
+  },
+  {
+    "job_id": "greenhouse:mongodb:8274765",
+    "company": "mongodb",
+    "role": "Senior Software Engineer (SRE), Infrastructure Security",
+    "location": "New York City",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8274765",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-10-12/mongodb-senior-software-engineer-sre-infrastructure-security-95-8274765.pdf",
+    "docx": "state/tailored/2026-10-12/mongodb-senior-software-engineer-sre-infrastructure-security-95-8274765.docx"
   }
 ]
