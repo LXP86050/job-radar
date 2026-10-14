@@ -222,5 +222,61 @@
     "matched_skills": 8,
     "pdf": "state/tailored/2026-10-14/salesforce-lead-machine-learning-engineer-85-jr363990.pdf",
     "docx": "state/tailored/2026-10-14/salesforce-lead-machine-learning-engineer-85-jr363990.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/San-Jose-CA/AI-Engineer-5_R1003699-1",
+    "company": "capitalone",
+    "role": "AI Engineer 5",
+    "location": "3 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Jose-CA/AI-Engineer-5_R1003699-1",
+    "score": 97,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-10-14/capitalone-ai-engineer-5-97-10036991.pdf",
+    "docx": "state/tailored/2026-10-14/capitalone-ai-engineer-5-97-10036991.docx"
+  },
+  {
+    "job_id": "greenhouse:toast:8224111",
+    "company": "toast",
+    "role": "Software Engineer II, Frontend",
+    "location": "Boston, Massachusetts, USA",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8224111",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-10-14/toast-software-engineer-ii-frontend-95-8224111.pdf",
+    "docx": "state/tailored/2026-10-14/toast-software-engineer-ii-frontend-95-8224111.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Norway---Oslo/Forward-Deployed-Engineer---Norway_JR364074",
+    "company": "salesforce",
+    "role": "Forward Deployed Engineer - Norway",
+    "location": "Norway - Oslo",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Norway---Oslo/Forward-Deployed-Engineer---Norway_JR364074",
+    "score": 94,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-10-14/salesforce-forward-deployed-engineer-norway-94-jr364074.pdf",
+    "docx": "state/tailored/2026-10-14/salesforce-forward-deployed-engineer-norway-94-jr364074.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Staff-Software-Engineer---Agentic-Workflows_JR2027353",
+    "company": "nvidia",
+    "role": "Senior Staff Software Engineer — Agentic Workflows",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-Software-Engineer---Agentic-Workflows_JR2027353",
+    "score": 92,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-10-14/nvidia-senior-staff-software-engineer-agentic-workflows-92-r2027353.pdf",
+    "docx": "state/tailored/2026-10-14/nvidia-senior-staff-software-engineer-agentic-workflows-92-r2027353.docx"
   }
 ]
