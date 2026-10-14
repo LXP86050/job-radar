@@ -1,0 +1,44 @@
+[
+  {
+    "job_id": "workday:autodesk/Ext:/job/Texas-USA---Remote/Senior-Software-Engineer--Agentic-AI_26WD101603-2",
+    "company": "autodesk",
+    "role": "Senior Software Engineer, Agentic AI",
+    "location": "Texas, USA - Remote",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Texas-USA---Remote/Senior-Software-Engineer--Agentic-AI_26WD101603-2",
+    "score": 96,
+    "source": "workday",
+    "coverage": 95,
+    "jd_skills": 19,
+    "matched_skills": 18,
+    "pdf": "state/tailored/2026-10-14/autodesk-senior-software-engineer-agentic-ai-96-d1016032.pdf",
+    "docx": "state/tailored/2026-10-14/autodesk-senior-software-engineer-agentic-ai-96-d1016032.docx"
+  },
+  {
+    "job_id": "greenhouse:alpaca:6223595004",
+    "company": "alpaca",
+    "role": "Staff Fullstack Engineer",
+    "location": "Remote - European Time Zones, Remote - Global - Eastern Time Zone, Remote - North America",
+    "url": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+    "score": 91,
+    "source": "greenhouse",
+    "coverage": 95,
+    "jd_skills": 20,
+    "matched_skills": 19,
+    "pdf": "state/tailored/2026-10-14/alpaca-staff-fullstack-engineer-91-23595004.pdf",
+    "docx": "state/tailored/2026-10-14/alpaca-staff-fullstack-engineer-91-23595004.docx"
+  },
+  {
+    "job_id": "greenhouse:coinbase:7773776",
+    "company": "coinbase",
+    "role": "Staff Software Engineer (Platform - Identity IDV)",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "url": "https://www.coinbase.com/careers/positions/7773776?gh_jid=7773776",
+    "score": 85,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-10-14/coinbase-staff-software-engineer-platform-identity-idv-85-7773776.pdf",
+    "docx": "state/tailored/2026-10-14/coinbase-staff-software-engineer-platform-identity-idv-85-7773776.docx"
+  }
+]
