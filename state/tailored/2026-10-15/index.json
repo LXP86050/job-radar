@@ -26,5 +26,61 @@
     "matched_skills": 9,
     "pdf": "state/tailored/2026-10-15/autodesk-senior-software-engineer-integrations-91-wd972531.pdf",
     "docx": "state/tailored/2026-10-15/autodesk-senior-software-engineer-integrations-91-wd972531.docx"
+  },
+  {
+    "job_id": "greenhouse:klaviyo:7688416003",
+    "company": "klaviyo",
+    "role": "Sr. Software Engineer, AI Enablement",
+    "location": "Boston",
+    "url": "https://www.klaviyo.com/careers/jobs/7688416003?gh_jid=7688416003",
+    "score": 96,
+    "source": "greenhouse",
+    "coverage": 95,
+    "jd_skills": 20,
+    "matched_skills": 19,
+    "pdf": "state/tailored/2026-10-15/klaviyo-sr-software-engineer-ai-enablement-96-88416003.pdf",
+    "docx": "state/tailored/2026-10-15/klaviyo-sr-software-engineer-ai-enablement-96-88416003.docx"
+  },
+  {
+    "job_id": "weworkremotely:lattice-senior-software-engineer-infrastructure-platform",
+    "company": "Lattice",
+    "role": "Senior Software Engineer, Infrastructure Platform",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/lattice-senior-software-engineer-infrastructure-platform",
+    "score": 94,
+    "source": "weworkremotely",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-10-15/lattice-senior-software-engineer-infrastructure-platform-94-platform.pdf",
+    "docx": "state/tailored/2026-10-15/lattice-senior-software-engineer-infrastructure-platform-94-platform.docx"
+  },
+  {
+    "job_id": "greenhouse:fivetran:8031480003",
+    "company": "fivetran",
+    "role": "Senior Software Engineer - SaaS Google connectors",
+    "location": "SRB - Novi Sad",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8031480003",
+    "score": 87,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-10-15/fivetran-senior-software-engineer-saas-google-connectors-87-31480003.pdf",
+    "docx": "state/tailored/2026-10-15/fivetran-senior-software-engineer-saas-google-connectors-87-31480003.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/India---Bangalore/Software-Engineering-LMTS_JR338174",
+    "company": "salesforce",
+    "role": "Software Engineering LMTS - Backend Distributed Systems",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Software-Engineering-LMTS_JR338174",
+    "score": 86,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-10-15/salesforce-software-engineering-lmts-backend-distributed-systems-86-jr338174.pdf",
+    "docx": "state/tailored/2026-10-15/salesforce-software-engineering-lmts-backend-distributed-systems-86-jr338174.docx"
   }
 ]
