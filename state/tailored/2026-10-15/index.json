@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "workday:hpe/Jobsathpe:/job/Sunnyvale-California-United-States-of-America/System---Software-engineer-II_1214005-1",
+    "company": "hpe",
+    "role": "System / Software engineer II",
+    "location": "Sunnyvale, California, United States of America",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/System---Software-engineer-II_1214005-1",
+    "score": 93,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-10-15/hpe-system-software-engineer-ii-93-12140051.pdf",
+    "docx": "state/tailored/2026-10-15/hpe-system-software-engineer-ii-93-12140051.docx"
+  },
+  {
+    "job_id": "workday:autodesk/Ext:/job/Brisbane-AUS/Senior-Software-Engineer--Integrations-_26WD97253-1",
+    "company": "autodesk",
+    "role": "Senior Software Engineer (Integrations)",
+    "location": "Brisbane, AUS",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Brisbane-AUS/Senior-Software-Engineer--Integrations-_26WD97253-1",
+    "score": 91,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-10-15/autodesk-senior-software-engineer-integrations-91-wd972531.pdf",
+    "docx": "state/tailored/2026-10-15/autodesk-senior-software-engineer-integrations-91-wd972531.docx"
+  }
+]
