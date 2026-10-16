@@ -12,5 +12,47 @@
     "matched_skills": 12,
     "pdf": "state/tailored/2026-10-16/nvidia-senior-ai-engineer-94-r2027194.pdf",
     "docx": "state/tailored/2026-10-16/nvidia-senior-ai-engineer-94-r2027194.docx"
+  },
+  {
+    "job_id": "greenhouse:databricks:8488399002",
+    "company": "databricks",
+    "role": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
+    "location": "Remote - California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8488399002",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-10-16/databricks-sr-forward-deployed-engineer-fde-digital-native-business-94-88399002.pdf",
+    "docx": "state/tailored/2026-10-16/databricks-sr-forward-deployed-engineer-fde-digital-native-business-94-88399002.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---San-Francisco/Software-Engineering-Architect_JR363089",
+    "company": "salesforce",
+    "role": "Software Engineering Architect",
+    "location": "California - San Francisco",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-Architect_JR363089",
+    "score": 90,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-10-16/salesforce-software-engineering-architect-90-jr363089.pdf",
+    "docx": "state/tailored/2026-10-16/salesforce-software-engineering-architect-90-jr363089.docx"
+  },
+  {
+    "job_id": "greenhouse:alpaca:6226254004",
+    "company": "alpaca",
+    "role": "Full-Stack Platform Engineer",
+    "location": "Remote - European Time Zones, Remote - Global - Eastern Time Zone, Remote - North America",
+    "url": "https://job-boards.greenhouse.io/alpaca/jobs/6226254004",
+    "score": 88,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-10-16/alpaca-full-stack-platform-engineer-88-26254004.pdf",
+    "docx": "state/tailored/2026-10-16/alpaca-full-stack-platform-engineer-88-26254004.docx"
   }
 ]
