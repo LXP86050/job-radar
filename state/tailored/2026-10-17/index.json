@@ -1,0 +1,72 @@
+[
+  {
+    "job_id": "greenhouse:customerio:7778291",
+    "company": "customerio",
+    "role": "Senior Software Engineer, Backend",
+    "location": "Americas Remote",
+    "url": "https://job-boards.greenhouse.io/customerio/jobs/7778291",
+    "score": 97,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-10-17/customerio-senior-software-engineer-backend-97-7778291.pdf",
+    "docx": "state/tailored/2026-10-17/customerio-senior-software-engineer-backend-97-7778291.docx"
+  },
+  {
+    "job_id": "greenhouse:customerio:7778289",
+    "company": "customerio",
+    "role": "Senior Software Engineer, Backend",
+    "location": "Americas Remote",
+    "url": "https://job-boards.greenhouse.io/customerio/jobs/7778289",
+    "score": 97,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-10-17/customerio-senior-software-engineer-backend-97-7778289.pdf",
+    "docx": "state/tailored/2026-10-17/customerio-senior-software-engineer-backend-97-7778289.docx"
+  },
+  {
+    "job_id": "workday:tmobile/External:/job/Bellevue-Washington/AI-Engineer_REQ379334",
+    "company": "tmobile",
+    "role": "AI Engineer",
+    "location": "2 Locations",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/AI-Engineer_REQ379334",
+    "score": 97,
+    "source": "workday",
+    "coverage": 91,
+    "jd_skills": 11,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-10-17/tmobile-ai-engineer-97-eq379334.pdf",
+    "docx": "state/tailored/2026-10-17/tmobile-ai-engineer-97-eq379334.docx"
+  },
+  {
+    "job_id": "ashby:perplexity:63785f62-07ac-4dc5-8f68-57779dddb1f3",
+    "company": "perplexity",
+    "role": "Member of Technical Staff (Software Engineer, Enterprise Trust & Governance)",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/perplexity/63785f62-07ac-4dc5-8f68-57779dddb1f3",
+    "score": 94,
+    "source": "ashby",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-10-17/perplexity-member-of-technical-staff-software-engineer-enterprise-trust-94-9dddb1f3.pdf",
+    "docx": "state/tailored/2026-10-17/perplexity-member-of-technical-staff-software-engineer-enterprise-trust-94-9dddb1f3.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Staff-Software-Engineer---AI-Agent-Platform_JR2027565",
+    "company": "nvidia",
+    "role": "Senior Staff Software Engineer - AI Agent Platform",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-Software-Engineer---AI-Agent-Platform_JR2027565",
+    "score": 94,
+    "source": "workday",
+    "coverage": 96,
+    "jd_skills": 23,
+    "matched_skills": 22,
+    "pdf": "state/tailored/2026-10-17/nvidia-senior-staff-software-engineer-ai-agent-platform-94-r2027565.pdf",
+    "docx": "state/tailored/2026-10-17/nvidia-senior-staff-software-engineer-ai-agent-platform-94-r2027565.docx"
+  }
+]
