@@ -40,5 +40,19 @@
     "matched_skills": 15,
     "pdf": "state/tailored/2026-10-18/twilio-staff-software-engineer-85-7944328.pdf",
     "docx": "state/tailored/2026-10-18/twilio-staff-software-engineer-85-7944328.docx"
+  },
+  {
+    "job_id": "weworkremotely:alloy-founding-forward-deployed-engineer",
+    "company": "Alloy",
+    "role": "Founding Forward Deployed Engineer",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer",
+    "score": 94,
+    "source": "weworkremotely",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-10-18/alloy-founding-forward-deployed-engineer-94-engineer.pdf",
+    "docx": "state/tailored/2026-10-18/alloy-founding-forward-deployed-engineer-94-engineer.docx"
   }
 ]
