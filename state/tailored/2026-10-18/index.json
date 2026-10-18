@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "job_id": "greenhouse:roblox:8016408",
+    "company": "roblox",
+    "role": "Senior Security Software Engineer, IAM",
+    "location": "San Mateo, CA",
+    "url": "https://careers.roblox.com/jobs/8016408?gh_jid=8016408",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 15,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-10-18/roblox-senior-security-software-engineer-iam-95-8016408.pdf",
+    "docx": "state/tailored/2026-10-18/roblox-senior-security-software-engineer-iam-95-8016408.docx"
+  },
+  {
+    "job_id": "greenhouse:reddit:8139781",
+    "company": "reddit",
+    "role": "Software Engineer, Content Platform",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8139781",
+    "score": 85,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-10-18/reddit-software-engineer-content-platform-85-8139781.pdf",
+    "docx": "state/tailored/2026-10-18/reddit-software-engineer-content-platform-85-8139781.docx"
+  },
+  {
+    "job_id": "greenhouse:twilio:7944328",
+    "company": "twilio",
+    "role": "Staff Software Engineer",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7944328",
+    "score": 85,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-10-18/twilio-staff-software-engineer-85-7944328.pdf",
+    "docx": "state/tailored/2026-10-18/twilio-staff-software-engineer-85-7944328.docx"
+  }
+]
