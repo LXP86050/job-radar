@@ -138,5 +138,61 @@
     "matched_skills": 20,
     "pdf": "state/tailored/2026-10-19/capitalone-full-stack-engineer-5-global-payment-network-87-10038061.pdf",
     "docx": "state/tailored/2026-10-19/capitalone-full-stack-engineer-5-global-payment-network-87-10038061.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/AI-Engineer-5--MLX--Agentic-AI--Gen-AI-platform-Services-_R1004098",
+    "company": "capitalone",
+    "role": "AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)",
+    "location": "5 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/AI-Engineer-5--MLX--Agentic-AI--Gen-AI-platform-Services-_R1004098",
+    "score": 97,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-10-19/capitalone-ai-engineer-5-mlx-agentic-ai-gen-ai-platform-services-97-r1004098.pdf",
+    "docx": "state/tailored/2026-10-19/capitalone-ai-engineer-5-mlx-agentic-ai-gen-ai-platform-services-97-r1004098.docx"
+  },
+  {
+    "job_id": "workday:hpe/Jobsathpe:/job/Durham-North-Carolina-United-States-of-America/Senior-Applied-Machine-Learning-Engineer_1216153-1",
+    "company": "hpe",
+    "role": "Senior Applied Machine Learning Engineer",
+    "location": "2 Locations",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Durham-North-Carolina-United-States-of-America/Senior-Applied-Machine-Learning-Engineer_1216153-1",
+    "score": 97,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-10-19/hpe-senior-applied-machine-learning-engineer-97-12161531.pdf",
+    "docx": "state/tailored/2026-10-19/hpe-senior-applied-machine-learning-engineer-97-12161531.docx"
+  },
+  {
+    "job_id": "greenhouse:zoominfo:8860060002",
+    "company": "zoominfo",
+    "role": "Software Engineer III - Analytical Data",
+    "location": "Waltham",
+    "url": "https://www.zoominfo.com/careers?gh_jid=8860060002",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-10-19/zoominfo-software-engineer-iii-analytical-data-94-60060002.pdf",
+    "docx": "state/tailored/2026-10-19/zoominfo-software-engineer-iii-analytical-data-94-60060002.docx"
+  },
+  {
+    "job_id": "greenhouse:roblox:8260221",
+    "company": "roblox",
+    "role": "Senior Software Engineer, Service Management",
+    "location": "San Mateo, CA",
+    "url": "https://careers.roblox.com/jobs/8260221?gh_jid=8260221",
+    "score": 92,
+    "source": "greenhouse",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-10-19/roblox-senior-software-engineer-service-management-92-8260221.pdf",
+    "docx": "state/tailored/2026-10-19/roblox-senior-software-engineer-service-management-92-8260221.docx"
   }
 ]
