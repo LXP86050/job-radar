@@ -1,0 +1,44 @@
+[
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/San-Jose-CA/AI-Engineer-5--AI-Foundations-_R1004112-1",
+    "company": "capitalone",
+    "role": "AI Engineer 5 (AI Foundations)",
+    "location": "4 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Jose-CA/AI-Engineer-5--AI-Foundations-_R1004112-1",
+    "score": 97,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-10-20/capitalone-ai-engineer-5-ai-foundations-97-10041121.pdf",
+    "docx": "state/tailored/2026-10-20/capitalone-ai-engineer-5-ai-foundations-97-10041121.docx"
+  },
+  {
+    "job_id": "greenhouse:roblox:8042578",
+    "company": "roblox",
+    "role": "Senior Software Engineer, Data Infrastructure Compute",
+    "location": "San Mateo, CA",
+    "url": "https://careers.roblox.com/jobs/8042578?gh_jid=8042578",
+    "score": 92,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-10-20/roblox-senior-software-engineer-data-infrastructure-compute-92-8042578.pdf",
+    "docx": "state/tailored/2026-10-20/roblox-senior-software-engineer-data-infrastructure-compute-92-8042578.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/San-Francisco--CA/AI-Engineer-4_R1004106-1",
+    "company": "capitalone",
+    "role": "AI Engineer 4",
+    "location": "5 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Francisco--CA/AI-Engineer-4_R1004106-1",
+    "score": 92,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-10-20/capitalone-ai-engineer-4-92-10041061.pdf",
+    "docx": "state/tailored/2026-10-20/capitalone-ai-engineer-4-92-10041061.docx"
+  }
+]
