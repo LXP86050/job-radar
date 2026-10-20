@@ -40,5 +40,61 @@
     "matched_skills": 12,
     "pdf": "state/tailored/2026-10-20/capitalone-ai-engineer-4-92-10041061.pdf",
     "docx": "state/tailored/2026-10-20/capitalone-ai-engineer-4-92-10041061.docx"
+  },
+  {
+    "job_id": "greenhouse:scaleai:4725133005",
+    "company": "scaleai",
+    "role": "Senior Software Engineer, AI Operations, GPS",
+    "location": "Doha, Qatar",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4725133005",
+    "score": 97,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 13,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-10-20/scaleai-senior-software-engineer-ai-operations-gps-97-25133005.pdf",
+    "docx": "state/tailored/2026-10-20/scaleai-senior-software-engineer-ai-operations-gps-97-25133005.docx"
+  },
+  {
+    "job_id": "greenhouse:roblox:8142712",
+    "company": "roblox",
+    "role": "Senior Software Engineer - Economy Platform",
+    "location": "San Mateo, CA",
+    "url": "https://careers.roblox.com/jobs/8142712?gh_jid=8142712",
+    "score": 92,
+    "source": "greenhouse",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-10-20/roblox-senior-software-engineer-economy-platform-92-8142712.pdf",
+    "docx": "state/tailored/2026-10-20/roblox-senior-software-engineer-economy-platform-92-8142712.docx"
+  },
+  {
+    "job_id": "greenhouse:lyft:8900209002",
+    "company": "lyft",
+    "role": "Staff Engineer, Luxury",
+    "location": "San Francisco Office",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8900209002?gh_jid=8900209002",
+    "score": 89,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-10-20/lyft-staff-engineer-luxury-89-00209002.pdf",
+    "docx": "state/tailored/2026-10-20/lyft-staff-engineer-luxury-89-00209002.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---San-Francisco/Software-Engineering-SMTS_JR363304-1",
+    "company": "salesforce",
+    "role": "Software Engineering SMTS",
+    "location": "California - San Francisco",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR363304-1",
+    "score": 88,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 25,
+    "matched_skills": 23,
+    "pdf": "state/tailored/2026-10-20/salesforce-software-engineering-smts-88-r3633041.pdf",
+    "docx": "state/tailored/2026-10-20/salesforce-software-engineering-smts-88-r3633041.docx"
   }
 ]
