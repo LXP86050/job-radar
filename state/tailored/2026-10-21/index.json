@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGXC-Data-Services_JR2003389",
+    "company": "nvidia",
+    "role": "Senior Cloud Software Engineer, DGXC Data Services",
+    "location": "2 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGXC-Data-Services_JR2003389",
+    "score": 91,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-10-21/nvidia-senior-cloud-software-engineer-dgxc-data-services-91-r2003389.pdf",
+    "docx": "state/tailored/2026-10-21/nvidia-senior-cloud-software-engineer-dgxc-data-services-91-r2003389.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---San-Francisco/Staff---Senior-Staff-Data-Platform-Engineer---Slack_JR365133-1",
+    "company": "salesforce",
+    "role": "Staff & Senior Staff Data Platform Engineer - Slack",
+    "location": "4 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Staff---Senior-Staff-Data-Platform-Engineer---Slack_JR365133-1",
+    "score": 86,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-10-21/salesforce-staff-senior-staff-data-platform-engineer-slack-86-r3651331.pdf",
+    "docx": "state/tailored/2026-10-21/salesforce-staff-senior-staff-data-platform-engineer-slack-86-r3651331.docx"
+  }
+]
