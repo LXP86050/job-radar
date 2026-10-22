@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "greenhouse:klaviyo:8041055003",
+    "company": "klaviyo",
+    "role": "Senior Software Engineer, Agent Runtime & Customer Workflows",
+    "location": "Boston",
+    "url": "https://www.klaviyo.com/careers/jobs/8041055003?gh_jid=8041055003",
+    "score": 99,
+    "source": "greenhouse",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-10-22/klaviyo-senior-software-engineer-agent-runtime-customer-workflows-99-41055003.pdf",
+    "docx": "state/tailored/2026-10-22/klaviyo-senior-software-engineer-agent-runtime-customer-workflows-99-41055003.docx"
+  },
+  {
+    "job_id": "greenhouse:klaviyo:8041054003",
+    "company": "klaviyo",
+    "role": "Software Engineer, Conversational Products & Agent Workflows",
+    "location": "Boston",
+    "url": "https://www.klaviyo.com/careers/jobs/8041054003?gh_jid=8041054003",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-10-22/klaviyo-software-engineer-conversational-products-agent-workflows-93-41054003.pdf",
+    "docx": "state/tailored/2026-10-22/klaviyo-software-engineer-conversational-products-agent-workflows-93-41054003.docx"
+  }
+]
