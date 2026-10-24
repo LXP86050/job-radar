@@ -12,5 +12,47 @@
     "matched_skills": 15,
     "pdf": "state/tailored/2026-10-24/zscaler-manager-ai-data-platform-engineering-94-68021007.pdf",
     "docx": "state/tailored/2026-10-24/zscaler-manager-ai-data-platform-engineering-94-68021007.docx"
+  },
+  {
+    "job_id": "greenhouse:reddit:6909093",
+    "company": "reddit",
+    "role": "Senior Software Engineer, Ads",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/6909093",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-10-24/reddit-senior-software-engineer-ads-95-6909093.pdf",
+    "docx": "state/tailored/2026-10-24/reddit-senior-software-engineer-ads-95-6909093.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/US-CA-Santa-Clara/Senior-Software-Engineer--Fleet-Intelligence-Backend_JR2023946",
+    "company": "nvidia",
+    "role": "Senior Software Engineer, Fleet Intelligence Backend",
+    "location": "2 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Fleet-Intelligence-Backend_JR2023946",
+    "score": 91,
+    "source": "workday",
+    "coverage": 93,
+    "jd_skills": 14,
+    "matched_skills": 13,
+    "pdf": "state/tailored/2026-10-24/nvidia-senior-software-engineer-fleet-intelligence-backend-91-r2023946.pdf",
+    "docx": "state/tailored/2026-10-24/nvidia-senior-software-engineer-fleet-intelligence-backend-91-r2023946.docx"
+  },
+  {
+    "job_id": "weworkremotely:oportun-senior-software-engineer-r14285",
+    "company": "Oportun",
+    "role": "Senior Software Engineer (R14285)",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/oportun-senior-software-engineer-r14285",
+    "score": 88,
+    "source": "weworkremotely",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-10-24/oportun-senior-software-engineer-r14285-88-err14285.pdf",
+    "docx": "state/tailored/2026-10-24/oportun-senior-software-engineer-r14285-88-err14285.docx"
   }
 ]
