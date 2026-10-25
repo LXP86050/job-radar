@@ -40,5 +40,19 @@
     "matched_skills": 15,
     "pdf": "state/tailored/2026-10-25/vercel-security-software-engineer-iam-92-93255004.pdf",
     "docx": "state/tailored/2026-10-25/vercel-security-software-engineer-iam-92-93255004.docx"
+  },
+  {
+    "job_id": "weworkremotely:planetscale-software-engineer-planetscale-postgres",
+    "company": "PlanetScale",
+    "role": "Software Engineer - PlanetScale Postgres",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
+    "score": 88,
+    "source": "weworkremotely",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-10-25/planetscale-software-engineer-planetscale-postgres-88-postgres.pdf",
+    "docx": "state/tailored/2026-10-25/planetscale-software-engineer-planetscale-postgres-88-postgres.docx"
   }
 ]
