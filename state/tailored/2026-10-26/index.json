@@ -54,5 +54,33 @@
     "matched_skills": 6,
     "pdf": "state/tailored/2026-10-26/lyft-senior-machine-learning-engineer-recommendations-85-30552002.pdf",
     "docx": "state/tailored/2026-10-26/lyft-senior-machine-learning-engineer-recommendations-85-30552002.docx"
+  },
+  {
+    "job_id": "greenhouse:grafanalabs:6208526004",
+    "company": "grafanalabs",
+    "role": "Staff FullStack Engineer - Application Core Services | Canada | Remote",
+    "location": "Canada (Remote), USA (Remote)",
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6208526004",
+    "score": 99,
+    "source": "greenhouse",
+    "coverage": 95,
+    "jd_skills": 20,
+    "matched_skills": 19,
+    "pdf": "state/tailored/2026-10-26/grafanalabs-staff-fullstack-engineer-application-core-services-canada-re-99-08526004.pdf",
+    "docx": "state/tailored/2026-10-26/grafanalabs-staff-fullstack-engineer-application-core-services-canada-re-99-08526004.docx"
+  },
+  {
+    "job_id": "greenhouse:braze:8112110",
+    "company": "braze",
+    "role": "Platform Software Engineer II",
+    "location": "New York City",
+    "url": "https://job-boards.greenhouse.io/braze/jobs/8112110",
+    "score": 87,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-10-26/braze-platform-software-engineer-ii-87-8112110.pdf",
+    "docx": "state/tailored/2026-10-26/braze-platform-software-engineer-ii-87-8112110.docx"
   }
 ]
