@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "job_id": "greenhouse:klaviyo:7780009003",
+    "company": "klaviyo",
+    "role": "Senior Software Engineer, Customer Agent",
+    "location": "Boston",
+    "url": "https://www.klaviyo.com/careers/jobs/7780009003?gh_jid=7780009003",
+    "score": 99,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-10-26/klaviyo-senior-software-engineer-customer-agent-99-80009003.pdf",
+    "docx": "state/tailored/2026-10-26/klaviyo-senior-software-engineer-customer-agent-99-80009003.docx"
+  },
+  {
+    "job_id": "greenhouse:klaviyo:7777369003",
+    "company": "klaviyo",
+    "role": "Senior Software Engineer - Infrastructure Security",
+    "location": "Boston",
+    "url": "https://www.klaviyo.com/careers/jobs/7777369003?gh_jid=7777369003",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-10-26/klaviyo-senior-software-engineer-infrastructure-security-95-77369003.pdf",
+    "docx": "state/tailored/2026-10-26/klaviyo-senior-software-engineer-infrastructure-security-95-77369003.docx"
+  },
+  {
+    "job_id": "greenhouse:klaviyo:7783904003",
+    "company": "klaviyo",
+    "role": "Senior Software Engineer, Platform Engineering",
+    "location": "Boston",
+    "url": "https://www.klaviyo.com/careers/jobs/7783904003?gh_jid=7783904003",
+    "score": 89,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-10-26/klaviyo-senior-software-engineer-platform-engineering-89-83904003.pdf",
+    "docx": "state/tailored/2026-10-26/klaviyo-senior-software-engineer-platform-engineering-89-83904003.docx"
+  },
+  {
+    "job_id": "greenhouse:lyft:8430552002",
+    "company": "lyft",
+    "role": "Senior Machine Learning Engineer, Recommendations",
+    "location": "San Francisco Office",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8430552002?gh_jid=8430552002",
+    "score": 85,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 6,
+    "matched_skills": 6,
+    "pdf": "state/tailored/2026-10-26/lyft-senior-machine-learning-engineer-recommendations-85-30552002.pdf",
+    "docx": "state/tailored/2026-10-26/lyft-senior-machine-learning-engineer-recommendations-85-30552002.docx"
+  }
+]
