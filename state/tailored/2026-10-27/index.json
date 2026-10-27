@@ -1,0 +1,44 @@
+[
+  {
+    "job_id": "workday:hpe/Jobsathpe:/job/Spring-Texas-United-States-of-America/Finance-Transformation-Data-AIML-Engineer_1215702-3",
+    "company": "hpe",
+    "role": "Finance Transformation Data/AIML Engineer",
+    "location": "Spring, Texas, United States of America",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Finance-Transformation-Data-AIML-Engineer_1215702-3",
+    "score": 94,
+    "source": "workday",
+    "coverage": 96,
+    "jd_skills": 25,
+    "matched_skills": 24,
+    "pdf": "state/tailored/2026-10-27/hpe-finance-transformation-data-aiml-engineer-94-12157023.pdf",
+    "docx": "state/tailored/2026-10-27/hpe-finance-transformation-data-aiml-engineer-94-12157023.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---San-Francisco/Distributed-Systems-Software-Engineer--GovCloud---Senior-Lead_JR333480",
+    "company": "salesforce",
+    "role": "Distributed Systems Software Engineer, GovCloud - Senior/Lead",
+    "location": "4 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Distributed-Systems-Software-Engineer--GovCloud---Senior-Lead_JR333480",
+    "score": 92,
+    "source": "workday",
+    "coverage": 94,
+    "jd_skills": 18,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-10-27/salesforce-distributed-systems-software-engineer-govcloud-senior-lead-92-jr333480.pdf",
+    "docx": "state/tailored/2026-10-27/salesforce-distributed-systems-software-engineer-govcloud-senior-lead-92-jr333480.docx"
+  },
+  {
+    "job_id": "greenhouse:figma:5552549004",
+    "company": "figma",
+    "role": "Software Engineer - Distributed Systems",
+    "location": "Canada, US",
+    "url": "https://boards.greenhouse.io/figma/jobs/5552549004?gh_jid=5552549004",
+    "score": 87,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-10-27/figma-software-engineer-distributed-systems-87-52549004.pdf",
+    "docx": "state/tailored/2026-10-27/figma-software-engineer-distributed-systems-87-52549004.docx"
+  }
+]
