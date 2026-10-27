@@ -40,5 +40,47 @@
     "matched_skills": 12,
     "pdf": "state/tailored/2026-10-27/figma-software-engineer-distributed-systems-87-52549004.pdf",
     "docx": "state/tailored/2026-10-27/figma-software-engineer-distributed-systems-87-52549004.docx"
+  },
+  {
+    "job_id": "greenhouse:grafanalabs:6223972004",
+    "company": "grafanalabs",
+    "role": "Senior Fullstack Engineer - Grafana Data Source Plugins | NASA | (Remote, Canada)",
+    "location": "USA (Remote)",
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6223972004",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-10-27/grafanalabs-senior-fullstack-engineer-grafana-data-source-plugins-nasa-r-95-23972004.pdf",
+    "docx": "state/tailored/2026-10-27/grafanalabs-senior-fullstack-engineer-grafana-data-source-plugins-nasa-r-95-23972004.docx"
+  },
+  {
+    "job_id": "workday:paypal/jobs:/job/Austin-Texas-United-States-of-America/Staff-Software-Engineer--Database---Caching-Infrastructure_R0138200",
+    "company": "paypal",
+    "role": "Staff Software Engineer, Database & Caching Infrastructure",
+    "location": "Austin, Texas, United States of America",
+    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Staff-Software-Engineer--Database---Caching-Infrastructure_R0138200",
+    "score": 95,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-10-27/paypal-staff-software-engineer-database-caching-infrastructure-95-r0138200.pdf",
+    "docx": "state/tailored/2026-10-27/paypal-staff-software-engineer-database-caching-infrastructure-95-r0138200.docx"
+  },
+  {
+    "job_id": "greenhouse:coinbase:8160557",
+    "company": "coinbase",
+    "role": "Staff Software Engineer, Compute Platform (Routing)",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "url": "https://www.coinbase.com/careers/positions/8160557?gh_jid=8160557",
+    "score": 89,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-10-27/coinbase-staff-software-engineer-compute-platform-routing-89-8160557.pdf",
+    "docx": "state/tailored/2026-10-27/coinbase-staff-software-engineer-compute-platform-routing-89-8160557.docx"
   }
 ]
