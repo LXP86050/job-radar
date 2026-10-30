@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "greenhouse:boxinc:8318475",
+    "company": "boxinc",
+    "role": "Software Engineer III, Kubernetes",
+    "location": "Redwood City Office",
+    "url": "https://job-boards.greenhouse.io/boxinc/jobs/8318475",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-10-30/boxinc-software-engineer-iii-kubernetes-93-8318475.pdf",
+    "docx": "state/tailored/2026-10-30/boxinc-software-engineer-iii-kubernetes-93-8318475.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Washington---Seattle/Software-Engineering-Architect---Digital-Marketing-Technology_JR365295",
+    "company": "salesforce",
+    "role": "Software Engineering Architect — Digital Marketing Technology",
+    "location": "6 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Seattle/Software-Engineering-Architect---Digital-Marketing-Technology_JR365295",
+    "score": 86,
+    "source": "workday",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-10-30/salesforce-software-engineering-architect-digital-marketing-technology-86-jr365295.pdf",
+    "docx": "state/tailored/2026-10-30/salesforce-software-engineering-architect-digital-marketing-technology-86-jr365295.docx"
+  }
+]
