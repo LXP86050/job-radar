@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "ashby:perplexity:3f800e42-7c48-4f9a-9b12-43ee23e52516",
+    "company": "perplexity",
+    "role": "Member of Technical Staff (Software Engineer, API Platform)",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/perplexity/3f800e42-7c48-4f9a-9b12-43ee23e52516",
+    "score": 93,
+    "source": "ashby",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-10-31/perplexity-member-of-technical-staff-software-engineer-api-platform-93-23e52516.pdf",
+    "docx": "state/tailored/2026-10-31/perplexity-member-of-technical-staff-software-engineer-api-platform-93-23e52516.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/Texas---Dallas/Software-Engineer--Full-Stack---AI-Native-Development--MTS-_JR365146",
+    "company": "salesforce",
+    "role": "Software Engineer, Full Stack & AI-Native Development (MTS)",
+    "location": "Texas - Dallas",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Texas---Dallas/Software-Engineer--Full-Stack---AI-Native-Development--MTS-_JR365146",
+    "score": 87,
+    "source": "workday",
+    "coverage": 95,
+    "jd_skills": 22,
+    "matched_skills": 21,
+    "pdf": "state/tailored/2026-10-31/salesforce-software-engineer-full-stack-ai-native-development-mts-87-jr365146.pdf",
+    "docx": "state/tailored/2026-10-31/salesforce-software-engineer-full-stack-ai-native-development-mts-87-jr365146.docx"
+  }
+]
