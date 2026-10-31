@@ -26,5 +26,61 @@
     "matched_skills": 21,
     "pdf": "state/tailored/2026-10-31/salesforce-software-engineer-full-stack-ai-native-development-mts-87-jr365146.pdf",
     "docx": "state/tailored/2026-10-31/salesforce-software-engineer-full-stack-ai-native-development-mts-87-jr365146.docx"
+  },
+  {
+    "job_id": "greenhouse:coinbase:8166218",
+    "company": "coinbase",
+    "role": "Staff Software Engineer, Enterprise Apps",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "url": "https://www.coinbase.com/careers/positions/8166218?gh_jid=8166218",
+    "score": 92,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-10-31/coinbase-staff-software-engineer-enterprise-apps-92-8166218.pdf",
+    "docx": "state/tailored/2026-10-31/coinbase-staff-software-engineer-enterprise-apps-92-8166218.docx"
+  },
+  {
+    "job_id": "greenhouse:attentive:4301174009",
+    "company": "attentive",
+    "role": "Staff Software Engineer, Onsite Customer Growth",
+    "location": "New York, NY (Hybrid)",
+    "url": "https://job-boards.greenhouse.io/attentive/jobs/4301174009",
+    "score": 90,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-10-31/attentive-staff-software-engineer-onsite-customer-growth-90-01174009.pdf",
+    "docx": "state/tailored/2026-10-31/attentive-staff-software-engineer-onsite-customer-growth-90-01174009.docx"
+  },
+  {
+    "job_id": "ashby:supabase:fb0b563a-e541-43fd-8555-9eb6473aaa11",
+    "company": "supabase",
+    "role": "Software Engineer - AI Tooling Infrastructure",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/supabase/fb0b563a-e541-43fd-8555-9eb6473aaa11",
+    "score": 89,
+    "source": "ashby",
+    "coverage": 95,
+    "jd_skills": 20,
+    "matched_skills": 19,
+    "pdf": "state/tailored/2026-10-31/supabase-software-engineer-ai-tooling-infrastructure-89-473aaa11.pdf",
+    "docx": "state/tailored/2026-10-31/supabase-software-engineer-ai-tooling-infrastructure-89-473aaa11.docx"
+  },
+  {
+    "job_id": "weworkremotely:gitlab-backend-engineer-knowledge-graph",
+    "company": "GitLab",
+    "role": "Backend Engineer, Knowledge Graph",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-knowledge-graph",
+    "score": 85,
+    "source": "weworkremotely",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-10-31/gitlab-backend-engineer-knowledge-graph-85-dgegraph.pdf",
+    "docx": "state/tailored/2026-10-31/gitlab-backend-engineer-knowledge-graph-85-dgegraph.docx"
   }
 ]
