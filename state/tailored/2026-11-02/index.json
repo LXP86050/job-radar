@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "job_id": "greenhouse:cloudflare:8173707",
+    "company": "cloudflare",
+    "role": "Senior Forward Deployed Engineer",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8173707?gh_jid=8173707",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-11-02/cloudflare-senior-forward-deployed-engineer-95-8173707.pdf",
+    "docx": "state/tailored/2026-11-02/cloudflare-senior-forward-deployed-engineer-95-8173707.docx"
+  },
+  {
+    "job_id": "greenhouse:databricks:8924868002",
+    "company": "databricks",
+    "role": "Sr. Software Engineer- Databricks AI",
+    "location": "USCA",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8924868002",
+    "score": 95,
+    "source": "greenhouse",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-11-02/databricks-sr-software-engineer-databricks-ai-95-24868002.pdf",
+    "docx": "state/tailored/2026-11-02/databricks-sr-software-engineer-databricks-ai-95-24868002.docx"
+  },
+  {
+    "job_id": "greenhouse:scaleai:4729820005",
+    "company": "scaleai",
+    "role": "Staff Software Engineer, RL Environments",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729820005",
+    "score": 92,
+    "source": "greenhouse",
+    "coverage": 95,
+    "jd_skills": 22,
+    "matched_skills": 21,
+    "pdf": "state/tailored/2026-11-02/scaleai-staff-software-engineer-rl-environments-92-29820005.pdf",
+    "docx": "state/tailored/2026-11-02/scaleai-staff-software-engineer-rl-environments-92-29820005.docx"
+  },
+  {
+    "job_id": "greenhouse:zscaler:5202464007",
+    "company": "zscaler",
+    "role": "Staff Software Engineer - AI Security (Go/Rust/Python)",
+    "location": "Office - Santa Clara, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5202464007",
+    "score": 88,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-11-02/zscaler-staff-software-engineer-ai-security-go-rust-python-88-02464007.pdf",
+    "docx": "state/tailored/2026-11-02/zscaler-staff-software-engineer-ai-security-go-rust-python-88-02464007.docx"
+  }
+]
