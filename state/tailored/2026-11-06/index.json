@@ -26,5 +26,61 @@
     "matched_skills": 11,
     "pdf": "state/tailored/2026-11-06/nvidia-senior-devops-platform-engineer-89-r2028818.pdf",
     "docx": "state/tailored/2026-11-06/nvidia-senior-devops-platform-engineer-89-r2028818.docx"
+  },
+  {
+    "job_id": "greenhouse:scaleai:4751059005",
+    "company": "scaleai",
+    "role": "Applied AI Engineer",
+    "location": "Kuwait City, Kuwait",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4751059005",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 15,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-11-06/scaleai-applied-ai-engineer-94-51059005.pdf",
+    "docx": "state/tailored/2026-11-06/scaleai-applied-ai-engineer-94-51059005.docx"
+  },
+  {
+    "job_id": "greenhouse:coinbase:8356850",
+    "company": "coinbase",
+    "role": "Staff Software Engineer, Frontend/Mobile (Consumer - Agentic Trading)",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "url": "https://www.coinbase.com/careers/positions/8356850?gh_jid=8356850",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-11-06/coinbase-staff-software-engineer-frontend-mobile-consumer-agentic-tra-93-8356850.pdf",
+    "docx": "state/tailored/2026-11-06/coinbase-staff-software-engineer-frontend-mobile-consumer-agentic-tra-93-8356850.docx"
+  },
+  {
+    "job_id": "greenhouse:scaleai:4751635005",
+    "company": "scaleai",
+    "role": "Senior Full-Stack Software Engineer, (Forward deployed), GPS",
+    "location": "Kuwait City, Kuwait",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4751635005",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 95,
+    "jd_skills": 21,
+    "matched_skills": 20,
+    "pdf": "state/tailored/2026-11-06/scaleai-senior-full-stack-software-engineer-forward-deployed-gps-93-51635005.pdf",
+    "docx": "state/tailored/2026-11-06/scaleai-senior-full-stack-software-engineer-forward-deployed-gps-93-51635005.docx"
+  },
+  {
+    "job_id": "greenhouse:scaleai:4751645005",
+    "company": "scaleai",
+    "role": "Full-Stack Software Engineer, (Forward Deployed), GPS",
+    "location": "Kuwait City, Kuwait",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4751645005",
+    "score": 90,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-11-06/scaleai-full-stack-software-engineer-forward-deployed-gps-90-51645005.pdf",
+    "docx": "state/tailored/2026-11-06/scaleai-full-stack-software-engineer-forward-deployed-gps-90-51645005.docx"
   }
 ]
