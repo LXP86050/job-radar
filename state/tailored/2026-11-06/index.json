@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "greenhouse:roblox:8315904",
+    "company": "roblox",
+    "role": "Senior Software Engineer, Ads Measurement",
+    "location": "San Mateo, CA",
+    "url": "https://careers.roblox.com/jobs/8315904?gh_jid=8315904",
+    "score": 92,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-11-06/roblox-senior-software-engineer-ads-measurement-92-8315904.pdf",
+    "docx": "state/tailored/2026-11-06/roblox-senior-software-engineer-ads-measurement-92-8315904.docx"
+  },
+  {
+    "job_id": "workday:nvidia/NVIDIAExternalCareerSite:/job/Israel-Raanana/Senior-DevOps-Platform-Engineer_JR2028818",
+    "company": "nvidia",
+    "role": "Senior DevOps Platform Engineer",
+    "location": "Israel, Raanana",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-DevOps-Platform-Engineer_JR2028818",
+    "score": 89,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-11-06/nvidia-senior-devops-platform-engineer-89-r2028818.pdf",
+    "docx": "state/tailored/2026-11-06/nvidia-senior-devops-platform-engineer-89-r2028818.docx"
+  }
+]
