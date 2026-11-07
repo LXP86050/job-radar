@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "greenhouse:sofi:8197346003",
+    "company": "sofi",
+    "role": "Senior Software Engineer, AI Platform - Prism",
+    "location": "CA - San Francisco",
+    "url": "https://sofi.com/careers/job/8197346003?gh_jid=8197346003",
+    "score": 91,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-11-07/sofi-senior-software-engineer-ai-platform-prism-91-97346003.pdf",
+    "docx": "state/tailored/2026-11-07/sofi-senior-software-engineer-ai-platform-prism-91-97346003.docx"
+  },
+  {
+    "job_id": "greenhouse:cloudflare:8360609",
+    "company": "cloudflare",
+    "role": "Software Engineer - Load Balancing",
+    "location": "Austin, TX, New York, NY, San Francisco, CA",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8360609?gh_jid=8360609",
+    "score": 89,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-11-07/cloudflare-software-engineer-load-balancing-89-8360609.pdf",
+    "docx": "state/tailored/2026-11-07/cloudflare-software-engineer-load-balancing-89-8360609.docx"
+  }
+]
