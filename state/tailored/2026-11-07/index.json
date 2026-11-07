@@ -26,5 +26,33 @@
     "matched_skills": 11,
     "pdf": "state/tailored/2026-11-07/cloudflare-software-engineer-load-balancing-89-8360609.pdf",
     "docx": "state/tailored/2026-11-07/cloudflare-software-engineer-load-balancing-89-8360609.docx"
+  },
+  {
+    "job_id": "greenhouse:klaviyo:7597868003",
+    "company": "klaviyo",
+    "role": "Senior Software Engineer - Profiles, Lists and Segments",
+    "location": "Boston",
+    "url": "https://www.klaviyo.com/careers/jobs/7597868003?gh_jid=7597868003",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-11-07/klaviyo-senior-software-engineer-profiles-lists-and-segments-94-97868003.pdf",
+    "docx": "state/tailored/2026-11-07/klaviyo-senior-software-engineer-profiles-lists-and-segments-94-97868003.docx"
+  },
+  {
+    "job_id": "greenhouse:klaviyo:7792539003",
+    "company": "klaviyo",
+    "role": "Software Engineer II (Mobile Developer - Android/Kotlin) - Remote",
+    "location": "Boston",
+    "url": "https://www.klaviyo.com/careers/jobs/7792539003?gh_jid=7792539003",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-11-07/klaviyo-software-engineer-ii-mobile-developer-android-kotlin-remote-94-92539003.pdf",
+    "docx": "state/tailored/2026-11-07/klaviyo-software-engineer-ii-mobile-developer-android-kotlin-remote-94-92539003.docx"
   }
 ]
