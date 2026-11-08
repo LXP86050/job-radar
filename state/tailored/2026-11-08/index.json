@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "job_id": "greenhouse:scaleai:4713608005",
+    "company": "scaleai",
+    "role": "Staff Software Engineer, Full Stack - Gen AI",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4713608005",
+    "score": 97,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-11-08/scaleai-staff-software-engineer-full-stack-gen-ai-97-13608005.pdf",
+    "docx": "state/tailored/2026-11-08/scaleai-staff-software-engineer-full-stack-gen-ai-97-13608005.docx"
+  },
+  {
+    "job_id": "greenhouse:verkada:4128603007",
+    "company": "verkada",
+    "role": "Staff Backend Engineer - Streaming",
+    "location": "Bay-HQ office",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/4128603007",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-11-08/verkada-staff-backend-engineer-streaming-94-28603007.pdf",
+    "docx": "state/tailored/2026-11-08/verkada-staff-backend-engineer-streaming-94-28603007.docx"
+  },
+  {
+    "job_id": "greenhouse:scaleai:4665557005",
+    "company": "scaleai",
+    "role": "Infrastructure Software Engineer, Enterprise GenAI",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4665557005",
+    "score": 91,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 15,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-11-08/scaleai-infrastructure-software-engineer-enterprise-genai-91-65557005.pdf",
+    "docx": "state/tailored/2026-11-08/scaleai-infrastructure-software-engineer-enterprise-genai-91-65557005.docx"
+  },
+  {
+    "job_id": "greenhouse:boxinc:8186622",
+    "company": "boxinc",
+    "role": "Software Engineer III, Network Platform",
+    "location": "Redwood City Office",
+    "url": "https://job-boards.greenhouse.io/boxinc/jobs/8186622",
+    "score": 87,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-11-08/boxinc-software-engineer-iii-network-platform-87-8186622.pdf",
+    "docx": "state/tailored/2026-11-08/boxinc-software-engineer-iii-network-platform-87-8186622.docx"
+  }
+]
