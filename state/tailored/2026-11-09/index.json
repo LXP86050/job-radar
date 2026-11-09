@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "job_id": "greenhouse:vercel:5798406004",
+    "company": "vercel",
+    "role": "Software Engineer, AI Gateway",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/5798406004",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-11-09/vercel-software-engineer-ai-gateway-94-98406004.pdf",
+    "docx": "state/tailored/2026-11-09/vercel-software-engineer-ai-gateway-94-98406004.docx"
+  },
+  {
+    "job_id": "greenhouse:gitlab:8770702002",
+    "company": "gitlab",
+    "role": "Staff Backend Engineer, Database Automation (Go)",
+    "location": "Canada, United States of America",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8770702002",
+    "score": 91,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-11-09/gitlab-staff-backend-engineer-database-automation-go-91-70702002.pdf",
+    "docx": "state/tailored/2026-11-09/gitlab-staff-backend-engineer-database-automation-go-91-70702002.docx"
+  },
+  {
+    "job_id": "workday:citi/2:/job/Chennai-Tamil-Nadu-India/Lead-Java-Backend-Engineer---Vice-President_26984220",
+    "company": "citi",
+    "role": "Lead Java Backend Engineer - Vice President",
+    "location": "2 Locations",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chennai-Tamil-Nadu-India/Lead-Java-Backend-Engineer---Vice-President_26984220",
+    "score": 87,
+    "source": "workday",
+    "coverage": 95,
+    "jd_skills": 22,
+    "matched_skills": 21,
+    "pdf": "state/tailored/2026-11-09/citi-lead-java-backend-engineer-vice-president-87-26984220.pdf",
+    "docx": "state/tailored/2026-11-09/citi-lead-java-backend-engineer-vice-president-87-26984220.docx"
+  }
+]
