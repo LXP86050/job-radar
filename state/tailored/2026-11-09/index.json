@@ -40,5 +40,61 @@
     "matched_skills": 21,
     "pdf": "state/tailored/2026-11-09/citi-lead-java-backend-engineer-vice-president-87-26984220.pdf",
     "docx": "state/tailored/2026-11-09/citi-lead-java-backend-engineer-vice-president-87-26984220.docx"
+  },
+  {
+    "job_id": "greenhouse:boxinc:8351026",
+    "company": "boxinc",
+    "role": "Senior Software Engineer, Omni",
+    "location": "Redwood City Office",
+    "url": "https://job-boards.greenhouse.io/boxinc/jobs/8351026",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-11-09/boxinc-senior-software-engineer-omni-93-8351026.pdf",
+    "docx": "state/tailored/2026-11-09/boxinc-senior-software-engineer-omni-93-8351026.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/McLean-VA/Sr-Manager-Full-Stack-Engineer--People-Leader-_R1005438-1",
+    "company": "capitalone",
+    "role": "Sr. Manager Full Stack Engineer (People Leader)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Manager-Full-Stack-Engineer--People-Leader-_R1005438-1",
+    "score": 93,
+    "source": "workday",
+    "coverage": 95,
+    "jd_skills": 20,
+    "matched_skills": 19,
+    "pdf": "state/tailored/2026-11-09/capitalone-sr-manager-full-stack-engineer-people-leader-93-10054381.pdf",
+    "docx": "state/tailored/2026-11-09/capitalone-sr-manager-full-stack-engineer-people-leader-93-10054381.docx"
+  },
+  {
+    "job_id": "workday:capitalone/Capital_One:/job/New-York-NY/Staff-Full-Stack-Engineer--AI---Emerging-Tech_R1005376-1",
+    "company": "capitalone",
+    "role": "Staff Full Stack Engineer, AI & Emerging Tech",
+    "location": "4 Locations",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Staff-Full-Stack-Engineer--AI---Emerging-Tech_R1005376-1",
+    "score": 93,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 20,
+    "matched_skills": 20,
+    "pdf": "state/tailored/2026-11-09/capitalone-staff-full-stack-engineer-ai-emerging-tech-93-10053761.pdf",
+    "docx": "state/tailored/2026-11-09/capitalone-staff-full-stack-engineer-ai-emerging-tech-93-10053761.docx"
+  },
+  {
+    "job_id": "workday:salesforce/External_Career_Site:/job/California---San-Francisco/Software-Engineering-LMTS-PMTS_JR367127",
+    "company": "salesforce",
+    "role": "Software Engineering LMTS/PMTS",
+    "location": "2 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-LMTS-PMTS_JR367127",
+    "score": 87,
+    "source": "workday",
+    "coverage": 100,
+    "jd_skills": 17,
+    "matched_skills": 17,
+    "pdf": "state/tailored/2026-11-09/salesforce-software-engineering-lmts-pmts-87-jr367127.pdf",
+    "docx": "state/tailored/2026-11-09/salesforce-software-engineering-lmts-pmts-87-jr367127.docx"
   }
 ]
