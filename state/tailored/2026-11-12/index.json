@@ -1,0 +1,58 @@
+[
+  {
+    "job_id": "greenhouse:mongodb:8366703",
+    "company": "mongodb",
+    "role": "Software Engineer 3",
+    "location": "New York City",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8366703",
+    "score": 90,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-11-12/mongodb-software-engineer-3-90-8366703.pdf",
+    "docx": "state/tailored/2026-11-12/mongodb-software-engineer-3-90-8366703.docx"
+  },
+  {
+    "job_id": "greenhouse:mongodb:8367902",
+    "company": "mongodb",
+    "role": "Software Engineer 3",
+    "location": "New York City",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8367902",
+    "score": 89,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-11-12/mongodb-software-engineer-3-89-8367902.pdf",
+    "docx": "state/tailored/2026-11-12/mongodb-software-engineer-3-89-8367902.docx"
+  },
+  {
+    "job_id": "greenhouse:mongodb:8351199",
+    "company": "mongodb",
+    "role": "Software Engineer 3",
+    "location": "New York City",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8351199",
+    "score": 89,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-11-12/mongodb-software-engineer-3-89-8351199.pdf",
+    "docx": "state/tailored/2026-11-12/mongodb-software-engineer-3-89-8351199.docx"
+  },
+  {
+    "job_id": "greenhouse:mongodb:8348102",
+    "company": "mongodb",
+    "role": "Software Engineer 3",
+    "location": "New York City",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8348102",
+    "score": 88,
+    "source": "greenhouse",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-11-12/mongodb-software-engineer-3-88-8348102.pdf",
+    "docx": "state/tailored/2026-11-12/mongodb-software-engineer-3-88-8348102.docx"
+  }
+]
