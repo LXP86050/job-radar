@@ -124,5 +124,33 @@
     "matched_skills": 8,
     "pdf": "state/tailored/2026-11-14/databricks-sr-forward-deployed-engineer-fde-digital-native-business-94-07033002.pdf",
     "docx": "state/tailored/2026-11-14/databricks-sr-forward-deployed-engineer-fde-digital-native-business-94-07033002.docx"
+  },
+  {
+    "job_id": "weworkremotely:life360-senior-software-engineer-verticals-ai-native",
+    "company": "Life360",
+    "role": "Senior Software Engineer, Verticals (AI Native)",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/life360-senior-software-engineer-verticals-ai-native",
+    "score": 92,
+    "source": "weworkremotely",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-11-14/life360-senior-software-engineer-verticals-ai-native-92-ainative.pdf",
+    "docx": "state/tailored/2026-11-14/life360-senior-software-engineer-verticals-ai-native-92-ainative.docx"
+  },
+  {
+    "job_id": "weworkremotely:true-talent-solutions-partners-senior-software-engineer-design",
+    "company": "True Talent Solutions Partners",
+    "role": "Senior Software Engineer, Design",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-senior-software-engineer-design",
+    "score": 87,
+    "source": "weworkremotely",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-11-14/true-talent-solutions-partners-senior-software-engineer-design-87-erdesign.pdf",
+    "docx": "state/tailored/2026-11-14/true-talent-solutions-partners-senior-software-engineer-design-87-erdesign.docx"
   }
 ]
