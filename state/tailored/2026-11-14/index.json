@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "remoteok:1137793",
+    "company": "Supabase",
+    "role": "Software Engineer AI Tooling",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
+    "score": 92,
+    "source": "remoteok",
+    "coverage": 100,
+    "jd_skills": 12,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-11-14/supabase-software-engineer-ai-tooling-92-1137793.pdf",
+    "docx": "state/tailored/2026-11-14/supabase-software-engineer-ai-tooling-92-1137793.docx"
+  },
+  {
+    "job_id": "greenhouse:brex:8606885002",
+    "company": "brex",
+    "role": "AI Engineer, Ecosystem",
+    "location": "San Francisco, CA, Seattle, WA",
+    "url": "https://www.brex.com/careers/8606885002?gh_jid=8606885002",
+    "score": 90,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-11-14/brex-ai-engineer-ecosystem-90-06885002.pdf",
+    "docx": "state/tailored/2026-11-14/brex-ai-engineer-ecosystem-90-06885002.docx"
+  }
+]
