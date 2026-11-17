@@ -96,5 +96,33 @@
     "matched_skills": 10,
     "pdf": "state/tailored/2026-11-17/boxinc-senior-software-engineer-query-platform-87-8393885.pdf",
     "docx": "state/tailored/2026-11-17/boxinc-senior-software-engineer-query-platform-87-8393885.docx"
+  },
+  {
+    "job_id": "greenhouse:databricks:8815669002",
+    "company": "databricks",
+    "role": "Sr. Software Engineer - Ingestion Core team",
+    "location": "San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8815669002",
+    "score": 97,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-11-17/databricks-sr-software-engineer-ingestion-core-team-97-15669002.pdf",
+    "docx": "state/tailored/2026-11-17/databricks-sr-software-engineer-ingestion-core-team-97-15669002.docx"
+  },
+  {
+    "job_id": "greenhouse:airbnb:8209244",
+    "company": "airbnb",
+    "role": "Senior Software Engineer, Tech Foundations",
+    "location": "California, United States",
+    "url": "https://careers.airbnb.com/positions/8209244?gh_jid=8209244",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 93,
+    "jd_skills": 15,
+    "matched_skills": 14,
+    "pdf": "state/tailored/2026-11-17/airbnb-senior-software-engineer-tech-foundations-93-8209244.pdf",
+    "docx": "state/tailored/2026-11-17/airbnb-senior-software-engineer-tech-foundations-93-8209244.docx"
   }
 ]
