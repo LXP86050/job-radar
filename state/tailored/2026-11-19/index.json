@@ -82,5 +82,47 @@
     "matched_skills": 7,
     "pdf": "state/tailored/2026-11-19/toast-senior-software-engineer-care-automation-86-8152954.pdf",
     "docx": "state/tailored/2026-11-19/toast-senior-software-engineer-care-automation-86-8152954.docx"
+  },
+  {
+    "job_id": "greenhouse:boxinc:8198219",
+    "company": "boxinc",
+    "role": "Senior Software Engineer, AI Experience",
+    "location": "Redwood City Office",
+    "url": "https://job-boards.greenhouse.io/boxinc/jobs/8198219",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 10,
+    "matched_skills": 10,
+    "pdf": "state/tailored/2026-11-19/boxinc-senior-software-engineer-ai-experience-94-8198219.pdf",
+    "docx": "state/tailored/2026-11-19/boxinc-senior-software-engineer-ai-experience-94-8198219.docx"
+  },
+  {
+    "job_id": "weworkremotely:netlify-staff-software-engineer-interfaces",
+    "company": "Netlify",
+    "role": "Staff Software Engineer (Interfaces)",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/netlify-staff-software-engineer-interfaces",
+    "score": 92,
+    "source": "weworkremotely",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-11-19/netlify-staff-software-engineer-interfaces-92-terfaces.pdf",
+    "docx": "state/tailored/2026-11-19/netlify-staff-software-engineer-interfaces-92-terfaces.docx"
+  },
+  {
+    "job_id": "weworkremotely:circleci-senior-software-engineer-query",
+    "company": "CircleCI",
+    "role": "Senior Software Engineer, Query",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer-query",
+    "score": 90,
+    "source": "weworkremotely",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-11-19/circleci-senior-software-engineer-query-90-eerquery.pdf",
+    "docx": "state/tailored/2026-11-19/circleci-senior-software-engineer-query-90-eerquery.docx"
   }
 ]
