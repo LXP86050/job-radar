@@ -124,5 +124,19 @@
     "matched_skills": 7,
     "pdf": "state/tailored/2026-11-19/circleci-senior-software-engineer-query-90-eerquery.pdf",
     "docx": "state/tailored/2026-11-19/circleci-senior-software-engineer-query-90-eerquery.docx"
+  },
+  {
+    "job_id": "greenhouse:pinterest:8346516",
+    "company": "pinterest",
+    "role": "Staff Machine Learning Engineer, Homefeed & Search Quality",
+    "location": "Seattle",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8346516",
+    "score": 86,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-11-19/pinterest-staff-machine-learning-engineer-homefeed-search-quality-86-8346516.pdf",
+    "docx": "state/tailored/2026-11-19/pinterest-staff-machine-learning-engineer-homefeed-search-quality-86-8346516.docx"
   }
 ]
