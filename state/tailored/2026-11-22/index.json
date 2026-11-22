@@ -152,5 +152,47 @@
     "matched_skills": 8,
     "pdf": "state/tailored/2026-11-22/roblox-senior-software-engineer-developer-tools-85-8211271.pdf",
     "docx": "state/tailored/2026-11-22/roblox-senior-software-engineer-developer-tools-85-8211271.docx"
+  },
+  {
+    "job_id": "weworkremotely:smartsheet-sr-software-engineer-i-remote-eligible",
+    "company": "Smartsheet",
+    "role": "Sr. Software Engineer I (Remote Eligible)",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/smartsheet-sr-software-engineer-i-remote-eligible",
+    "score": 95,
+    "source": "weworkremotely",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-11-22/smartsheet-sr-software-engineer-i-remote-eligible-95-eligible.pdf",
+    "docx": "state/tailored/2026-11-22/smartsheet-sr-software-engineer-i-remote-eligible-95-eligible.docx"
+  },
+  {
+    "job_id": "weworkremotely:discord-staff-software-engineer-safety-processing",
+    "company": "Discord",
+    "role": "Staff Software Engineer, Safety Processing",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/discord-staff-software-engineer-safety-processing",
+    "score": 90,
+    "source": "weworkremotely",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-11-22/discord-staff-software-engineer-safety-processing-90-ocessing.pdf",
+    "docx": "state/tailored/2026-11-22/discord-staff-software-engineer-safety-processing-90-ocessing.docx"
+  },
+  {
+    "job_id": "weworkremotely:doximity-senior-software-engineer-data-platform",
+    "company": "Doximity",
+    "role": "Senior Software Engineer, Data Platform",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/doximity-senior-software-engineer-data-platform",
+    "score": 85,
+    "source": "weworkremotely",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-11-22/doximity-senior-software-engineer-data-platform-85-platform.pdf",
+    "docx": "state/tailored/2026-11-22/doximity-senior-software-engineer-data-platform-85-platform.docx"
   }
 ]
