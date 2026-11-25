@@ -1,0 +1,44 @@
+[
+  {
+    "job_id": "greenhouse:sumologic:8415651",
+    "company": "sumologic",
+    "role": "Backend Software Engineer II Backend - Cloud SIEM, CyberSecurity",
+    "location": "Costa Rica",
+    "url": "https://job-boards.greenhouse.io/sumologic/jobs/8415651",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-11-25/sumologic-backend-software-engineer-ii-backend-cloud-siem-cybersecurit-94-8415651.pdf",
+    "docx": "state/tailored/2026-11-25/sumologic-backend-software-engineer-ii-backend-cloud-siem-cybersecurit-94-8415651.docx"
+  },
+  {
+    "job_id": "greenhouse:sumologic:8415608",
+    "company": "sumologic",
+    "role": "Frontend Software Engineer II",
+    "location": "Costa Rica",
+    "url": "https://job-boards.greenhouse.io/sumologic/jobs/8415608",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 92,
+    "jd_skills": 13,
+    "matched_skills": 12,
+    "pdf": "state/tailored/2026-11-25/sumologic-frontend-software-engineer-ii-93-8415608.pdf",
+    "docx": "state/tailored/2026-11-25/sumologic-frontend-software-engineer-ii-93-8415608.docx"
+  },
+  {
+    "job_id": "greenhouse:coinbase:8237493",
+    "company": "coinbase",
+    "role": "Senior Software Engineer, Core Reliability",
+    "location": "US - Remote Zone 2 (Job Requisitions Only)",
+    "url": "https://www.coinbase.com/careers/positions/8237493?gh_jid=8237493",
+    "score": 90,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 7,
+    "matched_skills": 7,
+    "pdf": "state/tailored/2026-11-25/coinbase-senior-software-engineer-core-reliability-90-8237493.pdf",
+    "docx": "state/tailored/2026-11-25/coinbase-senior-software-engineer-core-reliability-90-8237493.docx"
+  }
+]
