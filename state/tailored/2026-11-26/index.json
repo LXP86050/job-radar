@@ -1,0 +1,58 @@
+[
+  {
+    "job_id": "greenhouse:launchdarkly:8217232003",
+    "company": "launchdarkly",
+    "role": "GTM AI Engineer",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8217232003",
+    "score": 99,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-11-26/launchdarkly-gtm-ai-engineer-99-17232003.pdf",
+    "docx": "state/tailored/2026-11-26/launchdarkly-gtm-ai-engineer-99-17232003.docx"
+  },
+  {
+    "job_id": "greenhouse:discord:8958889002",
+    "company": "discord",
+    "role": "Senior Software Engineer, Enterprise Platform",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8958889002",
+    "score": 94,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-11-26/discord-senior-software-engineer-enterprise-platform-94-58889002.pdf",
+    "docx": "state/tailored/2026-11-26/discord-senior-software-engineer-enterprise-platform-94-58889002.docx"
+  },
+  {
+    "job_id": "greenhouse:coinbase:8417630",
+    "company": "coinbase",
+    "role": "Senior Software Engineer, Native Mobile",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "url": "https://www.coinbase.com/careers/positions/8417630?gh_jid=8417630",
+    "score": 93,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-11-26/coinbase-senior-software-engineer-native-mobile-93-8417630.pdf",
+    "docx": "state/tailored/2026-11-26/coinbase-senior-software-engineer-native-mobile-93-8417630.docx"
+  },
+  {
+    "job_id": "greenhouse:mongodb:7870848",
+    "company": "mongodb",
+    "role": "Senior Software Engineer",
+    "location": "New York City",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7870848",
+    "score": 86,
+    "source": "greenhouse",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-11-26/mongodb-senior-software-engineer-86-7870848.pdf",
+    "docx": "state/tailored/2026-11-26/mongodb-senior-software-engineer-86-7870848.docx"
+  }
+]
