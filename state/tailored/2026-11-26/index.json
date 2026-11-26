@@ -54,5 +54,61 @@
     "matched_skills": 9,
     "pdf": "state/tailored/2026-11-26/mongodb-senior-software-engineer-86-7870848.pdf",
     "docx": "state/tailored/2026-11-26/mongodb-senior-software-engineer-86-7870848.docx"
+  },
+  {
+    "job_id": "weworkremotely:launchdarkly-gtm-ai-engineer",
+    "company": "LaunchDarkly",
+    "role": "GTM AI Engineer",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/launchdarkly-gtm-ai-engineer",
+    "score": 97,
+    "source": "weworkremotely",
+    "coverage": 100,
+    "jd_skills": 8,
+    "matched_skills": 8,
+    "pdf": "state/tailored/2026-11-26/launchdarkly-gtm-ai-engineer-97-engineer.pdf",
+    "docx": "state/tailored/2026-11-26/launchdarkly-gtm-ai-engineer-97-engineer.docx"
+  },
+  {
+    "job_id": "weworkremotely:zoominfo-technologies-llc-senior-software-engineer-java-us-remote",
+    "company": "ZoomInfo Technologies LLC",
+    "role": "Senior Software Engineer  (Java)- US Remote",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-senior-software-engineer-java-us-remote",
+    "score": 94,
+    "source": "weworkremotely",
+    "coverage": 94,
+    "jd_skills": 16,
+    "matched_skills": 15,
+    "pdf": "state/tailored/2026-11-26/zoominfo-technologies-llc-senior-software-engineer-java-us-remote-94-usremote.pdf",
+    "docx": "state/tailored/2026-11-26/zoominfo-technologies-llc-senior-software-engineer-java-us-remote-94-usremote.docx"
+  },
+  {
+    "job_id": "weworkremotely:discord-senior-software-engineer-enterprise-platform",
+    "company": "Discord",
+    "role": "Senior Software Engineer, Enterprise Platform",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/discord-senior-software-engineer-enterprise-platform",
+    "score": 93,
+    "source": "weworkremotely",
+    "coverage": 100,
+    "jd_skills": 11,
+    "matched_skills": 11,
+    "pdf": "state/tailored/2026-11-26/discord-senior-software-engineer-enterprise-platform-93-platform.pdf",
+    "docx": "state/tailored/2026-11-26/discord-senior-software-engineer-enterprise-platform-93-platform.docx"
+  },
+  {
+    "job_id": "weworkremotely:customer-io-senior-software-engineer-product-ai",
+    "company": "Customer.io",
+    "role": "Senior Software Engineer, Product/AI",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/customer-io-senior-software-engineer-product-ai",
+    "score": 89,
+    "source": "weworkremotely",
+    "coverage": 100,
+    "jd_skills": 9,
+    "matched_skills": 9,
+    "pdf": "state/tailored/2026-11-26/customer-io-senior-software-engineer-product-ai-89-roductai.pdf",
+    "docx": "state/tailored/2026-11-26/customer-io-senior-software-engineer-product-ai-89-roductai.docx"
   }
 ]
